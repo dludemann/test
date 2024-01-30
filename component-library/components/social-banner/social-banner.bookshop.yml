@@ -1,0 +1,49 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Social Banner
+  description: Display social media links and news outlets.
+  icon: 'newspaper'
+  tags: ['Social Banner']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  heading: Connect with us
+  social_media:
+    - path: https://www.facebook.com/TheMatchArtist
+      image:
+        src: /images/social/media/facebook.svg
+        alt: Facebook
+        opacity: 0.25
+    - path: https://www.instagram.com/thematchartist/
+      image:
+        src: /images/social/media/instagram.svg
+        alt: Instagram
+        opacity: 0.25
+  news_mentions:
+    - path: >-
+        https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/
+      image:
+        src: /images/social/news-mentions/the-american-reporter.png
+        alt: The American Reporter
+    - path: https://www.entrepreneur.com/article/430103
+      image:
+        src: /images/social/news-mentions/entrepeneur.png
+        alt: Entrepeneur
+    - path: >-
+        https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/
+      image:
+        src: /images/social/news-mentions/new-york-weekly.png
+        alt: New York Weekly
+    - path: >-
+        https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen
+      image:
+        src: /images/social/news-mentions/morning-brew.webp
+        alt: Morning Brew
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

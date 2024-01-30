@@ -1,0 +1,2 @@
+npm run prebuild:fetch-theme-color
+# node ./utils/move-files-prebuild.js

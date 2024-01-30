@@ -1,0 +1,34 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: FAQ
+  description: FAQ section
+  icon: 'quiz'
+  tags: ['FAQ']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: FAQS
+  description:
+    Everything you need to know about the product and billing. Can’t find
+    the answer you’re looking for? Please chat to our friendly team.
+  faqs:
+    - question: Should I hire an online dating photographer?
+      answer:
+        Photos are arguably the most important part of your dating profile.
+        When you upgrade your photos, you upgrade your matches. If you want
+        to meet even more amazing people in Austin, an online dating
+        photographer can help.
+    - question: Should I hire an online dating photographer?
+      answer:
+        Photos are arguably the most important part of your dating profile.
+        When you upgrade your photos, you upgrade your matches. If you want
+        to meet even more amazing people in Austin, an online dating
+        photographer can help.
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

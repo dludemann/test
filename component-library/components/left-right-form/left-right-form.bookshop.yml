@@ -1,0 +1,41 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Left Right - Form
+  description: Left Right with Form
+  icon: 'view_sidebar'
+  tags: ['Left Right']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  background_color: '#090303'
+  text_color: '#000000'
+  title: Professional Dating Photography in Austin, Texas
+  description:
+    We tailor your photo experience with us to highlight things you enjoy
+    doing most. Whether it's kayaking, rock climbing, reading, or drinking
+    coffee, you'll get more matches with a varied profile filled with your
+    talents.
+  list:
+    - icon: /icons/green-tick.svg
+      text: Better dating profile
+    - icon: /icons/green-tick.svg
+      text: Go on better dates
+    - icon: /icons/green-tick.svg
+      text: Improved social media presence
+  form:
+    title: Enquire Now
+    city_input: true
+    city: Austin
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  city:
+    type: select
+    options:
+      values: data.locations
+      value_key: city

@@ -1,0 +1,116 @@
+{
+  "logo": "/images/footer-logo.svg",
+  "description": "We will make you look confident and approachable on your dating profiles.",
+  "copyright": "Copyright 2023 The Match Artist. All rights reserved.",
+  "sections": [
+    {
+      "title": "BROWSE",
+      "links": [
+        {
+          "link": "",
+          "text": "Home",
+          "icon": ""
+        },
+        {
+          "link": "/a-new-test-page",
+          "text": "Test page",
+          "icon": ""
+        },
+        {
+          "link": "/blog",
+          "text": "Blog",
+          "icon": ""
+        },
+        {
+          "link": "/locations",
+          "text": "Locations",
+          "icon": ""
+        },
+        {
+          "link": "/how-it-works",
+          "text": "How it Works",
+          "icon": ""
+        },
+        {
+          "link": "/photos-for-women",
+          "text": "For Women",
+          "icon": ""
+        },
+        {
+          "link": "/online-dating-photographer-near-me",
+          "text": "Book a Spot",
+          "icon": ""
+        },
+        {
+          "link": "/case-studies",
+          "text": "Case Studies",
+          "icon": ""
+        },
+        {
+          "link": "/press",
+          "text": "Press",
+          "icon": ""
+        },
+        {
+          "link": "/a-new-new-test-page",
+          "text": "New new new",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "title": "DATING APP ALGORITHMS",
+      "links": [
+        {
+          "link": "/tinder/how-to-use-tinder",
+          "text": "How to Use Tinder (2023 Expert's Guide)",
+          "icon": ""
+        },
+        {
+          "link": "bumble/how-does-bumble-work",
+          "text": "How Does Bumble Work? 2023 Expert's Guide",
+          "icon": ""
+        },
+        {
+          "link": "/hinge/how-to-use-hinge",
+          "text": "Hinge",
+          "icon": ""
+        },
+        {
+          "link": "/dil-mil/how-does-dil-mil-work",
+          "text": "Dil Mil",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "title": "CONTACT US",
+      "links": [
+        {
+          "link": "",
+          "text": "Austin, TX 78701",
+          "icon": "/icons/location.svg"
+        },
+        {
+          "link": "mailto:info@thematchartist.com",
+          "text": "info@thematchartist.com",
+          "icon": "/icons/mail.svg"
+        }
+      ]
+    }
+  ],
+  "form": {
+    "title": "ONLINE DATING TOOLS",
+    "description": "Sign up for The Match Artist newsletter to receive free online dating tools.",
+    "button": {
+      "text": "Sign Up",
+      "background_color": "#990808",
+      "text_color": "#FFFFFF"
+    }
+  },
+  "_inputs": {
+    "logo": {
+      "type": "image"
+    }
+  }
+}

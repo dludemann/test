@@ -1,0 +1,100 @@
+[
+  {
+    "label": "Portfolio",
+    "children": [
+      {
+        "label": "General",
+        "link": "/portfolio"
+      },
+      {
+        "label": "Action",
+        "link": "/portfolio/action-gallery"
+      },
+      {
+        "label": "Headshots",
+        "link": "/portfolio/headshots-gallery"
+      },
+      {
+        "label": "Coffee",
+        "link": "/portfolio/coffee-gallery"
+      },
+      {
+        "label": "Night Out",
+        "link": "/portfolio/night-out"
+      },
+      {
+        "label": "Dogs",
+        "link": "/portfolio/dogs"
+      },
+      {
+        "label": "Before & After",
+        "link": "/portfolio/before-and-after-collection"
+      }
+    ]
+  },
+  {
+    "label": "Team",
+    "link": "/team"
+  },
+  {
+    "label": "Reviews",
+    "link": "/reviews"
+  },
+  {
+    "label": "Blog",
+    "link": "/blog"
+  },
+  {
+    "label": "How it Works",
+    "link": "/how-it-works"
+  },
+  {
+    "label": "Case Studies",
+    "link": "/case-studies"
+  },
+  {
+    "label": "Book A Call",
+    "children": [
+      {
+        "label": "Austin",
+        "link": "/book/austin-dating-photography"
+      },
+      {
+        "label": "Dallas",
+        "link": "/book/dallas-dating-photography"
+      },
+      {
+        "label": "Houston",
+        "link": "/book/houston-dating-photography"
+      },
+      {
+        "label": "Minneapolis",
+        "link": "/book/minneapolis-dating-photography"
+      },
+      {
+        "label": "Chicago",
+        "link": "/book/chicago-dating-photography"
+      },
+      {
+        "label": "San Francisco",
+        "link": "/book/san-francisco-dating-photography"
+      },
+      {
+        "label": "Seattle",
+        "link": "/book/seattle-dating-photography"
+      },
+      {
+        "label": "Los Angeles",
+        "link": "/book/los-angeles-dating-photography"
+      },
+      {
+        "label": "New York City",
+        "link": "/book/new-york-city-dating-photography"
+      },
+      {
+        "label": "Other",
+        "link": "/online-dating-photographer-near-me"
+      }
+    ]
+  }
+]

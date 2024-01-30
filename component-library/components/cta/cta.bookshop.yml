@@ -1,0 +1,33 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: CTA Block
+  description: A plain CTA block with image and button.
+  icon: 'call_to_action'
+  tags: ['CTA']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  background_color: '#FAFAFA'
+  title: The Match Artist is on a mission to elevate online dating photography
+  image: /images/work/mission-image.jpeg
+  text: One of the most common questions we get is, "Is dating photography a
+    thing?" Yes, it is quite literally a thing and the best thing ever for
+    someone in the dating game. If you are unable to find the match that you
+    want or are being looked over by women or men even on an app like
+    Tinder, then it's important to take a close hard look at those dating
+    photos.
+  button:
+    path: ''
+    text: Download Media Kit
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  title:
+    type: textarea
+  text:
+    type: textarea

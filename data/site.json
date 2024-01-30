@@ -1,0 +1,15 @@
+{
+  "BaseURL": "http://example.org",
+  "site_title": "The Match Artist",
+  "favicon_icon": "/images/favicon.ico",
+  "favicon_image": "/images/favicon.png",
+  "description": "The match artist site description",
+  "twitter_image": "/images/feature/feature-hero-two.png",
+  "twitter_site": "@twitter_site",
+  "image": "/images/feature/feature-hero.png",
+  "_inputs": {
+    "twitter_site": {
+      "type": "twitter"
+    }
+  }
+}

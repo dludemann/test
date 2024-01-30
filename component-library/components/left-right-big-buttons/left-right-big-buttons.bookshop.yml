@@ -1,0 +1,42 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Left Right - Big Buttons
+  description: Left Right with Big Buttons
+  icon: 'view_sidebar'
+  tags: ['Left Right']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  buttons:
+    - title: Press Enquiries
+      text: We're here to help - contact us if you have any queries about our services and we'll be happy to offer personalized guidance
+      background_color: '#E4E4E4'
+      text_color: '#000000'
+      path: mailto:media@thematchartist.com
+      button:
+        text: media@thematchartist.com
+        underline: true
+        arrow: black
+    - title: Media Kit
+      text: Want to write about us? download our press kit which includes our brand assets, guidelines and company info
+      background_color: '#990808'
+      text_color: '#FFFFFF'
+      path: '#'
+      button:
+        text: Download Media Kit
+        underline: false
+        arrow: white
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  arrow:
+    type: select
+    options:
+      values:
+        - black
+        - white

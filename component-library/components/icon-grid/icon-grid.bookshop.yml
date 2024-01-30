@@ -1,0 +1,59 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Icon Grid
+  description: A grid displaying info with icons.
+  icon: 'apps'
+  tags: ['Grid']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  pre_title:
+    text:
+    font_size: 1
+    color: '#00000'
+    margin_bottom: 0
+    margin_top: 0
+  title:
+    text:
+    font_size: 2
+    color: '#00000'
+    margin_bottom: 0
+    margin_top: 0
+  post_title:
+    text:
+    font_size: 1
+    color: '#00000'
+    margin_bottom: 0
+    margin_top: 0
+  icon_grid:
+    - icon:
+        src:
+        height: 100
+        width: 100
+      title:
+        text:
+        font_size: 1
+        color: '#00000'
+        margin_bottom: 0
+        margin_top: 0
+      description:
+        text:
+        font_size: 1
+        color: '#00000'
+        margin_bottom: 0
+        margin_top: 0
+  grid_footer:
+    text:
+    cta:
+      text:
+      path:
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  pre_title:
+    comment: An italic fancy text block before the title

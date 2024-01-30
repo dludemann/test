@@ -1,0 +1,39 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Left Right - List
+  description: Left Right with list.
+  icon: 'view_sidebar'
+  tags: ['Left Right']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Expert guidance in every step of your photoshoot
+  description: Our professional photographers strike the perfect balance between
+    showcasing your best features and maintaining an honest representation
+    of yourself, avoiding the pitfalls of overediting and appearing
+    inauthentic.
+  list:
+    - icon: /icons/green-tick.svg
+      text: Facial expression & body language coaching
+    - icon: /icons/green-tick.svg
+      text: 4-5 hour shoot demonstrating your lifestyle and hobbies
+    - icon: /icons/green-tick.svg
+      text: Advice on your best photos and dating app optimizations
+    - icon: /icons/green-tick.svg
+      text: 200-300 edited photos
+  button:
+    path: '#contact'
+    text: Enquire Now
+  image:
+    src: /images/location/group-image.webp
+    alt:
+    max_width: 766
+    height: 766
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

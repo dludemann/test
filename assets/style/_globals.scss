@@ -1,0 +1,97 @@
+img {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+blockquote {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  line-height: 1.4;
+}
+
+blockquote::before {
+  --side-length: 100px;
+  content: '';
+  width: var(--side-length);
+  height: var(--side-length);
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('/images/assets/quote.png');
+  background-size: 100%;
+  transform: translate(-10%, -40%);
+  z-index: 99;
+  opacity: 0.2;
+}
+
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
+.align-right {
+  text-align: right;
+}
+
+p.standard {
+  font-size: 1rem;
+  font-style: normal;
+}
+
+p.big {
+  font-size: 2.5rem;
+  font-style: normal;
+}
+
+p.big-centered {
+  font-size: 2.5rem;
+  font-style: normal;
+  align-self: center;
+}
+
+p.big-centered-bold {
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: bold;
+  align-self: center;
+}
+
+p.intro {
+  font-size: 1.125rem;
+  font-style: italic;
+  position: relative;
+  width: fit-content;
+  align-self: center;
+}
+
+p.intro::before {
+  position: absolute;
+  left: 102%;
+  top: 50%;
+  content: '';
+  font-size: 1.125rem;
+  font-style: italic;
+  height: 1px;
+  width: 10px;
+  background-color: #171717;
+}
+
+p.intro::after {
+  position: absolute;
+  right: 102%;
+  top: 50%;
+  content: '';
+  font-size: 1.125rem;
+  font-style: italic;
+  height: 1px;
+  width: 10px;
+  background-color: #171717;
+}

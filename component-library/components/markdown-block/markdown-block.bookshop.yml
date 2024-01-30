@@ -1,0 +1,54 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Markdown Block
+  description: Display content heavy sections with markdown input.
+  icon: 'format_align_center'
+  tags: ['Text']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  pre_title:
+  title:
+  paragraphs:
+    - text:
+      inline_image:
+      flipped: false
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  text:
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3
+      italic: true
+      strike: true
+      subscript: true
+      superscript: true
+      underline: true
+      link: true
+      bulletedlist: true
+      numberedlist: true
+      code: true
+      embed: true
+      horizontalrule: true
+      image: true
+      table: true
+      undo: true
+      redo: true
+      blockquote: true
+      styles: /assets/css/editor.css
+      left: align-left
+      center: align-center
+      right: align-right
+  flipped:
+    hidden: '!inline_image'
+  pre_title:
+    comment: An italic fancy text block before the title
+  inline_image:
+    comment: Enter an image to split the block in two. Start a new paragraph to resume the default single column.

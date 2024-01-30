@@ -1,0 +1,342 @@
+paths:
+  collections: content
+  data: data
+  static: public
+  uploads: public/images
+
+data_config:
+  locations:
+    path: data/locations.json
+    parser: json
+  tinder:
+    path: data/guides/tinder.json
+    parser: json
+  hinge:
+    path: data/guides/hinge.json
+    parser: json
+  bumble:
+    path: data/guides/bumble.json
+    parser: json
+  dilmil:
+    path: data/guides/dil-mil.json
+    parser: json
+
+collections_config:
+  data:
+    path: data
+    disable_add: true
+    disable_add_folder: true
+    icon: add_chart
+  pages:
+    path: content
+    url: '/[full_slug]/'
+    output: true
+    icon: cottage
+    _enabled_editors:
+      - visual
+    schemas:
+      page:
+        name: New Page
+        path: schemas/page.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Page
+        editor: visual
+        schema: page
+  book:
+    path: content/_book
+    url: '/book/[slug]/'
+    output: true
+    icon: wysiwyg
+    _enabled_editors:
+      - visual
+    schemas:
+      page:
+        name: New Page
+        path: schemas/page.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Book a call page
+        editor: visual
+        schema: page
+  blog:
+    path: content/blog
+    output: true
+    url: '/blog/[slug]/'
+    icon: event_available
+    _enabled_editors:
+      - content
+      - visual
+    schemas:
+      blog_post:
+        name: New Blog Post
+        path: schemas/post.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Post
+        editor: content
+        schema: blog_post
+    preview:
+      text:
+        - key: title
+        - 'Blog Post'
+      icon:
+        - 'rss_feed'
+      subtext:
+        - key: author
+      gallery:
+        image:
+          - key: featured_image
+        fit: cover
+    _inputs:
+      summary:
+        type: textarea
+      featured_image_alt:
+        hidden: '!featured_image'
+      created:
+        type: date
+      updated:
+        type: date
+      published:
+        type: date
+  portfolio:
+    path: content/portfolio/
+    output: true
+    url: '/portfolio/[slug]/'
+    icon: burst_mode
+    _enabled_editors:
+      - visual
+    schemas:
+      portfolio:
+        name: New Portfolio Section
+        path: schemas/default.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Portfolio Section
+        editor: visual
+        schema: portfolio
+    _inputs:
+      vertical_gap:
+        type: number
+      horizontal_gap:
+        type: number
+      brightness:
+        hidden: '!src'
+      position:
+        hidden: '!src'
+      column_one:
+        type: array
+      column_one[*]:
+        type: image
+      column_two:
+        type: array
+      column_two[*]:
+        type: image
+      column_three:
+        type: array
+      column_three[*]:
+        type: image
+      hero_image_filters:
+        hidden: '!hero_image'
+  tinder:
+    path: content/tinder
+    output: true
+    url: '/tinder/[slug]/'
+    icon: local_fire_department
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Tinder Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Tinder Guide Page
+        editor: visual
+        schema: guide
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.tinder
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  hinge:
+    path: content/hinge
+    output: true
+    url: '/hinge/[slug]/'
+    icon: diversity_1
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Hinge Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Hinge Guide Page
+        editor: visual
+        schema: guide
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.hinge
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  dilmil:
+    path: content/dil-mil
+    output: true
+    url: '/dil-mil/[slug]/'
+    icon: favorite
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Dil Mil Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Dil Mil Guide Page
+        editor: visual
+        schema: guide
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.dilmil
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  bumble:
+    path: content/bumble
+    output: true
+    url: '/bumble/[slug]/'
+    icon: emoji_nature
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Bumble Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Bumble Guide Page
+        editor: visual
+        schema: guide
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.bumble
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+collection_groups:
+  - heading: Pages
+    collections:
+      - pages
+      - portfolio
+      - book
+  - heading: Blog
+    collections:
+      - blog
+  - heading: Guides
+    collections:
+      - tinder
+      - bumble
+      - hinge
+      - dilmil
+  - heading: Data
+    collections:
+      - data
+_inputs:
+  src:
+    type: image
+  top_spacing:
+    type: number
+  bottom_spacing:
+    type: number
+  vertical_padding:
+    type: number
+  horizontal_spacing:
+    type: number
+  max_width:
+    type: number
+  max_height:
+    type: number
+  brightness:
+    type: range
+    options:
+      step: 0.01
+      max: 1
+      min: 0
+  blur:
+    type: range
+    options:
+      step: 0.01
+      max: 1
+      min: 0
+  page_description:
+    comment: Defaults to the description set in the Site SEO data file
+  favicon_icon:
+    type: image
+    comment: For the shortcut icon meta tag
+  faivcon_image:
+    type: image
+    comment: For the icon meta tag
+  canonical_url:
+    comment: Defaults to the pages url
+  featured_image:
+    comment: Defaults to the image set in the Site SEO data file
+  open_graph_type:
+    comment: Defaults to the type 'website'
+  author_twitter_handle:
+    comment: Defaults to the twitter site value set in the Site SEO data file
+  no_index:
+    type: checkbox
+    comment: >-
+      When selected this removes the page from your sitemap and adds the noindex
+      robots meta tag
+  location_name:
+    type: multiselect
+    options:
+      values: data.locations
+      value_key: city
+      preview:
+        text:
+          - key: city

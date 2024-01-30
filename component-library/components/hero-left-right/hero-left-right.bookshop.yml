@@ -1,0 +1,43 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Hero - Left Right
+  description: Hero section for the top of the page in a left right format
+  icon: 'cottage'
+  tags: ['Hero']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  background_color: '#00000'
+  text_color: '#FFFFFF'
+  pre_title: About The Match Artist
+  title: Professional Dating Photography
+  description: We are a photography company specializing in transforming online dating profiles through intriguing photography, facial expression coaching, and showing off you in your element. Based in Austin, TX, and we shoot all over the U.S.
+  image:
+    src: /images/team/brian.webp
+    alt: Photo of Brian on a black background
+    max_width: 500
+    flipped: false
+  testimonial:
+    text: 'An overall skyrocketing experience for my online dating.'
+    person: Brent S
+    image:
+      src: /images/work/brent.webp
+      alt: Photo of Brent
+      height: 50
+      width: 50
+    height: 54
+    width: 365
+    vertical_padding: 40
+    horizontal_padding: 9
+  button:
+    path: '#contact'
+    text: Book a Call
+  news_mentions: true
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

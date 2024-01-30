@@ -1,0 +1,62 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Page Banner
+  description: Full width page banner
+  icon: 'panorama_horizontal'
+  tags: ['Banner']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  background_color:
+  background_image:
+  background_filters:
+    brightness: 1
+    blur: 0
+  pre_title:
+    text:
+    text_color:
+    top_spacing:
+    bottom_spacing:
+  title:
+    text:
+    text_color:
+    top_spacing:
+    bottom_spacing:
+  description:
+    text:
+    text_color:
+    top_spacing:
+    bottom_spacing:
+  cta:
+    text_color:
+    top_spacing:
+    bottom_spacing:
+    buttons:
+      - button_link:
+        button_text:
+  post_text:
+    text:
+    text_color:
+    top_spacing:
+    bottom_spacing:
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  background_filters:
+    hidden: '!background_image'
+  background_color:
+    type: color
+    hidden: 'background_image'
+    comment: This is used to set the background color if no background image is present.
+  brightness:
+    type: number
+  blur:
+    type: number
+  text: textarea
+  pre_title:
+    comment: An italic fancy text block before the title

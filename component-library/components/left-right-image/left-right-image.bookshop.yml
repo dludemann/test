@@ -1,0 +1,112 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Left Right - Image
+  description: Versatile Left Right with option for inline image grid, large image or a plain image.
+  icon: 'view_sidebar'
+  tags: ['Left Right']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  background_color:
+  layout:
+    flipped: false
+    container: true
+    max_width:
+    vertical_padding:
+    horizontal_padding:
+    text:
+      color:
+      vertically_centered: false
+      horizontally_centered: false
+      vertical_padding:
+      horizontal_padding:
+      max_width:
+      text_is_quote:
+      quote_author:
+  text:
+  image:
+    image:
+      src:
+      alt:
+    image_grid:
+      image_width:
+      image_height:
+      images:
+        - heading:
+          image:
+            src:
+            alt:
+    full_sized_image:
+      src:
+      alt:
+      max_height:
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  text:
+    type: markdown
+  full_sized_image:
+    type: image
+  padding_top:
+    type: number
+    hidden: '!container'
+  padding_bottom:
+    type: number
+    hidden: '!container'
+  padding_left:
+    type: number
+    hidden: '!container'
+  padding_right:
+    type: number
+    hidden: '!container'
+  vertical_padding:
+    type: number
+  horizontal_padding:
+    type: number
+  max_width:
+    type: number
+    hidden: '!container'
+  max_height:
+    type: number
+    hidden: '!src'
+  src:
+    type: image
+  image:
+    type: object
+    options:
+      structures: _structures.images
+  full_sized_images:
+    comment: Depending on the desired result you may need to uncheck the container checkbox in this components layout input.
+  image_width:
+    type: number
+  image_height:
+    type: number
+_structures:
+  images:
+    values:
+      - label: Single image
+        icon: image
+        value:
+          src:
+          alt:
+      - label: Image grid
+        icon: link
+        value:
+          image_width:
+          image_height:
+          images:
+            - heading:
+              image:
+                src:
+                alt:
+      - label: Large image
+        icon: link
+        value:
+          src:
+          alt:
+          max_height:
