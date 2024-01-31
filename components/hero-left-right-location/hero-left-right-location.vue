@@ -19,15 +19,14 @@ export default {
           <h1
             class="text-[2.5rem] lg:text-[3.5rem tracking-[-1%] leading-[69.6px] font-bold"
             style="text-wrap: balance">
-            Premier Online Dating Photography in {{ block.location.city }}
-            <span v-if="block.location.state">,</span>
+            Premier Online Dating Photography in {{ block.location.city }}<span v-if="block.location.state">,</span>
             {{ block.location.state }}
           </h1>
           <p class="text-[1.25rem]">
             Elevate your online dating with stunning profile photography.
             Increase your matches on top dating apps such as Tinder, Hinge,
             Bumble, and Match.com. Serving {{ block.location.city }},
-            {{ block.location.state }}
+            {{ block.location.state }}.
           </p>
           <a :href="block.button.path">
             <button
