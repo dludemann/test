@@ -43,7 +43,18 @@ export default defineNuxtConfig({
     documentDriven: true,
   },
   generate: {
-    routes: ['/tinder/resetting-tinder-swipes'],
+    routes: [
+      '/tinder/are-tinder-dates-just-for-hookups',
+      '/tinder/best-first-text-tinder',
+      '/tinder/do-girls-get-more-matches-tinder',
+      '/tinder/how-to-get-more-matches-tinder',
+      '/tinder/how-to-use-tinder',
+      '/tinder/resetting-tinder-swipes',
+      '/tinder/unwritten-rules-of-tinder',
+      '/tinder/what-photos-attract-girls-tinder',
+      '/tinder/what-should-you-not-do-tinder',
+      '/tinder/why-do-guys-not-message-first-on-tinder',
+    ],
   },
   tailwindcss: {
     viewer: false,

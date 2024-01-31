@@ -292,5 +292,5 @@
       path: /phoenix-dating-photography
     - location_name: 'New York City'
       img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
-      path: /new-york city-dating-photography
+      path: /new-york-city-dating-photography
 ---
