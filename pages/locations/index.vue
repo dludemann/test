@@ -65,7 +65,7 @@ const filteredLocations = computed(() =>
       <div class="grid grid-cols-4 gap-6 w-full">
         <nuxt-link
           rel="canonical"
-          :to="'/book' + card.path"
+          :to="card.path"
           class="col-span-4 lg:col-span-1"
           v-for="card in filteredLocations"
         >

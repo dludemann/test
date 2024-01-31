@@ -45,24 +45,6 @@ collections_config:
       - name: Add Page
         editor: visual
         schema: page
-  book:
-    path: content/_book
-    url: '/book/[slug]/'
-    output: true
-    icon: wysiwyg
-    _enabled_editors:
-      - visual
-    schemas:
-      page:
-        name: New Page
-        path: schemas/page.md
-        hide_extra_inputs: false
-        remove_extra_inputs: false
-    disable_add_folder: true
-    add_options:
-      - name: Add Book a call page
-        editor: visual
-        schema: page
   blog:
     path: content/blog
     output: true
