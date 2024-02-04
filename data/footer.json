@@ -12,11 +12,6 @@
           "icon": ""
         },
         {
-          "link": "/a-new-test-page",
-          "text": "Test page",
-          "icon": ""
-        },
-        {
           "link": "/blog",
           "text": "Blog",
           "icon": ""
@@ -50,11 +45,6 @@
           "link": "/press",
           "text": "Press",
           "icon": ""
-        },
-        {
-          "link": "/a-new-new-test-page",
-          "text": "New new new",
-          "icon": ""
         }
       ]
     },
@@ -67,7 +57,7 @@
           "icon": ""
         },
         {
-          "link": "bumble/how-does-bumble-work",
+          "link": "/bumble/how-does-bumble-work",
           "text": "How Does Bumble Work? 2023 Expert's Guide",
           "icon": ""
         },
