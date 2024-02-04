@@ -115,7 +115,7 @@
       path: /honolulu-dating-photography
     - location_name: 'North Las Vegas'
       img: /images/locations/JgVchSCHTuKfJzGSy5vX.jpg
-      path: /north-las vegas-dating-photography
+      path: /north-las-vegas-dating-photography
     - location_name: 'Laredo'
       img: /images/locations/v0trMfBT4C6lwNPsUUzE.jpg
       path: /laredo-dating-photography
@@ -181,7 +181,7 @@
       path: /oakland-dating-photography
     - location_name: 'Salt Lake City'
       img: /images/locations/xcIaYCNgQwaJNhP0CpeI.jpg
-      path: /salt-lake city-dating-photography
+      path: /salt-lake-city-dating-photography
     - location_name: 'Chesapeake'
       img: /images/locations/IghAzjlaTQKYpPjjt0CF.jpg
       path: /chesapeake-dating-photography
