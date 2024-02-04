@@ -6,7 +6,9 @@ export default {
 
 <template>
   <section :data-cms-bind="dataBinding" class="font-display">
-    <div class="py-[120px] relative overflow-hidden">
+    <div
+      class="py-[120px] relative overflow-hidden"
+      :style="{ backgroundColor: block.background_color }">
       <nuxt-img
         :src="block.background_image"
         alt=""
@@ -18,9 +20,7 @@ export default {
             ') blur(' +
             block.background_filters.blur +
             'px)',
-          backgroundColor: block.background_color,
-        }"
-      />
+        }" />
       <p
         class="text-[26px] z-10 relative text-center tracking-[1px] leading-[44px] text-white"
         v-if="block.pre_title"
@@ -28,8 +28,7 @@ export default {
           'padding-top': block.pre_title.top_spacing + 'px',
           'padding-bottom': block.pre_title.bottom_spacing + 'px',
           color: block.pre_title.text_color,
-        }"
-      >
+        }">
         {{ block.pre_title.text }}
       </p>
       <h1
@@ -40,8 +39,7 @@ export default {
           'padding-top': block.title.top_spacing + 'px',
           'padding-bottom': block.title.bottom_spacing + 'px',
           color: block.title.text_color,
-        }"
-      >
+        }">
         {{ block.title.text }}
       </h1>
       <h2
@@ -52,8 +50,7 @@ export default {
           'padding-top': block.title.top_spacing + 'px',
           'padding-bottom': block.title.bottom_spacing + 'px',
           color: block.title.text_color,
-        }"
-      >
+        }">
         {{ block.title.text }}
       </h2>
       <p
@@ -63,13 +60,11 @@ export default {
           'padding-top': block.post_title.top_spacing + 'px',
           'padding-bottom': block.post_title.bottom_spacing + 'px',
           color: block.post_title.text_color,
-        }"
-      >
+        }">
         {{ block.post_title.text }}
       </p>
       <div
-        class="absolute top-0 left-0 bg-black w-full h-full bg-opacity-50 z-0"
-      />
+        class="absolute top-0 left-0 bg-black w-full h-full bg-opacity-50 z-0" />
     </div>
   </section>
 </template>
