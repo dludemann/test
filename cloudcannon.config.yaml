@@ -322,3 +322,21 @@ _inputs:
       preview:
         text:
           - key: city
+
+_editables:
+  content:
+    blockquote: true
+    bold: true
+    format: p h1 h2 h3
+    italic: true
+    strike: true
+    subscript: true
+    superscript: true
+    underline: true
+    link: true
+    bulletedlist: true
+    embed: true
+    horizontalrule: true
+    image: true
+    undo: true
+    redo: true
