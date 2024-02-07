@@ -19,7 +19,8 @@ export default {
           <h1
             class="text-[2.5rem] lg:text-[3.5rem tracking-[-1%] leading-[69.6px] font-bold"
             style="text-wrap: balance">
-            Premier Online Dating Photography in {{ block.location.city }}<span v-if="block.location.state">,</span>
+            Premier Online Dating Photography in {{ block.location.city
+            }}<span v-if="block.location.state">,</span>
             {{ block.location.state }}
           </h1>
           <p class="text-[1.25rem]">
@@ -72,34 +73,47 @@ export default {
         <a
           class="col-span-4 lg:col-span-1"
           href="https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/"
-          target="_blank">
-          <nuxt-img
-            class="opacity-[80%]"
-            src="/images/social/news-mentions/the-american-reporter.png"
-            alt="" />
-        </a>
+          target="_blank"
+          aria-label="Read more the match artist on the american reporter"
+          ><img
+            src="/images/location/clients/client-1.png"
+            onerror="this.setAttribute('data-error', 1)"
+            alt="The American Reporter Logo"
+            data-nuxt-img=""
+        /></a>
         <a
+          aria-label="Read more the match artist on entrepreneur"
           class="col-span-4 lg:col-span-1"
           href="https://www.entrepreneur.com/article/430103"
-          target="_blank">
-          <nuxt-img src="/images/social/news-mentions/entrepeneur.png" alt="" />
-        </a>
+          target="_blank"
+          ><img
+            src="/images/location/clients/client-2.png"
+            onerror="this.setAttribute('data-error', 1)"
+            alt="Entrepreneur Logo"
+            data-nuxt-img=""
+        /></a>
         <a
           class="col-span-4 lg:col-span-1"
           href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/"
-          target="_blank">
-          <nuxt-img
-            src="/images/social/news-mentions/new-york-weekly.png"
-            alt="" />
-        </a>
+          target="_blank"
+          aria-label="Read more the match artist on NY Weekly"
+          ><img
+            src="/images/location/clients/client-3.png"
+            onerror="this.setAttribute('data-error', 1)"
+            alt="NY Weekly Logo"
+            data-nuxt-img=""
+        /></a>
         <a
           class="col-span-4 lg:col-span-1"
           href="https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen"
-          target="_blank">
-          <nuxt-img
-            src="/images/social/news-mentions/morning-brew.webp"
-            alt="" />
-        </a>
+          target="_blank"
+          aria-label="Read more the match artist on the Morning Brew"
+          ><img
+            src="/images/location/clients/client-4.png"
+            onerror="this.setAttribute('data-error', 1)"
+            alt="Morning Brew Logo"
+            data-nuxt-img=""
+        /></a>
       </div>
     </div>
   </section>
