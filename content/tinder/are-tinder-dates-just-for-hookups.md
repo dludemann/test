@@ -13,35 +13,11 @@ seo:
 ---
 Let’s cut to the chase. The big question on everyone’s mind: are Tinder dates just for hookups and casual sex?
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-* A list
-* A list
-* A list
-
-<sup>superscript</sup>
-
-A normal piece of text&nbsp;<sup>TM</sup>
-
-<sup><sub>subscript</sub></sup>
+Most times the answer is not as straightforward as a simple yes or no.&nbsp;
 
 
-
-> A quote from our authora
-
----
-
-Most times the answer is not as [straightforward as a simple yes or no.](www.cloudcannon.com)&nbsp;
-
-![](/images/blog/hinge.webp)
 
 The truth is, people around the world use Tinder for all kinds of reasons — some are looking for love and serious relationships, while others are just in it for the hookups. It all depends on the person, their interests, and anything they’re looking for in a partner or friend.
-
-&nbsp;**&nbsp;**&nbsp;
 
 In this article we’re going to look at:
 
@@ -61,11 +37,9 @@ In this article we’re going to look at:
 
 * Frequently asked questions.
 
-&nbsp;**&nbsp;**&nbsp;
+&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;
 
 So, if you’re ready to stop staring at your device and that fire logo and dive in, let’s get into it!
-
-
 
 ## [Why Is Tinder Known for Hookups?](#why-is-tinder-known-for-hookups)
 
@@ -87,7 +61,7 @@ All of this means that while Tinder can be a great place to find love and friend
 
 ### Tinder Experiments For Men & Women&nbsp;
 
-&nbsp;**&nbsp;**&nbsp;
+&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;
 
 ## [Is Tinder Only for Hooking Up?](#is-tinder-only-for-hooking-up)
 
@@ -135,7 +109,7 @@ In some cases this could lead to a one-night stand, in others a serious relation
 
 ## [Is It Possible to Find a Relationship on Tinder?](#is-it-possible-to-find-a-relationship-on-tinder)
 
-In short — yes!&nbsp;&nbsp;&nbsp;
+In short — yes! &nbsp;&nbsp;
 
 In fact, many people who use dating sites and apps like Tinder are looking for meaningful connections and long-term relationships.
 
