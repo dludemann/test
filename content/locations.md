@@ -1,6 +1,5 @@
 ---
   name: Our Traveling Tour
-  description: Serving all major cities in the U.S.
   seo:
     page_description: >-
       Occasionally The Match Artist embarks on a tour. Click here to see the cities we are visiting.
