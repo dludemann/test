@@ -1,5 +1,5 @@
 ---
-  name: Our Traveling Tour
+  title: Our Traveling Tour
   description: Serving all major cities in the U.S.
   seo:
     page_description: >-
