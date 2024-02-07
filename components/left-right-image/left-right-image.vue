@@ -13,8 +13,7 @@ const markdownify = (text) => {
     :style="{
       'background-color': block.background_color,
       color: block.layout.text.color,
-    }"
-  >
+    }">
     <div
       class="grid lg:grid-cols-2 gap-8"
       :class="[
@@ -26,8 +25,7 @@ const markdownify = (text) => {
         'padding-inline': block.layout.horizontal_padding + 'px',
         'padding-block': block.layout.vertical_padding + 'px',
         'max-width': block.layout.max_width + 'px',
-      }"
-    >
+      }">
       <!-- Text Unflipped -->
       <section
         v-if="!block.layout.flipped"
@@ -37,27 +35,23 @@ const markdownify = (text) => {
           'padding-block': block.layout.text.vertical_padding + 'px',
           'padding-inline': block.layout.text.horizontal_padding + 'px',
           'max-width': block.layout.text.max_width + 'px',
-        }"
-      >
+        }">
         <h1 class="font-bold text-[36px] border-b">
           {{ block.heading }}
         </h1>
         <blockquote
           class="large-quote"
           v-if="block.layout.text.text_is_quote"
-          v-html="markdownify(block.text)"
-        ></blockquote>
+          v-html="markdownify(block.text)"></blockquote>
         <footer
           v-if="block.layout.text.quote_author"
-          class="large-quote__author"
-        >
+          class="large-quote__author">
           - {{ block.layout.text.quote_author }}
         </footer>
         <div
           v-if="!block.layout.text.text_is_quote"
           class="left-right__text"
-          v-html="markdownify(block.text)"
-        ></div>
+          v-html="markdownify(block.text)"></div>
       </section>
 
       <!-- Standard image -->
@@ -65,13 +59,11 @@ const markdownify = (text) => {
         v-if="block.image.image.src"
         :class="[
           block.layout.flipped ? 'flex justify-start' : 'flex justify-end',
-        ]"
-      >
+        ]">
         <nuxt-img
           class="rounded-sm"
           :src="block.image.image.src"
-          :alt="block.image.image.alt"
-        />
+          :alt="block.image.image.alt" />
       </section>
 
       <!-- Image grid -->
@@ -82,22 +74,18 @@ const markdownify = (text) => {
           'grid-template-columns':
             'repeat(2, minmax(0,' + block.image.image_grid.image_width + 'px))',
           gap: '16px',
-        }"
-      >
+        }">
         <div
           class="flex flex-col overflow-hidden justify-center items-center"
-          v-for="image in block.image.image_grid.images"
-        >
+          v-for="image in block.image.image_grid.images">
           <p
             v-if="image.heading"
-            class="text-white text-center font-bold text-[18px] w-[50%]"
-          >
+            class="text-white text-center font-bold text-[18px] w-[50%]">
             {{ image.heading }}
           </p>
           <nuxt-img
             :src="image.image.src"
-            class="object-cover h-full w-full rounded-sm"
-          />
+            class="object-cover h-full w-full rounded-sm" />
         </div>
       </section>
 
@@ -109,8 +97,7 @@ const markdownify = (text) => {
             class="object-cover h-full w-full"
             :style="{
               'max-height': block.image.full_sized_image.max_height + 'px',
-            }"
-          />
+            }" />
         </div>
       </section>
 
@@ -123,8 +110,7 @@ const markdownify = (text) => {
           'padding-block': block.layout.text.vertical_padding + 'px',
           'padding-inline': block.layout.text.horizontal_padding + 'px',
           'max-width': block.layout.text.max_width + 'px',
-        }"
-      >
+        }">
         <h1 class="font-bold text-[36px] border-b">
           {{ block.heading }}
         </h1>
@@ -132,16 +118,14 @@ const markdownify = (text) => {
           {{ block.text }}
           <footer
             v-if="block.layout.text.quote_author"
-            class="large-quote__author"
-          >
+            class="large-quote__author">
             - {{ block.layout.text.quote_author }}
           </footer>
         </blockquote>
         <div
           v-if="!block.layout.text.text_is_quote"
           class="left-right__text"
-          v-html="markdownify(block.text)"
-        ></div>
+          v-html="markdownify(block.text)"></div>
       </section>
     </div>
   </section>
@@ -167,14 +151,24 @@ export default {
   margin-left: 0;
 }
 
-.left-right__text > h2 {
+.left-right__text > h1,
+.left-right__text > h2,
+.left-right__text > h3 {
   margin-bottom: 20px;
-  font-size: 2.5rem;
   font-weight: bold;
   text-wrap: balance;
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 16px;
+}
+.left-right__text > h1 {
+  font-size: 3rem;
+}
+.left-right__text > h2 {
+  font-size: 2.5rem;
+}
+.left-right__text > h3 {
+  font-size: 1.75rem;
 }
 
 .large-quote {

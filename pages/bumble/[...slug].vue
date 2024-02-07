@@ -231,10 +231,21 @@ loaded.value = true;
   margin-left: 2rem;
 }
 
+.guide-content h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
 .guide-content h2 {
   font-size: 2rem;
   font-weight: bold;
 }
+
+.guide-content h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
 .silo-content {
   font-family: 'IBM Plex Sans';
   size: 18px;
@@ -248,13 +259,23 @@ loaded.value = true;
   margin-bottom: 24px;
 }
 
-.silo-content h2 {
+.silo-content h1,
+.silo-content h2,
+.silo-content h3 {
   font-family: Montserrat;
-  font-size: 32px;
   font-style: normal;
   font-weight: 700;
   line-height: 120%;
   letter-spacing: 0px !important;
+}
+.silo-content h1 {
+  font-size: 2.5rem;
+}
+.silo-content h2 {
+  font-size: 2rem;
+}
+.silo-content h3 {
+  font-size: 1.75rem;
 }
 .silo-content a {
   color: #bf9441;
