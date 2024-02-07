@@ -1,7 +1,9 @@
 ---
 title: How it works
 seo:
-  page_description: We guide you through the entire process. We first give you some solid planning material, we then teach you how to look at the camera.
+  page_description: >-
+    We guide you through the entire process. We first give you some solid
+    planning material, we then teach you how to look at the camera.
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -79,7 +81,7 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
         src: /images/work/karunakaran-grid.jpeg
@@ -114,7 +116,8 @@ content_blocks:
 
       * Each shoot includes 200-300 edited images.
 
-      * Personalized recommendations on how to leverage your new photos to get more matches.
+      * Personalized recommendations on how to leverage your new photos to get
+      more matches.
     image:
       image:
         src:
@@ -125,7 +128,7 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
         src: /images/work/shakked-grid.jpeg
@@ -145,7 +148,9 @@ content_blocks:
       margin_bottom: 40
       margin_top: 0
     post_title:
-      text: Looking your best is important for your photoshoot, and in real life. We'll do both!
+      text: >-
+        Looking your best is important for your photoshoot, and in real life.
+        We'll do both!
       font_size: 1.2
       color: '#CE3E3E'
       margin_bottom: 0
@@ -162,7 +167,10 @@ content_blocks:
           margin_bottom: 0
           margin_top: 0
         description:
-          text: Upon arriving, you'll meet with one of our photographers. Together, you will practice your facial expressions so you'll be ready to look confident during the shoot.
+          text: >-
+            Upon arriving, you'll meet with one of our photographers. Together,
+            you will practice your facial expressions so you'll be ready to look
+            confident during the shoot.
           font_size: 1.125
           color: '#00000'
           margin_bottom: 0
@@ -178,7 +186,10 @@ content_blocks:
           margin_bottom: 0
           margin_top: 0
         description:
-          text: After the coaching session, our photographer will bring out your true confidence. We use a unique style of photography that allows you to look like a model without actually having to be a model.
+          text: >-
+            After the coaching session, our photographer will bring out your
+            true confidence. We use a unique style of photography that allows
+            you to look like a model without actually having to be a model.
           font_size: 1.125
           color: '#00000'
           margin_bottom: 0
@@ -194,7 +205,10 @@ content_blocks:
           margin_bottom: 0
           margin_top: 0
         description:
-          text: After you've nailed your studio session, we get a wide variety of lifestyle photos. We figure out what makes you interesting and capture you engaging in your favorite hobbies.
+          text: >-
+            After you've nailed your studio session, we get a wide variety of
+            lifestyle photos. We figure out what makes you interesting and
+            capture you engaging in your favorite hobbies.
           font_size: 1.125
           color: '#00000'
           margin_bottom: 0
@@ -203,7 +217,7 @@ content_blocks:
       text: Like what you see
       cta:
         text: Book a call
-        path: /
+        path: /online-dating-photographer-near-me
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
