@@ -43,12 +43,36 @@ content_blocks:
     description:
     background_image:
     images:
-      - src: /images/work/brent.webp
-        title: Brent
-        subtitle: A Brent
+      - src: /images/team/shane.jpg
+        title: Shane White
+        subtitle: Founder
+      - src: /images/team/nick.jpg
+        title: Nick Friesen
+        subtitle: Founder/Photographer
+      - src: /images/team/nate.jpg
+        title: Nate
+        subtitle: Photographer
+      - src: /images/team/allie.jpeg
+        title: Allie
+        subtitle: Photographer
       - src: /images/team/brian.webp
         title: Brian
-        subtitle: A Brian
+        subtitle: Photographer
+      - src: /images/team/jason.jpeg
+        title: Jason
+        subtitle: Photographer
+      - src: /images/team/marcos.jpeg
+        title: Marcos
+        subtitle: Photographer
+      - src: /images/team/mike-1.webp
+        title: Mike
+        subtitle: Photographer
+      - src: /images/team/robby.webp
+        title: Robby
+        subtitle: Dating Coach
+      - src: /images/team/shiloh.jpeg
+        title: Shiloh
+        subtitle: Photographer
   - _bookshop_name: banner-stats
     background_color:
     background_image: /images/backgrounds/city-background.jpg
