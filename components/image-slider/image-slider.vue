@@ -1,12 +1,12 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
 <template>
   <section
-    class="py-[110px] font-display px-4"
+    class="py-[110px] font-body px-4"
     :data-cms-bind="dataBinding"
     :style="{
       'background-color': block.background_color,

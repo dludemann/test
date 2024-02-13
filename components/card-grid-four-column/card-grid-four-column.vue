@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -13,9 +13,7 @@ export default {
         <h1 class="text-white text-center text-heading-h1 font-bold">
           {{ block.title }}
         </h1>
-        <p class="text-white text-center mt-2">
-          {{ block.description }}
-        </p>
+        <p class="text-white text-center mt-2">{{ block.description }} ASD</p>
 
         <div class="relative w-full">
           <input

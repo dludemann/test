@@ -1,18 +1,20 @@
 <script setup>
-import data from '../data/footer.json';
+import data from "../data/footer.json";
 
 const nav_links_classes =
-  'text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left hover:text-primary-700';
+  "text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left hover:text-primary-700";
 </script>
 
 <template>
   <footer class="bg-black">
     <!-- TOP SECTION -->
     <section
-      class="container mx-auto grid lg:grid-cols-[250px_minmax(200px,_1fr)_250px] py-16 gap-8 px-2">
+      class="container mx-auto grid lg:grid-cols-[250px_minmax(200px,_1fr)_250px] py-16 gap-8 px-2"
+    >
       <!-- LOGO SECTION -->
       <div
-        class="w-full lg:max-w-[300px] flex flex-col px-6 lg:px-0 items-center lg:items-start">
+        class="w-full lg:max-w-[300px] flex flex-col px-6 lg:px-0 items-center lg:items-start"
+      >
         <!-- LOGO -->
         <nuxt-img class="w-[232px] h-[20px]" :src="data.logo" alt="" />
 
@@ -24,22 +26,29 @@ const nav_links_classes =
       <!-- URLS -->
       <div class="flex flex-col lg:flex-row items-center lg:items-start gap-12">
         <!-- BROWSER COLUMN -->
-        <div
-          class="w-full flex flex-col gap-4"
-          v-for="section in data.sections">
+        <div class="flex flex-col gap-4" v-for="section in data.sections">
           <p
-            class="text-primary-500 font-display font-bold text-center lg:text-left">
+            class="text-primary-500 font-display font-bold text-center lg:text-left"
+          >
             {{ section.title }}
           </p>
-          <nav class="flex flex-col gap-3">
+          <nav
+            class="flex flex-col gap-3"
+            :class="{
+              width:
+                section.title.toLowerCase() === 'browse' ? '140px' : '100%',
+            }"
+          >
             <nuxt-link
               rel="canonical"
               :to="link.link"
               :class="nav_links_classes"
-              v-for="link in section.links">
+              v-for="link in section.links"
+            >
               <div
                 class="w-6 h-6 flex items-center justify-center"
-                v-if="link.icon">
+                v-if="link.icon"
+              >
                 <img class="w-[24px] h-[25px]" :src="link.icon" alt="" />
               </div>
               {{ link.text }}
@@ -79,7 +88,8 @@ const nav_links_classes =
       </div>
       <div class="flex-1 flex flex-col gap-4 px-6 overflow-hidden">
         <p
-          class="text-primary-500 font-display font-bold text-center lg:text-left">
+          class="text-primary-500 font-display font-bold text-center lg:text-left"
+        >
           {{ data.form.title }}
         </p>
         <p class="text-[#EAECF0] font-body text-center lg:text-left">
@@ -90,26 +100,30 @@ const nav_links_classes =
           class="drip-form flex flex-col gap-4"
           action="https://www.getdrip.com/forms/91517951/submissions"
           data-drip-embedded-form="91517951"
-          method="post">
+          method="post"
+        >
           <input
             type="email"
             name="fields[email]"
             value=""
             placeholder="Email"
             required
-            class="input" />
+            class="input"
+          />
 
           <input
             type="text"
             name="fields[first_name]"
             placeholder="First Name"
             required
-            class="input" />
+            class="input"
+          />
           <button
             class="btn"
             type="submit"
             :class="'bg-[' + data.form.button.background_color + ']'"
-            :style="{ color: data.form.button.text_color }">
+            :style="{ color: data.form.button.text_color }"
+          >
             {{ data.form.button.text }}
           </button>
         </form>

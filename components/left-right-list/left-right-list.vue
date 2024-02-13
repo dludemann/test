@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -34,7 +34,7 @@ export default {
 
         <a :href="block.button.path">
           <button
-            class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white"
+            class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
             {{ block.button.text }}
             <img

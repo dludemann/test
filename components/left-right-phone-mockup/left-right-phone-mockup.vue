@@ -1,12 +1,12 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
 <template>
   <section
-    class="lg:pt-[90px] lg:pb-[270px] overflow-hidden font-display"
+    class="lg:pt-[90px] lg:pb-[270px] overflow-hidden font-body"
     :style="{
       'background-color': block.background_color,
       color: block.text_color,
@@ -25,8 +25,7 @@ export default {
       </div>
       <article class="max-w-[560px] w-full p-4 text-center lg:text-left">
         <h2
-          class="font-bold text-[2rem] leading-[3rem] lg:text-[3.125rem]"
-          style="text-wrap: balance"
+          class="font-bold text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
         >
           {{ block.title }}
         </h2>
@@ -41,7 +40,7 @@ export default {
             v-for="list_item in block.list"
           >
             <img class="w-[24px] h-[24px]" :src="list_item.icon" alt="" />
-            <p class="font-bold text-[22px] font-display">
+            <p class="font-bold text-[22px] font-body">
               {{ list_item.text }}
             </p>
           </div>
@@ -52,7 +51,7 @@ export default {
           :href="block.button.path"
         >
           <button
-            class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white"
+            class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
             {{ block.button.text }}
             <img

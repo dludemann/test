@@ -1,5 +1,5 @@
 <script setup>
-import { marked } from 'marked';
+import { marked } from "marked";
 const markdownify = (text) => {
   const markdown = marked.parse(text);
   return markdown;
@@ -9,7 +9,8 @@ const markdownify = (text) => {
 <template>
   <section
     class="container mx-auto max-w-[1040px] lg:px-16 px-3"
-    :data-cms-bind="dataBinding">
+    :data-cms-bind="dataBinding"
+  >
     <div class="py-[50px] text-center justify-center flex flex-col">
       <div class="flex gap-2 items-center mx-auto" v-if="block.pre_title">
         <div class="h-px w-[10px] bg-[#171717]" />
@@ -19,27 +20,31 @@ const markdownify = (text) => {
       <h1
         v-if="block.title"
         class="mb-[40px] text-[2.5rem] max-w-[660px] mx-auto font-bold font-display"
-        :style="{ 'text-wrap': 'balance' }">
+      >
         {{ block.title }}
       </h1>
       <div
         v-for="(paragraph, index) in block.paragraphs"
-        class="max-w-[800px] mx-auto text-justify mb-[1rem]"
-        :class="paragraph.inline_image ? 'grid lg:grid-cols-2 gap-5' : ''">
+        class="max-w-[800px] mx-auto text-left mb-[1rem]"
+        :class="paragraph.inline_image ? 'grid lg:grid-cols-2 gap-5' : ''"
+      >
         <nuxt-img
           :src="paragraph.inline_image"
           alt=""
           class="mr-2"
-          v-if="paragraph.inline_image && paragraph.flipped === true" />
+          v-if="paragraph.inline_image && paragraph.flipped === true"
+        />
         <div
           v-if="paragraph.text"
-          class="markdown-block__text"
-          v-html="markdownify(paragraph.text)"></div>
+          class="markdown-block__text font-body"
+          v-html="markdownify(paragraph.text)"
+        ></div>
         <nuxt-img
           :src="paragraph.inline_image"
           alt=""
           class="ml-2"
-          v-if="paragraph.inline_image && paragraph.flipped === false" />
+          v-if="paragraph.inline_image && paragraph.flipped === false"
+        />
       </div>
     </div>
   </section>
@@ -47,7 +52,7 @@ const markdownify = (text) => {
 
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -55,7 +60,6 @@ export default {
 .markdown-block__text {
   display: flex;
   flex-direction: column;
-  font-family: sans-serif;
 }
 
 .markdown-block__text p {
@@ -64,13 +68,13 @@ export default {
   letter-spacing: 1px;
   font-weight: lighter;
   line-height: 2rem;
+  text-align: justify;
 }
 
 .markdown-block__text h1,
 .markdown-block__text h2,
 .markdown-block__text h3 {
   font-weight: bolder;
-  text-wrap: balance;
   font-family: Montserrat;
   line-height: 3rem;
   margin-bottom: 1rem;
@@ -111,13 +115,13 @@ blockquote {
 
 blockquote::before {
   --side-length: 100px;
-  content: '';
+  content: "";
   width: var(--side-length);
   height: var(--side-length);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('/images/assets/quote.png');
+  background-image: url("/images/assets/quote.png");
   background-size: 100%;
   transform: translate(-10%, -40%);
   z-index: 99;
@@ -159,7 +163,7 @@ p.intro {
   position: absolute;
   left: 102%;
   top: 50%;
-  content: '';
+  content: "";
   font-size: 1.125rem;
   font-style: italic;
   height: 1px;
@@ -171,7 +175,7 @@ p.intro {
   position: absolute;
   right: 102%;
   top: 50%;
-  content: '';
+  content: "";
   font-size: 1.125rem;
   font-style: italic;
   height: 1px;

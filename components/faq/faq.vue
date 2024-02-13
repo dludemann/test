@@ -1,11 +1,11 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
 <template>
-  <section class="bg-black font-display" :data-cms-bind="dataBinding">
+  <section class="bg-black font-body" :data-cms-bind="dataBinding">
     <div
       class="container mx-auto bg-white rounded-sm py-20 px-10 flex justify-between gap-20 flex-col lg:flex-row"
     >
