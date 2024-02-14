@@ -1,17 +1,20 @@
 <template>
   <section class="bg-[#efefef] py-[70px] font-display">
     <div class="max-w-[800px] mx-auto">
-      <nuxt-img
+      <img
         v-if="pageData.featured_image"
         :src="pageData.featured_image"
         :alt="pageData.featured_image_alt"
-        class="w-[800px] h-[500px] mb-8 object-cover" />
+        class="w-[800px] h-[500px] mb-8 object-cover"
+      />
       <div>
         <p
           class="text-center text-[20px] text-[#787878] px-6"
-          v-html="formatDate(pageData.created)"></p>
+          v-html="formatDate(pageData.created)"
+        ></p>
         <h1
-          class="font-bold text-center text-[#171717] text-[48px] leading-[62.5px] mb-[50px] px-6">
+          class="font-bold text-center text-[#171717] text-[48px] leading-[62.5px] mb-[50px] px-6"
+        >
           {{ pageData.title }}
         </h1>
         <p class="text-[22px] font-medium leading-[37.4px] text-[#787878] px-6">
@@ -25,7 +28,7 @@
   </div>
 </template>
 <script setup>
-import { DateTime } from 'luxon';
+import { DateTime } from "luxon";
 const route = useRoute();
 
 const { page } = useContent();
@@ -33,7 +36,7 @@ const { page } = useContent();
 if (!page.value) {
   throw createError({
     statusCode: 404,
-    statusMessage: 'Page Not Found',
+    statusMessage: "Page Not Found",
     fatal: true,
   });
 }
@@ -41,7 +44,7 @@ if (!page.value) {
 const pageData = page.value;
 
 const formatDate = (date) => {
-  return DateTime.fromISO(date).toFormat('LLL dd');
+  return DateTime.fromISO(date).toFormat("LLL dd");
 };
 
 const head = generateHead(pageData, route);

@@ -46,7 +46,7 @@ export default {
         </a>
       </article>
 
-      <nuxt-img
+      <img
         class="max-w-[766px] max-h-[766px] w-1/2 object-contain"
         :style="{
           'max-width': block.image.max_width + 'px',

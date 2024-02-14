@@ -16,7 +16,7 @@ const nav_links_classes =
         class="w-full lg:max-w-[300px] flex flex-col px-6 lg:px-0 items-center lg:items-start"
       >
         <!-- LOGO -->
-        <nuxt-img class="w-[232px] h-[20px]" :src="data.logo" alt="" />
+        <img class="w-[232px] h-[20px]" :src="data.logo" alt="" />
 
         <p class="text-[#EAECF0] font-body mt-6 text-center lg:text-left">
           {{ data.description }}

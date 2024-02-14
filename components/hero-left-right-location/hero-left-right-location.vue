@@ -58,7 +58,7 @@ export default {
                 height: 50 + 'px',
               }"
             >
-              <nuxt-img
+              <img
                 :src="block.testimonial.image.src"
                 :alt="block.testimonial.image.alt"
               />
@@ -73,7 +73,7 @@ export default {
         <div
           class="absolute top-0 -right-32 w-[500px] h-[800px] lg:relative opacity-80 lg:opacity-100"
         >
-          <nuxt-img
+          <img
             class="object-cover"
             :style="{ 'max-width': block.image.max_width + 'px' }"
             :src="block.image.src"

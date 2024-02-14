@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -22,7 +22,7 @@ export default {
         class="w-full max-w-[770px] overflow-hidden py-4 lg:py-[60px] h-[500px] lg:h-auto relative"
       >
         <a :href="block.image" rel="canonical">
-          <nuxt-img :src="block.image" class="object-cover w-full h-full" />
+          <img :src="block.image" class="object-cover w-full h-full" />
         </a>
       </div>
 

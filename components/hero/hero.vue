@@ -10,7 +10,7 @@ export default {
       class="py-[120px] relative overflow-hidden"
       :style="{ backgroundColor: block.background_color }"
     >
-      <nuxt-img
+      <img
         :src="block.background_image"
         alt=""
         class="absolute bottom-0 left-0 right-0 w-full h-full object-cover"
