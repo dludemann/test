@@ -1,5 +1,5 @@
 ---
-title: 'What Does Bumble Look Like for Guys?'
+title: "What Does Bumble Look Like for Guys?"
 menu_grouping: Bumble Settings
 author: Shane White
 seo:
@@ -235,4 +235,3 @@ seo:
 <p><a href="https://bumble.com/en/the-buzz/what-exactly-is-bumble-bff">bumble.com</a></p>
 </li>
 </ol>
->

@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'SiloBody',
+  name: "SiloBody",
   data() {
     return {
       sectionObserver: null,
@@ -19,11 +19,11 @@ export default {
 
     // Update all anchor tags in silo body from butter to open in new tab
     setTimeout(() => {
-      const page = document.getElementById('page-content');
-      const anchors = page.getElementsByTagName('a');
+      const page = document.getElementById("page-content");
+      const anchors = page.getElementsByTagName("a");
 
       Array.from(anchors).forEach(function (element) {
-        element.setAttribute('target', '_blank');
+        element.setAttribute("target", "_blank");
       });
     }, 200);
 
@@ -34,16 +34,16 @@ export default {
 
       if (section) {
         this.canChangeSidebar = false;
-        section.scrollIntoView({ behavior: 'smooth' });
-        this.$emit('hash-change', this.$route.hash.replace('#', ''));
+        section.scrollIntoView({ behavior: "smooth" });
+        this.$emit("hash-change", this.$route.hash.replace("#", ""));
 
         var scrollTimeout;
-        addEventListener('scroll', function () {
+        addEventListener("scroll", function () {
           clearTimeout(scrollTimeout);
           scrollTimeout = setTimeout(function () {
             _.canChangeSidebar = true;
 
-            removeEventListener('scroll', function () {
+            removeEventListener("scroll", function () {
               this.canChangeSidebar = true;
             });
           }, 100);
@@ -63,7 +63,7 @@ export default {
       // Observe each section
       setTimeout(() => {
         const options = {
-          rootMargin: '-20% 0px -60% 0px',
+          rootMargin: "-20% 0px -60% 0px",
           threshold: 0,
         };
 
@@ -71,8 +71,8 @@ export default {
           this.sectionObserverHandler,
           options
         );
-        const page = document.getElementById('page-content');
-        const sections = page.querySelectorAll('[id]');
+        const page = document.getElementById("page-content");
+        const sections = page.querySelectorAll("[id]");
         sections.forEach((section) => {
           this.sectionObserver.observe(section);
         });
@@ -82,19 +82,19 @@ export default {
       for (const entry of entries) {
         if (entry.isIntersecting && this.canChangeSidebar) {
           const sectionId = entry.target.id;
-          history.replaceState({}, '', `#${sectionId}`);
-          this.$emit('hash-change', `${sectionId}`);
+          history.replaceState({}, "", `#${sectionId}`);
+          this.$emit("hash-change", `${sectionId}`);
           break;
         }
       }
     },
     slugify(name) {
       return name
-        .split(' ')
-        .join('-')
-        .replace('?', '')
-        .replace('.', '')
-        .replace("'", '');
+        .split(" ")
+        .join("-")
+        .replace("?", "")
+        .replace(".", "")
+        .replace("'", "");
     },
   },
 };

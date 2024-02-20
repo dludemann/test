@@ -1,11 +1,12 @@
 <script setup>
-import { ref } from 'vue';
+import { ref } from "vue";
 
-const currentHash = ref('');
+const currentHash = ref("");
 const loaded = ref(false);
 const { page, globals } = useContent();
 const route = useRoute();
 const pageData = page.value;
+pageData.page_title = "Bumble";
 
 const changeCurrentHash = (slug) => {
   currentHash.value = slug;
@@ -20,7 +21,7 @@ const contentQuery = await queryContent(collection)
     _path: { $ne: `/${collection}` },
   })
   .find();
-const mainSlug = ['/', collection].join('');
+const mainSlug = ["/", collection].join("");
 
 const silo = contentQuery;
 let menuGroupings = [];
@@ -30,6 +31,9 @@ for (let i = 0; i < silo.length; i++) {
     menuGroupings.push(siloItem.menu_grouping);
   }
 }
+// const pageData = {
+//   page_title: 'Bumble'
+// }
 
 const menuData = menuGroupings.map((menuGrouping) => {
   return {
@@ -42,7 +46,7 @@ const menuData = menuGroupings.map((menuGrouping) => {
           return {
             title: page.title,
             href: null,
-            slug: page._path.split('/')[2],
+            slug: page._path.split("/")[2],
             children: page.body.toc.links.map((tocItem) => {
               return {
                 title: tocItem.text,
@@ -71,7 +75,7 @@ const initData = () => {
     if (pageData.menu_grouping === menuSection.title) {
       levelTwo = {
         title: pageData.title,
-        slug: pageData._path.split('/')[2],
+        slug: pageData._path.split("/")[2],
       };
     }
   }
@@ -85,7 +89,7 @@ const initData = () => {
   });
 
   // Update Current Hash
-  currentHash.value = '';
+  currentHash.value = "";
 
   // Return Object
   return {
@@ -187,9 +191,10 @@ loaded.value = true;
       :current-hash="currentHash"
       :menu-data="menuData"
       :current-path="currentPath"
-      :page-data="silo"
+      :page-data="pageData"
       :main-slug="mainSlug"
-      @hash-change="changeCurrentHash" />
+      @hash-change="changeCurrentHash"
+    />
     <section class="w-full font-display p-8 mb-[50px]">
       <!-- Text content  -->
       <section class="max-w-[800px] mx-auto">
@@ -198,6 +203,7 @@ loaded.value = true;
         </p>
         <h1 class="text-[3rem] font-bold py-2 leading-[3.75rem] text-[#1E293B]">
           {{ pageData.title }}
+          aaa
         </h1>
         <p class="py-5">
           Written by <span class="font-bold">{{ pageData.author }}</span>
@@ -206,7 +212,8 @@ loaded.value = true;
         <GuideBody
           class="guide-content"
           :current-content="currentPath.level_three"
-          @hash-change="changeCurrentHash" />
+          @hash-change="changeCurrentHash"
+        />
       </section>
     </section>
   </div>
@@ -247,7 +254,7 @@ loaded.value = true;
 }
 
 .silo-content {
-  font-family: 'IBM Plex Sans';
+  font-family: "IBM Plex Sans";
   size: 18px;
   color: #1e293b;
 }

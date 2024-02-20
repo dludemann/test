@@ -1,5 +1,5 @@
 ---
-title: 'How to Avoid Getting No Matches on Bumble'
+title: "How to Avoid Getting No Matches on Bumble"
 menu_grouping: Uses for Bumble
 author: Shane White
 seo:
@@ -390,62 +390,3 @@ seo:
 <li>
 <p><a href="https://bumble.com/en/the-buzz/bumble-beeline">bumble.com</a></p>
 </li>
-</ol>
-ol>
->
-</ol>
-ol>
-/a></p>
-</li>
-</ol>
-ol>
-li>
-</ol>
-ol>
-e.com</a></p>
-</li>
-</ol>
-ol>
-</li>
-</ol>
-ol>
-li>
-</ol>
-ol>
-</li>
-</ol>
-ol>
-</li>
-</ol>
-ol>
-</li>
-</ol>
-ol>
-ol>
-</ol>
-ol>
-ol>
-</li>
-</ol>
-ol>
-ol>
-</ol>
-ol>
-</ol>
-ol>
-</ol>
-ol>
-ol>
-</ol>
-ol>
-ol>
-</li>
-</ol>
-ol>
-ol>
-</ol>
-ol>
-</ol>
-ol>
-</ol>
-ol>

@@ -1,5 +1,5 @@
 ---
-title: 'Does Bumble Notify You of Screenshots?'
+title: "Does Bumble Notify You of Screenshots?"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
@@ -155,7 +155,7 @@ seo:
 <p><a href="https://datingappworld.com/how-to-send-a-picture-on-bumble/">datingappworld.com</a></p>
 </li>
 </ol>
-n-bumble/">datingappworld.com</a></p>
+</a></p>
 </li>
 </ol>
 </li>

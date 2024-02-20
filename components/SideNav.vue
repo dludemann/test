@@ -78,22 +78,21 @@
                     :key="level_two.title"
                     class="relative"
                   >
-                  <a :href="mainSlug + '/' + level_two.slug">
-                    <button
-                      class="px-4 py-2 relative"
-                      :class="{
-                        activeSubMenuLink: isLevelTwoActive(level_two),
-                      }"
-                      
-                    >
-                      <!-- INDICATOR -->
-                      <div
-                        v-if="isLevelTwoActive(level_two)"
-                        class="h-full top-0 -left-[1.5px] absolute w-[2px] bg-[#ce1b1b] block"
-                      />
-                      {{ level_two.title }}
-                    </button>
-                  </a>
+                    <a :href="mainSlug + '/' + level_two.slug">
+                      <button
+                        class="px-4 py-2 relative"
+                        :class="{
+                          activeSubMenuLink: isLevelTwoActive(level_two),
+                        }"
+                      >
+                        <!-- INDICATOR -->
+                        <div
+                          v-if="isLevelTwoActive(level_two)"
+                          class="h-full top-0 -left-[1.5px] absolute w-[2px] bg-[#ce1b1b] block"
+                        />
+                        {{ level_two.title }}
+                      </button>
+                    </a>
 
                     <!-- LEVEL THREE START -->
                     <ul
@@ -135,11 +134,11 @@
 </template>
 
 <script>
-import RandomIcon from './utility/RandomIcon.vue';
+import RandomIcon from "./utility/RandomIcon.vue";
 
 export default {
   components: { RandomIcon },
-  name: 'SideNavChat',
+  name: "SideNavChat",
   props: {
     menuData: {
       type: Array,
@@ -147,7 +146,7 @@ export default {
     },
     currentHash: {
       type: String,
-      default: '',
+      default: "",
     },
     currentPath: {
       type: Object,
@@ -157,7 +156,7 @@ export default {
     },
     mainSlug: {
       type: String,
-      default: '',
+      default: "",
     },
   },
   data() {
@@ -176,7 +175,6 @@ export default {
   },
   methods: {
     toggleLevelOne(index) {
-      console.log('triggered');
       if (this.openedLevelOnes.includes(index)) {
         const newArray = this.openedLevelOnes.filter((i) => i != index);
         this.openedLevelOnes = newArray;
@@ -185,7 +183,7 @@ export default {
       }
     },
     navigateLevelTwo(level_two_object) {
-      console.log(level_two_object)
+      console.log(level_two_object);
       window.location.href = level_two_object.slug;
     },
     itemClick(slug) {
@@ -202,9 +200,9 @@ export default {
       const section = document.getElementById(`${l_three.slug}`);
 
       if (section) {
-        section.scrollIntoView({ behavior: 'smooth' });
-        this.$emit('hash-change', l_three.slug);
-        history.replaceState({}, '', `#${l_three.slug}`);
+        section.scrollIntoView({ behavior: "smooth" });
+        this.$emit("hash-change", l_three.slug);
+        history.replaceState({}, "", `#${l_three.slug}`);
         this.closeMenu();
       }
     },
@@ -215,7 +213,7 @@ export default {
       this.breakpointToggle = !this.breakpointToggle;
     },
     slugify(name) {
-      return name.split(' ').join('-').replace('?', '').replace("'", '');
+      return name.split(" ").join("-").replace("?", "").replace("'", "");
     },
   },
 };
