@@ -1,5 +1,6 @@
 <script setup>
 import { ref } from 'vue';
+import menuGroupings from '../../data/guides/bumble.json';
 
 const currentHash = ref('');
 const loaded = ref(false);
@@ -23,13 +24,14 @@ const contentQuery = await queryContent(collection)
 const mainSlug = ['/', collection].join('');
 
 const silo = contentQuery;
-let menuGroupings = [];
-for (let i = 0; i < silo.length; i++) {
-  const siloItem = silo[i];
-  if (!menuGroupings.includes(siloItem.menu_grouping)) {
-    menuGroupings.push(siloItem.menu_grouping);
-  }
-}
+// let menuGroupings = [];
+// Change this so we just get the menu groupings from the data file, therefore allowing the data file to control the order, rather than the order of the pages using the menu_groupings
+// for (let i = 0; i < silo.length; i++) {
+//   const siloItem = silo[i];
+//   if (!menuGroupings.includes(siloItem.menu_grouping)) {
+//     menuGroupings.push(siloItem.menu_grouping);
+//   }
+// }
 
 const menuData = menuGroupings.map((menuGrouping) => {
   return {
