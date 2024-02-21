@@ -22,16 +22,7 @@ const contentQuery = await queryContent(collection)
   })
   .find();
 const mainSlug = ['/', collection].join('');
-
 const silo = contentQuery;
-// let menuGroupings = [];
-// Change this so we just get the menu groupings from the data file, therefore allowing the data file to control the order, rather than the order of the pages using the menu_groupings
-// for (let i = 0; i < silo.length; i++) {
-//   const siloItem = silo[i];
-//   if (!menuGroupings.includes(siloItem.menu_grouping)) {
-//     menuGroupings.push(siloItem.menu_grouping);
-//   }
-// }
 
 const menuData = menuGroupings.map((menuGrouping) => {
   return {

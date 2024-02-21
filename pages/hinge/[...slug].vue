@@ -1,5 +1,6 @@
 <script setup>
 import { ref } from 'vue';
+import menuGroupings from '../../data/guides/hinge.json';
 
 const currentHash = ref('');
 const loaded = ref(false);
@@ -23,22 +24,15 @@ const contentQuery = await queryContent(collection)
 const mainSlug = ['/', collection].join('');
 
 const silo = contentQuery;
-let menuGroupings = [];
-for (let i = 0; i < silo.length; i++) {
-  const siloItem = silo[i];
-  if (!menuGroupings.includes(siloItem.menu_grouping)) {
-    menuGroupings.push(siloItem.menu_grouping);
-  }
-}
 
 const menuData = menuGroupings.map((menuGrouping) => {
   return {
-    title: menuGrouping,
+    title: menuGrouping.heading,
     href: null,
     slug: null,
     children: silo
       .map((page) => {
-        if (page.menu_grouping === menuGrouping) {
+        if (page.menu_grouping === menuGrouping.heading) {
           return {
             title: page.title,
             href: null,
@@ -61,7 +55,7 @@ const menuData = menuGroupings.map((menuGrouping) => {
 const initData = () => {
   // Find index of the level one title
   const levelOneIndex = menuGroupings.findIndex(
-    (menuGrouping) => pageData.menu_grouping === menuGrouping
+    (menuGrouping) => pageData.menu_grouping === menuGrouping.heading
   );
 
   // Find the Level Two Object
