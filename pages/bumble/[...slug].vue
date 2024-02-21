@@ -35,12 +35,12 @@ const silo = contentQuery;
 
 const menuData = menuGroupings.map((menuGrouping) => {
   return {
-    title: menuGrouping,
+    title: menuGrouping.heading,
     href: null,
     slug: null,
     children: silo
       .map((page) => {
-        if (page.menu_grouping === menuGrouping) {
+        if (page.menu_grouping === menuGrouping.heading) {
           return {
             title: page.title,
             href: null,
@@ -63,7 +63,7 @@ const menuData = menuGroupings.map((menuGrouping) => {
 const initData = () => {
   // Find index of the level one title
   const levelOneIndex = menuGroupings.findIndex(
-    (menuGrouping) => pageData.menu_grouping === menuGrouping
+    (menuGrouping) => pageData.menu_grouping === menuGrouping.heading
   );
 
   // Find the Level Two Object
