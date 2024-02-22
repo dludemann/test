@@ -248,7 +248,6 @@ const generateNext = () => {
                   stroke-linejoin="round"
                 />
               </svg>
-
               <p class="text-[18.5px] font-body">
                 Improved social media presence
               </p>
