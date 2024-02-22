@@ -1,5 +1,5 @@
 ---
-title: 'How Does Bumble Work? 2023 Expert’s Guide'
+title: "How Does Bumble Work? 2023 Expert’s Guide"
 menu_grouping: Bumble Basics
 author: Shane White
 seo:
@@ -1080,32 +1080,3 @@ seo:
 </li>
 <li>
 <p><a href="https://mashable.com/article/tinder-weddings-swipe-right-decor">mashable.com</a></p>
-</li>
-</ol>
-</ol>
-</ol>
-</li>
-</ol>
-</ol>
-</ol>
->
-</ol>
-</ol>
-li>
-</ol>
-</ol>
-</ol>
->
-</ol>
-</ol>
->
-</ol>
-</ol>
->
-</ol>
-</ol>
-</ol>
-</ol>
->
-</ol>
-</ol>

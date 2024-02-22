@@ -22,6 +22,10 @@ export default {
       type: String,
       default: "",
     },
+    state: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -32,6 +36,7 @@ export default {
         email: "",
         source: "",
         city: this.city,
+        state: this.state,
       },
     };
   },
@@ -84,12 +89,13 @@ export default {
       plausible(...events);
       setTimeout(function () {}, 150);
 
-      const { firstName, lastName, email, city, source } = this.formData;
+      const { firstName, lastName, email, city, state, source } = this.formData;
       const preparedData = {
         FirstName: firstName,
         LastName: lastName,
         Email: email,
         City: city,
+        State: state,
         Source: source,
         Token: "",
       };
@@ -145,7 +151,7 @@ export default {
 </script>
 <template>
   <form
-    class="container flex flex-col gap-4 w-full max-w-[420px] mx-auto font-display my-5 px-4"
+    class="container flex flex-col gap-4 w-full max-w-[420px] mx-auto font-display"
     method="POST"
     :action="endpoint"
     @submit.stop.prevent="submitForm"
@@ -156,7 +162,7 @@ export default {
       <input
         id="firstName"
         v-model="formData.firstName"
-        class="input"
+        class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
         type="text"
         name="FirstName"
         placeholder="Enter your First Name"
@@ -169,7 +175,7 @@ export default {
       <input
         id="lastName"
         v-model="formData.lastName"
-        class="input"
+        class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
         type="text"
         name="LastName"
         placeholder="Enter your Last Name"
@@ -182,7 +188,7 @@ export default {
       ><input
         id="city"
         v-model="formData.city"
-        class="input"
+        class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
         type="text"
         name="City"
         placeholder="Where do you live?"
@@ -196,7 +202,7 @@ export default {
       <input
         id="email"
         v-model="formData.email"
-        class="input"
+        class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
         type="email"
         name="Email"
         placeholder="Enter your Email"

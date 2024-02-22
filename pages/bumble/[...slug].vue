@@ -1,8 +1,8 @@
 <script setup>
-import { ref } from 'vue';
-import menuGroupings from '../../data/guides/bumble.json';
+import { ref } from "vue";
+import menuGroupings from "../../data/guides/bumble.json";
 
-const currentHash = ref('');
+const currentHash = ref("");
 const loaded = ref(false);
 const { page, globals } = useContent();
 const route = useRoute();
@@ -22,7 +22,7 @@ const contentQuery = await queryContent(collection)
     _path: { $ne: `/${collection}` },
   })
   .find();
-const mainSlug = ['/', collection].join('');
+const mainSlug = ["/", collection].join("");
 const silo = contentQuery;
 
 const menuData = menuGroupings.map((menuGrouping) => {
@@ -36,7 +36,7 @@ const menuData = menuGroupings.map((menuGrouping) => {
           return {
             title: page.title,
             href: null,
-            slug: page._path.split('/')[2],
+            slug: page._path.split("/")[2],
             children: page.body.toc.links.map((tocItem) => {
               return {
                 title: tocItem.text,
@@ -65,7 +65,7 @@ const initData = () => {
     if (pageData.menu_grouping === menuSection.title) {
       levelTwo = {
         title: pageData.title,
-        slug: pageData._path.split('/')[2],
+        slug: pageData._path.split("/")[2],
       };
     }
   }
@@ -79,7 +79,7 @@ const initData = () => {
   });
 
   // Update Current Hash
-  currentHash.value = '';
+  currentHash.value = "";
 
   // Return Object
   return {
@@ -94,85 +94,6 @@ const initData = () => {
 
 const currentPath = initData();
 loaded.value = true;
-
-// const generatePrevious = () => {
-//     menuData[currentPath.level_one].title;
-//     const currentLevelTwoIndex = menuData[currentPath.level_one].children.findIndex(
-//         (c) => c.slug === currentPath.level_two.level_two_slug,
-//     );
-//     const previousLevelTwo = menuData[currentPath.level_one].children[currentLevelTwoIndex - 1];
-//     if (previousLevelTwo) {
-//         return {
-//             title: menuData[currentPath.level_one].title,
-//             slug: `/${mainSlug}/${previousLevelTwo.slug}`,
-//             section: previousLevelTwo.title,
-//             active: true,
-//         };
-//     } else {
-//         const previousSilo = menuData[currentPath.level_one - 1];
-
-//         if (currentPath.level_one === 0) {
-//             return {
-//                 title: menuData[currentPath.level_one].title,
-//                 slug: '',
-//                 section: currentPath.level_two.level_two_title,
-//                 active: false,
-//             };
-//         }
-
-//         return {
-//             title: previousSilo.title,
-//             slug: `/${mainSlug}/${previousSilo.children[previousSilo.children.length - 1].slug}`,
-//             section: previousSilo.children[previousSilo.children.length - 1].title,
-//             active: true,
-//         };
-//     }
-// };
-
-// const generateNext = () => {
-//     menuData[currentPath.level_one].title;
-//     const currentLevelTwoIndex = menuData[currentPath.level_one].children.findIndex(
-//         (c) => c.slug === currentPath.level_two.level_two_slug,
-//     );
-
-//     const nextLevelTwo = menuData[currentPath.level_one].children[currentLevelTwoIndex + 1];
-
-//     if (nextLevelTwo) {
-//         return {
-//             title: menuData[currentPath.level_one].title,
-//             slug: `/${mainSlug}/${nextLevelTwo.slug}`,
-//             section: nextLevelTwo.title,
-//             active: true,
-//         };
-//     } else {
-//         // if we're at the end there is no more
-//         if (menuData.length === currentPath.level) {
-//             return {
-//                 title: menuData[currentPath.level_one].title,
-//                 slug: '',
-//                 section: currentPath.level_two.level_two_title,
-//                 active: false,
-//             };
-//         }
-
-//         const nextSilo = menuData[currentPath.level_one + 1];
-
-//         if (nextSilo) {
-//             return {
-//                 title: nextSilo.title,
-//                 slug: `/${mainSlug}/${nextSilo.children[0].slug}`,
-//                 section: nextSilo.children[0].title,
-//                 active: true,
-//             };
-//         } else
-//             return {
-//                 title: '',
-//                 slug: ``,
-//                 section: '',
-//                 active: false,
-//             };
-//     }
-// };
 </script>
 <template>
   <div class="flex font-display">
@@ -183,8 +104,9 @@ loaded.value = true;
       :current-path="currentPath"
       :page-data="silo"
       :main-slug="mainSlug"
-      @hash-change="changeCurrentHash" />
-    <section class="w-full font-display p-8 mb-[50px]">
+      @hash-change="changeCurrentHash"
+    />
+    <section class="w-full font-display">
       <!-- Text content  -->
       <section class="max-w-[800px] mx-auto">
         <p class="text-[1rem] font-bold text-[#171717] uppercase pt-[50px]">
@@ -200,8 +122,17 @@ loaded.value = true;
         <GuideBody
           class="guide-content"
           :current-content="currentPath.level_three"
-          @hash-change="changeCurrentHash" />
+          @hash-change="changeCurrentHash"
+        />
       </section>
+
+      <!-- START SILO FOOTER -->
+      <GuideFooter
+        :menu-data="menuData"
+        :current-path="currentPath"
+        :main-slug="mainSlug"
+      />
+      <!--- END SILO FOOTER-->
     </section>
   </div>
 </template>
@@ -241,7 +172,7 @@ loaded.value = true;
 }
 
 .silo-content {
-  font-family: 'IBM Plex Sans';
+  font-family: "IBM Plex Sans";
   size: 18px;
   color: #1e293b;
 }
