@@ -1,12 +1,12 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
 <template>
   <section
-    class="py-[96px] font-display"
+    class="py-[96px] font-body"
     :data-cms-bind="dataBinding"
     :style="{
       'background-color': block.background_color,
@@ -20,7 +20,7 @@ export default {
         color: block.quote.text_color,
       }"
     >
-      <nuxt-img
+      <img
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         :src="block.image.src"
         :alt="block.image.alt"

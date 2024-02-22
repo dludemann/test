@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -34,7 +34,7 @@ export default {
 
         <a :href="block.button.path">
           <button
-            class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white"
+            class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
             {{ block.button.text }}
             <img
@@ -46,7 +46,7 @@ export default {
         </a>
       </article>
 
-      <nuxt-img
+      <img
         class="max-w-[766px] max-h-[766px] w-1/2 object-contain"
         :style="{
           'max-width': block.image.max_width + 'px',

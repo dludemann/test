@@ -1,5 +1,5 @@
 ---
-title: 'Bumble Premium: Unlock Exclusive Features'
+title: "Bumble Premium: Unlock Exclusive Features"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
@@ -432,8 +432,6 @@ seo:
 <p><a href="https://bumble.com/en/contact-us">bumble.com</a></p>
 </li>
 </ol>
->
-m</a></p>
+</a></p>
 </li>
 </ol>
->

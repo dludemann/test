@@ -1,5 +1,5 @@
 ---
-title: 'Ghosting on Bumble: Learn How It Happens'
+title: "Ghosting on Bumble: Learn How It Happens"
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:
@@ -330,20 +330,18 @@ seo:
 <p><a href="https://www.courant.com/2021/12/20/ghosting-the-silent-unexplained-method-to-ending-relationships-has-negative-impact-on-both-parties-and-can-stunt-emotional-growth-wesleyan-study-finds/">courant.com</a></p>
 </li>
 </ol>
->
-nds/">courant.com</a></p>
+</a></p>
 </li>
 </ol>
-ant.com</a></p>
+</a></p>
 </li>
 </ol>
-li>
+
 </ol>
-ant.com</a></p>
+</a></p>
 </li>
 </ol>
-li>
 </ol>
-ant.com</a></p>
+</a></p>
 </li>
 </ol>

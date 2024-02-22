@@ -7,6 +7,7 @@ const loaded = ref(false);
 const { page, globals } = useContent();
 const route = useRoute();
 const pageData = page.value;
+pageData.page_title = "Hinge";
 
 const changeCurrentHash = (slug) => {
   currentHash.value = slug;

@@ -1,5 +1,5 @@
 <script setup>
-import { marked } from 'marked';
+import { marked } from "marked";
 const markdownify = (text) => {
   const markdown = marked.parse(text);
   return markdown;
@@ -9,11 +9,12 @@ const markdownify = (text) => {
 <template>
   <section
     :data-cms-bind="dataBinding"
-    class="font-display"
+    class="font-body"
     :style="{
       'background-color': block.background_color,
       color: block.layout.text.color,
-    }">
+    }"
+  >
     <div
       class="grid lg:grid-cols-2 gap-8"
       :class="[
@@ -25,7 +26,8 @@ const markdownify = (text) => {
         'padding-inline': block.layout.horizontal_padding + 'px',
         'padding-block': block.layout.vertical_padding + 'px',
         'max-width': block.layout.max_width + 'px',
-      }">
+      }"
+    >
       <!-- Text Unflipped -->
       <section
         v-if="!block.layout.flipped"
@@ -35,23 +37,25 @@ const markdownify = (text) => {
           'padding-block': block.layout.text.vertical_padding + 'px',
           'padding-inline': block.layout.text.horizontal_padding + 'px',
           'max-width': block.layout.text.max_width + 'px',
-        }">
-        <h1 class="font-bold text-[36px] border-b">
-          {{ block.heading }}
-        </h1>
+        }"
+      >
+        <h1 class="font-bold text-[36px] border-b">{{ block.heading }}</h1>
         <blockquote
           class="large-quote"
           v-if="block.layout.text.text_is_quote"
-          v-html="markdownify(block.text)"></blockquote>
+          v-html="markdownify(block.text)"
+        ></blockquote>
         <footer
           v-if="block.layout.text.quote_author"
-          class="large-quote__author">
+          class="large-quote__author"
+        >
           - {{ block.layout.text.quote_author }}
         </footer>
         <div
           v-if="!block.layout.text.text_is_quote"
           class="left-right__text"
-          v-html="markdownify(block.text)"></div>
+          v-html="markdownify(block.text)"
+        ></div>
       </section>
 
       <!-- Standard image -->
@@ -59,11 +63,13 @@ const markdownify = (text) => {
         v-if="block.image.image.src"
         :class="[
           block.layout.flipped ? 'flex justify-start' : 'flex justify-end',
-        ]">
-        <nuxt-img
+        ]"
+      >
+        <img
           class="rounded-sm"
           :src="block.image.image.src"
-          :alt="block.image.image.alt" />
+          :alt="block.image.image.alt"
+        />
       </section>
 
       <!-- Image grid -->
@@ -74,30 +80,35 @@ const markdownify = (text) => {
           'grid-template-columns':
             'repeat(2, minmax(0,' + block.image.image_grid.image_width + 'px))',
           gap: '16px',
-        }">
+        }"
+      >
         <div
           class="flex flex-col overflow-hidden justify-center items-center"
-          v-for="image in block.image.image_grid.images">
+          v-for="image in block.image.image_grid.images"
+        >
           <p
             v-if="image.heading"
-            class="text-white text-center font-bold text-[18px] w-[50%]">
+            class="text-white text-center font-bold text-[18px] w-[50%]"
+          >
             {{ image.heading }}
           </p>
-          <nuxt-img
+          <img
             :src="image.image.src"
-            class="object-cover h-full w-full rounded-sm" />
+            class="object-cover h-full w-full rounded-sm"
+          />
         </div>
       </section>
 
       <!-- Full sized image -->
       <section v-if="block.image.full_sized_image.src">
         <div class="overflow-hidden justify-center items-center">
-          <nuxt-img
+          <img
             :src="block.image.full_sized_image.src"
             class="object-cover h-full w-full"
             :style="{
               'max-height': block.image.full_sized_image.max_height + 'px',
-            }" />
+            }"
+          />
         </div>
       </section>
 
@@ -110,7 +121,8 @@ const markdownify = (text) => {
           'padding-block': block.layout.text.vertical_padding + 'px',
           'padding-inline': block.layout.text.horizontal_padding + 'px',
           'max-width': block.layout.text.max_width + 'px',
-        }">
+        }"
+      >
         <h1 class="font-bold text-[36px] border-b">
           {{ block.heading }}
         </h1>
@@ -118,14 +130,16 @@ const markdownify = (text) => {
           {{ block.text }}
           <footer
             v-if="block.layout.text.quote_author"
-            class="large-quote__author">
+            class="large-quote__author"
+          >
             - {{ block.layout.text.quote_author }}
           </footer>
         </blockquote>
         <div
           v-if="!block.layout.text.text_is_quote"
           class="left-right__text"
-          v-html="markdownify(block.text)"></div>
+          v-html="markdownify(block.text)"
+        ></div>
       </section>
     </div>
   </section>
@@ -133,7 +147,7 @@ const markdownify = (text) => {
 
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -182,13 +196,13 @@ export default {
 
 .large-quote::before {
   --side-length: 100px;
-  content: '';
+  content: "";
   width: var(--side-length);
   height: var(--side-length);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('/images/assets/quote.png');
+  background-image: url("/images/assets/quote.png");
   background-size: 100%;
   transform: translate(-10%, -40%);
   z-index: 99;

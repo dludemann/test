@@ -1,18 +1,18 @@
 <script>
-import axios from 'axios';
+import axios from "axios";
 
 export default {
-  name: 'ContactForm',
+  name: "ContactForm",
   inheritAttrs: false,
   props: {
     title: {
       type: String,
-      default: 'Enquire Now',
+      default: "Enquire Now",
     },
     bottom_text: {
       type: String,
       default:
-        'Each session includes coaching on posing and facial expressions to help you look better in both photos and real life. You’ll receive a booklet with advice about how to use your photos online, how to open women online, and other tips for your adventures online.',
+        "Each session includes coaching on posing and facial expressions to help you look better in both photos and real life. You’ll receive a booklet with advice about how to use your photos online, how to open women online, and other tips for your adventures online.",
     },
     hasCityInput: {
       type: Boolean,
@@ -20,51 +20,51 @@ export default {
     },
     city: {
       type: String,
-      default: '',
+      default: "",
     },
   },
   data() {
     return {
-      endpoint: 'https://hooks.zapier.com/hooks/catch/1261564/se0vhq/',
+      endpoint: "https://hooks.zapier.com/hooks/catch/1261564/se0vhq/",
       formData: {
-        firstName: '',
-        lastName: '',
-        email: '',
-        source: '',
+        firstName: "",
+        lastName: "",
+        email: "",
+        source: "",
         city: this.city,
       },
     };
   },
   computed: {
     contactFormAttribute: function () {
-      return process.env.DEV_ENV === 'True'
-        ? 'ContactFormSubmission-Dev'
-        : 'ContactFormSubmission';
+      return process.env.DEV_ENV === "True"
+        ? "ContactFormSubmission-Dev"
+        : "ContactFormSubmission";
     },
   },
   mounted() {
     // Lee: add captcha script tag
-    let captcha = document.createElement('script');
+    let captcha = document.createElement("script");
     captcha.setAttribute(
-      'src',
-      'https://www.google.com/recaptcha/api.js?render=6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM'
+      "src",
+      "https://www.google.com/recaptcha/api.js?render=6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM"
     );
     document.head.appendChild(captcha);
 
     //append plausible tracking
-    let plausible = document.createElement('script');
-    plausible.setAttribute('src', 'https://plausible.io/js/script.js');
-    plausible.setAttribute('defer', 'defer');
-    plausible.setAttribute('data-domain', 'thematchartist.com');
+    let plausible = document.createElement("script");
+    plausible.setAttribute("src", "https://plausible.io/js/script.js");
+    plausible.setAttribute("defer", "defer");
+    plausible.setAttribute("data-domain", "thematchartist.com");
     document.head.appendChild(plausible);
-    let exec = document.createElement('script');
+    let exec = document.createElement("script");
     exec.innerHTML =
-      'window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }';
+      "window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }";
     document.head.appendChild(exec);
 
     // load email and source from cookie
-    let email = this.getCookie('email');
-    let source = this.getCookie('source');
+    let email = this.getCookie("email");
+    let source = this.getCookie("source");
 
     this.formData.email = email;
     this.formData.source = source;
@@ -73,13 +73,13 @@ export default {
     submitForm(event) {
       event.preventDefault();
       let plausibleBtn = event.target
-        .querySelectorAll('button[data-analytics]')
+        .querySelectorAll("button[data-analytics]")
         .item(0);
 
       let attributes = plausibleBtn
-        .getAttribute('data-analytics')
+        .getAttribute("data-analytics")
         .split(/,(.+)/);
-      let events = [attributes[0], attributes[1] || '{}'];
+      let events = [attributes[0], attributes[1] || "{}"];
       // eslint-disable-next-line no-undef
       plausible(...events);
       setTimeout(function () {}, 150);
@@ -91,14 +91,14 @@ export default {
         Email: email,
         City: city,
         Source: source,
-        Token: '',
+        Token: "",
       };
       // eslint-disable-next-line no-undef
       grecaptcha.ready(function () {
         // eslint-disable-next-line no-undef
         grecaptcha
-          .execute('6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM', {
-            action: 'submit',
+          .execute("6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM", {
+            action: "submit",
           })
           .then(function (token) {
             // Add your logic to submit to your backend server here.
@@ -107,50 +107,50 @@ export default {
             // axios call to zapier
             axios
               .post(
-                'https://hooks.zapier.com/hooks/catch/1261564/bdpikub/',
+                "https://hooks.zapier.com/hooks/catch/1261564/bdpikub/",
                 preparedData,
                 {
                   headers: {
-                    'Content-Type': 'application/x-www-form-urlencoded',
+                    "Content-Type": "application/x-www-form-urlencoded",
                   },
                 }
               )
               .then((res) => {
                 window.location.href =
-                  'https://bookme.name/thematchartist/lite/free-consultation-with-shane';
+                  "https://bookme.name/thematchartist/lite/free-consultation-with-shane";
               })
               .catch((error) => {
-                console.log('ERROR');
+                console.log("ERROR");
                 console.log(error);
               });
           });
       });
     },
     getCookie(cname) {
-      let name = cname + '=';
-      let ca = document.cookie.split(';');
+      let name = cname + "=";
+      let ca = document.cookie.split(";");
       for (let i = 0; i < ca.length; i++) {
         let c = ca[i];
-        while (c.charAt(0) == ' ') {
+        while (c.charAt(0) == " ") {
           c = c.substring(1);
         }
         if (c.indexOf(name) == 0) {
           return c.substring(name.length, c.length);
         }
       }
-      return '';
+      return "";
     },
   },
 };
 </script>
 <template>
   <form
-    class="container flex flex-col gap-4 w-full max-w-[420px] mx-auto font-display py-8 my-5 px-4"
+    class="container flex flex-col gap-4 w-full max-w-[420px] mx-auto font-display my-5 px-4"
     method="POST"
     :action="endpoint"
     @submit.stop.prevent="submitForm"
   >
-    <h2 class="text-center text-[2.2rem] text-[3.125rem]">Enquire Now</h2>
+    <h2 class="font-bold font-accent text-[45px] font-body">Inquire Now</h2>
     <fieldset class="flex flex-col">
       <label class="contact__label" for="firstName">First Name </label>
       <input
@@ -210,7 +210,7 @@ export default {
       type="submit"
       :data-analytics="contactFormAttribute"
     >
-      Enquire Now
+      Inquire Now
       <img src="/icons/arrow-right.svg" class="w-[24px] h-[24px] ml-2" alt="" />
     </button>
   </form>

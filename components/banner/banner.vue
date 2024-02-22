@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -10,7 +10,7 @@ export default {
     :data-cms-bind="dataBinding"
     :style="{ 'background-color': block.background_color }"
   >
-    <nuxt-img
+    <img
       v-if="block.background_image"
       :src="block.background_image"
       alt=""
@@ -40,7 +40,7 @@ export default {
           <div class="h-px w-[10px] bg-[#171717]" />
         </div>
         <h1
-          class="text-[39px] font-bold"
+          class="font-light z-10 relative text-[40px] lg:text-[50px] font-display lg:leading-[96px] text-center text-white"
           :style="{
             'padding-top': block.title.top_spacing + 'px',
             'padding-bottom': block.title.bottom_spacing + 'px',
@@ -50,7 +50,7 @@ export default {
           {{ block.title.text }}
         </h1>
         <p
-          class="text-[#CE3E3E] text-[18px] tracking-wider leading-8 max-w-[800px] mx-auto"
+          class="text-[#CE3E3E] text-[18px] tracking-wider leading-8 max-w-[800px] mx-auto font-body"
           v-if="block.description.text"
           :style="{
             'padding-top': block.description.top_spacing + 'px',
@@ -79,7 +79,7 @@ export default {
         >
           <p class="font-bold self-center mr-4" v-if="index > 0">/</p>
           <button
-            class="text-[18px] py-1 underline underline-offset-8 decoration-2"
+            class="text-[18px] py-1 underline underline-offset-8 decoration-2 font-body"
           >
             {{ button.button_text }}
           </button>

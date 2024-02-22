@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -18,7 +18,7 @@ export default {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <nuxt-img
+          <img
             :src="link.image.src"
             :alt="link.image.alt"
             :style="{ opacity: link.image.opacity }"
@@ -34,7 +34,7 @@ export default {
         :href="news_mention.path"
         target="_blank"
       >
-        <nuxt-img :src="news_mention.image.src" :alt="news_mention.image.alt" />
+        <img :src="news_mention.image.src" :alt="news_mention.image.alt" />
       </a>
     </div>
   </section>

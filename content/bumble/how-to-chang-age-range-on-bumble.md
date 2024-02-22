@@ -1,5 +1,5 @@
 ---
-title: 'How to Change Age Preference on Bumble'
+title: "How to Change Age Preference on Bumble"
 menu_grouping: Bumble Settings
 author: Shane White
 seo:
@@ -294,36 +294,32 @@ seo:
 <p><a href="https://bumble.com/en/help/is-there-a-swipe-limit#:~:text=Once%20you%20hit%20your%20daily,Boost%20or%20Bumble%20Premium%20subscription">bumble.com</a></p>
 </li>
 </ol>
-um%20subscription">bumble.com</a></p>
+</a></p>
 </li>
 </ol>
 </ol>
-m</a></p>
+</a></p>
 </li>
 </ol>
-li>
+
 </ol>
 </ol>
-m</a></p>
-</li>
-</ol>
-</ol>
-m</a></p>
+</a></p>
 </li>
 </ol>
 </ol>
-m</a></p>
+</a></p>
 </li>
 </ol>
 </ol>
-</ol>
->
-m</a></p>
+</a></p>
 </li>
 </ol>
 </ol>
 </ol>
+</a></p>
+</li>
 </ol>
-ol>
->
-ol>
+</ol>
+</ol>
+</ol>
