@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -38,6 +38,8 @@ export default {
         <contact-form
           :has-city-input="block.form.city_input"
           :city="block.form.city"
+          :state="block.form.state"
+          :country="'USA'"
         />
       </div>
     </div>

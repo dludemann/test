@@ -26,6 +26,10 @@ export default {
       type: String,
       default: "",
     },
+    country: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -37,6 +41,7 @@ export default {
         source: "",
         city: this.city,
         state: this.state,
+        country: this.country,
       },
     };
   },
@@ -89,13 +94,15 @@ export default {
       plausible(...events);
       setTimeout(function () {}, 150);
 
-      const { firstName, lastName, email, city, state, source } = this.formData;
+      const { firstName, lastName, email, city, state, source, country } =
+        this.formData;
       const preparedData = {
         FirstName: firstName,
         LastName: lastName,
         Email: email,
         City: city,
         State: state,
+        Country: country,
         Source: source,
         Token: "",
       };
@@ -196,6 +203,22 @@ export default {
       />
     </fieldset>
 
+    <input
+      id="State"
+      v-model="formData.state"
+      class="hidden"
+      type="text"
+      name="State"
+    />
+
+    <input
+      id="Country"
+      v-model="formData.country"
+      class="hidden"
+      type="text"
+      name="Country"
+    />
+
     <fieldset class="flex flex-col">
       <label class="contact__label" for="email">Email </label>
 
@@ -210,7 +233,13 @@ export default {
       />
     </fieldset>
 
-    <input v-if="!hasCityInput" type="hidden" name="City" :value="city" />
+    <input
+      v-if="!hasCityInput"
+      type="hidden"
+      name="City"
+      id="City"
+      :value="city"
+    />
     <button
       class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold"
       type="submit"
