@@ -4,13 +4,13 @@ spec:
     - content_blocks
   label: Left Right - Form
   description: Left Right with Form
-  icon: 'view_sidebar'
-  tags: ['Left Right']
+  icon: "view_sidebar"
+  tags: ["Left Right"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  background_color: '#090303'
-  text_color: '#000000'
+  background_color: "#090303"
+  text_color: "#000000"
   title: Professional Dating Photography in Austin, Texas
   description:
     We tailor your photo experience with us to highlight things you enjoy
@@ -26,7 +26,7 @@ blueprint:
       text: Improved social media presence
   form:
     title: Enquire Now
-    city_input: true
+    city_input: false
     city: Austin
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

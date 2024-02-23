@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
@@ -20,7 +20,7 @@ content_blocks:
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:
-      text: 'An overall skyrocketing experience for my online dating.'
+      text: "An overall skyrocketing experience for my online dating."
       person: Brent S
       image:
         src: /images/work/brent.webp
@@ -32,11 +32,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Enquire Now
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
@@ -60,8 +60,8 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
@@ -69,8 +69,8 @@ content_blocks:
       src: /images/work/austin-before-after.webp
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
+      background_color: "#FFFFFF"
+      text_color: "#090303"
       text: Before getting pics taken by The Match Artist, I was getting 2-3
         tinder matches a week. After getting new high value pictures from
         The Match Artist and tweaking my bio I was getting over 5 matches
@@ -81,7 +81,7 @@ content_blocks:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Enquire Now
-        background_color: '#990800'
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -90,11 +90,11 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -113,7 +113,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
@@ -132,8 +132,8 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
-      text: 'Enquire now'
+      path: "#contact"
+      text: "Enquire now"
     image:
       src: /images/location/group-image.webp
       alt:
@@ -156,8 +156,8 @@ content_blocks:
       - question: Why hire an online dating photographer?
         answer: Because every online dating app prioritizes photos. You could look like Brad Pitt in real life, but if your photos suck and people can't see that - then you're not going to be matching with many people. Most people don't have great photos. So we scrap together whatever old photos we can find, add in a few bathroom selfies and hope for the best. We know these awkward photos don't do us justice, but it's all we have. An online dating photographer will help showcase all your best features. They'll highlight your charisma, charm and confidence. The'll find all your best angles, help you look natural and deliver stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Dallas, Texas
     description:
       We tailor your photo experience with us to highlight things you enjoy
@@ -173,6 +173,6 @@ content_blocks:
         text: Improved social media presence
     form:
       title: Enquire Now
-      city_input: true
+      city_input: false
       city: Dallas
 ---

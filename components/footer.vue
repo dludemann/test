@@ -218,7 +218,7 @@ const nav_links =
               value=""
               placeholder="Email"
               required
-              class="input"
+              class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
             />
 
             <input
@@ -226,7 +226,7 @@ const nav_links =
               name="fields[first_name]"
               placeholder="First Name"
               required
-              class="input"
+              class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
             />
             <button class="btn btn-primary lg:w-auto" type="submit">
               Sign Up
