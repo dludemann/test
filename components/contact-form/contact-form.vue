@@ -219,6 +219,14 @@ export default {
       name="Country"
     />
 
+    <input
+      class="hidden"
+      type="text"
+      name="City"
+      id="City"
+      v-model="formData.city"
+    />
+
     <fieldset class="flex flex-col">
       <label class="contact__label" for="email">Email </label>
 
@@ -233,13 +241,6 @@ export default {
       />
     </fieldset>
 
-    <input
-      v-if="!hasCityInput"
-      type="hidden"
-      name="City"
-      id="City"
-      :value="city"
-    />
     <button
       class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold"
       type="submit"
