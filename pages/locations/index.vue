@@ -31,7 +31,7 @@ const filteredLocations = computed(() =>
 
         <div class="relative w-full">
           <input
-            class="input w-full mt-10"
+            class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center w-full mt-10"
             placeholder="Where do you live?"
             v-model="search"
           />
