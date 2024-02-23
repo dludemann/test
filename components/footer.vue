@@ -228,7 +228,10 @@ const nav_links =
               required
               class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
             />
-            <button class="btn btn-primary lg:w-auto" type="submit">
+            <button
+              class="px-6 py-3 flex gap-2 font-display text-lg leading-[25px] font-semibold justify-center bg-primary-900 text-white hover:bg-primary-700 focus:bg-primary-700 disabled:bg-secondary-100 transition duration-150 lg:w-auto"
+              type="submit"
+            >
               Sign Up
             </button>
           </form>
