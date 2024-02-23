@@ -25,7 +25,7 @@ content_blocks:
       horizontal_padding: 9
     button:
       path: "#contact"
-      text: Enquire Now
+      text: Inquire Now
   - _bookshop_name: image-slider
     background_color: "#090303"
     text_color: "#FFFFFF"
@@ -72,7 +72,7 @@ content_blocks:
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
-        text: Enquire Now
+        text: Inquire Now
         background_color: "#990800"
       stats:
         - number: 1000
@@ -125,7 +125,7 @@ content_blocks:
         text: 200-300 edited photos
     button:
       path: "#contact"
-      text: "Enquire now"
+      text: "Inquire now"
     image:
       src: /images/location/group-image.webp
       alt:
@@ -164,7 +164,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: Improved social media presence
     form:
-      title: Enquire Now
+      title: Inquire Now
       city_input: false
       city: New York
 ---

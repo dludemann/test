@@ -4,13 +4,13 @@ spec:
     - content_blocks
   label: Left Right - Quote
   description: Left Right with quote.
-  icon: 'view_sidebar'
-  tags: ['Left Right']
+  icon: "view_sidebar"
+  tags: ["Left Right"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  background_color: '#090303'
-  text_color: '#FFFFFF'
+  background_color: "#090303"
+  text_color: "#FFFFFF"
   location:
     city: Austin
     state: Texas
@@ -18,8 +18,8 @@ blueprint:
     src: /images/work/austin-before-after.webp
   title: Transform Your Online Dating Profile
   quote:
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     text: Before getting pics taken by The Match Artist, I was getting 2-3
       tinder matches a week. After getting new high value pictures from
       The Match Artist and tweaking my bio I was getting over 5 matches
@@ -29,8 +29,8 @@ blueprint:
   cta:
     title: Stand Out in the Digital Dating Scene
     button:
-      text: Enquire Now
-      background_color: '#990800'
+      text: Inquire Now
+      background_color: "#990800"
     stats:
       - number: 1000
         text: Successful Clients
@@ -39,7 +39,7 @@ blueprint:
       - number: 250
         text: Relationships
   button:
-    path: '#contact'
+    path: "#contact"
     text: Book a Call
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

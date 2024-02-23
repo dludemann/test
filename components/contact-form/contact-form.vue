@@ -7,7 +7,7 @@ export default {
   props: {
     title: {
       type: String,
-      default: "Enquire Now",
+      default: "Inquire Now",
     },
     bottom_text: {
       type: String,

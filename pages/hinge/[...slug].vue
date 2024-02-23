@@ -186,7 +186,7 @@ loaded.value = true;
       :main-slug="mainSlug"
       @hash-change="changeCurrentHash"
     />
-    <section class="w-full font-display p-8 mb-[50px]">
+    <section class="w-full font-display">
       <!-- Text content  -->
       <section class="max-w-[800px] mx-auto">
         <p class="text-[1rem] font-bold text-[#171717] uppercase pt-[50px]">

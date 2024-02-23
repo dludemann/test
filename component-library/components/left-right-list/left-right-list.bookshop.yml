@@ -4,8 +4,8 @@ spec:
     - content_blocks
   label: Left Right - List
   description: Left Right with list.
-  icon: 'view_sidebar'
-  tags: ['Left Right']
+  icon: "view_sidebar"
+  tags: ["Left Right"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
@@ -24,8 +24,8 @@ blueprint:
     - icon: /icons/green-tick.svg
       text: 200-300 edited photos
   button:
-    path: '#contact'
-    text: Enquire Now
+    path: "#contact"
+    text: Inquire Now
   image:
     src: /images/location/group-image.webp
     alt:

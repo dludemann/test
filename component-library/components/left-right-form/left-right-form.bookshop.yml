@@ -25,7 +25,7 @@ blueprint:
     - icon: /icons/green-tick.svg
       text: Improved social media presence
   form:
-    title: Enquire Now
+    title: Inquire Now
     city_input: false
     city: Austin
 
