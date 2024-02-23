@@ -174,5 +174,5 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: Washington
+      state: District of Columbia
 ---

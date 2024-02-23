@@ -175,9 +175,5 @@ content_blocks:
       title: Inquire Now
       city_input: false
       city: Jacksonville
----
-
-true
-city: Jacksonville
-
+      state: Florida
 ---

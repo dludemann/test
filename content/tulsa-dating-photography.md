@@ -174,5 +174,6 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: Tulsa
+      city: Tusla
+      state: Oklahoma
 ---

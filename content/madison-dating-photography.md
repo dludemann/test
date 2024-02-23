@@ -175,6 +175,7 @@ content_blocks:
       title: Inquire Now
       city_input: false
       city: Madison
+      state: Alabama
 ---
 
 ## dison

@@ -175,6 +175,5 @@ content_blocks:
       title: Inquire Now
       city_input: false
       city: Portland
----
-
+      state: Maine
 ---

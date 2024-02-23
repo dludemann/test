@@ -167,4 +167,5 @@ content_blocks:
       title: Inquire Now
       city_input: false
       city: New York
+      state: New York
 ---

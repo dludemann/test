@@ -162,6 +162,7 @@ export default {
     method="POST"
     :action="endpoint"
     @submit.stop.prevent="submitForm"
+    id="main-landing-page-form"
   >
     <h2 class="font-bold font-accent text-[45px] font-body">Inquire Now</h2>
     <fieldset class="flex flex-col">
