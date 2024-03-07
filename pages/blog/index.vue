@@ -24,7 +24,7 @@ const pagedPosts = await queryContent('blog')
   .where({
     _path: { $ne: '/blog' },
   })
-  .sort({ createdAt: 'asc' })
+  .sort({ created: -1 })
   .limit(pageData.pagination.size)
   .find();
 </script>
