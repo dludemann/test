@@ -22,8 +22,8 @@ content_blocks:
       top_spacing:
       bottom_spacing:
     title:
-      text: 'Dogs'
-      text_color: '#FFFFFF'
+      text: "Dogs"
+      text_color: "#FFFFFF"
       heading_style: h1
       top_spacing: 72
       bottom_spacing: 72
@@ -33,155 +33,155 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: card-grid-three-column
-    title: 'Dogs'
+    title: "Dogs"
     subtitle: The Match Artist
     heading_style: portfolio
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
     column_one:
-      - src: images/portfolio/qYK6D5RVmVI6NcdWreAM.jpg
+      - src: /images/portfolio/qYK6D5RVmVI6NcdWreAM.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/kGJAPHNRdCdkaiHW1jln.jpg
+      - src: /images/portfolio/kGJAPHNRdCdkaiHW1jln.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/XoeoWwEYS5mLdgF7pqnK.jpg
+      - src: /images/portfolio/XoeoWwEYS5mLdgF7pqnK.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/yIJQoZwbTriT9tN9h9bb.jpg
+      - src: /images/portfolio/yIJQoZwbTriT9tN9h9bb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/i7C28Y28SHyzL6wqHaVs.jpg
+      - src: /images/portfolio/i7C28Y28SHyzL6wqHaVs.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/RphMP4fQU6CltH0DcdFg.jpg
+      - src: /images/portfolio/RphMP4fQU6CltH0DcdFg.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/M7nSw30SJCiv2RWoLui2.jpg
+      - src: /images/portfolio/M7nSw30SJCiv2RWoLui2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/vVY3We85RvaTNAmnbeIJ.jpg
+      - src: /images/portfolio/vVY3We85RvaTNAmnbeIJ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/r8hyFp3EQFecfLHFFspq.jpg
+      - src: /images/portfolio/r8hyFp3EQFecfLHFFspq.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/9BDbaMUbSge1KH88S6fI.jpg
+      - src: /images/portfolio/9BDbaMUbSge1KH88S6fI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/DwZh97RT76Yt76GfvIUd.jpg
+      - src: /images/portfolio/DwZh97RT76Yt76GfvIUd.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/ejTbkTrERLOBS7V2JUiX.jpg
+      - src: /images/portfolio/ejTbkTrERLOBS7V2JUiX.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/zAh3kNNSFqNdoVDOdXOg.jpg
+      - src: /images/portfolio/zAh3kNNSFqNdoVDOdXOg.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/p6O2odU9RfaBrer3jZ6w.jpg
+      - src: /images/portfolio/p6O2odU9RfaBrer3jZ6w.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/Wht90YMsRxS1UArqmba9.jpg
+      - src: /images/portfolio/Wht90YMsRxS1UArqmba9.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/augTiQAXQw2cdaafLmNN.jpg
+      - src: /images/portfolio/augTiQAXQw2cdaafLmNN.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/aGXNnC40SyiyIAUrch5y.jpg
+      - src: /images/portfolio/aGXNnC40SyiyIAUrch5y.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/VUqNev8DR0GkAgv5vV5k.jpg
+      - src: /images/portfolio/VUqNev8DR0GkAgv5vV5k.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/C4b9BOQ2KK4r5YkHp2g5.jpg
+      - src: /images/portfolio/C4b9BOQ2KK4r5YkHp2g5.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/Buz4woVNQwy94CSI7TQi.jpg
+      - src: /images/portfolio/Buz4woVNQwy94CSI7TQi.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/KgH7EscNQOaPQtKQyvjz.jpg
+      - src: /images/portfolio/KgH7EscNQOaPQtKQyvjz.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/BoXLIsLHTmCNDgCq5rhC.jpg
+      - src: /images/portfolio/BoXLIsLHTmCNDgCq5rhC.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/0q3kZmlERCRgubDfcfUQ.jpg
+      - src: /images/portfolio/0q3kZmlERCRgubDfcfUQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/iu8KrZnVQ2yQlj2Kb9E8.jpg
+      - src: /images/portfolio/iu8KrZnVQ2yQlj2Kb9E8.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/2qtCdmFQgW8ajaqt5VOU.jpg
+      - src: /images/portfolio/2qtCdmFQgW8ajaqt5VOU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/tcnFXzlQ6KM8XMco6pYQ.jpg
+      - src: /images/portfolio/tcnFXzlQ6KM8XMco6pYQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
     column_two:
-      - src: images/portfolio/azYctq0Ry6qfxd3r2oBQ.jpg
+      - src: /images/portfolio/azYctq0Ry6qfxd3r2oBQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/b7eWjb4kSd2RBSstaDlH.jpg
+      - src: /images/portfolio/b7eWjb4kSd2RBSstaDlH.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/W2Vb74F7TYGth6bc2fdL.jpg
+      - src: /images/portfolio/W2Vb74F7TYGth6bc2fdL.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/uvrgA9gbTMKeMH3ivKTW.jpg
+      - src: /images/portfolio/uvrgA9gbTMKeMH3ivKTW.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/lNtRZMySoC3GDfZRU5pj.jpg
+      - src: /images/portfolio/lNtRZMySoC3GDfZRU5pj.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/huGlcjR5TweTFXZqsfF0.jpg
+      - src: /images/portfolio/huGlcjR5TweTFXZqsfF0.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/MRFrvfRSeaW3y3yxOU7Q.jpg
+      - src: /images/portfolio/MRFrvfRSeaW3y3yxOU7Q.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/O94pFDM4SXWu1fZ8tENU.jpg
+      - src: /images/portfolio/O94pFDM4SXWu1fZ8tENU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/caGobFvhTj2g1lAUIVSc.jpg
+      - src: /images/portfolio/caGobFvhTj2g1lAUIVSc.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/9CYjzjHKTY29cr41Qvkc.jpg
+      - src: /images/portfolio/9CYjzjHKTY29cr41Qvkc.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/6G6CCmQsQ4u17dCHUTdr.jpg
+      - src: /images/portfolio/6G6CCmQsQ4u17dCHUTdr.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/V4Yp14QfQ0601e2g7Vyb.jpg
+      - src: /images/portfolio/V4Yp14QfQ0601e2g7Vyb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/M3ZX2R0pSXmVAKTYdTbv.jpg
+      - src: /images/portfolio/M3ZX2R0pSXmVAKTYdTbv.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/Wf5mB0U5SPClcTGjWbsP.jpg
+      - src: /images/portfolio/Wf5mB0U5SPClcTGjWbsP.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/3xyz19mETt6A4RiRFMS0.jpg
+      - src: /images/portfolio/3xyz19mETt6A4RiRFMS0.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/agXhaUtKRsq4cOmtoQNM.jpg
+      - src: /images/portfolio/agXhaUtKRsq4cOmtoQNM.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/hR8oq98zTDWmJebqeOVX.jpg
+      - src: /images/portfolio/hR8oq98zTDWmJebqeOVX.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/dln4J8h2QWCAxWGD5Mp2.jpg
+      - src: /images/portfolio/dln4J8h2QWCAxWGD5Mp2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/pBaDv3SS1ejIwdpwKonk.jpg
+      - src: /images/portfolio/pBaDv3SS1ejIwdpwKonk.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/Se87rqR6q8Jzf73A98Ug.jpg
+      - src: /images/portfolio/Se87rqR6q8Jzf73A98Ug.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/AGb2CDxfSVq2FUIwCXhP.jpg
+      - src: /images/portfolio/AGb2CDxfSVq2FUIwCXhP.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/r5RNHTirTom7JbSBnCbm.jpg
+      - src: /images/portfolio/r5RNHTirTom7JbSBnCbm.jpg
         alt: Dating photo with a dog, taken by The Match Artist
     column_three:
-      - src: images/portfolio/qmjkq29fSEqkeBsIkjAp.jpg
+      - src: /images/portfolio/qmjkq29fSEqkeBsIkjAp.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/tPC5aI56SPK06D8BnNLq.jpg
+      - src: /images/portfolio/tPC5aI56SPK06D8BnNLq.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/0PMtXqwoTHqeTCq4M5KI.jpg
+      - src: /images/portfolio/0PMtXqwoTHqeTCq4M5KI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/mTXDGRFzQFecHRi5RN0K.jpg
+      - src: /images/portfolio/mTXDGRFzQFecHRi5RN0K.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/dmocjzfTTAGic828Ivxz.jpg
+      - src: /images/portfolio/dmocjzfTTAGic828Ivxz.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/bHnWHtQkOaACIzarxqTA.jpg
+      - src: /images/portfolio/bHnWHtQkOaACIzarxqTA.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/mQZJH5c6Qo2w3JpB7hk4.jpg
+      - src: /images/portfolio/mQZJH5c6Qo2w3JpB7hk4.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/1SJ43CyGR0Gj5moDNe3N.jpg
+      - src: /images/portfolio/1SJ43CyGR0Gj5moDNe3N.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/ZMBGTCEpQnq72BRCDJd7.jpg
+      - src: /images/portfolio/ZMBGTCEpQnq72BRCDJd7.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/SgJbOgWFQBuQllLb2O0N.jpg
+      - src: /images/portfolio/SgJbOgWFQBuQllLb2O0N.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/UAc2CWBGQuUJjxbBsK0g.jpg
+      - src: /images/portfolio/UAc2CWBGQuUJjxbBsK0g.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/xPVwlVhdSVKs6JEx0yFi.jpg
+      - src: /images/portfolio/xPVwlVhdSVKs6JEx0yFi.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/qY2WRI2QD29iidWWj8ng.jpg
+      - src: /images/portfolio/qY2WRI2QD29iidWWj8ng.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/vUwxaN2NSQiGQwvGEFvU.jpg
+      - src: /images/portfolio/vUwxaN2NSQiGQwvGEFvU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/SgSUJmqtSF2SGgCnopfp.jpg
+      - src: /images/portfolio/SgSUJmqtSF2SGgCnopfp.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/Cyc1YXgkTGemw3FoOdCK.jpg
+      - src: /images/portfolio/Cyc1YXgkTGemw3FoOdCK.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/CaQ0M9wTSVyeY6Jqv7xj.jpg
+      - src: /images/portfolio/CaQ0M9wTSVyeY6Jqv7xj.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/984THtfbSFyJ3mZbuzmR.jpg
+      - src: /images/portfolio/984THtfbSFyJ3mZbuzmR.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/SbQFANWtS7qA5lV0nkqI.jpg
+      - src: /images/portfolio/SbQFANWtS7qA5lV0nkqI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/ZwMy8lcQCOy1lmprEX4A.jpg
+      - src: /images/portfolio/ZwMy8lcQCOy1lmprEX4A.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/ANvCGwnQHi8CxcYy3tSe.jpg
+      - src: /images/portfolio/ANvCGwnQHi8CxcYy3tSe.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/OgbWCCnERf268cxl6fJ2.jpg
+      - src: /images/portfolio/OgbWCCnERf268cxl6fJ2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src: images/portfolio/ktwEBrZySIO8kphh0UIb.jpg
+      - src: /images/portfolio/ktwEBrZySIO8kphh0UIb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
 ---
