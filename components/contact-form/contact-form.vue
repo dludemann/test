@@ -78,10 +78,25 @@ export default {
 
     // load email and source from cookie
     let email = this.getCookie("email");
-    let source = this.getCookie("source");
+    let source = this.getCookie("source-cookie");
+
+    if (source) {
+      const decodedSource = decodeURIComponent(source);
+      const pairs = decodedSource.split(";");
+      let sourceValue = null;
+
+      for (let i = 0; i < pairs.length; i++) {
+        const pair = pairs[i].split("=");
+        if (pair[0].trim() === "source") {
+          sourceValue = pair[1];
+          break;
+        }
+      }
+
+      this.formData.source = sourceValue;
+    }
 
     this.formData.email = email;
-    this.formData.source = source;
   },
   methods: {
     submitForm(event) {
