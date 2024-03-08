@@ -30,6 +30,10 @@ export default {
       type: String,
       default: "",
     },
+    id: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -162,7 +166,7 @@ export default {
     method="POST"
     :action="endpoint"
     @submit.stop.prevent="submitForm"
-    id="main-landing-page-form"
+    :id="id"
   >
     <h2 class="font-bold font-accent text-[45px] font-body">Inquire Now</h2>
     <fieldset class="flex flex-col">
@@ -226,6 +230,14 @@ export default {
       name="City"
       id="City"
       v-model="formData.city"
+    />
+
+    <input
+      class="hidden"
+      type="text"
+      name="AffiliateSource"
+      id="AffiliateSource"
+      v-model="formData.source"
     />
 
     <fieldset class="flex flex-col">
