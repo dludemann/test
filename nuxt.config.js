@@ -42,6 +42,7 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@nuxt/image",
     "nuxt-swiper",
+    "@nuxtjs/robots",
   ],
   components: {
     global: true,

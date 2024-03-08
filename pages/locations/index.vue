@@ -14,6 +14,22 @@ const filteredLocations = computed(() =>
     location.cityFilter.includes(search.value.toLowerCase())
   )
 );
+
+useHead({
+  title: "The Match Artist - Locations",
+  meta: [
+    {
+      name: "description",
+      content:
+        "Online Dating Photos. &quot;Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!",
+    },
+    {
+      name: "og:description",
+      content:
+        "Online Dating Photos. &quot;Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!",
+    },
+  ],
+});
 </script>
 
 <template>

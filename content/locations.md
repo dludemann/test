@@ -248,9 +248,9 @@
     - location_name: 'Spokane'
       img: /images/locations/Y0EWHv2cT3G9Y2sTYQRi.jpg
       path: /spokane-dating-photography
-    - location_name: 'Winston–Salem'
+    - location_name: 'Winston-Salem'
       img: /images/locations/2OGzwNcQyqsZAwTxkhdx.jpg
-      path: /winston–salem-dating-photography
+      path: /winston-salem-dating-photography
     - location_name: 'Lexington'
       img: /images/locations/baVH3j9zSgquL4AUhJDU.jpg
       path: /lexington-dating-photography

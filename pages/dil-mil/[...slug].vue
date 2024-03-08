@@ -5,6 +5,9 @@ import menuGroupings from "../../data/guides/dil-mil.json";
 const currentHash = ref("");
 const loaded = ref(false);
 const { page, globals } = useContent();
+
+console.log("page", page);
+
 const route = useRoute();
 const pageData = page.value;
 pageData.page_title = "Dil Mil";
