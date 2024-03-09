@@ -251,7 +251,7 @@ export default {
       class="hidden"
       type="text"
       name="AffiliateSource"
-      id="AffiliateSource"
+      id="affiliate source"
       v-model="formData.source"
     />
 

@@ -1,9 +1,15 @@
 <script setup>
-const { data, error } = await useAsyncData("location", async () => {
-  const locations = await $fetch("/api/getUserLocation");
-  return { locations };
+const { data: ip } = await useFetch("https://api.ipify.org/?format=json", {
+  server: false,
 });
 
+const data = await $fetch(
+  "https://thematchartist.com/.netlify/functions/findUserLocation"
+);
+const location = data ? JSON.parse(data).message : null;
+
+const city = location ? location.city : null;
+console.log("city", city);
 const largeQuote1 = {
   quote: "This is one of the most fun things I’ve ever done.",
   author: "Match Artist Customer",
