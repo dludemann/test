@@ -16,7 +16,7 @@ const filteredLocations = computed(() =>
 );
 
 useHead({
-  title: "The Match Artist - Locations",
+  title: "Locations | The Match Artist",
   meta: [
     {
       name: "description",
