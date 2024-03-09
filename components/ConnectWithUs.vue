@@ -48,30 +48,28 @@
         href="https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/"
         target="_blank"
       >
-        <nuxt-img
-          src="/images/social/news-mentions/the-american-reporter.png"
-        />
+        <img src="/images/social/news-mentions/the-american-reporter.png" />
       </a>
       <a
         class="col-span-4 lg:col-span-1"
         href="https://www.entrepreneur.com/article/430103"
         target="_blank"
       >
-        <nuxt-img src="/images/social/news-mentions/entrepeneur.png" />
+        <img src="/images/social/news-mentions/entrepeneur.png" />
       </a>
       <a
         class="col-span-4 lg:col-span-1"
         href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/"
         target="_blank"
       >
-        <nuxt-img src="/images/social/news-mentions/new-york-weekly.png" />
+        <img src="/images/social/news-mentions/new-york-weekly.png" />
       </a>
       <a
         class="col-span-4 lg:col-span-1"
         href="https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen"
         target="_blank"
       >
-        <nuxt-img src="/images/social/news-mentions/morning-brew.webp" />
+        <img src="/images/social/news-mentions/morning-brew.webp" />
       </a>
     </div>
   </section>
