@@ -169,8 +169,13 @@ useHead({
     class="p-6 bg-white max-w-[800px] mx-auto flex-shrink-0 w-full flex flex-col items-center gap-8"
   >
     <p class="font-bold font-accent text-[50px]">Inquire Now</p>
-    <ContactForm v-if="city" :has-city-input="false" :city="city" />
-    <ContactForm v-else :has-city-input="false" />
+    <ContactForm
+      v-if="city"
+      :has-city-input="false"
+      :city="city"
+      id="near-me-contact-form"
+    />
+    <ContactForm v-else :has-city-input="false" id="near-me-contact-form" />
   </div>
 
   <div class="max-w-[900px] mx-auto text-center mt-4 mb-32">
