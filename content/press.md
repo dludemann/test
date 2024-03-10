@@ -1,7 +1,7 @@
 ---
-title: Online Dating Photographer
+title: Press Inquires
 seo:
-  page_description: We are the only photography company that ONLY specializes in online dating photography.
+  page_description: We've been featured in countless publications. Use our sample logos, and design assets to link to us.
   canonical_url:
   featured_image:
   featured_image_alt:

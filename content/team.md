@@ -1,7 +1,7 @@
 ---
 title: Our Team
 seo:
-  page_description: Photo collection by The Match Artist
+  page_description: Meat the team behind the camera
   canonical_url:
   featured_image:
   featured_image_alt:

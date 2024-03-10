@@ -1,5 +1,5 @@
 ---
-title: Book a call
+title: Albuquerque Dating Photography
 seo:
   page_description: Online Dating Photos in Albuquerque, New Mexico. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:

@@ -1,7 +1,7 @@
 ---
-title: Book a call
+title: Portland Dating Photography
 seo:
-  page_description: Online Dating Photos in Portland, Maine. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  page_description: Online Dating Photos in Portland, Oregon. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:

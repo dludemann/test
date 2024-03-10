@@ -1,7 +1,7 @@
 ---
-title: Book a call
+title: Waco Dating Photographer
 seo:
-  page_description: Online Dating Photos in Virginia Beach, Virginia. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  page_description: Online Dating Photos in Waco, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -13,8 +13,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Virginia Beach
-      state: Virginia
+      city: Waco
+      state: Texas
     image:
       src: /images/team/brian.webp
       alt: Photo of Brian on a black background

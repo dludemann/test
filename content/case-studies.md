@@ -1,5 +1,5 @@
 ---
-title: Case studies
+title: Case Studies
 seo:
   page_description: See how The Match Artist is helping real people achieve their dating goals.
   canonical_url:

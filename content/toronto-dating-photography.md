@@ -1,5 +1,5 @@
 ---
-title: Book a call
+title: Toronto Dating Photographer
 content_blocks:
   - _bookshop_name: hero-left-right-location
     background_color: "#090303"
