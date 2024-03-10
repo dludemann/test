@@ -1,7 +1,7 @@
 ---
-title: Toronto Dating Photographer
+title: London Ontario Dating Photographer
 seo:
-  page_description: Online Dating Photos in Toronto, Ontario Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  page_description: Online Dating Photos in Vancouver, Washington. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -13,8 +13,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Toronto
-      state: Ontario
+      city: Vancouver
+      state: Washington
     image:
       src: /images/team/brian.webp
       alt: Photo of Brian on a black background
@@ -38,8 +38,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Toronto
-      state: Ontario
+      city: Vancouver
+      state: Washington
     title: Full Photoshoot In Different Settings To Capture The Best You
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
@@ -63,8 +63,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Toronto
-      state: Ontario
+      city: Vancouver
+      state: Washington
     image:
       src: /images/work/austin-before-after.webp
     title: Transform Your Online Dating Profile
@@ -158,7 +158,7 @@ content_blocks:
   - _bookshop_name: left-right-form
     background_color: "#090303"
     text_color: "#000000"
-    title: Professional Dating Photography in Toledo, Ohio
+    title: Professional Dating Photography in Vancouver, Washington
     description:
       We tailor your photo experience with us to highlight things you enjoy
       doing most. Whether it's kayaking, rock climbing, reading, or drinking
@@ -174,6 +174,6 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: Toronto
-      state: Ontario
+      sity: Vancouver
+      state: Washington
 ---
