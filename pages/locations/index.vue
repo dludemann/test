@@ -4,6 +4,8 @@ const search = ref("");
 const { page } = useContent();
 const pageData = page.value;
 
+console.log(pageData);
+
 const locations = pageData.locations.map((location) => ({
   ...location,
   cityFilter: location.location_name.toLowerCase(),

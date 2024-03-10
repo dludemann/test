@@ -1,7 +1,7 @@
 ---
-title: Hamilton Dating Photography
+title: Edmonton Dating Photography
 seo:
-  page_description: Online Dating Photos in Hamilton, Ontario. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  page_description: Online Dating Photos in Edmonton, Alberta. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -13,8 +13,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Hamilton
-      state: Ontario
+      city: Edmonton
+      state: Manitoba
     image:
       src: /images/team/brian.webp
       alt: Photo of Brian on a black background
@@ -38,8 +38,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Hamilton
-      state: Ontario
+      city: Edmonton
+      state: Alberta
     title: Full Photoshoot In Different Settings To Capture The Best You
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
@@ -63,10 +63,10 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Hamilton
-      state: Ontario
+      city: Edmonton
+      state: Alberta
     image:
-      src: /images/work/austin-before-after.webp
+      src: /images/work/Edmonton-before-after.webp
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"
@@ -149,16 +149,16 @@ content_blocks:
         answer:
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want
-          to meet even more amazing people in Austin, an online dating
+          to meet even more amazing people in Edmonton, an online dating
           photographer can help.
-      - question: What are the best photos for dating in Austin?
-        answer: From our testing, people in Austin prefers photos that are authentic. This means no professional studio photos which have obviously been posed and edited. Instead, your photos should be taken outdoors in natural light, and they should focus on your charm, personality and confidence.
+      - question: What are the best photos for dating in Edmonton?
+        answer: From our testing, people in Edmonton prefers photos that are authentic. This means no professional studio photos which have obviously been posed and edited. Instead, your photos should be taken outdoors in natural light, and they should focus on your charm, personality and confidence.
       - question: Why hire an online dating photographer?
         answer: Because every online dating app prioritizes photos. You could look like Brad Pitt in real life, but if your photos suck and people can't see that - then you're not going to be matching with many people. Most people don't have great photos. So we scrap together whatever old photos we can find, add in a few bathroom selfies and hope for the best. We know these awkward photos don't do us justice, but it's all we have. An online dating photographer will help showcase all your best features. They'll highlight your charisma, charm and confidence. The'll find all your best angles, help you look natural and deliver stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
     background_color: "#090303"
     text_color: "#000000"
-    title: Professional Dating Photography in Hamilton, Ontario
+    title: Professional Dating Photography in Edmonton, Manitoba
     description:
       We tailor your photo experience with us to highlight things you enjoy
       doing most. Whether it's kayaking, rock climbing, reading, or drinking
@@ -174,6 +174,6 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: Hamilton
-      state: Ontario
+      city: Edmonton
+      state: Manitoba
 ---

@@ -294,7 +294,37 @@ locations:
   - location_name: New York City
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
     path: /new-york-city-dating-photography
-  - location_name: ''
-    img: ''
-    path: ''
+  - location_name: Winnipeg
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /winnipeg-dating-photography
+  - location_name: Montreal
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /montreal-dating-photography
+  - location_name: Calgary
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /calgary-dating-photography
+  - location_name: Edmonton
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /edmonton-dating-photography
+  - location_name: Ottowa
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /ottowa-dating-photography
+  - location_name: Quebec City
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /quebec-city-dating-photography
+  - location_name: Kitchener
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /kitchener-dating-photography
+  - location_name: Hamilton
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /hamilton-dating-photography
+  - location_name: Vancouver
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /vancouver-dating-photography
+  - location_name: Toronto
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /toronto-dating-photography
+  - location_name: London Ontario
+    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    path: /london-ontario-dating-photography
 ---
