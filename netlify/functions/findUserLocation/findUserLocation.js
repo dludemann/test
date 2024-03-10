@@ -23,14 +23,14 @@ function distance(lat1, lon1, lat2, lon2) {
 }
 
 // Given a longitude and latitude, finds the closest city from the locations array
-function findClosestLocation(lon, lat, userIp) {
+function findClosestLocation(lon, lat) {
   
   const closest = locations
     // Map locations onto new objects with a distance property added
     .map((l) => {
       return {
         ...l,
-        distance: distance(lat, lon, l.lat, l.lon, userIp),
+        distance: distance(lat, lon, l.lat, l.lon),
       };
     })
     // Get the closest location by distance
@@ -69,6 +69,7 @@ exports.handler = async function (event) {
       headers: { "Access-Control-Allow-Origin": "*" },
       body: JSON.stringify({
         message: closestLocation,
+        userIp: userIp
       }),
     };
   } catch (e) {
