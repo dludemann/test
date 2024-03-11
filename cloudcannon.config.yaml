@@ -315,7 +315,7 @@ _inputs:
       When selected this removes the page from your sitemap and adds the noindex
       robots meta tag
   location_name:
-    type: multiselect
+    type: select
     options:
       values: data.locations
       value_key: city
