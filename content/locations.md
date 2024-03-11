@@ -317,7 +317,7 @@ locations:
     path: /kitchener-dating-photography
   - location_name: Hamilton
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
-    path: /hamilton-dating-photography
+    path: /images/nadine-shaabana-4nwo9dvfuqq-unsplash.jpg
   - location_name: Vancouver
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
     path: /vancouver-dating-photography
