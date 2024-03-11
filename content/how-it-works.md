@@ -1,5 +1,5 @@
 ---
-title: How it works
+title: How it Works
 seo:
   page_description: >-
     We guide you through the entire process. We first give you some solid

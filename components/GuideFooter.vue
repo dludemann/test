@@ -56,7 +56,6 @@ const generateNext = () => {
   const currentLevelTwoIndex = menuData[
     currentPath.level_one
   ].children.findIndex((c) => c.slug === currentPath.level_two.level_two_slug);
-
   const nextLevelTwo =
     menuData[currentPath.level_one].children[currentLevelTwoIndex + 1];
 
@@ -79,12 +78,14 @@ const generateNext = () => {
     }
 
     const nextSilo = menuData[currentPath.level_one + 1];
-
     if (nextSilo) {
       return {
         title: nextSilo.title,
-        slug: `${mainSlug}/${nextSilo.children[0].slug}`,
-        section: nextSilo.children[0].title,
+        slug:
+          nextSilo.children.length > 0
+            ? `${mainSlug}/${nextSilo.children[0].slug}`
+            : "",
+        section: nextSilo.children.length > 0 ? nextSilo.children[0].title : "",
         active: true,
       };
     } else

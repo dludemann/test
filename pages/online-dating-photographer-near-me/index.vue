@@ -6,6 +6,9 @@ const { data: ip } = await useFetch("https://api.ipify.org/?format=json", {
 const data = await $fetch(
   "https://thematchartist.com/.netlify/functions/findUserLocation"
 );
+
+console.log("data", data);
+
 const location = data ? JSON.parse(data).message : null;
 
 const city = location ? location.city : null;

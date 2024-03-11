@@ -1,7 +1,7 @@
 ---
-title: Book a call
+title: Vancouver Dating Photography
 seo:
-  page_description: Online Dating Photos in Vancouver, Washington. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  page_description: Online Dating Photos in Vancouver, B.C. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:

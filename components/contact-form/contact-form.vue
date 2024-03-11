@@ -30,6 +30,10 @@ export default {
       type: String,
       default: "",
     },
+    id: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -74,10 +78,25 @@ export default {
 
     // load email and source from cookie
     let email = this.getCookie("email");
-    let source = this.getCookie("source");
+    let source = this.getCookie("source-cookie");
+
+    if (source) {
+      const decodedSource = decodeURIComponent(source);
+      const pairs = decodedSource.split(";");
+      let sourceValue = null;
+
+      for (let i = 0; i < pairs.length; i++) {
+        const pair = pairs[i].split("=");
+        if (pair[0].trim() === "source") {
+          sourceValue = pair[1];
+          break;
+        }
+      }
+
+      this.formData.source = sourceValue;
+    }
 
     this.formData.email = email;
-    this.formData.source = source;
   },
   methods: {
     submitForm(event) {
@@ -162,7 +181,7 @@ export default {
     method="POST"
     :action="endpoint"
     @submit.stop.prevent="submitForm"
-    id="main-landing-page-form"
+    :id="id ? id : 'main-contact-form'"
   >
     <h2 class="font-bold font-accent text-[45px] font-body">Inquire Now</h2>
     <fieldset class="flex flex-col">
@@ -226,6 +245,14 @@ export default {
       name="City"
       id="City"
       v-model="formData.city"
+    />
+
+    <input
+      class="hidden"
+      type="text"
+      name="AffiliateSource"
+      id="affiliate-source"
+      v-model="formData.source"
     />
 
     <fieldset class="flex flex-col">

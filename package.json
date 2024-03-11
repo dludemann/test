@@ -18,6 +18,7 @@
     "sass": "^1.63.2"
   },
   "dependencies": {
+    "@nuxtjs/robots": "^3.0.0",
     "axios": "^1.6.2",
     "html-entities": "^2.4.0",
     "json-to-pretty-yaml": "^1.2.2",

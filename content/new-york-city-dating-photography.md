@@ -1,5 +1,5 @@
 ---
-title: Book a call
+title: New York City Dating Photography
 content_blocks:
   - _bookshop_name: hero-left-right-location
     background_color: "#090303"

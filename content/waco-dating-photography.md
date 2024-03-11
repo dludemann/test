@@ -1,5 +1,5 @@
 ---
-title: Book a call
+title: Waco Dating Photographer
 seo:
   page_description: Online Dating Photos in Waco, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
@@ -38,8 +38,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Waco
-      state: Texas
+      city: Virginia Beach
+      state: Virginia
     title: Full Photoshoot In Different Settings To Capture The Best You
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
@@ -63,8 +63,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#FFFFFF"
     location:
-      city: Waco
-      state: Texas
+      city: Virginia Beach
+      state: Virginia
     image:
       src: /images/work/austin-before-after.webp
     title: Transform Your Online Dating Profile
@@ -158,7 +158,7 @@ content_blocks:
   - _bookshop_name: left-right-form
     background_color: "#090303"
     text_color: "#000000"
-    title: Professional Dating Photography in Waco, Texas
+    title: Professional Dating Photography in Virginia Beach, Virginia
     description:
       We tailor your photo experience with us to highlight things you enjoy
       doing most. Whether it's kayaking, rock climbing, reading, or drinking
@@ -174,6 +174,6 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: "Waco"
-      state: Texas
+      city: Virginia Beach
+      state: Virginia
 ---

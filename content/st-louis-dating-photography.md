@@ -1,5 +1,13 @@
 ---
-title: Book a call
+title: St. Louis Dating Photographer
+seo:
+  page_description: Online Dating Photos in St. Louis, Missouri. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
+  canonical_url:
+  featured_image:
+  featured_image_alt:
+  author_twitter_handle:
+  open_graph_type:
+  no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
     background_color: "#090303"

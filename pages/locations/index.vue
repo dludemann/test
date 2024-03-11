@@ -4,6 +4,8 @@ const search = ref("");
 const { page } = useContent();
 const pageData = page.value;
 
+console.log(pageData);
+
 const locations = pageData.locations.map((location) => ({
   ...location,
   cityFilter: location.location_name.toLowerCase(),
@@ -14,6 +16,22 @@ const filteredLocations = computed(() =>
     location.cityFilter.includes(search.value.toLowerCase())
   )
 );
+
+useHead({
+  title: "Locations | The Match Artist",
+  meta: [
+    {
+      name: "description",
+      content:
+        "Online Dating Photos. &quot;Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!",
+    },
+    {
+      name: "og:description",
+      content:
+        "Online Dating Photos. &quot;Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!",
+    },
+  ],
+});
 </script>
 
 <template>
