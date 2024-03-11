@@ -269,6 +269,10 @@ collection_groups:
 _inputs:
   src:
     type: image
+    label: Image Source
+  img:
+    type: image
+    label: Image
   top_spacing:
     type: number
   bottom_spacing:
