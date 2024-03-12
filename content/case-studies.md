@@ -466,21 +466,26 @@ content_blocks:
       text_color:
       top_spacing:
       bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
-    top_spacing:
-    bottom_spacing:
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          &lt;iframe src="https://www.youtube.com/watch?v=UF1CwSPk4vg"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;
+          <div class="cms-embed"
+          data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VUYxQ3dTUGs0dmciIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj0iIj48L2lmcmFtZT4="><iframe
+          src="https://www.youtube.com/watch?v=UF1CwSPk4vg" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+          web-share" allowfullscreen=""></iframe></div>
+
+
+          ---
         inline_image:
         flipped: false
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
+    top_spacing:
+    bottom_spacing:
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
