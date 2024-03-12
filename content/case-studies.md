@@ -479,13 +479,26 @@ content_blocks:
           web-share" allowfullscreen=""></iframe></div>
 
 
-          ---
+          ##
+
+
+          &nbsp;
+
+
+          <p class="align-center"><strong>He met his girlfriend online from our
+          photos.</strong></p>
+
+
+          <p class="align-center"><strong>We went out to Phoenix to shoot some
+          couple's photos for Ben and his girlfriend.</strong></p>
+
+
+          <div><img src="/images/work/ben-grid.webp" /></div>
+
+
+          &nbsp;
         inline_image:
         flipped: false
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
-    top_spacing:
-    bottom_spacing:
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
