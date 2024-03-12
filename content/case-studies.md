@@ -441,6 +441,32 @@ content_blocks:
           <div><img src="/images/work/ben-grid.webp" /></div>
         inline_image:
         flipped: false
+  - _bookshop_name: hero
+    background_color:
+    background_image: /images/jeff-hero.jpg
+    background_filters:
+      brightness: 1
+      blur: 0
+    pre_title:
+      text: From a divorce to unlimited dates.
+      text_color:
+      top_spacing:
+      bottom_spacing:
+    title:
+      text: Jeff's Story
+      text_color:
+      heading_style: h1
+      top_spacing:
+      bottom_spacing:
+    post_title:
+      text:
+      text_color:
+      top_spacing:
+      bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
+    top_spacing:
+    bottom_spacing:
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
@@ -474,30 +500,4 @@ content_blocks:
         image:
           src: /images/social/news-mentions/morning-brew.webp
           alt: Morning Brew
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/jeff-hero.jpg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text: From a divorce to unlimited dates.
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Jeff's Story
-      text_color:
-      heading_style: h1
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
-    top_spacing:
-    bottom_spacing:
 ---
