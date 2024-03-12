@@ -273,6 +273,8 @@ _inputs:
   img:
     type: image
     label: Image
+  path:
+    type: url
   top_spacing:
     type: number
   bottom_spacing:
