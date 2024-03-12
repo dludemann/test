@@ -151,8 +151,8 @@ content_blocks:
           &nbsp;
 
 
-          > **I talked to you initially a year ago, and I don't know why
-          I didn't hire you right then. It was like a night and day
+          > **I talked to you initially a year ago, and I don't know why I
+          didn't hire you right then. It was like a night and day
           difference....by the end of January I was dating non-stop.**
 
           >
@@ -163,9 +163,7 @@ content_blocks:
           <p class="align-center"><strong>- Rohit</strong></p>
 
 
-          &nbsp;
-          &nbsp;
-          &nbsp;
+          &nbsp; &nbsp; &nbsp;
 
 
           <h2 class="align-center">Rohit: Behind the Scenes</h2>
@@ -476,4 +474,30 @@ content_blocks:
         image:
           src: /images/social/news-mentions/morning-brew.webp
           alt: Morning Brew
+  - _bookshop_name: hero
+    background_color:
+    background_image: /images/jeff-hero.jpg
+    background_filters:
+      brightness: 1
+      blur: 0
+    pre_title:
+      text: From a divorce to unlimited dates.
+      text_color:
+      top_spacing:
+      bottom_spacing:
+    title:
+      text: Jeff's Story
+      text_color:
+      heading_style: h1
+      top_spacing:
+      bottom_spacing:
+    post_title:
+      text:
+      text_color:
+      top_spacing:
+      bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/watch?v=UF1CwSPk4vg
+    top_spacing:
+    bottom_spacing:
 ---
