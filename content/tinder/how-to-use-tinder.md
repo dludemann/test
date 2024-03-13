@@ -398,7 +398,7 @@ One of the key things that we teach our clients is facial expression coaching. T
 While we have our own criteria that we work with for our clients, what kinds of photos are actually ones that will attract women? Here are our 12 expert picks from a range of dating experts, as well as crowd-sourced data.
 
 
-### **1\. Risky Business**
+**1. Risky Business**
 
 <a href="https://ebm.bmj.com/content/20/2/48" target="_blank" rel="noreferrer noopener">According to research</a>, women are naturally more attracted to men who display alpha male characteristics and some level of risk.&nbsp;
 
@@ -406,17 +406,15 @@ Now, while we’re not suggesting that you should take a bunch of photos display
 
 We’re also big fans of photos which show your hobbies off, as it makes you seem more interesting.
 
-###
 
-### **2\. Facial Hair**
+**2. Facial Hair**
 
 This&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226" target="_blank" rel="noreferrer noopener">2013 study</a>&nbsp;actually showed that the presence of facial hair could make you seem more attractive, as well as healthier and better at parenting!
 
 The bottom line here? If you can grow it, do it!
 
-###
 
-### **3\. Doggos = More Matches**
+**3. Doggos = More Matches**
 
 ![undefined](https://cdn.buttercms.com/YANvA0ISS2aiJuSyeHK1)
 
@@ -424,17 +422,14 @@ It’s a bit of a generalization, but most women love dogs. Not only that, but&n
 
 Even if you don’t actually own a dog, maybe borrow one for a photo!
 
-###
-
-### **4\. Bigger is Sometimes Better**
+**4. Bigger is Sometimes Better**
 
 For initial attractiveness, men with muscles can be more attractive to women,&nbsp;<a href="https://journals.sagepub.com/doi/pdf/10.1177/0146167207303022" target="_blank" rel="noreferrer noopener">according to scientific studies</a>. This is all part and parcel with the idea that men who display more alpha characteristics may make better partners in terms of reproduction.
 
 However, don’t worry if you’re not a hardcore gym enthusiast because evidence also shows that gym selfies are a huge turnoff!
 
-###
 
-### **5\. The Big Outdoors Can Get You More Matches**
+**5. The Big Outdoors Can Get You More Matches**
 
 ![thematchartist_hearts_in_the_country_...](https://cdn.buttercms.com/Qs5WDujCQ7yQD4D2pGTp)
 
@@ -442,51 +437,37 @@ Potential matches like to see that you’ve got hobbies that match theirs, and g
 
 Your surroundings in photos have a huge impact on how others perceive you, so get outside into natural surroundings!
 
-###
-
-### **6\. No Selfies, Please**
+**6. No Selfies, Please**
 
 This&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00007/full" target="_blank" rel="noreferrer noopener">2017 study</a>&nbsp;found that selfies were negatively perceived by users — 82% of those who participated in the study, in fact!
 
 But, if you’re smart, you’ll already know that ditching the selfies and instead booking a professional photography service with The Match Artist is a much better idea!
 
-###
-
-### **7\. Your Friends Matter**
+**7. Your Friends Matter**
 
 While you don’t want too many photos with large groups, a nice photo with a group of friends can give a potential match an idea of who you hang out with, what you do together, and what your interests are.
 
-###
-
-### **8\. So Does Your Family**
+**8. So Does Your Family**
 
 And on that note, a good photo with your family isn’t a bad idea! Especially if you look happy and natural.
 
-###
-
-### **9\. Say Cheese!**
+**9. Say Cheese!**
 
 According to&nbsp;<a href="http://personaldatingassistants.com/tinder-pictures" target="_blank" rel="noreferrer noopener">dating experts</a>, if you’ve got a natural and genuine smile, it makes you seem smarter, more trustworthy,&nbsp;and&nbsp;more attractive!
 
-###
-
-### **10\. What You Wear Matters**
+**10. What You Wear Matters**
 
 When it comes to your personal style, men who were a little more dressed up, as opposed to too casual, had slightly higher match rates.&nbsp;
 
 Of course, it’s best to have a bit of balance, depending on your personality (and our 4–5 hour photoshoots will get you in a variety of different outfits), but try to stay away from the joggers and stained hoodies!
 
-###
-
-### **11\. Looking Away from the Camera**
+**11. Looking Away from the Camera**
 
 We know from experience that a little bit of movement in your images can make your photos look more intentional, or add a little mysteriousness.&nbsp;
 
 Looking away from the camera (smiling or not) can do exactly that for you, as long as you look confident and genuine!
 
-###
-
-### **12\. Being Approachable is Better Than Being Too Cool**
+**12. Being Approachable is Better Than Being Too Cool**
 
 Finally, when it comes to the vibe of your photos, pictures that make you look approachable rather than “too cool to respond” will&nbsp;definitely&nbsp;get you more matches! Avoid sunglasses (it makes you seem untrustworthy) and instead focus on being your genuine self!
 
