@@ -166,8 +166,6 @@ On the other hand, the Boost option (which is paid) will bring your profile to t
 
 It’s a little more pricey to use Boosts, but you can also buy packs, which are slightly discounted. Simply tap the purple lightning bolt in your account to purchase Boosts.
 
-###
-
 ### **Tinder Explore Option**
 
 ![thematchartist_passport_on_a_phone_8d...](https://cdn.buttercms.com/KviN47JCT2hys2YNZS07)
@@ -180,15 +178,11 @@ Music Mode is only available to those who’ve enabled Spotify integration, and 
 
 With this option, when you open another user’s profile who has Music Mode enabled, their Anthem will automatically play, giving you an idea of whether or not you’re musically compatible…!
 
-###
-
 ### **Vibes**
 
 Vibes is the name given to the quiz feature that was introduced to the app in 2021.
 
 If you’re invited to take part in periodic Vibes events, you’ll be able to answer a series of questions in Explore within 48 hours. These will then display on your profile for the next 72 hours and pop up in any chat windows.
-
-###
 
 ### **Hot Takes**
 
@@ -200,8 +194,6 @@ Once you answer your Hot Take, you’ll automatically be invited into a chat wit
 
 But be warned! You only have a limited amount of time to talk to the other person and match with them. After that, the chat will disappear.
 
-###
-
 ### **Incognito Mode**
 
 ![thematchartist_incognito_graphic_red_...](https://cdn.buttercms.com/vdFF38sUSKmjdORgSPDb)
@@ -212,15 +204,11 @@ Pretty good if you’re trying to avoid an ex, a work colleague, or your manager
 
 Yikes!
 
-###
-
 ### **Tinder Desktop Version**
 
 Tinder’s desktop version is known as Tinder Online. It has all the same features as the app, just on your laptop or computer instead.
 
 And if you’re doing a bit of cheeky Tindering while at work, there’s even a&nbsp;<a href="https://mashable.com/article/tinder-work-mode-back" target="_blank" rel="noreferrer noopener">Work Mode</a>&nbsp;option that will show a fake Google Doc-esque project management tool!
-
-###
 
 ### **Safety Features**
 
@@ -268,8 +256,6 @@ Additionally, if you do integrate Noonlight, a badge will display on your profil
 
 If you’re willing to pay a little more in order to find a match, Tinder has&nbsp;<a href="https://tinder.com/feature/subscription-tiers" target="_blank" rel="noreferrer noopener">three higher-level tiers of membership</a>.
 
-###
-
 ### **Is Tinder Plus Worth it?**
 
 Basic Tinder is good for a casual Swipe. But if you’re wanting a few more than the basic version allows, or a couple of other features you’ll only get if you pay for them, then Tinder Plus may be for you.
@@ -297,8 +283,6 @@ Though pricing may vary, you’ll likely be looking at:
 * $4 per month for 6 months
 * $2.67 per month for 12 months.&nbsp;
 
-###
-
 ### **Is Tinder Gold Worth it?**
 
 ![undefined](https://cdn.buttercms.com/ltx4lilJRTO5kF8OgJu2)
@@ -316,8 +300,6 @@ Tinder Gold will set you back:
 * $24.99 for 1 month
 * $12.50 per month for 6 months
 * $8.33 per month for 12 months.
-
-###
 
 ### **Is Tinder Platinum Worth It?**
 
@@ -415,7 +397,6 @@ One of the key things that we teach our clients is facial expression coaching. T
 
 While we have our own criteria that we work with for our clients, what kinds of photos are actually ones that will attract women? Here are our 12 expert picks from a range of dating experts, as well as crowd-sourced data.
 
-###
 
 ### **1\. Risky Business**
 
@@ -577,8 +558,6 @@ The best first text to send on Tinder is always going to be one that will&nbsp;g
 
 Keep it short and sweet, show your sense of humor if possible, and give them an opening to reply.
 
-###
-
 ### **How to Start Chatting with Matches**
 
 Here are some of our best tips:
@@ -730,25 +709,17 @@ One other option is to delete your account and wait three months before you crea
 
 Thanks to a loophole in Tinder’s terms and conditions, they’ll hold your account information for this time. So, if you really want to start afresh (and are patient), this will enable you to start a new account using your same information.
 
-###
-
 ### **How do you get a match on Tinder?**
 
 In order to get a match, both users have to Swipe Right on each other. All the more reason to make sure your profile is looking top-notch!
-
-###
 
 ### **Can I chat on Tinder without paying?**
 
 Yes. Basic Tinder will allow you to chat with another user for free as long as you’ve both Swiped Right on each other.
 
-###
-
 ### **How many Tinder swipes do I get per day?**
 
 With the basic version of Tinder, you can Swipe Right up to 100 times per day. Once you’ve reached this limit you’ll need to wait for 12 hours before you can Swipe again.
-
-###
 
 ### **What do the buttons do on Tinder?**
 
@@ -789,8 +760,6 @@ Rewind on your last Swipe (paid-for feature, only).
 &nbsp;
 
 Likes You (Tinder Gold, only).
-
-###
 
 ### **What happens if I like someone and they don’t like me?**
 
