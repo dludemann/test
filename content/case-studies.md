@@ -151,8 +151,8 @@ content_blocks:
           &nbsp;
 
 
-          > **I talked to you initially a year ago, and I don't know why
-          I didn't hire you right then. It was like a night and day
+          > **I talked to you initially a year ago, and I don't know why I
+          didn't hire you right then. It was like a night and day
           difference....by the end of January I was dating non-stop.**
 
           >
@@ -163,9 +163,7 @@ content_blocks:
           <p class="align-center"><strong>- Rohit</strong></p>
 
 
-          &nbsp;
-          &nbsp;
-          &nbsp;
+          &nbsp; &nbsp; &nbsp;
 
 
           <h2 class="align-center">Rohit: Behind the Scenes</h2>
@@ -231,7 +229,10 @@ content_blocks:
 
           <p class="align-center"><strong>- Ryan</strong></p>
 
+
+
           &nbsp;
+
 
           <p class="intro">Ryan met his girlfriend on Bumble using our
           photos.</p>
@@ -443,6 +444,46 @@ content_blocks:
           <div><img src="/images/work/ben-grid.webp" /></div>
         inline_image:
         flipped: false
+  - _bookshop_name: hero
+    background_color:
+    background_image: /images/jeff-hero.jpg
+    background_filters:
+      brightness: 1
+      blur: 0
+    pre_title:
+      text: From a divorce to unlimited dates.
+      text_color:
+      top_spacing:
+      bottom_spacing:
+    title:
+      text: Jeff's Story
+      text_color:
+      heading_style: h1
+      top_spacing:
+      bottom_spacing:
+    post_title:
+      text:
+      text_color:
+      top_spacing:
+      bottom_spacing:
+  - _bookshop_name: markdown-block
+    pre_title:
+    title:
+    paragraphs:
+      - text: >-
+          <div class="cms-embed"
+          data-cms-embed="PGlmcmFtZSB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9VRjFDd1NQazR2Zz9zaT1KbURqVXg5WUh3T0VUdFdEIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe
+          width="800" height="450"
+          src="https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share" allowfullscreen></iframe></div>
+        inline_image:
+        flipped: false
+  - _bookshop_name: video-embed
+    video_link:
+    top_spacing:
+    bottom_spacing:
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:

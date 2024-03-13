@@ -2,7 +2,8 @@
 title: Portfolio
 seo:
   page_description: >-
-    From The Match Artist's portfolio, these shots helped our customers go on more dates, and for many, find the love of their life.
+    From The Match Artist's portfolio, these shots helped our customers go on
+    more dates, and for many, find the love of their life.
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -22,8 +23,8 @@ content_blocks:
       top_spacing:
       bottom_spacing:
     title:
-      text: "General"
-      text_color: "#FFFFFF"
+      text: General
+      text_color: '#FFFFFF'
       heading_style: h1
       top_spacing: 72
       bottom_spacing: 72
@@ -33,9 +34,9 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: card-grid-three-column
-    title: "General"
+    heading_style: reviews
+    title: General
     subtitle: The Match Artist
-    heading_style: portfolio
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
