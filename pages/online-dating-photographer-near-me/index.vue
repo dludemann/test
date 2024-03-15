@@ -12,6 +12,7 @@ console.log("data", data);
 const location = data ? JSON.parse(data).message : null;
 
 const city = location ? location.city : null;
+const state = location ? location.state : null;
 console.log("city", city);
 
 const headerString = city
@@ -172,7 +173,13 @@ useHead({
     class="p-6 bg-white max-w-[800px] mx-auto flex-shrink-0 w-full flex flex-col items-center gap-8"
   >
     <p class="font-bold font-accent text-[50px]">Inquire Now</p>
-    <ContactForm v-if="city" :has-city-input="false" :city="city" />
+    <ContactForm
+      v-if="city"
+      :has-city-input="false"
+      :city="city"
+      :state="state"
+      :country="'USA'"
+    />
     <ContactForm v-else :has-city-input="false" />
   </div>
 
