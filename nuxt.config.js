@@ -16,6 +16,7 @@ export default defineNuxtConfig({
           async: true,
           id: "hs-script-loader",
           type: "text/javascript",
+          body: true,
         },
       ],
       link: [
