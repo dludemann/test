@@ -305,7 +305,7 @@ content_blocks:
     pre_title:
     title:
     paragraphs:
-      - text: "<div class=\"cms-embed\" data-cms-embed=\"PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2tyYU5zRkd1QzQ0P3NpPWxYNm9BMHIwdDBQdi1kV3AiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=\"><iframe src=\"https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></div>\n\n​​​​​​\n\n> It was pretty smooth...it was actually kinda fun...it was 'lets go to a brewery and grab an actual beer.' It kinda felt like hanging out with a friend, but a friend that's got your back and got your best interest in mind. They are as interested in making you look great as you are interested in looking great. I got really good results once I started.\n\n<p class=\"align-center\"><strong>- Brent</strong></p>\n\n<p class=\"align-center\">\_</p>\n\n> \"An overall skyrocketing experience for my online dating.\"&nbsp;\n\n<p class=\"align-center\"><strong>- Brent</strong></p>\n\n![](/images/reviews/text-39.png)\n\n<p class=\"align-center\"><strong>Before + After</strong></p>\n\n<p class=\"align-center\"><strong><img src=\"/images/work/brent-before-after.jpeg\" /></strong></p>"
+      - text: "<div class=\"cms-embed\" data-cms-embed=\"PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2tyYU5zRkd1QzQ0P3NpPWxYNm9BMHIwdDBQdi1kV3AiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=\"><iframe src=\"https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></div>\n\n​​​​​​\n\n> It was pretty smooth...it was actually kinda fun...it was 'lets go to a brewery and grab an actual beer.' It kinda felt like hanging out with a friend, but a friend that's got your back and got your best interest in mind. They are as interested in making you look great as you are interested in looking great. I got really good results once I started.\n\n<p class=\"align-center\"><strong>- Brent</strong></p>\n\n<p class=\"align-center\">\_</p>\n\n> \"An overall skyrocketing experience for my online dating.\"\n\n<p class=\"align-center\"><strong>- Brent</strong></p>\n\n![](/images/reviews/text-39.png)\n\n<p class=\"align-center\"><strong>Before + After</strong></p>\n\n<p class=\"align-center\"><strong><img src=\"/images/work/brent-before-after.jpeg\" /></strong></p>"
         inline_image:
         flipped: false
   - _bookshop_name: hero
@@ -471,13 +471,14 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"
-          data-cms-embed="PGlmcmFtZSB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9VRjFDd1NQazR2Zz9zaT1KbURqVXg5WUh3T0VUdFdEIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe
-          width="800" height="450"
+          <div class="cms-embed"><iframe width="800" height="450"
           src="https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen></iframe></div>
+          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
+
+          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png "Before + After")
         inline_image:
         flipped: false
   - _bookshop_name: video-embed
