@@ -27,7 +27,8 @@ In this article we’ll cover:
 * Our top tips for responding on Bumble
 * How to navigate the complexities of conversations on Bumble
 * Frequently asked questions.
-* &nbsp;
+
+  &nbsp;
 
 Ready for us to guide you through how to become a Bumble chat master? Read on!
 
@@ -130,7 +131,8 @@ Some examples include:
 * If all their pictures are selfies
 * If they respond to your well-thought-out messages with single word answers
 * If their listed hobbies are very generic, like “watching TV” or “drinking coffee.”
-* &nbsp;
+
+  &nbsp;
 
 You don’t necessarily want to dismiss someone with these in their bio, in case they’re a good match for you, but you do want to try to get to know them a little better!
 
@@ -206,7 +208,8 @@ Your first Bumble message should show genuine interest in your match, as well as
 Instead of a generic “hi,” try something like:
 
 * “Hi \[name\], I noticed you’re a hiking enthusiast! Where’s the most unforgettable place you’ve hiked?”
-* &nbsp;
+
+  &nbsp;
 
 This opener shows you’ve read their profile and you’re eager to know more.
 
@@ -257,7 +260,7 @@ Yes, girls send the first message on Bumble when it comes to heterosexual relati
 
 Generally, it’s best to wait for others to send a response before sending another message to avoid appearing too pushy. You want to give the other person some space!
 
-However, if a considerable amount of time has passed, it might be okay to send a friendly follow-up. Timing and circumstances can vary, so use your best judgment — as this [Reddit](https://www.reddit.com/r/Bumble/comments/eyudu6/double_texting/)thread shows, there are a lot of differing opinions on the practice, so do what suits you!
+However, if a considerable amount of time has passed, it might be okay to send a friendly follow-up. Timing and circumstances can vary, so use your best judgment — as this [Reddit](https://www.reddit.com/r/Bumble/comments/eyudu6/double_texting/) thread shows, there are a lot of differing opinions on the practice, so do what suits you!
 
 ### Is “hey” or “hi” more flirty?
 
