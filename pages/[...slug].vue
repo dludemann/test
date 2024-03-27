@@ -68,4 +68,8 @@ onBeforeUnmount(async () => {
 .page-content a:hover {
   text-decoration: underline;
 }
+
+h3 a {
+  color: black !important;
+}
 </style>

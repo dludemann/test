@@ -288,6 +288,10 @@ loaded.value = true;
   color: #bf9441;
 }
 
+h3 a {
+  color: black !important;
+}
+
 .silo-content ul {
   margin-bottom: 24px;
   list-style-type: disc;
