@@ -45,8 +45,6 @@ content_blocks:
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/U48tTiaSrOcR6f6s1GDg.jpg
         alt: A dating profile photo, taken by The Match Artist
-      - src: /images/portfolio/6OfBcNGFSuCY3WJHjsug.jpg
-        alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/zJPqwo2yQVCosvkf5asg.jpg
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/M2EH1keXSyOrzovAZeb0.jpg

@@ -471,6 +471,12 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
+          ### Before + After
+
+
+          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png)
+
+
           <div class="cms-embed"><iframe width="800" height="450"
           src="https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD"
           title="YouTube video player" frameborder="0" allow="accelerometer;
@@ -478,7 +484,7 @@ content_blocks:
           picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 
-          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png "Before + After")
+          &nbsp;
         inline_image:
         flipped: false
   - _bookshop_name: video-embed
