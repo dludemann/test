@@ -54,7 +54,7 @@ Ultimately, this means you could potentially start a conversation in any country
 
 <img src="https://cdn.buttercms.com/u6c1VHepTMiFDVOpOmPY" alt="undefined" height="370" width="739" />
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#how-to-install-the-tinder-app" target="_blank" rel="noopener"><strong>How to Install the Tinder app</strong></a>
+## How to Install the Tinder app
 
 Installing Tinder is really easy, whether you’re working off iOS or Android. Here’s what you need to do:
 
