@@ -34,7 +34,7 @@ Let’s get started!
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#why-is-tinder-so-imbalanced" target="_blank" rel="noopener"><strong>Why is Tinder So Imbalanced?</strong></a>
+## Why is Tinder So Imbalanced?
 
 Tinder leads the way when it comes to online dating. While Bumble may have been&nbsp;<a href="https://www.businessofbusiness.com/articles/bumble-whitney-wolfe-herd-swiped-left-tinder-ended-up-billionaire" target="_blank" rel="noreferrer noopener">created by an ex-Tinder employee</a>&nbsp;and is more female-focused, it hasn’t seen the same success that Tinder has.
 
@@ -60,7 +60,7 @@ The more matches women make, the more messages they receive (on average about&nb
 
 Thus, single women will be a lot choosier, and men will be much more prone to indiscriminate Swipes (the “machine gun” approach).
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#do-girls-get-more-matches-on-tinder" target="_blank" rel="noopener"><strong>Do Girls Get More Matches on Tinder?</strong></a>
+## Do Girls Get More Matches on Tinder?
 
 According to 2021 stats from&nbsp;<a href="https://www.swipestats.io/" target="_blank" rel="noreferrer noopener">Swipestats.io</a>&nbsp;in a study done by&nbsp;<a href="https://thebolditalic.com/the-two-worlds-of-tinder-f1c34e800db4" target="_blank" rel="noreferrer noopener">The Bold Italic</a>, women only Swipe Right around 5% of the time. In comparison, men Swipe Right about 53% of the time.
 
@@ -78,7 +78,7 @@ That means that men would have to Swipe nearly&nbsp;6,000 times&nbsp;over a peri
 
 That’s a lot of Swipes!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#how-many-matches-does-the-average-girl-get-on-tinder" target="_blank" rel="noopener"><strong>How Many Matches Does the Average Girl Get on Tinder?</strong></a>
+## How Many Matches Does the Average Girl Get on Tinder?
 
 While it can depend, women who are in the top 10% of Tinder users (ie, those who receive most matches), match roughly 5 times a day. Some can even match significantly higher, with roughly a dozen per day. Even those in the bottom 10% will still generally match roughly once a day.
 
@@ -88,7 +88,7 @@ Other&nbsp;<a href="https://www.smh.com.au/opinion/why-tinder-makes-us-act-in-ge
 
 While it may seem a little grim, that’s not to say that men&nbsp;don’t&nbsp;meet people or find love on the app! In fact, a survey found that 30% of people met someone through Tinder and had a relationship.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#what-women-want-vs-what-men-want-on-tinder" target="_blank" rel="noopener"><strong>What Women Want Vs. What Men Want on Tinder</strong></a>
+## What Women Want Vs. What Men Want on Tinder
 
 Surprisingly, we&nbsp;can&nbsp;actually know what women and men are looking for on Tinder, thanks to research data. While it will be different for everyone, generally speaking here’s what the data tells us:
 
@@ -108,7 +108,7 @@ And we know firsthand that men who pay closer attention to their profiles&nbsp;g
 
 At The Match Artist we’ve worked with hundreds of people to help them take photos that&nbsp;get results. After all, when it’s a woman’s game, in order to get on the playing field, you have to stand out in some way.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#do-guys-like-every-girl-on-tinder" target="_blank" rel="noopener"><strong>Do Guys Like Every Girl on Tinder?</strong></a>
+## Do Guys Like Every Girl on Tinder?
 
 While it depends on the individual, the&nbsp;<a href="https://www.marketwatch.com/story/from-53-matches-to-4-dates-what-a-month-on-tinder-is-really-like-2018-03-13" target="_blank" rel="noreferrer noopener">data</a>&nbsp;tells us that men tend to Swipe Right far more than women do, and&nbsp;<a href="https://simpletexting.com/dating-app-survey" target="_blank" rel="noreferrer noopener">30% of men</a>&nbsp;admit to Swiping Right on every profile they see.
 
@@ -129,9 +129,9 @@ So why are people Swiping other than casual sex or looking for love? The top rea
 
 Particularly for men, ‘ease of communication’ and ‘thrill of excitement’ were big motives, which could also explain why men tend to Swipe more (and we know that Swiping and matching can be&nbsp;<a href="https://arxiv.org/abs/1607.01952" target="_blank" rel="noreferrer noopener">enough of a thrill in itself</a>&nbsp;that men can neglect to follow through with a message after they match).
 
-### **Does Higher EducationMatter to Girls?**
+### **Does Higher Education Matter to Girls?**
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#key-takeaways" target="_blank" rel="noopener"><strong>Key Takeaways</strong></a>
+## Key Takeaways
 
 When it comes to Tinder, the odds aren’t in your favor if you’re a guy. It’s an unfortunate fact that Tinder is imbalanced, with less women on the app, and the women who are there, receiving far more matches than men.
 
@@ -149,7 +149,7 @@ While we’re not going to deny that it’s definitely harder out there for guys
 
 Ready to start making more matches?&nbsp;<a href="https://thematchartist.com/online-dating-photographer-near-me?__hstc=11391787.a65646e22542055b04e3307175893c50.1680311447401.1710279220160.1710289654877.880&amp;__hssc=11391787.7.1710289654877&amp;__hsfp=1091200605" target="_blank" rel="noreferrer noopener">Get in touch with The Match Artist</a>&nbsp;and let’s start helping you get your profile into shape!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#do-girls-get-more-matches-on-tinder-faqs" target="_blank" rel="noopener"><strong>Do Girls Get More Matches on Tinder FAQs</strong></a>
+## Do Girls Get More Matches on Tinder FAQs
 
 ### **What is the 80/20 rule on Tinder?**
 
@@ -169,7 +169,7 @@ Thanks to the fact that there are more men on Tinder than women, women have much
 
 However, it’s important to remember that matches are not the same thing as dates! In order to make a real connection with someone you’ll still need to bring your true and authentic self to the table.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/do-girls-get-more-matches-tinder#sources" target="_blank" rel="noopener"><strong>Sources</strong></a>
+## Sources
 
 1. <a href="https://thebolditalic.com/the-two-worlds-of-tinder-f1c34e800db4" target="_blank" rel="noreferrer noopener">thebolditalic.com</a>
 2. <a href="https://www.swipestats.io/" target="_blank" rel="noreferrer noopener">swipestats.io</a>
