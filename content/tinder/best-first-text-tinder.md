@@ -42,7 +42,7 @@ Let’s get straight into it so that you can start matching with people and gett
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#what-makes-a-good-first-message-on-tinder" target="_blank" rel="noopener"><strong>What Makes a Good First Message on Tinder?</strong></a>
+## What Makes a Good First Message on Tinder?
 
 When it comes to your first message on Tinder, the best are short, sweet, and show that you have a sense of humor.&nbsp;
 
@@ -76,7 +76,7 @@ Just let us know where to send it.
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#tips-for-starting-a-tinder-conversation" target="_blank" rel="noopener"><strong>Tips for Starting a Tinder Conversation</strong></a>
+## Tips for Starting a Tinder Conversation
 
 Our best tips for starting a Tinder conversation are to somehow make your match react to your first message. Even something as simple as reacting with GIFs or emojis will mean that they’re engaged!
 
@@ -88,7 +88,7 @@ In fact, there’s even&nbsp;<a href="https://www.psychologytoday.com/us/blog/le
 
 However, bear in mind that lots of people have a whole bunch of different ideas about what’s funny, so keep the tone light and don’t stray into too heavy news stories, information dumps, or offensive material.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#how-do-you-flirt-over-text-on-tinder" target="_blank" rel="noopener"><strong>How Do You Flirt Over Text on Tinder?</strong></a>
+## How Do You Flirt Over Text on Tinder?
 
 In many cases, flirting takes a huge amount of effort, and not everything will be on point. However, it’s definitely possible to flirt over text!
 
@@ -104,7 +104,7 @@ Maybe ask them about their favorite hobby or pets – or if they’re into going
 
 You could even throw in&nbsp;extra cheesy&nbsp;pick-up lines, such as,&nbsp;“Did it hurt when you fell from heaven?”&nbsp; That way you can both laugh about it, and could be a fun story for later down the line.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#is-it-weird-for-a-girl-to-text-first-on-tinder" target="_blank" rel="noopener"><strong>Is It Weird for a Girl to Text First on Tinder?</strong></a>
+## Is It Weird for a Girl to Text First on Tinder?
 
 The very simple answer to this question is: no! It isn’t at all weird for a girl to text first on Tinder.
 
@@ -116,7 +116,7 @@ Well, one way you can get a clue is if she messages you first!
 
 If the end goal is to make a new friend, make plans, and start new relationships, then a girl messaging you first should hardly be a problem.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#easy-tinder-conversation-starters" target="_blank" rel="noopener"><strong>Easy Tinder Conversation Starters</strong></a>
+## Easy Tinder Conversation Starters
 
 So now that we’ve covered the basics, here are a few conversation starters that you can use on Tinder:
 
@@ -166,7 +166,7 @@ However, it’s a great way to get a bit more of a flirty response – if the pe
 
 This is another great Tinder message example, as it straight away puts the ball in their court and encourages them to talk about themselves.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#our-best-tinder-conversation-starters-for-guys" target="_blank" rel="noopener"><strong>Our Best Tinder Conversation Starters for Guys</strong></a>
+## Our Best Tinder Conversation Starters for Guys
 
 ### **1\. What’s your idea of a perfect first date?**
 
@@ -190,7 +190,7 @@ This is another one of those great openers that encourage your match to tell you
 
 Like the above pick-up line, this is one you’re going to have to use sparingly and hope they get your sense of humor! Along these lines, “Are you spontaneous?” can be good. They feel the need to say yes, and when they do, you have a better chance at getting them out for drinks.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#our-best-tinder-conversation-starters-for-girls" target="_blank" rel="noopener"><strong>Our Best Tinder Conversation Starters for Girls</strong></a>
+## Our Best Tinder Conversation Starters for Girls
 
 ### **1\. What’s your favorite sports team?**
 
@@ -208,7 +208,7 @@ It may not seem like going deep on a first message is a good tactic, but doing s
 
 Shared humor is always the best, and if you can both laugh over a few pick-up lines – why not!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#our-best-flirty-tinder-conversation-starters" target="_blank" rel="noopener"><strong>Our Best Flirty Tinder Conversation Starters</strong></a>
+## Our Best Flirty Tinder Conversation Starters
 
 ### **1\. You are way too cute to be on Tinder.**
 
@@ -226,7 +226,7 @@ While this one’s a little on the cheesy side, sometimes you’ve just got to g
 
 Bad pick-up line?&nbsp;Check.&nbsp;Sense of humor?&nbsp;Check.&nbsp;Honestly, sometimes a terrible pickup line is&nbsp;exactly&nbsp;what you need to break the ice.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#our-best-funny-tinder-conversation-starters" target="_blank" rel="noopener"><strong>Our Best Funny Tinder Conversation Starters</strong></a>
+## Our Best Funny Tinder Conversation Starters
 
 ### **1\. Obviously, we’d meet on an app — because you’re a total snack.**
 
@@ -250,7 +250,7 @@ This is another one that can show your personality and create a good first impre
 
 This is a great first message to send, and it’s bound to at least get a smile out of your match.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#our-best-first-tinder-messages-that-get-you-more-matches" target="_blank" rel="noopener"><strong>Our Best First Tinder Messages That Get You More Matches</strong></a>
+## Our Best First Tinder Messages That Get You More Matches
 
 ### **1\. What’s your biggest “damn, why haven’t I done this sooner?” moment?**
 
@@ -270,13 +270,13 @@ Again, this may be one for the foodies, but you can really get to know someone t
 
 **<br><br>**
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#best-first-texts-on-tinder-irl" target="_blank" rel="noopener"><strong>Best First Texts on Tinder IRL</strong></a>
+## Best First Texts on Tinder IRL
 
 <img src="https://cdn.buttercms.com/rhADOQznSf64Er4veV9B" height="461" width="624" />
 
 **<br><br>**
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#key-takeaways" target="_blank" rel="noopener"><strong>Key Takeaways</strong></a>
+## Key Takeaways
 
 You don’t need to be intimidated by sending your first message out on Tinder to a potential match.&nbsp;
 
@@ -286,7 +286,7 @@ Just remember to inject a bit of humor into it, keep it short and sweet, and giv
 
 And, if you’re looking for a great photo for your Tinder profile, you can&nbsp;<a href="https://thematchartist.com/online-dating-photographer-near-me?__hstc=11391787.a65646e22542055b04e3307175893c50.1680311447401.1710279220160.1710289654877.880&amp;__hssc=11391787.7.1710289654877&amp;__hsfp=1091200605" target="_blank" rel="noreferrer noopener">book your shoot today</a>! We can help you get more matches so that you get to send out more of these first messages!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#what-is-the-best-first-text-on-tinder-faqs" target="_blank" rel="noopener"><strong>What is the Best First Text on Tinder FAQs</strong></a>
+## What is the Best First Text on Tinder FAQs
 
 ### **How do you say hello first on Tinder?**
 
@@ -311,7 +311,7 @@ In addition to the suggestions we’ve given you above, you could try:
 
 Whatever you send, make it about them, and give them the opportunity to start a natural conversation with you!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/best-first-text-tinder#sources" target="_blank" rel="noopener"><strong>Sources</strong></a>
+## Sources
 
 1. <a href="https://www.scienceofpeople.com/tinder-conversation-starters" target="_blank" rel="noreferrer noopener">scienceofpeople.com</a>
 2. <a href="https://parade.com/1302845/marynliles/best-tinder-conversation-starters" target="_blank" rel="noreferrer noopener">parade.com</a>
