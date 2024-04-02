@@ -11,8 +11,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-## Test heading
-
 While it’s pretty easy to sit on your sofa and Swipe, compared with early online dating services like eHarmony, where users would’ve had to fill out extensive surveys and questionnaires, the Tinder environment can still be a pretty frustrating place! Especially when you seem to be swiping endlessly without much to show for it.
 
 Well the first thing you should know is:&nbsp;it’s not just you!

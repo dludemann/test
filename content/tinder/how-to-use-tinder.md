@@ -36,7 +36,7 @@ Phew!&nbsp;
 
 **<br>It’s a lot, but don’t worry – we’re here to help you out with our handy tips so that you can get out there and start swiping!&nbsp;Let’s get started!**
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-is-tinder?" target="_blank" rel="noopener"><strong>What is Tinder?</strong></a>
+## What is Tinder?
 
 ![undefined](https://cdn.buttercms.com/0eqQd5oSxipM1Y84br4I)
 
@@ -70,7 +70,7 @@ When you create your account, pay special attention to all of the information bo
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#how-tinder-swiping-works" target="_blank" rel="noopener"><strong>How Tinder Swiping Works</strong></a>
+## How Tinder Swiping Works
 
 As we’ve already mentioned, swiping is how you indicate that you’re interested in each other on Tinder.
 
@@ -88,7 +88,7 @@ Bear in mind that with the basic version of Tinder, you only get a certain numbe
 
 <img src="https://cdn.buttercms.com/FhNPccRPS9iunurlG5Pa" alt="undefined" height="377" width="753" />
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#how-to-set-up-a-tinder-profile" target="_blank" rel="noopener"><strong>How to Set Up a Tinder Profile</strong></a>
+## How to Set Up a Tinder Profile
 
 While setting up your actual Tinder profile may seem intimidating, don’t worry! All you need to start with is your name, a great photo (and The Match Artist can help you with that), and a few words about yourself in your bio.
 
@@ -108,7 +108,7 @@ Once your profile is set up, make sure you edit your preferences (you’ll find 
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#tinder-features" target="_blank" rel="noopener"><strong>Tinder Features</strong></a>
+## Tinder Features
 
 ### **Basic Features**
 
@@ -252,7 +252,7 @@ Additionally, if you do integrate Noonlight, a badge will display on your profil
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#tinder-premium-features" target="_blank" rel="noopener"><strong>Tinder Premium Features</strong></a>
+## Tinder Premium Features
 
 If you’re willing to pay a little more in order to find a match, Tinder has&nbsp;<a href="https://tinder.com/feature/subscription-tiers" target="_blank" rel="noreferrer noopener">three higher-level tiers of membership</a>.
 
@@ -321,7 +321,7 @@ Tinder Platinum will set you back:
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-are-the-rules-of-tinder?" target="_blank" rel="noopener"><strong>What Are the Rules of Tinder?</strong></a>
+## What Are the Rules of Tinder?
 
 ![thematchartist_cartoon_of_two_people_...](https://cdn.buttercms.com/AKXN7rwhTBGlVhwQmLv1)
 
@@ -385,7 +385,7 @@ Either way, you’ll be better perceived if you’re friendly and open-minded th
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-photos-attract-girls-on-tinder-(12-expert-picks)" target="_blank" rel="noopener"><strong>What Photos Attract Girls on Tinder (12 Expert Picks)</strong></a>
+## What Photos Attract Girls on Tinder (12 Expert Picks)
 
 ![thematchartist_photos_of_a_beautiful_...](https://cdn.buttercms.com/IiJeNXgTwyjPH4u3QBqA)
 
@@ -477,7 +477,7 @@ Remember, if you need more help, you can always&nbsp;<a href="https://thematchar
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#how-to-get-more-matches-on-tinder:-a-guide" target="_blank" rel="noopener"><strong>How to Get More Matches on Tinder: A Guide</strong></a>
+## How to Get More Matches on Tinder: A Guide
 
 ![thematchartist_man_giving_a_heart_to_...](https://cdn.buttercms.com/4DtNw8NeQyuuVXG1URU0)
 
@@ -531,7 +531,7 @@ There’s nothing more attractive than someone who is genuine and authentic. Rem
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-is-the-best-first-text-on-tinder?" target="_blank" rel="noopener"><strong>What is the Best First Text on Tinder?</strong></a>
+## What is the Best First Text on Tinder?
 
 ![thematchartist_sea_of_people_on_their...](https://cdn.buttercms.com/B5glfKDUQw6rNimfXmPg)
 
@@ -554,7 +554,7 @@ There are plenty of ways to start a conversation — just remember to keep it si
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-you-should-do-on-tinder" target="_blank" rel="noopener"><strong>What You Should Do on Tinder</strong></a>
+## What You Should Do on Tinder
 
 ![thematchartist_hearts_in_a_big_city_a...](https://cdn.buttercms.com/YHdundRQzy1Dhz4M4mg4)
 
@@ -573,7 +573,7 @@ Do:
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-you-should-not-do-on-tinder" target="_blank" rel="noopener"><strong>What You Should Not Do on Tinder</strong></a>
+## What You Should Not Do on Tinder
 
 Likewise, there are lots of Don’ts for Tinder!
 
@@ -594,7 +594,7 @@ Don’t:
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#are-tinder-dates-just-for-hookups?" target="_blank" rel="noopener"><strong>Are Tinder Dates Just for Hookups?</strong></a>
+## Are Tinder Dates Just for Hookups?
 
 ![thematchartist_photo_of_a_first_date_...](https://cdn.buttercms.com/5HnCj39RleOw4oG1xEdV)
 
@@ -602,7 +602,7 @@ While Tinder may have initially encouraged people to hook up, these days it’s 
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#why-do-guys-not-message-first-on-tinder?" target="_blank" rel="noopener"><strong>Why Do Guys Not Message First on Tinder?</strong></a>
+## Why Do Guys Not Message First on Tinder?
 
 Would you believe it, it’s a question that has actually been&nbsp;<a href="https://arxiv.org/abs/1607.01952" target="_blank" rel="noreferrer noopener">studied by researchers</a>. In it, they found that only 7% of men sent a message first, in contrast to 21% of women.
 
@@ -612,7 +612,7 @@ Of course, this isn’t helpful for either party, as it actually leads to women 
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#do-girls-get-more-matches-on-tinder?" target="_blank" rel="noopener"><strong>Do Girls Get More Matches on Tinder?</strong></a>
+## Do Girls Get More Matches on Tinder?
 
 There are exponentially more male users on Tinder than female, meaning that more girls are likely to have potential matches than men.&nbsp;
 
@@ -622,7 +622,7 @@ So what’s the takeaway with all this? Only Swipe and message people you’re g
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#what-is-tinder-u?" target="_blank" rel="noopener"><strong>What is Tinder U?</strong></a>
+## What is Tinder U?
 
 <a href="https://www.help.tinder.com/hc/en-us/articles/360015516052-Tinder-U-" target="_blank" rel="noreferrer noopener">Tinder U</a>&nbsp;(also known as Tinder Uni in the UK) is Tinder aimed at undergrads at certain schools in both the U.S. and the UK. You can only enroll if:
 
@@ -634,7 +634,7 @@ You’ll be able to see other students from your university (and beyond) in your
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#key-takeaways" target="_blank" rel="noopener"><strong>Key Takeaways</strong></a>
+## Key Takeaways
 
 If you’ve made it all the way through this guide then congrats! You now know everything you need to know about Tinder and how to use it!
 
@@ -676,7 +676,7 @@ Lastly, if you really want to stand out from the crowd, why not talk to The Matc
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#how-to-use-tinder-faqs" target="_blank" rel="noopener"><strong>How to Use Tinder FAQs</strong></a>
+## How to Use Tinder FAQs
 
 ![thematchartist_photo_of_a_first_date_...](https://cdn.buttercms.com/AbmfkDWQ8aSYTUxiW5tE)
 
@@ -750,7 +750,7 @@ And besides, if you’ve Swiped Right on someone and they haven’t on you that�
 
 &nbsp;
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-use-tinder#sources" target="_blank" rel="noopener"><strong>Sources</strong></a>
+## Sources
 
 1. <a href="https://www.statista.com/topics/10082/tinder" target="_blank" rel="noreferrer noopener">statista.com</a>
 2. <a href="https://en.wikipedia.org/wiki/Tinder_(app)" target="_blank" rel="noreferrer noopener">wikipedia.org</a>

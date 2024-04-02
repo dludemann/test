@@ -30,7 +30,7 @@ In this article we’re going to cover:
 
 Ready for all of our Tinder resetting tips? Let’s get into it!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#when-you-should-reset-your-tinder-profile" target="_blank" rel="noopener"><strong>When You Should Reset Your Tinder Profile</strong></a>
+## When You Should Reset Your Tinder Profile
 
 If you’ve Swiped Left (or Right) one too many times and have hit the “No Matches” wall, it could be one of a few reasons to consider resetting your dating profile.
 
@@ -38,7 +38,7 @@ Perhaps you’ve gone through all of the users within your location, or in your 
 
 Bear in mind that if you reset your Tinder, you’ll reset your Swipe history but you’ll also lose all of your current matches and conversations. Depending on which method you choose, there may also be some repercussions (but we’ll go into this in further detail later).
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#why-you-should-reset-your-tinder-profile" target="_blank" rel="noopener"><strong>Why You Should Reset Your Tinder Profile</strong></a>
+## Why You Should Reset Your Tinder Profile
 
 Resetting your Tinder profile can work for you in a few different cases. Here are some of the reasons why you may want to delete everything and start over.
 
@@ -70,27 +70,27 @@ You should be aware that resetting your Tinder account can be one of the reasons
 
 This is one of the things Tinder looks out for in order to crack down on bots, so don’t make this mistake!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#pros-of-resetting-your-tinder" target="_blank" rel="noopener"><strong>Pros of Resetting Your Tinder</strong></a>
+## Pros of Resetting Your Tinder
 
 * You can start over with an improved bio and photos, potentially increasing your match rate (and if you’re looking to take better photos,&nbsp;<a href="https://thematchartist.com/online-dating-photographer-near-me?__hstc=11391787.a65646e22542055b04e3307175893c50.1680311447401.1710279220160.1710289654877.880&amp;__hssc=11391787.7.1710289654877&amp;__hsfp=1091200605" target="_blank" rel="noreferrer noopener">get in touch with The Match Artist</a>!)
 * The algorithm will see you as a new user and temporarily automatically boost your profile
 * You can get out of a (suspected) shadowban
 * If you wait three months before creating a new account, Tinder will delete all of the user data they hold (as per terms and conditions).
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#cons-of-resetting-your-tinder" target="_blank" rel="noopener"><strong>Cons of Resetting Your Tinder</strong></a>
+## Cons of Resetting Your Tinder
 
 * If you get caught resetting your account, you could get shadowbanned (and apparently Tinder has been wising up to tricks and is actively shutting down these accounts)
 * If you’ve sent a few messages and made a few friends (but maybe no romantic connections), resetting your Tinder will totally wipe your account. That means all of your messaging history will be gone, too
 * If you use the same phone number, you’ll need to wait three months before you can create a new account
 * If you’ve paid for Tinder Plus, Gold, or Platinum, you’ll lose your subscription and can’t get a refund.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#how-long-does-it-take-for-tinder-likes-to-reset" target="_blank" rel="noopener"><strong>How Long Does It Take for Tinder Likes to Reset?</strong></a>
+## How Long Does It Take for Tinder Likes to Reset?
 
 If you’ve spent all day Swiping Right and have hit your allowance of 100 (on the basic version of Tinder), you’ll need to wait about 12 hours before you can make any new ones.
 
 However, if you pay for Tinder Plus, Gold, or Platinum, this comes with a number of special features, including unlimited Swipes. Then you’ll never have to worry about your Swipe Rights needing to reset again!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#is-there-a-way-to-reset-matches-on-tinder" target="_blank" rel="noopener"><strong>Is There a Way to Reset Matches on Tinder</strong></a>
+## Is There a Way to Reset Matches on Tinder
 
 There’s a couple of different methods to reset your Tinder account, and it’s more or less the same whether you have an Apple or Android device.
 
@@ -147,7 +147,7 @@ Not sure why you should&nbsp;<a href="https://thematchartist.com/online-dating-p
 
 Proof that it really is all about how you present yourself!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#how-to-reset-tinder-while-connected-to-facebook" target="_blank" rel="noopener"><strong>How to Reset Tinder While Connected to Facebook?</strong></a>
+## How to Reset Tinder While Connected to Facebook?
 
 If you’ve connected your Tinder to Facebook, you’ll need to remove it from your list of linked apps and websites on Tinder.
 
@@ -165,7 +165,7 @@ To do this:
 
 Now you can either wait three months for your account details to be removed from Tinder’s system, or start a new Facebook account and use this to create a new Tinder account!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#key-takeaways" target="_blank" rel="noopener"><strong>Key Takeaways</strong></a>
+## Key Takeaways
 
 So now you know how to reset your Tinder, if necessary!
 
@@ -188,7 +188,7 @@ Ultimately, you should only reset your Tinder if you&nbsp;really&nbsp;have to, a
 
 So, are you ready to start afresh with the best possible photos on your profile?&nbsp;<a href="https://thematchartist.com/online-dating-photographer-near-me?__hstc=11391787.a65646e22542055b04e3307175893c50.1680311447401.1710279220160.1710289654877.880&amp;__hssc=11391787.7.1710289654877&amp;__hsfp=1091200605" target="_blank" rel="noreferrer noopener">Get in touch with The Match Artist</a>&nbsp;and let’s start your journey today!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#is-there-a-way-to-reset-matches-on-tinder-faqs" target="_blank" rel="noopener"><strong>Is There a Way to Reset Matches on Tinder FAQs</strong></a>
+## Is There a Way to Reset Matches on Tinder FAQs
 
 ### **Can you reset your Tinder account?**
 
@@ -206,7 +206,7 @@ Unfortunately, the only real way to reset your Tinder swipes is by deleting your
 
 However, if you made a mistake and just need to undo your last Swipe, Tinder Rewind (only available with Tinder Plus, Gold, or Platinum) will allow you to do this, for a price.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/resetting-tinder-swipes#sources" target="_blank" rel="noopener"><strong>Sources</strong></a>
+## Sources
 
 1. <a href="https://www.help.tinder.com/hc/en-us/articles/115004493323-Rewind-" target="_blank" rel="noreferrer noopener">help.tinder.com</a>
 2. <a href="https://www.fastcompany.com/3054871/whats-your-tinder-score-inside-the-apps-internal-ranking-system" target="_blank" rel="noreferrer noopener">fastcompany.com</a>

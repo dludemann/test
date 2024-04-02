@@ -27,7 +27,7 @@ In this article we’re going to cover:
 
 Ready to step up your Tinder game? Let’s get into it!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-get-more-matches-tinder#why-am-i-not-getting-matches-on-tinder" target="_blank" rel="noopener"><strong>Why Am I Not Getting Matches on Tinder?</strong></a>
+## Why Am I Not Getting Matches on Tinder?
 
 The first thing to understand about Tinder is how exactly it works.
 
@@ -63,7 +63,7 @@ But don’t be discouraged!
 
 We’ve got the lowdown on what’s going to get you more matches and opportunities to send a message, start a conversation and get chatting to a potential match. And, maybe even find love!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-get-more-matches-tinder#our-top--tips-for-more-matches" target="_blank" rel="noopener"><strong>Our Top 12 Tips for More Matches</strong></a>
+## Our Top 12 Tips for More Matches
 
 ### **1\. Fully Optimize Your Tinder Profile**
 
@@ -270,7 +270,7 @@ And, if smiling isn’t your thing, that’s okay —&nbsp;<a href="http://perso
 
 ### **15\. Don’t Include Pictures of Your Children on Tinder**
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-get-more-matches-tinder#key-takeaways" target="_blank" rel="noopener"><strong>Key Takeaways</strong></a>
+## Key Takeaways
 
 If you’re stuck in a bit of a rut and haven’t been getting as many matches on your Tinder profile, it may be time to switch things up!
 
@@ -292,7 +292,7 @@ And, of course, when you’re ready to&nbsp;really&nbsp;level up your Tinder pro
 
 We’ll work with you every step of the way to help your Tinder profile shine, and before you know it, you’ll have matches galore.
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-get-more-matches-tinder#how-to-get-more-matches-on-tinder-faqs" target="_blank" rel="noopener"><strong>How to Get More Matches on Tinder FAQs</strong></a>
+## How to Get More Matches on Tinder FAQs
 
 ### **Why am I not getting matches on Tinder?**
 
@@ -316,7 +316,7 @@ Typically, our clients get between&nbsp;20–40 matches every day, and that’s 
 
 Proof that the single most important factor on your Tinder profile is high-quality photos of you!
 
-## <a href="https://active-chicken--16012961zx-cloudventzx-net.proxy.cloudcannon.com/tinder/how-to-get-more-matches-tinder#sources" target="_blank" rel="noopener"><strong>Sources</strong></a>
+## Sources
 
 1. <a href="https://datingzest.com/tinder-statistics" target="_blank" rel="noreferrer noopener">datingzest.com</a>
 2. <a href="https://www.fastcompany.com/3054871/whats-your-tinder-score-inside-the-apps-internal-ranking-system" target="_blank" rel="noreferrer noopener">fastcompany.com</a>
