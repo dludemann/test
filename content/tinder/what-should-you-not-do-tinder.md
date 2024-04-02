@@ -1,10 +1,9 @@
 ---
-title: 'What You Should 100% NOT Do on Tinder  (16 Tips)'
+title: What You Should 100% NOT Do on Tinder  (16 Tips)
 menu_grouping: Tinder Etiquette and Behavior
 author: Shane White
 seo:
-  page_description: >-
-    A guide to the Tinder algorithm
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,7 +11,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p dir="ltr"><span>Let&rsquo;s be real &mdash; not all of us are pros at this online dating thing. In fact, some of us might be doing more harm than good without even realizing it!&nbsp;</span><b></b></p>
 <p dir="ltr"><span>That&rsquo;s why we&rsquo;ve compiled a list of 16 tips on what you should absolutely </span><span>not</span><span> do on Tinder.&nbsp;</span><b></b></p>
 <p dir="ltr"><span></span></p>

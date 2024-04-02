@@ -1,10 +1,9 @@
 ---
-title: 'What Does Dil Mil Look Like for Guys?'
+title: What Does Dil Mil Look Like for Guys?
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:
-  page_description: >-
-    A guide to the Dil Mil algorithm
+  page_description: A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,7 +11,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p>As a guy, it&rsquo;s always tempting to know if different dating apps are skewed differently, depending if you&rsquo;re male or female.</p>
 <p></p>
 <p>Well, honestly, the user experience on Dil Mil is very similar, but there are a few small differences. We&rsquo;ve broken it down for you into a few key topics to help satisfy your curiosity!</p>

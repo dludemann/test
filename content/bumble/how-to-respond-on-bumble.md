@@ -64,7 +64,7 @@ Responding to initial messages can be tricky — your goal is to keep the conver
 
 ### How to Respond When a Bumble Match Opens with “Hey” or “What’s Up?”
 
-Ah, the “hey” or “what’s up” opening lines. As this [Reddit](https://www.reddit.com/r/Bumble/comments/jp63ht/whats_the_best_reply_to_heys_which_are_the_only/)thread shows, no one likes them! These are low-effort, low-risk openers — but don’t dismiss a match immediately just for this reason!
+Ah, the “hey” or “what’s up” opening lines. As this [Reddit](https://www.reddit.com/r/Bumble/comments/jp63ht/whats_the_best_reply_to_heys_which_are_the_only/) thread shows, no one likes them! These are low-effort, low-risk openers — but don’t dismiss a match immediately just for this reason!
 
 Think of it as your opportunity to steer the conversation in an interesting direction. Instead of responding with something similarly generic, try personalizing your response. Send a reply that shows you’ve read their profile, or a question that will help you get to know them.
 
