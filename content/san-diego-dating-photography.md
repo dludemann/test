@@ -66,7 +66,7 @@ content_blocks:
       city: San Diego
       state: California
     image:
-      src: /images/work/austin-before-after.webp
+      src: /images/work/San Diego-before-after.webp
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"
@@ -149,10 +149,10 @@ content_blocks:
         answer:
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want
-          to meet even more amazing people in Austin, an online dating
+          to meet even more amazing people in San Diego, an online dating
           photographer can help.
-      - question: What are the best photos for dating in Austin?
-        answer: From our testing, people in Austin prefers photos that are authentic. This means no professional studio photos which have obviously been posed and edited. Instead, your photos should be taken outdoors in natural light, and they should focus on your charm, personality and confidence.
+      - question: What are the best photos for dating in San Diego?
+        answer: From our testing, people in San Diego prefers photos that are authentic. This means no professional studio photos which have obviously been posed and edited. Instead, your photos should be taken outdoors in natural light, and they should focus on your charm, personality and confidence.
       - question: Why hire an online dating photographer?
         answer: Because every online dating app prioritizes photos. You could look like Brad Pitt in real life, but if your photos suck and people can't see that - then you're not going to be matching with many people. Most people don't have great photos. So we scrap together whatever old photos we can find, add in a few bathroom selfies and hope for the best. We know these awkward photos don't do us justice, but it's all we have. An online dating photographer will help showcase all your best features. They'll highlight your charisma, charm and confidence. The'll find all your best angles, help you look natural and deliver stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
