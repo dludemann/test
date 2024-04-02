@@ -143,15 +143,15 @@ content_blocks:
         answer: >-
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Austin, an online dating photographer
-          can help.
-      - question: What are the best photos for dating in Austin?
+          meet even more amazing people in New York City, an online dating
+          photographer can help.
+      - question: What are the best photos for dating in New York City?
         answer: >-
-          From our testing, people in Austin prefers photos that are authentic.
-          This means no professional studio photos which have obviously been
-          posed and edited. Instead, your photos should be taken outdoors in
-          natural light, and they should focus on your charm, personality and
-          confidence.
+          From our testing, people in New York City prefers photos that are
+          authentic. This means no professional studio photos which have
+          obviously been posed and edited. Instead, your photos should be taken
+          outdoors in natural light, and they should focus on your charm,
+          personality and confidence.
       - question: Why hire an online dating photographer?
         answer: >-
           Because every online dating app prioritizes photos. You could look
