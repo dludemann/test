@@ -1,6 +1,6 @@
 <script setup>
 const BOOKING_LINK =
-  "https://bookus.page/thematchartist/thematchartist/lite/free-consultation-with-shane";
+  "https://meetings.hubspot.com/the-match-artist/strategy-session?email=xyz@example.com";
 </script>
 
 <template>
