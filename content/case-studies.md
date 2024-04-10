@@ -32,7 +32,7 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: banner
-    background_color: '#FFFFF'
+    background_color: '#000000'
     background_image:
     background_filters:
       brightness: 1
@@ -80,13 +80,13 @@ content_blocks:
       bottom_spacing:
     title:
       text: Karthik's Story
-      text_color: white
+      text_color: '#ffffff'
       heading_style: h2
       top_spacing: 30
       bottom_spacing: 30
     post_title:
       text: From dating during Covid to Engaged from our Photos
-      text_color: white
+      text_color: '#ffffff'
       top_spacing:
       bottom_spacing: 30
   - _bookshop_name: markdown-block
@@ -491,6 +491,49 @@ content_blocks:
     video_link:
     top_spacing:
     bottom_spacing:
+  - _bookshop_name: hero
+    background_color:
+    background_image: /images/will-hero.jpg
+    background_filters:
+      brightness: 1
+      blur: 0
+    pre_title:
+      text:
+      text_color:
+      top_spacing:
+      bottom_spacing:
+    title:
+      text: Will's Story
+      text_color: '#ffffff'
+      heading_style: h2
+      top_spacing: 30
+      bottom_spacing: 30
+    post_title:
+      text: >-
+        From giving up after working with a match maker, to engaged to be
+        married.
+      text_color: '#ffffff'
+      top_spacing:
+      bottom_spacing: 30
+  - _bookshop_name: markdown-block
+    pre_title:
+    title: Will's Engagement Session
+    paragraphs:
+      - text: >-
+          Will reached back out to us to say he got engaged and needed some
+          engagement pics. We flew out to Charlotte and shot some, and will be
+          shooting their upcoming wedding.
+
+
+          ![](/images/will-collage.jpg)
+
+
+          &nbsp;
+
+
+          &nbsp;
+        inline_image:
+        flipped: false
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
