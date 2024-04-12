@@ -28,7 +28,7 @@ In this article we’ll cover:
 * How to navigate the complexities of conversations on Bumble
 * Frequently asked questions.
 
-  &nbsp;
+   
 
 Ready for us to guide you through how to become a Bumble chat master? Read on!
 
@@ -132,7 +132,7 @@ Some examples include:
 * If they respond to your well-thought-out messages with single word answers
 * If their listed hobbies are very generic, like “watching TV” or “drinking coffee.”
 
-  &nbsp;
+   
 
 You don’t necessarily want to dismiss someone with these in their bio, in case they’re a good match for you, but you do want to try to get to know them a little better!
 
@@ -159,7 +159,7 @@ But what about if you’re not getting a whole lot of matches or first messages?
 * Ensuring your settings are tweaked for best results in your area
 * Upgrading your profile pics.
 
-  &nbsp;
+   
 
 While most of this is going to be up to you, when it comes to photos, that’s where [The Match Artist](https://thematchartist.com/online-dating-photographer-near-me) can step in! We’re online dating experts, and we can support you with our expertise when it comes to improving your profile and having success.
 
@@ -193,7 +193,7 @@ Not sure how to make your Bumble opener stand out? Here are a few ideas:
 * “Hey there, I noticed in your profile that you’re a music lover. If your life was a movie, what song would be playing in the opening scene?”
 * “Hello \[name\], your love for books caught my eye. If you could be any character from your favorite book for a day, who would you be?”
 
-  &nbsp;
+   
 
 All of these show you’ve read their profile and are interested in getting to know them!
 
@@ -209,7 +209,7 @@ Instead of a generic “hi,” try something like:
 
 * “Hi \[name\], I noticed you’re a hiking enthusiast! Where’s the most unforgettable place you’ve hiked?”
 
-  &nbsp;
+   
 
 This opener shows you’ve read their profile and you’re eager to know more.
 
@@ -226,7 +226,7 @@ Some examples could include:
 * If they comment on your travel pics: “Thanks for asking! I’ve had some fantastic adventures, like backpacking in Thailand. But there are so many places still on my bucket list! What’s your favorite travel destination?”
 * If they mention your pet: “Yes, that’s my fur buddy! We love our walks in the park. Are you a dog lover, or a cat person?”
 
-  &nbsp;
+   
 
 Remember, you want to respond with something that moves the conversation forwards, so responding with a question is ideal!
 
