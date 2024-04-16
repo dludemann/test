@@ -2,7 +2,8 @@
 title: Before + After
 seo:
   page_description: >-
-    From The Match Artist's portfolio, these \"Before and after\" shots helped our customers go on more dates, and for many, find the love of their life.
+    From The Match Artist's portfolio, these \"Before and after\" shots helped
+    our customers go on more dates, and for many, find the love of their life.
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -22,7 +23,7 @@ content_blocks:
       top_spacing:
       bottom_spacing:
     title:
-      text: 'Before & After'
+      text: Before & After
       text_color: '#FFFFFF'
       heading_style: h1
       top_spacing: 72
@@ -33,9 +34,9 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: card-grid-three-column
-    title: 'Before & After'
-    subtitle: The Match Artist
     heading_style: portfolio
+    title: Before & After
+    subtitle: The Match Artist
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
@@ -139,8 +140,6 @@ content_blocks:
       - src: /images/portfolio/r5tHY7RuGlhSc2nVzfyw.jpg
         alt: Before and After photo taken by The Match Artist
     column_two:
-      - src: /images/portfolio/VWiXYAXRXKjlX2aSAAzT.jpg
-        alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/FWh1dpGaRQ2Ja7HL3DQL.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/Kl7TJjunSmeoHaXJHjtu.jpg
@@ -186,6 +185,8 @@ content_blocks:
       - src: /images/portfolio/N6M555DkTnm5MhlrPV2G.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/qQAtnuyIRPm47etx53FP.jpg
+        alt: Before and After photo taken by The Match Artist
+      - src: /images/portfolio/VWiXYAXRXKjlX2aSAAzT.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/rvV3SycKRdqjW5dZkTDn.jpg
         alt: Before and After photo taken by The Match Artist
