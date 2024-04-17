@@ -188,7 +188,7 @@ loaded.value = true;
     />
     <section class="w-full font-display">
       <!-- Text content  -->
-      <section class="max-w-[800px] mx-auto">
+      <section class="px-6 lg:px-0 max-w-[800px] mx-auto">
         <p class="text-[1rem] font-bold text-[#171717] uppercase pt-[50px]">
           {{ pageData.menu_grouping }}
         </p>
