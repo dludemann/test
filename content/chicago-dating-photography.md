@@ -140,10 +140,10 @@ content_blocks:
     image:
       src: /images/dan-collage.png
       alt:
-      max_width: 766
+      max_width: 800
       height: 766
   - _bookshop_name: faq
-    title: FAQS
+    title: FAQ
     description: >-
       Have more questions than what you see here? Reach out to our team—we'd
       love to chat and help however we can.
