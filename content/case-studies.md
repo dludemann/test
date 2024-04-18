@@ -32,15 +32,15 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: banner
-    background_color: '#000000'
+    background_color: '#ffffff'
     background_image:
     background_filters:
       brightness: 1
       blur: 0
     pre_title:
-      text: We wanted to share some results driven case studies.
+      text: Results-driven case studies from guys we've worked with
       text_color: '#000000'
-      top_spacing: 50
+      top_spacing: 90
       bottom_spacing: 0
     title:
       text: Case Studies
@@ -49,12 +49,13 @@ content_blocks:
       bottom_spacing: 10
     description:
       text: >-
-        It might be hard to believe that we can get the results for our clients
-        that we claim, so we've put together some specific results driven case
-        studies to show the life change with new photos.
-      text_color: black
-      top_spacing: 30
-      bottom_spacing: 30
+        It might be hard to believe that our clients get the results that we
+        claim, so we've compiled stories from some of the guys we've worked
+        with. Scroll through the stories below to see the real life changes that
+        have happened as a result of the photos.
+      text_color: '#000000'
+      top_spacing: 10
+      bottom_spacing: 90
     cta:
       text_color:
       top_spacing:
