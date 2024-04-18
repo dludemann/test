@@ -19,7 +19,7 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/rohit-517-2.jpeg
+      src: /images/rohit.png
       alt: Photo of Rohit on a black background
       max_width: 490
     testimonial:
