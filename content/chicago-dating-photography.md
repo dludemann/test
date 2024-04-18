@@ -19,9 +19,9 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/rohit.png
+      src: /images/rohit-1.png
       alt: Photo of Rohit on a black background
-      max_width: 490
+      max_width: 500
     testimonial:
       text: An overall skyrocketing experience for my online dating.
       person: Brent S
