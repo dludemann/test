@@ -19,19 +19,19 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/rohit4-1.jpg
+      src: /images/rohit5.jpg
       alt: Photo of Rohit on a black background
       max_width: 500
     testimonial:
       text: An overall skyrocketing experience for my online dating.
-      person: Brent S
+      person: Brent S.
       image:
         src: /images/work/brent.webp
         alt: Photo of Brent
         height: 50
         width: 50
-      height: 60
-      width: 365
+      height: 65
+      width: 370
       vertical_padding: 40
       horizontal_padding: 9
     button:
@@ -48,7 +48,7 @@ content_blocks:
       We'll guide you through the process of logistics for the shoot, coach you
       on body language and facial expressions, and help you design your profile
       and bio to stand out on dating apps.
-    background_image: /images/backgrounds/city-background-detailed.jpeg
+    background_image:
     images:
       - /images/connor-tma-210.jpg
       - /images/shureed-7405361-282.jpg
