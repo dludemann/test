@@ -19,9 +19,9 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/collage-2-2.png
-      alt: Photo of Brian on a black background
-      max_width: 500
+      src: /images/rohit-517-2.jpeg
+      alt: Photo of Rohit on a black background
+      max_width: 490
     testimonial:
       text: An overall skyrocketing experience for my online dating.
       person: Brent S
@@ -43,11 +43,11 @@ content_blocks:
     location:
       city: Chicago
       state: Illinois
-    title: Full Photoshoot In Different Settings To Capture The Best You
+    title: Full Photoshoot In 10+ Settings To Capture The Best You
     description: >-
-      Our approach involves capturing a multitude of photos to ensure we curate
-      a selection that shows your personality, helping you stand out on dating
-      platforms.
+      We'll guide you through the process of logistics for the shoot, coach you
+      on body language and facial expressions, and help you design your profile
+      and bio to stand out on dating apps.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
       - /images/connor-tma-210.jpg
@@ -71,7 +71,7 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/nick-before-after-3-1.png
+      src: /images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#ffffff'
@@ -87,17 +87,11 @@ content_blocks:
         more expired Bumble matches waiting for that first outreach!
       person: Nick R
     cta:
-      title: Stand Out in the Digital Dating Scene
+      title: Stand Out in the Online Dating Scene
       button:
         text: Inquire Now
         background_color: '#990800'
-      stats:
-        - number: 1000
-          text: Successful Clients
-        - number: 20
-          text: Marriages
-        - number: 250
-          text: Relationships
+      stats: []
     button:
       path: '#contact'
       text: Book a Call
@@ -108,37 +102,38 @@ content_blocks:
       src: /images/mockups/tindermock.webp
       height: 812
       width: 375
-    title: Elevate Your Dating Profile with Professional Dating Photography
+    title: >-
+      Elevate your dating profile with science-backed coaching to make every
+      photo look confident and fun.
     description: >-
-      In a picture-first dating world, make sure your profile photo entices
-      prospects to explore further and discover your true potential.
+      Professional dating photography with our team is guaranteed to make you
+      stand out.
     list:
-      - icon: /icons/camera.svg
-        text: Make a great first impression
-      - icon: /icons/heart.svg
+      - icon: /icons/green-tick.svg
         text: Get more matches
-      - icon: /icons/magnifying-glass.svg
+      - icon: /icons/green-tick.svg
         text: Go on better dates
-      - icon: /icons/gold-star.svg
-        text: Feel more confident
+      - icon: /icons/green-tick.svg
+        text: Always look good in photos
+      - icon: /icons/green-tick.svg
+        text: Have the best chance at finding your life partner
     button:
       path: '#contact'
       text: Book a Call
   - _bookshop_name: left-right-list
-    title: Expert guidance in every step of your photoshoot
+    title: Custom-tailored, done-for-you photoshoot
     description: >-
-      Our professional photographers strike the perfect balance between
-      showcasing your best features and maintaining an honest representation of
-      yourself, avoiding the pitfalls of overediting and appearing inauthentic.
+      Our professional photographers strike the perfect balance of showcasing
+      your best features and maintaining an honest representation of yourself.
     list:
       - icon: /icons/green-tick.svg
-        text: Facial expression & body language coaching
+        text: Facial expression coaching + body language coaching
       - icon: /icons/green-tick.svg
         text: 4-5 hour shoot demonstrating your lifestyle and hobbies
       - icon: /icons/green-tick.svg
-        text: Advice on your best photos and dating app optimizations
+        text: Zoom call with our dating expert to design your profile and bio
       - icon: /icons/green-tick.svg
-        text: 200-300 edited photos
+        text: Guaranteed more matches
     button:
       path: '#contact'
       text: Inquire now
@@ -150,34 +145,41 @@ content_blocks:
   - _bookshop_name: faq
     title: FAQS
     description: >-
-      Everything you need to know about the product and billing. Can’t find the
-      answer you’re looking for? Please chat to our friendly team.
+      Have more questions than what you see here? Reach out to our team—we'd
+      love to chat and help however we can.
     faqs:
       - question: Should I hire an online dating photographer?
         answer: >-
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Chicago, an online dating
-          photographer can help.
+          meet even more amazing people in Dallas, our online dating
+          photographers can help you get there.
       - question: What are the best photos for dating in Chicago?
         answer: >-
-          From our testing, people in Chicago prefers photos that are authentic.
+          From our testing and research, people prefer photos that are
+          authentic. It may sound obvious, but crafting an authentic and
+          eye-catching online dating profile is actually harder than it sounds.
           This means no professional studio photos which have obviously been
-          posed and edited. Instead, your photos should be taken outdoors in
-          natural light, and they should focus on your charm, personality and
-          confidence.
+          posed and edited. Instead, your photos should be taken in more natural
+          settings and give people a sense of your personality, hobbies, and
+          confidence. The best online dating photos are the ones where you look
+          real, confident, and and intriguing enough catch someone's attention.
+          If that sounds daunting, we can help.
       - question: Why hire an online dating photographer?
         answer: >-
-          Because every online dating app prioritizes photos. You could look
-          like Brad Pitt in real life, but if your photos suck and people can't
-          see that - then you're not going to be matching with many people. Most
-          people don't have great photos. So we scrap together whatever old
-          photos we can find, add in a few bathroom selfies and hope for the
-          best. We know these awkward photos don't do us justice, but it's all
-          we have. An online dating photographer will help showcase all your
-          best features. They'll highlight your charisma, charm and confidence.
-          The'll find all your best angles, help you look natural and deliver
-          stunning photos that will stop people in their tracks.
+          Because every online dating app prioritizes photos. People make split
+          second decisions based on photos alone. You could look like Brad Pitt
+          in real life, but if your photos don't show that, you're not going to
+          get the matches you're wanting. Reality is, most people don't have
+          great photos. So we scrap together whatever old photos we can find,
+          add in a car selfie, and hope for the best. We know these awkward
+          photos don't do us justice, but it's all we have. Instead of
+          scrounging for photos, what if you had almost too many to choose from?
+          Our online dating photographers will capture photos that do you
+          justice and bring out your best features. They'll help you create a
+          profile that you're proud of and that stands out from the rest. The'll
+          find all your best angles, help you look natural, and deliver enough
+          photos to fill up your dating profile and then some.
   - _bookshop_name: left-right-form
     background_color: '#090303'
     text_color: '#000000'
@@ -189,11 +191,11 @@ content_blocks:
       talents.
     list:
       - icon: /icons/green-tick.svg
-        text: Better dating profile
+        text: Build a better dating profile
       - icon: /icons/green-tick.svg
         text: Go on better dates
       - icon: /icons/green-tick.svg
-        text: Improved social media presence
+        text: Improve your social media presence
     form:
       title: Inquire Now
       city_input: false
