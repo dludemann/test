@@ -1,7 +1,9 @@
 ---
 title: Online Dating Photographer
 seo:
-  page_description: We are the only photography company that ONLY specializes in online dating photography.
+  page_description: >-
+    We are the only photography company that ONLY specializes in online dating
+    photography.
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -75,7 +77,6 @@ content_blocks:
     layout:
       flipped: true
       container: true
-      max-width:
       vertical_padding: 64
       horizontal_padding: 10
       text:
@@ -87,6 +88,7 @@ content_blocks:
         max_width: 500
         text_is_quote: false
         quote_author:
+      max-width:
     text: >-
       ## Go on Better Dates
 
@@ -106,22 +108,22 @@ content_blocks:
         images:
           - heading: Before
             image:
-              src: '/images/work/john-before-pictures.webp'
+              src: /images/work/john-before-pictures.webp
               alt: A before photo
           - heading: After
             image:
-              src: '/images/work/online-dating-headshot-sam.jpg'
+              src: /images/work/online-dating-headshot-sam.jpg
               alt: An after photo
           - heading: Before
             image:
-              src: '/images/work/cameron-before.webp'
+              src: /images/work/cameron-before.webp
               alt: A before photo
           - heading: After
             image:
-              src: '/images/work/cameron-after.webp'
+              src: /images/work/cameron-after.webp
               alt: An after photo
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: left-right-image
@@ -129,7 +131,6 @@ content_blocks:
     layout:
       flipped: false
       container: true
-      max-width:
       vertical_padding: 64
       horizontal_padding: 10
       text:
@@ -141,11 +142,16 @@ content_blocks:
         max_width: 500
         text_is_quote: false
         quote_author:
+      max-width:
     text: >-
       ## Look Confident
 
 
-      If your new photos catch a lady’s eye and highlight your personality, she is bound to click on your profile. We tailor your photo experience with us to highlight things you enjoy doing most. Whether it’s kayaking, rock climbing, reading, or drinking coffee, you’ll get more matches with a varied profile filled with your talents.
+      If your new photos catch a lady’s eye and highlight your personality, she
+      is bound to click on your profile. We tailor your photo experience with us
+      to highlight things you enjoy doing most. Whether it’s kayaking, rock
+      climbing, reading, or drinking coffee, you’ll get more matches with a
+      varied profile filled with your talents.
     image:
       image:
         src:
@@ -156,22 +162,22 @@ content_blocks:
         images:
           - heading: Before
             image:
-              src: '/images/work/paul-before.webp'
+              src: /images/work/paul-before.webp
               alt: A before photo
           - heading: After
             image:
-              src: '/images/work/paul-after.webp'
+              src: /images/work/paul-after.webp
               alt: An after photo
           - heading: Before
             image:
-              src: '/images/work/ruhan-before.webp'
+              src: /images/work/ruhan-before.webp
               alt: A before photo
           - heading: After
             image:
-              src: '/images/work/ruhan-after.webp'
+              src: /images/work/ruhan-after.webp
               alt: An after photo
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: markdown-block
@@ -332,21 +338,21 @@ content_blocks:
           shortlist those few photographs that we think will make you stand out.
 
 
-          **Older Women Looking For Men** – Career women in their early to late 30s,
-          40s, and 50s are often overlooked by men their age. It's not always
-          because they could look younger, but that these women don't show off
-          those subtle cues that attract the men they want. Our approach to
-          online dating photography for women is to understand the type of men
-          they want to date, create a profile, and then start the actual
-          photography. Each photograph is geared to that profile. The right
-          approach, which means successfully presenting those subtle cues in an
-          online dating profile bio, has, in our experience, delivered excellent
-          results for clients.
+          **Older Women Looking For Men** – Career women in their early to late
+          30s, 40s, and 50s are often overlooked by men their age. It's not
+          always because they could look younger, but that these women don't
+          show off those subtle cues that attract the men they want. Our
+          approach to online dating photography for women is to understand the
+          type of men they want to date, create a profile, and then start the
+          actual photography. Each photograph is geared to that profile. The
+          right approach, which means successfully presenting those subtle cues
+          in an online dating profile bio, has, in our experience, delivered
+          excellent results for clients.
 
-          **Anyone Who Has Not Seen Results** – By this, we mean anyone who has had
-          an online dating profile for a while across multiple platforms but has
-          not seen much in the way of results. This could also include older men
-          and women returning to the dating game after a significantly long
+          **Anyone Who Has Not Seen Results** – By this, we mean anyone who has
+          had an online dating profile for a while across multiple platforms but
+          has not seen much in the way of results. This could also include older
+          men and women returning to the dating game after a significantly long
           hiatus. Most likely, you are an older male since women swipe on only
           6% of male profiles. Also, women who haven't been able to attract the
           type of man they want can benefit significantly from professional
@@ -391,95 +397,93 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
-          ## Dating profile pictures photography - 5 must-have dating photos for success 
+          ## Dating profile pictures photography - 5 must-have dating photos for
+          success
 
 
-          Each day we meet with men and women who feel anxious about
-          getting back into the dating game. Men and women who have been in a
-          single relationship for a long time are often the hardest hit. While
-          we advocate that you kick off your online dating journey with
+          Each day we meet with men and women who feel anxious about getting
+          back into the dating game. Men and women who have been in a single
+          relationship for a long time are often the hardest hit. While we
+          advocate that you kick off your online dating journey with
           professional dating profile pictures, the other question we often get
           asked is, "What types of pictures work best?" In our experience, there
           are 5 types of photos that your profile should have and are offered as
           part of our dating profile pictures photography service.
 
-          ## The Headshot with a Smile 
+
+          ## The Headshot with a Smile
 
 
-          99.9% of people visiting your online
-          dating profile will start by seeing your headshot. Whether it's
-          Tinder, Bumble, or Facebook, that headshot gives a prospect their
-          first impression of you. In the world of dating profile picture
-          photography, pulling off a truly fantastic headshot needs more than
-          just a beautiful simile. It needs to be interesting and intriguing
-          enough to get a prospect to tap or swipe on it. So you don't want a
-          headshot that resembles more of a close-up. The picture is usually
-          framed from the chest up. Also, this isn't a passport photo, so try to
-          smile. If anything, it goes a long way to make the person considering
-          your profile feel more comfortable. The blurred background is fine
-          since the emphasis is on you. But the most critical element, second to
-          perhaps your smile, is the lighting. We try to avoid using overhead
-          lights, which make the features appear too harsh. Our team uses
-          eye-level lights which accentuate your facial features. Also, the goal
-          is to produce a portrait that does not look flat. That's why it
-          generally takes a pretty long time to frame and take what we consider
-          to be a winning headshot for a dating profile.
-
-          ## A Candid Portrait 
+          99\.9% of people visiting your online dating profile will start by
+          seeing your headshot. Whether it's Tinder, Bumble, or Facebook, that
+          headshot gives a prospect their first impression of you. In the world
+          of dating profile picture photography, pulling off a truly fantastic
+          headshot needs more than just a beautiful smile. It needs to be
+          interesting and intriguing enough to get a prospect to tap or swipe on
+          it. So you don't want a headshot that resembles more of a close-up.
+          The picture is usually framed from the chest up. Also, this isn't a
+          passport photo, so try to smile. If anything, it goes a long way to
+          make the person considering your profile feel more comfortable. The
+          blurred background is fine since the emphasis is on you. But the most
+          critical element, second to perhaps your smile, is the lighting. We
+          try to avoid using overhead lights, which make the features appear too
+          harsh. Our team uses eye-level lights which accentuate your facial
+          features. Also, the goal is to produce a portrait that does not look
+          flat. That's why it generally takes a pretty long time to frame and
+          take what we consider to be a winning headshot for a dating profile.
 
 
-          Candid photos are an excellent way to show off
-          your personality. When done right, or professionally (we must add), it
-          will impress people who are looking to find someone who likes having
-          fun. Candid shots, by their very definition, need to be taken when the
-          subject isn't aware they are being photographed. The majority of
-          candid shots are faked, and the subject tries acting natural, which is
-          perfectly fine if it is pulled off with perfection.
-
-          Our dating profile pictures photography service achieves candid shots
-          with careful planning and positioning. We also find the right angle
-          for the shot to get that impromptu look. In our experience, it helps
-          immensely if the shot is of you engaged in some activity like maybe
-          fetching drinks from the counter, playing the guitar, etc. However,
-          the key is to get our clients to relax and rehearse the shot before it
-          is taken.
-
-          ## Shots of Your Hobbies 
+          ## A Candid Portrait
 
 
-          We don't mean pictures of your stamp
-          collection, but instead, you engaged in pasting stamps, maybe. While
-          platforms like Tinder have proven to be instrumental in connecting
-          people, the opportunity to learn about the other party is almost
-          non-existent without contacting them. However, you can communicate
-          your hobbies and passion via a series of photographs. If you like
-          reading, playing the guitar, or doing Pilates, a few photos in your
-          natural habitat helps communicate to the prospect what you enjoy
-          doing.
-
-          As professional photographers, we know that every picture tells a
-          story. That's why our goal is to try and convey as much information as
-          possible. Also, these photos help you steer clear from the otherwise
-          monotonous, repetitive rut other profiles seem to find themselves in.
-          So this is an opportunity for you to connect with a prospect, which
-          ideally is a like-minded person who shares your passion.
-
-          ## A Full Body Shot 
+          Candid photos are an excellent way to show off your personality. When
+          done right, or professionally (we must add), it will impress people
+          who are looking to find someone who likes having fun. Candid shots, by
+          their very definition, need to be taken when the subject isn't aware
+          they are being photographed. The majority of candid shots are faked,
+          and the subject tries acting natural, which is perfectly fine if it is
+          pulled off with perfection. Our dating profile pictures photography
+          service achieves candid shots with careful planning and positioning.
+          We also find the right angle for the shot to get that impromptu look.
+          In our experience, it helps immensely if the shot is of you engaged in
+          some activity like maybe fetching drinks from the counter, playing the
+          guitar, etc. However, the key is to get our clients to relax and
+          rehearse the shot before it is taken.
 
 
-          We usually recommend a full body shot to avoid any
-          misunderstandings. A full body shot shows off how you look. However,
-          as dating photographers, these are among the hardest to get right
-          because you need to find the right pose, optimal angle, and the best
-          lighting, not to mention get the look right.
+          ## Shots of Your Hobbies
 
-          Ideally, you'll want to take the shot outdoors, an hour or so before
-          sunset. Again, the primary light source is set at eye level, making it
-          the best time for this natural light shot. Though if the same shot
-          were to be taken indoors, we'd use artificial lighting that's at
-          eye-level with a wide aperture lens. Our goal is to get everything
-          from the waist up in the frame while blurring out the background to
-          eliminate distractions.
+
+          We don't mean pictures of your stamp collection, but instead, you
+          engaged in pasting stamps, maybe. While platforms like Tinder have
+          proven to be instrumental in connecting people, the opportunity to
+          learn about the other party is almost non-existent without contacting
+          them. However, you can communicate your hobbies and passion via a
+          series of photographs. If you like reading, playing the guitar, or
+          doing Pilates, a few photos in your natural habitat helps communicate
+          to the prospect what you enjoy doing. As professional photographers,
+          we know that every picture tells a story. That's why our goal is to
+          try and convey as much information as possible. Also, these photos
+          help you steer clear from the otherwise monotonous, repetitive rut
+          other profiles seem to find themselves in. So this is an opportunity
+          for you to connect with a prospect, which ideally is a like-minded
+          person who shares your passion.
+
+
+          ## A Full Body Shot
+
+
+          We usually recommend a full body shot to avoid any misunderstandings.
+          A full body shot shows off how you look. However, as dating
+          photographers, these are among the hardest to get right because you
+          need to find the right pose, optimal angle, and the best lighting, not
+          to mention get the look right. Ideally, you'll want to take the shot
+          outdoors, an hour or so before sunset. Again, the primary light source
+          is set at eye level, making it the best time for this natural light
+          shot. Though if the same shot were to be taken indoors, we'd use
+          artificial lighting that's at eye-level with a wide aperture lens. Our
+          goal is to get everything from the waist up in the frame while
+          blurring out the background to eliminate distractions.
         inline_image:
         flipped: false
   - _bookshop_name: social-banner
