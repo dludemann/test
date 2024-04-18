@@ -1,5 +1,5 @@
 ---
-title: How it Works
+title: How It Works
 seo:
   page_description: >-
     We guide you through the entire process. We first give you some solid
@@ -13,21 +13,21 @@ seo:
 content_blocks:
   - _bookshop_name: hero
     background_color:
-    background_image: /images/backgrounds/kickboxing-for-tinder.jpg
+    background_image: /images/dscf2009.jpeg
     background_filters:
       brightness: 0.8
       blur: 0
     pre_title:
       text: Show the best you.
-      text_color: white
-      top_spacing: 16
-      bottom_spacing:
+      text_color: '#ffffff'
+      top_spacing: 100
+      bottom_spacing: 0
     title:
       text: Go on better dates!
-      text_color: white
+      text_color: '#ffffff'
       heading_style: h1
       top_spacing:
-      bottom_spacing:
+      bottom_spacing: 100
     post_title:
       text:
       text_color: white
@@ -214,7 +214,7 @@ content_blocks:
           margin_bottom: 0
           margin_top: 0
     grid_footer:
-      text: Like what you see
+      text: Like what you see?
       cta:
         text: Book a call
         path: /online-dating-photographer-near-me
