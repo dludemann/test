@@ -139,7 +139,7 @@ content_blocks:
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/r5tHY7RuGlhSc2nVzfyw.jpg
         alt: Before and After photo taken by The Match Artist
-      - src: /images/nick-before-after.png
+      - src: /images/nick-before-after.jpg
         alt:
     column_two:
       - src: /images/portfolio/FWh1dpGaRQ2Ja7HL3DQL.jpg
