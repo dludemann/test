@@ -148,8 +148,7 @@ export default {
                 }
               )
               .then((res) => {
-                window.location.href =
-                  "https://bookme.name/thematchartist/lite/free-consultation-with-shane";
+                window.location.href = `https://meetings.hubspot.com/the-match-artist/strategy-session?email=${email}&firstname=${firstName}&lastname=${lastName}`;
               })
               .catch((error) => {
                 console.log("ERROR");

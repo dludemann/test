@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    background_image: /images/backgrounds/ray.jpg
     background_color:
+    background_image: /images/backgrounds/ray.jpg
     background_filters:
       brightness: 0.8
       blur: 0
@@ -21,8 +21,8 @@ content_blocks:
       top_spacing: 16
       bottom_spacing:
     title:
-      text: Reviews
-      text_color: white
+      text: The Match Artist Reviews
+      text_color: '#ffffff'
       heading_style: h1
       top_spacing:
       bottom_spacing:
@@ -48,7 +48,9 @@ content_blocks:
         max_width:
         text_is_quote: true
         quote_author:
-    text: 'I’ve been seeing a girl that[‘s] the most perfect human being for me. [...] the coaching on eye movement + pictures is life changing'
+    text: >-
+      I’ve been seeing a girl that[‘s] the most perfect human being for me.
+      [...] the coaching on eye movement + pictures is life changing
     image:
       image:
         src: /images/reviews/text.jpg
@@ -59,10 +61,10 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: left-right-image
@@ -82,7 +84,9 @@ content_blocks:
         max_width:
         text_is_quote: true
         quote_author:
-    text: I met my fiance on a dating site using the photos taken by The Match Arist.
+    text: >-
+      I met my fiance on a dating site using the photos taken by The Match
+      Arist.
     image:
       image:
         src: /images/reviews/facebook.jpg
@@ -93,10 +97,10 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: left-right-image
@@ -127,10 +131,10 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: left-right-image
@@ -150,7 +154,11 @@ content_blocks:
         max_width:
         text_is_quote: true
         quote_author:
-    text: 'he knows how to bring out your best. [...] Finding the right partner is one of the most important and exciting challenges you’ll ever face - so investing a bit of time and money in professional photos should be a no-brainer.'
+    text: >-
+      he knows how to bring out your best. [...] Finding the right partner is
+      one of the most important and exciting challenges you’ll ever face - so
+      investing a bit of time and money in professional photos should be a
+      no-brainer.
     image:
       image:
         src: /images/reviews/google.jpg
@@ -161,16 +169,16 @@ content_blocks:
         images:
           - heading:
             image:
-              src: null
+              src:
               alt:
       full_sized_image:
-        src: null
+        src:
         alt:
         max_height:
   - _bookshop_name: card-grid-three-column
-    title: Testimonials
-    subtitle:
     heading_style: reviews
+    title: More Client Testimonials
+    subtitle:
     max_width: 1000
     horizontal_gap: 12
     vertical_gap: 12
@@ -330,7 +338,8 @@ content_blocks:
           alt: Instagram
           opacity: 0.25
     news_mentions:
-      - path: https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/
+      - path: >-
+          https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/
         image:
           src: /images/social/news-mentions/the-american-reporter.png
           alt: The American Reporter
@@ -338,11 +347,13 @@ content_blocks:
         image:
           src: /images/social/news-mentions/entrepeneur.png
           alt: Entrepeneur
-      - path: https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/
+      - path: >-
+          https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/
         image:
           src: /images/social/news-mentions/new-york-weekly.png
           alt: New York Weekly
-      - path: https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen
+      - path: >-
+          https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen
         image:
           src: /images/social/news-mentions/morning-brew.webp
           alt: Morning Brew

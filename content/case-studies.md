@@ -32,15 +32,15 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: banner
-    background_color: '#FFFFF'
+    background_color: '#ffffff'
     background_image:
     background_filters:
       brightness: 1
       blur: 0
     pre_title:
-      text: We wanted to share some results driven case studies.
+      text: Results-driven case studies from guys we've worked with
       text_color: '#000000'
-      top_spacing: 50
+      top_spacing: 90
       bottom_spacing: 0
     title:
       text: Case Studies
@@ -49,12 +49,13 @@ content_blocks:
       bottom_spacing: 10
     description:
       text: >-
-        It might be hard to believe that we can get the results for our clients
-        that we claim, so we've put together some specific results driven case
-        studies to show the life change with new photos.
-      text_color: black
-      top_spacing: 30
-      bottom_spacing: 30
+        It might be hard to believe that our clients get the results that we
+        claim, so we've compiled stories from some of the guys we've worked
+        with. Scroll through the stories below to see the real life changes that
+        have happened as a result of the photos.
+      text_color: '#000000'
+      top_spacing: 10
+      bottom_spacing: 90
     cta:
       text_color:
       top_spacing:
@@ -80,13 +81,13 @@ content_blocks:
       bottom_spacing:
     title:
       text: Karthik's Story
-      text_color: white
+      text_color: '#ffffff'
       heading_style: h2
       top_spacing: 30
       bottom_spacing: 30
     post_title:
-      text: From dating during Covid to Engaged from our Photos
-      text_color: white
+      text: From dating during Covid to engaged from our photos
+      text_color: '#ffffff'
       top_spacing:
       bottom_spacing: 30
   - _bookshop_name: markdown-block
@@ -94,12 +95,12 @@ content_blocks:
     title: Karthik's Engagement Session
     paragraphs:
       - text: >-
-          Karthik reached out a few weeks ago with a plan. He wanted to get some
-          incredible photos of him and his girlfriend of just over two years—but
-          sneak in a proposal at the end. So Allie and I flew out to San
-          Francisco We were a bit nervous with how much it was raining, but it
-          turned out to be the most perfect day to fit our moody and more
-          intense photo style.
+          Karthik reached out with a plan. He wanted to get some incredible
+          photos of him and his girlfriend of just over two years—but sneak in a
+          proposal at the end. So my wife Allie and I (Nick) flew out to San
+          Francisco to capture the moment. We were a bit nervous with how much
+          it was raining, but it turned out to be the most perfect day to fit
+          our moody and more intense photo style. And she said yes!
 
 
           ![](/images/work/karthik-grid.webp)
@@ -130,9 +131,9 @@ content_blocks:
       bottom_spacing: 30
     post_title:
       text: >-
-        From separated during covid, to women chasing him and as many dates as
+        From separated during Covid, to women chasing him and as many dates as
         he wants.
-      text_color: white
+      text_color: '#ffffff'
       top_spacing:
       bottom_spacing: 30
   - _bookshop_name: markdown-block
@@ -155,20 +156,14 @@ content_blocks:
           didn't hire you right then. It was like a night and day
           difference....by the end of January I was dating non-stop.**
 
-          >
-
-          >
-
 
           <p class="align-center"><strong>- Rohit</strong></p>
 
 
-          &nbsp; &nbsp; &nbsp;
+          &nbsp;
 
 
           <h2 class="align-center">Rohit: Behind the Scenes</h2>
-
-
 
 
           ![](/images/reviews/rohit-reviews-grouped.jpeg)
@@ -199,7 +194,7 @@ content_blocks:
       top_spacing:
       bottom_spacing:
     post_title:
-      text: From some dates to as many dates as he wants.
+      text: From some dates here and there to as many dates as he wants.
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
@@ -276,7 +271,53 @@ content_blocks:
     pre_title:
     title:
     paragraphs:
-      - text: "<div class=\"cms-embed\" data-cms-embed=\"PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL3Bibnd3WFNRSDV3P3NpPUZQbmUtbnViblpsRXFYdGQiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=\"><iframe src=\"https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></div>\n\n<p class=\"align-left\">\_</p>\n\n> There was a significant difference when I got photos taken by The Match Artist. My photographer and I shot the shit and it felt like we were old friends, but we had just met that day..\n>\n>\n\n<p class=\"align-center\"><strong>- Danny</strong></p>\n\n<h2 class=\"align-center\"><strong>Some more from Danny</strong></h2>\n\n![](/images/reviews/danny-reviews-grouped.jpeg)\n\n<p class=\"align-center\"><strong>Before + After</strong></p>\n\n![](/images/work/danny-before-after.jpeg)"
+      - text: >-
+          <div class="cms-embed"><iframe
+          src="https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
+
+          &nbsp;
+
+
+          <p class="align-left">&nbsp;</p>
+
+
+          &nbsp;
+
+
+          > There was a significant difference when I got photos taken by The
+          Match Artist. My photographer and I shot the shit and it felt like we
+          were old friends, but we had just met that day.
+
+
+          &nbsp;
+
+
+          <p class="align-center"><strong>- Danny</strong></p>
+
+
+          <h2 class="align-center"><strong>Some more from Danny</strong></h2>
+
+
+          &nbsp;
+
+
+          ![](/images/reviews/danny-reviews-grouped.jpeg)
+
+
+          &nbsp;
+
+
+          <p class="align-center"><strong>Before + After</strong></p>
+
+
+          &nbsp;
+
+
+          ![](/images/work/danny-before-after.jpeg)
         inline_image:
         flipped: false
   - _bookshop_name: hero
@@ -328,7 +369,7 @@ content_blocks:
     post_title:
       text: >-
         Michael went from 1-2 (if that) matches per day, to 5-6 likes per day on
-        hinge.
+        Hinge.
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
@@ -412,7 +453,7 @@ content_blocks:
       bottom_spacing:
     post_title:
       text: |+
-        From a few matches a week to 40 per week + a Girlfriend,
+        From a few matches a week to 40+ per week and a girlfriend.
 
       text_color: '#ffffff'
       top_spacing:
@@ -471,6 +512,12 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
+          ### Before + After
+
+
+          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png)
+
+
           <div class="cms-embed"><iframe width="800" height="450"
           src="https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD"
           title="YouTube video player" frameborder="0" allow="accelerometer;
@@ -478,13 +525,61 @@ content_blocks:
           picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 
-          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png "Before + After")
+          &nbsp;
         inline_image:
         flipped: false
   - _bookshop_name: video-embed
     video_link:
     top_spacing:
     bottom_spacing:
+  - _bookshop_name: hero
+    background_color:
+    background_image: /images/will-hero.jpg
+    background_filters:
+      brightness: 1
+      blur: 0
+    pre_title:
+      text:
+      text_color:
+      top_spacing:
+      bottom_spacing:
+    title:
+      text: Will's Story
+      text_color: '#ffffff'
+      heading_style: h2
+      top_spacing: 30
+      bottom_spacing: 30
+    post_title:
+      text: >-
+        From giving up after working with a match maker, to engaged to be
+        married.
+      text_color: '#ffffff'
+      top_spacing:
+      bottom_spacing: 30
+  - _bookshop_name: markdown-block
+    pre_title:
+    title: Will's Engagement Session
+    paragraphs:
+      - text: >-
+          Will reached back out to us to say he got engaged and needed some
+          engagement pics. We flew out to Charlotte and shot some, and will be
+          shooting their upcoming wedding.
+
+
+          ![](/images/will-collage.jpg)
+
+
+          <div class="cms-embed"><iframe
+          src="https://www.youtube.com/embed/_EDjopr725E?si=VApAHpFuJzBn8dYq
+          title=" youtube="" video="" player"="" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture; web-share"
+          allowfullscreen=""></iframe></div>
+
+
+          &nbsp;
+        inline_image:
+        flipped: false
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:

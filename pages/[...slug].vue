@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout>
-    <main>
+    <main class="overflow-x-hidden">
       <template v-if="formattedPage">
         <component
           v-for="(block, index) in formattedPage.content_blocks"
@@ -67,5 +67,9 @@ onBeforeUnmount(async () => {
 }
 .page-content a:hover {
   text-decoration: underline;
+}
+
+h3 a {
+  color: black !important;
 }
 </style>

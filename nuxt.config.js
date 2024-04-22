@@ -51,6 +51,9 @@ export default defineNuxtConfig({
   },
   content: {
     documentDriven: true,
+    markdown: {
+      anchorLinks: false,
+    },
   },
   generate: {
     routes: [

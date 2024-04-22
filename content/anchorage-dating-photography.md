@@ -13,8 +13,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Anchorage
       state: Alaska
@@ -35,11 +35,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire Now
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Anchorage
       state: Alaska
@@ -66,17 +66,17 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Anchorage
       state: Alaska
     image:
-      src: /images/work/austin-before-after.webp
+      src: /images/work/Anchorage-before-after.webp
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
+      background_color: "#FFFFFF"
+      text_color: "#090303"
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
         matches a week. After getting new high value pictures from The Match
@@ -87,7 +87,7 @@ content_blocks:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Inquire Now
-        background_color: '#990800'
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -96,11 +96,11 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -119,7 +119,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
@@ -137,7 +137,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire now
     image:
       src: /images/location/group-image.webp
@@ -154,11 +154,11 @@ content_blocks:
         answer: >-
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Austin, an online dating photographer
+          meet even more amazing people in Anchorage, an online dating photographer
           can help.
-      - question: What are the best photos for dating in Austin?
+      - question: What are the best photos for dating in Anchorage?
         answer: >-
-          From our testing, people in Austin prefers photos that are authentic.
+          From our testing, people in Anchorage prefers photos that are authentic.
           This means no professional studio photos which have obviously been
           posed and edited. Instead, your photos should be taken outdoors in
           natural light, and they should focus on your charm, personality and
@@ -176,8 +176,8 @@ content_blocks:
           The'll find all your best angles, help you look natural and deliver
           stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Anchorage, Alaska
     description: >-
       We tailor your photo experience with us to highlight things you enjoy
