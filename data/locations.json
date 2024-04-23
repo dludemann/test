@@ -628,5 +628,12 @@
     "latitude": 39.3995008,
     "longitude": -84.5613355,
     "description": "The Hamilton area is on track to have one of the largest populations in Canada. There's an increasingly diverse mix of people and many of our clients have found dating success here. Let us help you make your online dating profile the best it can be so you can go on the dates you want."
+  },
+  {
+    "city": "Sydney",
+    "state": "New South Wales",
+    "latitude": 33.8688,
+    "longitude": 151.2093,
+    "description": "Sydney is in Australia"
   }
 ]

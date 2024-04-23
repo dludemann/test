@@ -1,10 +1,9 @@
 ---
-title: 'Do Girls Get More Matches On Tinder?'
+title: Do Girls Get More Matches On Tinder?
 menu_grouping: Tinder Dating and Relationships
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+While it’s pretty easy to sit on your sofa and Swipe, compared with early online dating services like eHarmony, where users would’ve had to fill out extensive surveys and questionnaires, the Tinder environment can still be a pretty frustrating place! Especially when you seem to be swiping endlessly without much to show for it.
 
 <p dir="ltr"><span>While it’s pretty easy to sit on your sofa and Swipe, compared with early online dating services like eHarmony, where users would’ve had to fill out extensive surveys and questionnaires, the Tinder environment can still be a pretty frustrating place! Especially when you seem to be swiping endlessly without much to show for it.</span><b></b></p>
 <p dir="ltr"><span>Well the first thing you should know is: </span><span>it’s not just you!</span><b></b></p>

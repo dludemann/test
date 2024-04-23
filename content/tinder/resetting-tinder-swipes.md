@@ -1,10 +1,9 @@
 ---
-title: 'Is There a Way to Reset Matches on Tinder?'
+title: Is There a Way to Reset Matches on Tinder?
 menu_grouping: Tinder Basics
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+&nbsp;
 
 <p dir="ltr"><span><img alt="thematchartist_hearts_in_a_city_made_..." src="https://cdn.buttercms.com/WsLYKH5ERSSOZmr43JV3"/></span></p>
 <p dir="ltr"><span>It’s all well and good Swiping on Tinder until you run out of profiles to Swipe on — </span><span>yikes!</span><span> What now?</span><b></b></p>

@@ -1,10 +1,9 @@
 ---
-title: 'How to Get More Matches on Tinder: A Guide'
+title: "How to Get More Matches on Tinder: A Guide"
 menu_grouping: Tinder Profile and Photos
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+So, you’ve signed up for Tinder and created an account, you’ve uploaded some photos, written a bio, Swiped Right on a few people… but you’re not getting many matches in return.&nbsp;
 
 <p dir="ltr"><span>So, you’ve signed up for Tinder and created an account, you’ve uploaded some photos, written a bio, Swiped Right on a few people… but you’re not getting many matches in return. </span><b></b></p>
 <p dir="ltr"><span>With over </span><a href="https://datingzest.com/tinder-statistics"><span>75 million</span><span> users on the app and </span><span>1.6 billion</span><span> Swipes every day</span></a><span>, you may be wondering what’s going on?</span><b></b></p>
@@ -301,7 +302,6 @@ seo:
 </ol>
 <p></p>
 span&gt;
-
 
 <p></p>
 p&gt;

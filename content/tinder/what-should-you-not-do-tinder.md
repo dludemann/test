@@ -11,6 +11,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
 <p dir="ltr"><span>Let’s be real — not all of us are pros at this online dating thing. In fact, some of us might be doing more harm than good without even realizing it! </span><b></b></p>
 <p dir="ltr"><span>That’s why we’ve compiled a list of 16 tips on what you should absolutely </span><span>not</span><span> do on Tinder. </span><b></b></p>
 <p dir="ltr"><span></span></p>
@@ -191,12 +192,10 @@ seo:
 &gt;
 .com
 
-
 <p></p>
 
 <p></p>
 .com
-
 
 <p></p>
 

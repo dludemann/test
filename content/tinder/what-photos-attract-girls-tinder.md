@@ -1,10 +1,9 @@
 ---
-title: 'What Photos Attract Girls on Tinder (12 Picks)'
+title: What Photos Attract Girls on Tinder (12 Picks)
 menu_grouping: Tinder Profile and Photos
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+If you’ve been on Tinder for a while but haven’t been getting as many matches as you’d hoped for, it may be time to switch things up with your profile photos.
 
 <p dir="ltr"><span>If you’ve been on Tinder for a while but haven’t been getting as many matches as you’d hoped for, it may be time to switch things up with your profile photos.</span><b></b></p>
 <p dir="ltr"><span>When it comes to dating profiles, </span><span>first impressions are everything! </span><b></b></p>

@@ -269,6 +269,12 @@ collection_groups:
 _inputs:
   src:
     type: image
+    label: Image Source
+  img:
+    type: image
+    label: Image
+  path:
+    type: url
   top_spacing:
     type: number
   bottom_spacing:
@@ -315,7 +321,7 @@ _inputs:
       When selected this removes the page from your sitemap and adds the noindex
       robots meta tag
   location_name:
-    type: multiselect
+    type: select
     options:
       values: data.locations
       value_key: city

@@ -327,4 +327,7 @@ locations:
   - location_name: London Ontario
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
     path: /london-ontario-dating-photography
+  - location_name: Sydney
+    img: /images/location/location-hero.webp
+    path: /sydney-dating-photographer
 ---

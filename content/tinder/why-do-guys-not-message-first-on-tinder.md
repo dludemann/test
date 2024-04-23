@@ -1,10 +1,9 @@
 ---
-title: 'Why Do Guys Not Message First on Tinder?'
+title: Why Do Guys Not Message First on Tinder?
 menu_grouping: Tinder Messaging and Communication
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+It’s common knowledge: guys don’t message first on dating apps. But why exactly is that? After all, if a guy is interested, why wouldn’t they send messages just as much as a woman does?
 
 <p dir="ltr"><span>It’s common knowledge: guys don’t message first on dating apps. But why exactly is that? After all, if a guy is interested, why wouldn’t they send messages just as much as a woman does?</span><b></b></p>
 <p dir="ltr"><span>Well, it turns out, it’s all to do with the </span><span>science of matching.</span></p>
@@ -140,47 +141,39 @@ seo:
 <p></p>
 &gt;
 
+<p></p>
+ol&gt;
+<p></p>
+&gt;
+
+<p></p>
+&gt;
+&gt;
 
 <p></p>
 ol&gt;
 <p></p>
 &gt;
 
-
-<p></p>
-&gt;
-&gt;
-
-
 <p></p>
 ol&gt;
 <p></p>
 &gt;
 
+<p></p>
+&gt;
+&gt;
 
 <p></p>
 ol&gt;
 <p></p>
 &gt;
-
-
-<p></p>
-&gt;
-&gt;
-
-
-<p></p>
-ol&gt;
-<p></p>
-&gt;
-
 
 <p></p>
 &gt;
 <p></p>
 /p&gt;
 &gt;
-
 
 <p></p>
 li&gt;
@@ -190,6 +183,5 @@ li&gt;
 <p></p>
 /p&gt;
 &gt;
-
 
 <p></p>

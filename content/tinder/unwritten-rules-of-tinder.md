@@ -1,10 +1,9 @@
 ---
-title: 'Learn the Unwritten Rules of Tinder in 2023'
+title: Learn the Unwritten Rules of Tinder in 2023
 menu_grouping: Tinder Basics
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Tinder algorithm
+  page_description: &gt;- A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,6 +11,8 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
+&nbsp;
 
 <p dir="ltr"><span><img alt="thematchartist_hearts_in_a_big_city_0..." src="https://cdn.buttercms.com/xXnJ1jTSxq8REKi6CwSA"/></span></p>
 <p dir="ltr"><span>Hey there, fellow swiper!</span><b></b></p>
@@ -197,7 +198,6 @@ ol&gt;
 <p></p>
 &gt;
 <p></p>
-
 
 <p></p>
 ol&gt;
