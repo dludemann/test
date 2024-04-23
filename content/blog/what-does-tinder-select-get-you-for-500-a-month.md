@@ -26,6 +26,8 @@ author: Nick Friesen
 
 ![](/marketing/Heading.png)
 
+![](/marketing/IMG_5229.jpg)
+
 But what do you get for the price tag?&nbsp;
 
 * **Two times a week you can send a message without matching with that particular person.**
