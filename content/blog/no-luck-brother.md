@@ -20,3 +20,9 @@ featuredImg:
   image_alt:
 ---
 Nice
+
+&nbsp;
+
+This is not the featured image
+
+![](/marketing/nice.png)
