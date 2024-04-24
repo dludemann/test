@@ -19,7 +19,7 @@ But with so many people and profiles out there, what’s the best first message 
 
 Well, luckily, that’s where The Match Artist can help you out. No matter what kind of person you are, there’s a Tinder match out there for you to help grab someone’s attention.
 
-![Tinder Statistics](/images/tinder-guide-image-1.png)
+![](/images/tinder-guide-image-1.png)
 
 In this article, we’re going to cover:
 
@@ -51,6 +51,8 @@ Some examples could include:
 * Asking them about their job or work.
 
 The best first message will depend on everyone’s individual circumstances, so be sure to pay extra attention to their profile and bio and don’t just send a generic message.
+
+&nbsp;
 
 &nbsp;
 
@@ -224,5 +226,7 @@ The best first message will depend on everyone’s individual circumstances, so 
 </ol>
 <p></p>
 </div>
+
+&nbsp;
 
 &nbsp;
