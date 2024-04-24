@@ -52,6 +52,8 @@ Some examples could include:
 
 The best first message will depend on everyone’s individual circumstances, so be sure to pay extra attention to their profile and bio and don’t just send a generic message.
 
+&nbsp;
+
 <div class="custom-footer">
 <p class="info-newsletter"></p>
 <div style="background-color: #000; color: #fff; width: 100%; padding: 20px; border: 20px solid #A01F1F; max-width: 700px;">
@@ -222,3 +224,5 @@ The best first message will depend on everyone’s individual circumstances, so 
 </ol>
 <p></p>
 </div>
+
+&nbsp;
