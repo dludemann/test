@@ -22,7 +22,7 @@ featured_image: /images/blog/8I75NVKPTZuNcYi7sr0w.jpg
 featured_image_alt:
 author: Nick Friesen
 ---
-<br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;Check out these examples. HI David
+<br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;Check out these examples. Hello Cloud  Cannon
 
 ![](/marketing/Heading.png)
 
