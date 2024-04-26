@@ -22,11 +22,13 @@ featured_image: /images/blog/8I75NVKPTZuNcYi7sr0w.jpg
 featured_image_alt:
 author: Nick Friesen
 ---
-<br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;Check out these examples. Hello Cloud  Cannon
+<br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;
 
 ![](https://photostma.blob.core.windows.net/marketing/IMG_3283%20&#40;1&#41;.jpg)
 
 But what do you get for the price tag?&nbsp;
+
+![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
 * **Two times a week you can send a message without matching with that particular person.**
 * **If you like someone and they don't have any premium version of Tinder, they will see your unblurred picture making you more intriguing, as well as having your profile on the top of their likes for the next week.**&nbsp;
