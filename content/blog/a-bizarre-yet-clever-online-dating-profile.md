@@ -35,6 +35,10 @@ For some clients, adding a few peculiar photos can do the trick. Someone will sw
 
 So here's John, pretty good looking guy, right?
 
+![](/marketing/IMG_6096.jpeg)
+
+&nbsp;
+
 ![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
 ![](/marketing/b99cc0ff985961cb67fa93205962d801-large.jpg)
