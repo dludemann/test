@@ -22,7 +22,7 @@ export default {
         class="w-full max-w-[770px] overflow-hidden py-4 lg:py-[60px] h-[500px] lg:h-auto relative"
       >
         <a :href="block.image" rel="canonical">
-          <img :src="block.image" class="object-cover w-full h-full" />
+          <tma-image :src="block.image" class="object-cover w-full h-full" />
         </a>
       </div>
 
@@ -34,7 +34,7 @@ export default {
           class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white"
         >
           {{ block.button.text }}
-          <img
+          <tma-image
             src="/icons/arrow-right.svg"
             class="w-[24px] h-[24px] ml-2"
             alt=""

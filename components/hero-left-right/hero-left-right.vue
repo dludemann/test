@@ -15,7 +15,7 @@ export default {
   >
     <div class="container mx-auto justify-center font-display px-5">
       <div class="flex justify-center gap-8 justify-evenly">
-        <img
+        <tma-image
           v-if="block.image.flipped"
           class="opacity-50 lg:opacity-100 absolute lg:static lg:self-start object-cover"
           :style="{ 'max-width': block.image.max_width + 'px' }"
@@ -41,7 +41,7 @@ export default {
               class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white mt-5"
             >
               {{ block.button.text }}
-              <img
+              <tma-image
                 src="/icons/arrow-right.svg"
                 class="w-[24px] h-[24px] ml-2"
                 alt=""
@@ -65,7 +65,7 @@ export default {
                 height: block.testimonial.image.height + 'px',
               }"
             >
-              <img
+              <tma-image
                 :src="block.testimonial.image.src"
                 :alt="block.testimonial.image.alt"
               />
@@ -76,7 +76,7 @@ export default {
             </p>
           </div>
         </div>
-        <img
+        <tma-image
           v-if="!block.image.flipped"
           class="opacity-50 lg:opacity-100 absolute left-1/2 lg:static object-cover"
           :style="{ 'max-width': block.image.max_width + 'px' }"
@@ -93,7 +93,7 @@ export default {
           href="https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/"
           target="_blank"
         >
-          <img
+          <tma-image
             class="opacity-[80%]"
             src="/images/social/news-mentions/the-american-reporter.png"
             alt=""
@@ -104,21 +104,30 @@ export default {
           href="https://www.entrepreneur.com/article/430103"
           target="_blank"
         >
-          <img src="/images/social/news-mentions/entrepeneur.png" alt="" />
+          <tma-image
+            src="/images/social/news-mentions/entrepeneur.png"
+            alt=""
+          />
         </a>
         <a
           class="col-span-4 lg:col-span-1"
           href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/"
           target="_blank"
         >
-          <img src="/images/social/news-mentions/new-york-weekly.png" alt="" />
+          <tma-image
+            src="/images/social/news-mentions/new-york-weekly.png"
+            alt=""
+          />
         </a>
         <a
           class="col-span-4 lg:col-span-1"
           href="https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen"
           target="_blank"
         >
-          <img src="/images/social/news-mentions/morning-brew.webp" alt="" />
+          <tma-image
+            src="/images/social/news-mentions/morning-brew.webp"
+            alt=""
+          />
         </a>
       </div>
     </div>

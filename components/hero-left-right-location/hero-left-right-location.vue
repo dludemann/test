@@ -37,7 +37,7 @@ export default {
               class="flex bg-primary-500 w-fit py-[12px] px-[24px] font-bold text-white mt-5"
             >
               {{ block.button.text }}
-              <img
+              <tma-image
                 src="/icons/arrow-right.svg"
                 class="w-[24px] h-[24px] ml-2"
                 alt=""
@@ -58,7 +58,7 @@ export default {
                 height: 50 + 'px',
               }"
             >
-              <img
+              <tma-image
                 :src="block.testimonial.image.src"
                 :alt="block.testimonial.image.alt"
               />
@@ -73,7 +73,7 @@ export default {
         <div
           class="absolute top-0 -right-32 w-[500px] h-[800px] lg:relative opacity-80 lg:opacity-100"
         >
-          <img
+          <tma-image
             class="object-cover"
             :style="{ 'max-width': block.image.max_width + 'px' }"
             :src="block.image.src"
@@ -89,7 +89,7 @@ export default {
           href="https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/"
           target="_blank"
           aria-label="Read more the match artist on the american reporter"
-          ><img
+          ><tma-image
             src="/images/location/clients/client-1.png"
             onerror="this.setAttribute('data-error', 1)"
             alt="The American Reporter Logo"
@@ -100,7 +100,7 @@ export default {
           class="col-span-4 lg:col-span-1"
           href="https://www.entrepreneur.com/article/430103"
           target="_blank"
-          ><img
+          ><tma-image
             src="/images/location/clients/client-2.png"
             onerror="this.setAttribute('data-error', 1)"
             alt="Entrepreneur Logo"
@@ -111,7 +111,7 @@ export default {
           href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/"
           target="_blank"
           aria-label="Read more the match artist on NY Weekly"
-          ><img
+          ><tma-image
             src="/images/location/clients/client-3.png"
             onerror="this.setAttribute('data-error', 1)"
             alt="NY Weekly Logo"
@@ -122,7 +122,7 @@ export default {
           href="https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen"
           target="_blank"
           aria-label="Read more the match artist on the Morning Brew"
-          ><img
+          ><tma-image
             src="/images/location/clients/client-4.png"
             onerror="this.setAttribute('data-error', 1)"
             alt="Morning Brew Logo"

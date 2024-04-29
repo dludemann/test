@@ -98,7 +98,7 @@ useHead({
     class="grid grid-cols-1 lg:grid-cols-2 items-center bg-[#171717] text-white"
   >
     <div class="h-[800px] w-full relative">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/ixgX23g2QQqVvm3zHAeZ"
         class="object-cover w-full h-full"
       />
@@ -146,7 +146,7 @@ useHead({
       </ul>
     </article>
     <div class="h-[800px] w-full relative">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/ffytEyAKRyGhhIMhFghU"
         class="object-cover w-full h-full"
       />

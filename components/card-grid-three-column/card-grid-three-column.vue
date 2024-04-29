@@ -17,17 +17,17 @@
     <div class="grid grid-cols-3" :style="{ gap: block.horizontal_gap + 'px' }">
       <div class="flex flex-col" :style="{ gap: block.vertical_gap + 'px' }">
         <div v-for="image in block.column_one">
-          <img :src="image.src" :alt="image.alt" />
+          <tma-image :src="image.src" :alt="image.alt" />
         </div>
       </div>
       <div class="flex flex-col" :style="{ gap: block.vertical_gap + 'px' }">
         <div v-for="image in block.column_two">
-          <img :src="image.src" :alt="image.alt" />
+          <tma-image :src="image.src" :alt="image.alt" />
         </div>
       </div>
       <div class="flex flex-col" :style="{ gap: block.vertical_gap + 'px' }">
         <div v-for="image in block.column_three">
-          <img :src="image.src" :alt="image.alt" />
+          <tma-image :src="image.src" :alt="image.alt" />
         </div>
       </div>
     </div>

@@ -32,13 +32,13 @@ export default {
           <p class="min-w-1/2 mb-0">
             {{ button.button.text }}
           </p>
-          <img
+          <tma-image
             v-if="button.button.arrow === 'black'"
             src="/icons/arrow-right-black.svg"
             alt=""
             class="w-[24px]"
           />
-          <img
+          <tma-image
             v-if="button.button.arrow === 'white'"
             src="/icons/arrow-right.svg"
             alt=""

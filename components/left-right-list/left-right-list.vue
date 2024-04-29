@@ -25,7 +25,7 @@ export default {
 
         <div class="flex flex-col gap-4 my-12">
           <div class="flex items-center gap-4" v-for="list_item in block.list">
-            <img :src="list_item.icon" alt="" class="w-[28px] h-[28px]" />
+            <tma-image :src="list_item.icon" alt="" class="w-[28px] h-[28px]" />
             <p class="text-[1.125rem]">
               {{ list_item.text }}
             </p>
@@ -37,7 +37,7 @@ export default {
             class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
             {{ block.button.text }}
-            <img
+            <tma-image
               src="/icons/arrow-right.svg"
               class="w-[24px] h-[24px] ml-2"
               alt=""
@@ -46,7 +46,7 @@ export default {
         </a>
       </article>
 
-      <img
+      <tma-image
         class="max-w-[766px] max-h-[766px] w-1/2 object-contain"
         :style="{
           'max-width': block.image.max_width + 'px',

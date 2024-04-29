@@ -48,7 +48,7 @@ export default {
               class="h-[500px] lg:w-[300px] !max-w-[300px] relative"
             >
               <div class="h-[300px] lg:w-[300px] !max-w-[300px] relative">
-                <img
+                <tma-image
                   :src="slide.src"
                   alt="Portfolio Image"
                   class="h-full w-full object-cover"

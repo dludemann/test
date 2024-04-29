@@ -1,5 +1,0 @@
-[[redirects]]
-from = "/image-proxy/*"
-to = "http://images.thematchartist.com/:splat"
-status = 200
-force = true

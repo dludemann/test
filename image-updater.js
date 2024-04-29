@@ -24,7 +24,7 @@ glob(`${dirPath}/**/*.md`, (err, files) => {
       // Replace all instances of "https://photostma.blob.core.windows.net/marketing" with "http://images.thematchartist.com"
       const result = data.replace(
         /https:\/\/photostma\.blob\.core\.windows\.net\/marketing/g,
-        "/image-proxy"
+        "https://ik.imagekit.io/4itnipzjr"
       );
 
       // Write the modified content back to the file

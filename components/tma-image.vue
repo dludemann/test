@@ -20,15 +20,20 @@ const { src, modifiers } = toRefs(props);
 
 // Create Source
 const cleanSrc = computed(() => {
-  let imageSrc = src.value;
+  const baseURL = "https://ik.imagekit.io/4itnipzjr";
 
-  console.log("imageSrc", imageSrc);
+  let imageSrc = src.value;
+  let isRelative = imageSrc.startsWith("/");
 
   if (imageSrc) {
-    imageSrc = imageSrc.replace(
-      "https://photostma.blob.core.windows.net/marketing",
-      "http://images.thematchartist.com"
-    );
+    if (isRelative) {
+      imageSrc = `${baseURL}${imageSrc}`;
+    } else {
+      imageSrc = imageSrc.replace(
+        "https://photostma.blob.core.windows.net/marketing",
+        baseURL
+      );
+    }
   }
 
   return imageSrc;
