@@ -24,7 +24,7 @@ glob(`${dirPath}/**/*.md`, (err, files) => {
       // Replace all instances of "https://photostma.blob.core.windows.net/marketing" with "http://images.thematchartist.com"
       const result = data.replace(
         /https:\/\/photostma\.blob\.core\.windows\.net\/marketing/g,
-        "http://images.thematchartist.com"
+        "/image-proxy"
       );
 
       // Write the modified content back to the file
@@ -36,3 +36,5 @@ glob(`${dirPath}/**/*.md`, (err, files) => {
     });
   });
 });
+
+console.log("Image URLs updated successfully!");

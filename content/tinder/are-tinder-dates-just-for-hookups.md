@@ -11,6 +11,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
 Let’s cut to the chase. The big question on everyone’s mind: are Tinder dates just for hookups and casual sex?
 
 Most times the answer is not as straightforward as a simple yes or no.
@@ -19,18 +20,18 @@ The truth is, people around the world use Tinder for all kinds of reasons — so
 
 &nbsp;
 
-![](http://images.thematchartist.com/support-1.jpeg)
+![](/image-proxy/support-1.jpeg)
 
 In this article we’re going to look at:
 
-* The reasons why Tinder’s product is known as a hookup app
-* What the majority of people just Tinder for
-* How often guys hook up through Tinder
-* How hard it is to get a hookup on Tinder
-* Whether or not Tinder is mostly for one-night stands
-* What percentage of women are looking for hookups
-* Whether or not you can find a relationship through Tinder
-* Frequently asked questions.
+- The reasons why Tinder’s product is known as a hookup app
+- What the majority of people just Tinder for
+- How often guys hook up through Tinder
+- How hard it is to get a hookup on Tinder
+- Whether or not Tinder is mostly for one-night stands
+- What percentage of women are looking for hookups
+- Whether or not you can find a relationship through Tinder
+- Frequently asked questions.
 
 \*\*&nbsp;\*\*
 
