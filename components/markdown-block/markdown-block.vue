@@ -28,7 +28,7 @@ const markdownify = (text) => {
         class="max-w-[800px] mx-auto text-left mb-[1rem]"
         :class="paragraph.inline_image ? 'grid lg:grid-cols-2 gap-5' : ''"
       >
-        <img
+        <tma-image
           :src="paragraph.inline_image"
           alt=""
           class="mr-2"
@@ -39,7 +39,7 @@ const markdownify = (text) => {
           class="markdown-block__text font-body"
           v-html="markdownify(paragraph.text)"
         ></div>
-        <img
+        <tma-image
           :src="paragraph.inline_image"
           alt=""
           class="ml-2"

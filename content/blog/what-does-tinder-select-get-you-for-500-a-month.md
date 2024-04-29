@@ -24,7 +24,7 @@ author: Nick Friesen
 ---
 <br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;
 
-![](https://photostma.blob.core.windows.net/marketing/IMG_3283%20&#40;1&#41;.jpg)
+![](http://images.thematchartist.com/IMG_3283%20&#40;1&#41;.jpg)
 
 But what do you get for the price tag?&nbsp;
 

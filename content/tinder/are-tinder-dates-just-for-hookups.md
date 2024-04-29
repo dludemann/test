@@ -19,7 +19,7 @@ The truth is, people around the world use Tinder for all kinds of reasons — so
 
 &nbsp;
 
-![](https://photostma.blob.core.windows.net/marketing/support-1.jpeg)
+![](http://images.thematchartist.com/support-1.jpeg)
 
 In this article we’re going to look at:
 
