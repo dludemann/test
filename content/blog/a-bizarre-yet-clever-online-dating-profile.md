@@ -31,9 +31,15 @@ author: Shane White
 ---
 When we started this company, our dedication was to coach facial expressions and accurately show how fun and interesting our clients are. As we kept shooting, we realized that adding some bizarre humor into the shoots was very effective. We know that our photos look candid, yet professional - but, what if we could also be a bit witty with the photos we take. The ultimate goal with what we do is to grab someone's attention so they pause on your profile, and in turn - investigate the rest of their profile, instagram, bio - etc.
 
+&nbsp;
+
 For some clients, adding a few peculiar photos can do the trick. Someone will swipe through and be like, "Why does he have a professional shot of him wearing a suit at Walmart?", or, "Why is there such a pro shot of him pumping gas, or paying for his parking?" This is exactly the reaction we want them to have. Because in just asking this question, they've spend more time on the profile than many others, and have a better chance of continuing on to the bio and other photos.
 
 So here's John, pretty good looking guy, right?
+
+![](/marketing/image_&#40;6&#41;.png)
+
+&nbsp;
 
 ![](/marketing/IMG_6096.jpeg)
 
