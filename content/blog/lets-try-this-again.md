@@ -5,7 +5,7 @@ title: Lets try this again
 seo:
   page_description:
   canonical_url:
-  featured_image: /image-proxy/support.jpeg
+  featured_image:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
@@ -13,10 +13,10 @@ tags:
   - blog
 author:
 thumbImg:
-  image: /image-proxy/support.jpeg
+  image:
   image_alt:
 featuredImg:
-  image: /image-proxy/support.jpeg
+  image:
   image_alt:
 ---
 
@@ -26,4 +26,4 @@ We're all in this together
 
 &nbsp;
 
-![Need for breakfast](/image-proxy/pexels-photo-376464.jpeg "need")
+![Need for breakfast](/pexels-photo-376464.jpeg "need")

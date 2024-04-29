@@ -20,8 +20,6 @@ The truth is, people around the world use Tinder for all kinds of reasons — so
 
 &nbsp;
 
-![](/image-proxy/support-1.jpeg)
-
 In this article we’re going to look at:
 
 - The reasons why Tinder’s product is known as a hookup app

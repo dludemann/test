@@ -23,7 +23,7 @@ const cleanSrc = computed(() => {
   const baseURL = "https://ik.imagekit.io/4itnipzjr";
 
   let imageSrc = src.value;
-  let isRelative = imageSrc.startsWith("/");
+  let isRelative = imageSrc ? imageSrc.startsWith("/") : false;
 
   if (imageSrc) {
     if (isRelative) {
