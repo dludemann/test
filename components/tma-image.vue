@@ -20,7 +20,7 @@ const { src, modifiers } = toRefs(props);
 
 // Create Source
 const cleanSrc = computed(() => {
-  const baseURL = "https://ik.imagekit.io/4itnipzjr";
+  const baseURL = "https://images.thematchartist.com";
 
   let imageSrc = src.value;
   let isRelative = imageSrc ? imageSrc.startsWith("/") : false;
