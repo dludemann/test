@@ -29,10 +29,9 @@ const cleanSrc = computed(() => {
     if (isRelative) {
       imageSrc = `${baseURL}${imageSrc}`;
     } else {
-      imageSrc = imageSrc.replace(
-        "https://photostma.blob.core.windows.net/marketing",
-        baseURL
-      );
+      imageSrc = imageSrc
+        .replace("https://photostma.blob.core.windows.net/marketing", baseURL)
+        .replace("https://photostma.blob.core.windows.net/web", baseURL);
     }
   }
 
