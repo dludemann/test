@@ -19,7 +19,7 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/rohit5.jpg
+      src: https://photostma.blob.core.windows.net/marketing/rohit.jpg
       alt: Photo of Rohit on a black background
       max_width: 500
     testimonial:
@@ -50,13 +50,19 @@ content_blocks:
       and bio to stand out on dating apps.
     background_image:
     images:
-      - /images/connor-tma-210.jpg
-      - /images/shureed-7405361-282.jpg
-      - /images/jeff.jpg
-      - /images/shakked-tma-06.jpg
-      - /images/tejesh-tma-0033.jpg
-      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
-      - /images/rohith-tma-2-191.jpg
+      - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
+      - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
+      - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
+      - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
+      - >-
+        https://photostma.blob.core.windows.net/marketing/shureed-7405361-282.jpeg
+      - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
+      - https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg
+      - https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg
+      - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
     testimonial:
       text: >-
         "Before getting pics taken by The Match Artist, I was getting 2-3 Tinder
@@ -71,7 +77,7 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /images/nick-before-after.jpg
+      src: https://photostma.blob.core.windows.net/marketing/before_after-nick.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#ffffff'
