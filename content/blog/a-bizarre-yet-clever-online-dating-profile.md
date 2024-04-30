@@ -37,6 +37,12 @@ For some clients, adding a few peculiar photos can do the trick. Someone will sw
 
 So here's John, pretty good looking guy, right?
 
+&nbsp;
+
+![](https://photostma.blob.core.windows.net/marketing/josh-collesano-coTTvjild6U-unsplash.jpg)
+
+&nbsp;
+
 ![](/marketing/image_&#40;6&#41;.png)
 
 &nbsp;
