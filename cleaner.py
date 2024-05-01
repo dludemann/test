@@ -1,31 +1,41 @@
-import os
-from bs4 import BeautifulSoup
 
-# Directory containing the Markdown files
-directory = './content/bumble'
 
-# Iterate over each file in the directory
-for filename in os.listdir(directory):
-    if filename.endswith('.md'):  # Check for Markdown files
-        filepath = os.path.join(directory, filename)
-        
-        # Read the content of the file
-        with open(filepath, 'r', encoding='utf-8') as file:
-            content = file.read()
-        
-        # Use BeautifulSoup to parse HTML content
-        soup = BeautifulSoup(content, 'html.parser')
-        
-        # Find all <h2> tags that contain <a> tags
-        for h2 in soup.find_all('h2'):
-            if h2.a:
-                # Replace the h2 contents with just the text inside the <a>
-                new_tag = soup.new_tag('h2', id=h2['id'])
-                new_tag.string = h2.a.string
-                h2.replace_with(new_tag)
-        
-        # Write the modified content back to the file
-        with open(filepath, 'w', encoding='utf-8') as file:
-            file.write(str(soup))
+import fileinput
+import glob
+# Define the text to be replaced and the replacement text
+old_text = '''images:
+      - /images/work/favorites-4491.webp
+      - /images/work/tma-123.webp
+      - /images/work/tma-1234.webp
+      - /images/work/tma-best-2584.webp
+      - /images/work/tma-best-4346.webp
+      - /images/work/tma-favs-0047.webp
+      - /images/work/tma-favs-6152.webp
+      - /images/work/tmafav-5683.webp'''
 
-print("All files have been processed.")
+new_text = '''    images:
+      - /images/connor-tma-210.jpg
+      - /images/shureed-7405361-282.jpg
+      - /images/jeff.jpg
+      - /images/shakked-tma-06.jpg
+      - /images/tejesh-tma-0033.jpg
+      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
+      - /images/rohith-tma-2-191.jpg\n'''
+
+# Get all .md files in the directory
+files = glob.glob('./content/*.md')
+
+# Go through each file
+for file in files:
+    # Open the file
+    with fileinput.input(files=(file), inplace=True) as f:
+        for line in f:
+            # If the line is the start of the old text, replace the entire block of text
+            if line.strip() == old_text.split('\n')[0]:
+                print(new_text, end='')
+                # Skip the next lines of the old text
+                for _ in range(len(old_text.split('\n')) - 1):
+                    next(f)
+            else:
+                # Otherwise, print the line as is
+                print(line, end='')
