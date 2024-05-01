@@ -14,8 +14,10 @@ for file in files:
     with fileinput.input(files=(file), inplace=True) as f:
         for line in f:
 
-             if '      - /images/work/tmafav-5683.webp' not in line:
-                print(line, end='')
+            print(line.replace(old_text, new_text), end='')
+            
+            # if '      - /images/work/tmafav-5683.webp' not in line:
+            #     print(line, end='')
 
             # line = line.replace('/images/work/favorites-4491.webp', '/images/connor-tma-210.jpg')
             # line = line.replace('/images/work/tma-123.webp', '/images/shureed-7405361-282.jpg')

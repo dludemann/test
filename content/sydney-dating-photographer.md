@@ -96,7 +96,7 @@ content_blocks:
           text: Relationships
     button:
       path: "#contact"
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
     background_color: "#FFFFFF"
     text_color: "#090303"
@@ -119,7 +119,7 @@ content_blocks:
         text: Feel more confident
     button:
       path: "#contact"
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
     description: >-
