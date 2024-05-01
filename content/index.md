@@ -41,12 +41,12 @@ content_blocks:
       blur: 0
     pre_title:
       text: Introducing
-      text_color: '#000000'
+      text_color: "#000000"
       top_spacing: 20
       bottom_spacing: 0
     title:
       text: The Match Artist
-      text_color: '#000000'
+      text_color: "#000000"
       top_spacing: 10
       bottom_spacing: 10
     description:
@@ -55,7 +55,7 @@ content_blocks:
         profiles through intriguing photography, facial expression coaching, and
         showing off you in your element. Based in Austin, TX, and we shoot all
         over the U.S.
-      text_color: '#CE3E3E'
+      text_color: "#CE3E3E"
       top_spacing: 30
       bottom_spacing: 30
     cta:
@@ -66,21 +66,21 @@ content_blocks:
         - button_link: /how-it-works
           button_text: How it works
         - button_link: /online-dating-photographer-near-me
-          button_text: Book a call
+          button_text: Inquire now
     post_text:
       text:
       text_color:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: left-right-image
-    background_color: '#171717'
+    background_color: "#171717"
     layout:
       flipped: true
       container: true
       vertical_padding: 64
       horizontal_padding: 10
       text:
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         vertically_centered: true
         horizontally_centered: true
         vertical_padding:
@@ -127,14 +127,14 @@ content_blocks:
         alt:
         max_height:
   - _bookshop_name: left-right-image
-    background_color: '#171717'
+    background_color: "#171717"
     layout:
       flipped: false
       container: true
       vertical_padding: 64
       horizontal_padding: 10
       text:
-        color: '#FFFFFF'
+        color: "#FFFFFF"
         vertically_centered: true
         horizontally_centered: true
         vertical_padding:

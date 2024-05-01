@@ -4,13 +4,13 @@ spec:
     - content_blocks
   label: Left Right - Phone
   description: Left Right with phone mockup.
-  icon: 'view_sidebar'
-  tags: ['Left Right']
+  icon: "view_sidebar"
+  tags: ["Left Right"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  background_color: '#E5E5E5'
-  text_color: '#090303'
+  background_color: "#E5E5E5"
+  text_color: "#090303"
   image:
     src: /images/mockups/tindermock.webp
     height: 812
@@ -29,8 +29,8 @@ blueprint:
     - icon: /icons/gold-star.svg
       text: Feel more confident
   button:
-    path: '#contact'
-    text: Book a Call
+    path: "#contact"
+    text: Inquire now
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
