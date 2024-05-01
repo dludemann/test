@@ -82,7 +82,7 @@ useHead({
     class="grid grid-cols-1 lg:grid-cols-2 items-center bg-[#171717] text-white"
   >
     <div class="h-[300px] lg:h-[896px] w-full relative">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/5qBc3FSbuOUGnsrjmOwY"
         class="object-cover w-full h-full"
       />
@@ -107,7 +107,7 @@ useHead({
     class="flex justify-center flex-col lg:flex-row py-[50px] px-5 gap-8 container mx-auto"
   >
     <div class="testimonial w-full lg:max-h-[184px] lg:max-w-[350px]">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/quality=v:80/compress/resize=width:625,height:329,fit:crop/21HHK9WrQoacYZBJRc2A"
         class="testimonial__img v-lazy-image v-lazy-image-loaded"
         width="625"
@@ -119,7 +119,7 @@ useHead({
     </div>
 
     <div class="testimonial w-full lg:max-h-[184px] lg:max-w-[350px]">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/quality=v:80/compress/resize=width:625,height:329,fit:crop/QRK0AHz8QhaP4hK3KudF"
         class="testimonial__img v-lazy-image v-lazy-image-loaded"
         width="625"
@@ -159,7 +159,7 @@ useHead({
       </ul>
     </article>
     <div class="h-[300px] lg:h-[896px] w-full relative">
-      <img
+      <tma-image
         src="https://cdn.buttercms.com/9XdIv9saQQCOtNAoV2D9"
         class="object-cover w-full h-full"
       />

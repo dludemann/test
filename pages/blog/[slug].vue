@@ -1,7 +1,7 @@
 <template>
   <section class="bg-[#efefef] py-[70px] font-display">
     <div class="max-w-[800px] mx-auto">
-      <img
+      <tma-image
         v-if="pageData.featured_image"
         :src="pageData.featured_image"
         :alt="pageData.featured_image_alt"

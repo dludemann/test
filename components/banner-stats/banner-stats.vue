@@ -10,7 +10,7 @@ export default {
     :data-cms-bind="dataBinding"
     :style="{ 'background-color': block.background_color }"
   >
-    <img
+    <tma-image
       v-if="block.background_image"
       :src="block.background_image"
       alt=""

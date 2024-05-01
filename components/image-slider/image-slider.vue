@@ -61,7 +61,7 @@ export default {
               class="h-[500px] lg:w-[350px] !max-w-[350px] relative"
             >
               <div class="h-[500px] lg:w-[350px] !max-w-[350px] relative">
-                <img
+                <tma-image
                   :src="slide"
                   alt="Portfolio Image"
                   class="h-full w-full object-cover"
@@ -75,11 +75,11 @@ export default {
       </div>
       <div class="flex flex-col items-center py-[110px]">
         <div class="flex gap-1 justify-center">
-          <img src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
-          <img src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
-          <img src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
-          <img src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
-          <img src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
+          <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
+          <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
+          <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
+          <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
+          <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
         </div>
         <p class="text-center max-w-[950px] mt-4 text-[1.5rem] leading-[33px]">
           {{ block.testimonial.text }}

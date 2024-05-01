@@ -26,7 +26,7 @@ export default {
         </p>
         <div class="flex flex-col gap-4 my-6" v-for="list_item in block.list">
           <div class="flex items-center gap-4">
-            <img :src="list_item.icon" class="w-[32px] h-[32px]" alt="" />
+            <tma-image :src="list_item.icon" class="w-[32px] h-[32px]" alt="" />
             <p class="text-[18.5px] mb-0">{{ list_item.text }}</p>
           </div>
         </div>

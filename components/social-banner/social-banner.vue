@@ -18,7 +18,7 @@ export default {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img
+          <tma-image
             :src="link.image.src"
             :alt="link.image.alt"
             :style="{ opacity: link.image.opacity }"
@@ -34,7 +34,10 @@ export default {
         :href="news_mention.path"
         target="_blank"
       >
-        <img :src="news_mention.image.src" :alt="news_mention.image.alt" />
+        <tma-image
+          :src="news_mention.image.src"
+          :alt="news_mention.image.alt"
+        />
       </a>
     </div>
   </section>

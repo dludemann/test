@@ -65,7 +65,7 @@ export default {
             </p>
 
             <div class="h-full w-full absolute bg-black bg-opacity-50 z-10" />
-            <img
+            <tma-image
               loading="lazy"
               :src="card.img"
               class="absolute object-cover h-full w-full"

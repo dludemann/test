@@ -20,13 +20,13 @@ export default {
         color: block.quote.text_color,
       }"
     >
-      <!-- <img
+      <!-- <tma-image
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         :src="block.image.src"
         :alt="block.image.alt"
       /> -->
 
-      <img
+      <tma-image
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         src="/images/work/austin-before-after.webp"
         :alt="block.image.alt"
@@ -60,7 +60,7 @@ export default {
             class="flex bg-primary-500 w-fit py-[12px] px-[24px] text-white mt-5"
           >
             {{ block.button.text }}
-            <img
+            <tma-image
               src="/icons/arrow-right.svg"
               class="w-[24px] h-[24px] ml-2"
               alt=""

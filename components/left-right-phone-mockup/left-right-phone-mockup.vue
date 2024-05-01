@@ -39,7 +39,7 @@ export default {
             class="flex items-center gap-4 justify-center lg:justify-start"
             v-for="list_item in block.list"
           >
-            <img class="w-[24px] h-[24px]" :src="list_item.icon" alt="" />
+            <tma-image class="w-[24px] h-[24px]" :src="list_item.icon" alt="" />
             <p class="font-bold text-[22px] font-body">
               {{ list_item.text }}
             </p>
@@ -54,7 +54,7 @@ export default {
             class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
             {{ block.button.text }}
-            <img
+            <tma-image
               src="/icons/arrow-right.svg"
               class="w-[24px] h-[24px] ml-2"
               alt=""

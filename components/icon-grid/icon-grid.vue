@@ -51,7 +51,7 @@
         class="lg:w-[300px] flex flex-col items-center"
         v-for="icon_card in block.icon_grid"
       >
-        <img
+        <tma-image
           :src="icon_card.icon.src"
           :style="{
             height: icon_card.icon.height + 'px',
@@ -100,6 +100,6 @@
 
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>

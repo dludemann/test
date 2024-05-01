@@ -5,7 +5,7 @@
       <article class="grid lg:grid-cols-2 mx-auto">
         <div class="blog-post-thumb">
           <a :href="post._path">
-            <img
+            <tma-image
               class="h-full object-cover max-h-[550px]"
               :src="post.featured_image"
               :alt="post.featured_image_alt"

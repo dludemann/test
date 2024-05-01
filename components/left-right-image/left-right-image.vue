@@ -65,7 +65,7 @@ const markdownify = (text) => {
           block.layout.flipped ? 'flex justify-start' : 'flex justify-end',
         ]"
       >
-        <img
+        <tma-image
           class="rounded-sm"
           :src="block.image.image.src"
           :alt="block.image.image.alt"
@@ -92,7 +92,7 @@ const markdownify = (text) => {
           >
             {{ image.heading }}
           </p>
-          <img
+          <tma-image
             :src="image.image.src"
             class="object-cover h-full w-full rounded-sm"
           />
@@ -102,7 +102,7 @@ const markdownify = (text) => {
       <!-- Full sized image -->
       <section v-if="block.image.full_sized_image.src">
         <div class="overflow-hidden justify-center items-center">
-          <img
+          <tma-image
             :src="block.image.full_sized_image.src"
             class="object-cover h-full w-full"
             :style="{

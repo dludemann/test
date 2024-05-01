@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "node image-updater.js && nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",

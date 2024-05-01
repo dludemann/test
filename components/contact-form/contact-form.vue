@@ -274,7 +274,11 @@ export default {
       :data-analytics="contactFormAttribute"
     >
       Inquire Now
-      <img src="/icons/arrow-right.svg" class="w-[24px] h-[24px] ml-2" alt="" />
+      <tma-image
+        src="/icons/arrow-right.svg"
+        class="w-[24px] h-[24px] ml-2"
+        alt=""
+      />
     </button>
   </form>
 </template>
