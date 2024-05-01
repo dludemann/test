@@ -39,14 +39,13 @@ content_blocks:
       platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
-      - /images/work/favorites-4491.webp
-      - /images/work/tma-123.webp
-      - /images/work/tma-1234.webp
-      - /images/work/tma-best-2584.webp
-      - /images/work/tma-best-4346.webp
-      - /images/work/tma-favs-0047.webp
-      - /images/work/tma-favs-6152.webp
-      - /images/work/tmafav-5683.webp
+      - /images/connor-tma-210.jpg
+      - /images/shureed-7405361-282.jpg
+      - /images/jeff.jpg
+      - /images/shakked-tma-06.jpg
+      - /images/tejesh-tma-0033.jpg
+      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
+      - /images/rohith-tma-2-191.jpg
     testimonial:
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
