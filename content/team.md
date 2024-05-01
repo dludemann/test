@@ -105,7 +105,10 @@ content_blocks:
     pre_title:
     title:
     paragraphs:
-      - text: '![](/images/website-6055.jpg)'
+      - text: |-
+          &nbsp;
+
+          ![](https://photostma.blob.core.windows.net/web/team-photo.jpg)
         inline_image:
         flipped: false
   - _bookshop_name: social-banner
