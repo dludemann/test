@@ -61,7 +61,7 @@ content_blocks:
       - src: /images/team/allie.jpeg
         title: Allie
         subtitle: Photographer
-      - src: /images/team/brian.webp
+      - src: /images/rohit5.jpg
         title: Brian
         subtitle: Photographer
       - src: /images/team/jason.jpeg

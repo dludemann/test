@@ -8,7 +8,7 @@ content_blocks:
       city: New York
       state: City
     image:
-      src: /images/team/brian.webp
+      src: /images/rohit5.jpg
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:

@@ -3,8 +3,8 @@
 import fileinput
 import glob
 # Define the text to be replaced and the replacement text
-old_text = 'text: Book a Call'
-new_text = 'text: Inquire Now'
+old_text = 'src: /images/team/brian.webp'
+new_text = 'src: /images/rohit5.jpg'
 # Get all .md files in the directory
 files = glob.glob('./content/*.md')
 
@@ -15,7 +15,7 @@ for file in files:
         for line in f:
 
             print(line.replace(old_text, new_text), end='')
-            
+
             # if '      - /images/work/tmafav-5683.webp' not in line:
             #     print(line, end='')
 

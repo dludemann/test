@@ -16,7 +16,7 @@ content_blocks:
       city: Raleigh
       state: North Carolina
     image:
-      src: /images/team/brian.webp
+      src: /images/rohit5.jpg
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:

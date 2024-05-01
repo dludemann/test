@@ -16,7 +16,7 @@ content_blocks:
       city: Norfolk
       state: Virginia
     image:
-      src: /images/team/brian.webp
+      src: /images/rohit5.jpg
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:
