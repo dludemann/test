@@ -58,9 +58,9 @@ export default {
             <SwiperSlide
               v-for="slide in block.images"
               :key="slide"
-              class="h-[500px] !lg:w-[350px] !max-w-[350px] relative"
+              class="h-[500px] !lg:w-[350px] !max-w-[350px] relative overflow-hidden"
             >
-              <div class="h-[500px] !lg:w-[350px] !max-w-[350px] relative">
+              <div class="relative h-full overflow-hidden">
                 <tma-image
                   :src="slide"
                   alt="Portfolio Image"
