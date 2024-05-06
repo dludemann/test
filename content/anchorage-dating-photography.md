@@ -139,7 +139,7 @@ content_blocks:
       path: "#contact"
       text: Inquire now
     image:
-      src: /images/location/group-image.webp
+      src: /images/dan-collage.png
       alt:
       max_width: 766
       height: 766

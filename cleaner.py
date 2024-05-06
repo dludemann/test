@@ -3,8 +3,8 @@
 import fileinput
 import glob
 # Define the text to be replaced and the replacement text
-old_text = 'src: /images/team/brian.webp'
-new_text = 'src: /images/rohit5.jpg'
+old_text = 'src: /images/location/group-image.webp'
+new_text = 'src: /images/dan-collage.png'
 # Get all .md files in the directory
 files = glob.glob('./content/*.md')
 
