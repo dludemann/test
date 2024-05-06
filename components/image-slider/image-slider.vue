@@ -6,7 +6,7 @@ export default {
 
 <template>
   <section
-    class="py-[110px] font-body px-4"
+    class="pt-[110px] pb-2 lg:py-[110px] font-body px-4"
     :data-cms-bind="dataBinding"
     :style="{
       'background-color': block.background_color,
@@ -73,7 +73,7 @@ export default {
           </Swiper>
         </div>
       </div>
-      <div class="flex flex-col items-center py-[110px]">
+      <div class="flex flex-col items-center lg:apy-[110px]">
         <div class="flex gap-1 justify-center">
           <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
           <tma-image src="/icons/star.svg" class="h-[20px] w-[20px]" alt="" />
