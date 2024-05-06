@@ -100,7 +100,7 @@ content_blocks:
       stats: []
     button:
       path: '#contact'
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
     background_color: '#ffffff'
     text_color: '#090303'
@@ -125,7 +125,7 @@ content_blocks:
         text: Have the best chance at finding your life partner
     button:
       path: '#contact'
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-list
     title: Custom-tailored, done-for-you photoshoot
     description: >-

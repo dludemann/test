@@ -8,7 +8,7 @@ content_blocks:
       city: New York
       state: City
     image:
-      src: /images/team/brian.webp
+      src: /images/rohit5.jpg
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:
@@ -39,14 +39,13 @@ content_blocks:
       platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
-      - /images/work/favorites-4491.webp
-      - /images/work/tma-123.webp
-      - /images/work/tma-1234.webp
-      - /images/work/tma-best-2584.webp
-      - /images/work/tma-best-4346.webp
-      - /images/work/tma-favs-0047.webp
-      - /images/work/tma-favs-6152.webp
-      - /images/work/tmafav-5683.webp
+      - /images/connor-tma-210.jpg
+      - /images/shureed-7405361-282.jpg
+      - /images/jeff.jpg
+      - /images/shakked-tma-06.jpg
+      - /images/tejesh-tma-0033.jpg
+      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
+      - /images/rohith-tma-2-191.jpg
     testimonial:
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
@@ -86,7 +85,7 @@ content_blocks:
           text: Relationships
     button:
       path: "#contact"
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
     background_color: "#FFFFFF"
     text_color: "#090303"
@@ -109,7 +108,7 @@ content_blocks:
         text: Feel more confident
     button:
       path: "#contact"
-      text: Book a Call
+      text: Inquire Now
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
     description: >-
@@ -129,7 +128,7 @@ content_blocks:
       path: "#contact"
       text: Inquire now
     image:
-      src: /images/location/group-image.webp
+      src: /images/dan-collage.png
       alt:
       max_width: 766
       height: 766
