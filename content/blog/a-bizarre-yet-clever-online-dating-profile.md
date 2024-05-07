@@ -39,12 +39,6 @@ So here's John, pretty good looking guy, right?
 
 &nbsp;
 
-![](https://photostma.blob.core.windows.net/web/josh-collesano-coTTvjild6U-unsplash%20&#40;1&#41;.jpg)
-
-&nbsp;
-
-![](/marketing/image_&#40;6&#41;.png)
-
 &nbsp;
 
 ![](/marketing/IMG_6096.jpeg)
