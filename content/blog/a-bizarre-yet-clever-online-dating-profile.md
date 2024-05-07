@@ -41,12 +41,6 @@ So here's John, pretty good looking guy, right?
 
 &nbsp;
 
-![](/marketing/IMG_6096.jpeg)
-
-&nbsp;
-
-![](/marketing/2018-02-22_14-15-01_610.jpeg)
-
 ![](/marketing/b99cc0ff985961cb67fa93205962d801-large.jpg)
 
 ![bizarre-blog-2429](https://images.ctfassets.net/9e33rgnm1y4m/23LpapTLDgXYvQZsKIs4Hr/2d4fe3c29c99a04499ff2153af26a092/bizarre-blog-2429.jpg)
