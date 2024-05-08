@@ -22,7 +22,7 @@ if (route.query.source) {
   const sourceCookie = useCookie("source-cookie");
   sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
 
-  console.log(source);
+  //console.log(source);
 
   // Reset Query Params
   router.replace({ query: null });

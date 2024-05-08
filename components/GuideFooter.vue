@@ -38,7 +38,7 @@ const generatePrevious = () => {
       };
     }
 
-    console.log("hello");
+    //console.log("hello");
 
     return {
       title: previousSilo.title,
