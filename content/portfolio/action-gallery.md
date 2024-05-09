@@ -39,7 +39,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/FmOAM12ZTvGQQ0RweQcU.jpg
         alt: Action shot taken by The Match Artist
       - src: /images/portfolio/wpTYyqWmR1qkEsADl4sQ.jpg
@@ -204,7 +204,6 @@ content_blocks:
         alt: Action shot taken by The Match Artist
       - src: /images/portfolio/VrdmGZeIRC6r77ggJBB1.jpg
         alt: Action shot taken by The Match Artist
-    column_two:
       - src: /images/portfolio/n1B4TesJRDqrOxkZ4IvT.jpg
         alt: Action shot taken by The Match Artist
       - src: /images/portfolio/e1SKFasZREOThAjhpWWr.jpg
@@ -299,7 +298,6 @@ content_blocks:
         alt: Action shot taken by The Match Artist
       - src: /images/portfolio/Le6hMPtNR1SrYpBvBKWr.jpg
         alt: Action shot taken by The Match Artist
-    column_three:
       - src: /images/portfolio/TKuISdkrQcipbh6xeKJw.jpg
         alt: Action shot taken by The Match Artist
       - src: /images/portfolio/h1CQALFYSKe9r1omDhEG.jpg

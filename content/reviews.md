@@ -193,7 +193,7 @@ content_blocks:
     max_width: 1000
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/reviews/danny-reviews-grouped.jpeg
         alt: A glowing testimonial
       - src: /images/reviews/email-2.jpg
@@ -230,7 +230,6 @@ content_blocks:
         alt: A glowing testimonial
       - src: /images/reviews/text-6.jpg
         alt: A glowing testimonial
-    column_two:
       - src: /images/reviews/text-7.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-8.jpg
@@ -267,7 +266,6 @@ content_blocks:
         alt: A glowing testimonial
       - src: /images/reviews/text-24.jpg
         alt: A glowing testimonial
-    column_three:
       - src: /images/reviews/text-25.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-26.jpg

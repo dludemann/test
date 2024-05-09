@@ -39,7 +39,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/PdyHTQbFREClRb2rwaSP.jpg
         alt: A dating profile photo on a night out, taken by The Match Artist
       - src: /images/portfolio/kisyg6iLSQOvNQ7x1bPf.jpg
@@ -110,7 +110,6 @@ content_blocks:
         alt: A dating profile photo on a night out, taken by The Match Artist
       - src: /images/portfolio/rWXWHxaxSoGbOxsH50Y5.jpg
         alt: A dating profile photo on a night out, taken by The Match Artist
-    column_two:
       - src: /images/portfolio/ijVZqkC0TXaBxvB2kPCY.jpg
         alt: A dating profile photo on a night out, taken by The Match Artist
       - src: /images/portfolio/v9ZsgxeQlWg4EMuN7b0S.jpg
@@ -155,7 +154,6 @@ content_blocks:
         alt: A dating profile photo on a night out, taken by The Match Artist
       - src: /images/portfolio/WtfkLBeSRWp9oOyJ1STg.jpg
         alt: A dating profile photo on a night out, taken by The Match Artist
-    column_three:
       - src: /images/portfolio/jG7VtXHrQbi6jCMjXjXl.jpg
         alt: A dating profile photo on a night out, taken by The Match Artist
       - src: /images/portfolio/RmzFIUedTFarTcX1p8WR.jpg

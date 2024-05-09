@@ -39,7 +39,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/qYK6D5RVmVI6NcdWreAM.jpg
         alt: Dating photo with a dog, taken by The Match Artist
       - src: /images/portfolio/kGJAPHNRdCdkaiHW1jln.jpg
@@ -92,7 +92,6 @@ content_blocks:
         alt: Dating photo with a dog, taken by The Match Artist
       - src: /images/portfolio/tcnFXzlQ6KM8XMco6pYQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-    column_two:
       - src: /images/portfolio/azYctq0Ry6qfxd3r2oBQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
       - src: /images/portfolio/b7eWjb4kSd2RBSstaDlH.jpg
@@ -137,7 +136,6 @@ content_blocks:
         alt: Dating photo with a dog, taken by The Match Artist
       - src: /images/portfolio/r5RNHTirTom7JbSBnCbm.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-    column_three:
       - src: /images/portfolio/qmjkq29fSEqkeBsIkjAp.jpg
         alt: Dating photo with a dog, taken by The Match Artist
       - src: /images/portfolio/tPC5aI56SPK06D8BnNLq.jpg

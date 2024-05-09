@@ -38,7 +38,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/y8Y4oyYERiiqOwg3Eu0W.jpg
         alt: "Dating profile photo with coffee, taken by The Match Artist"
       - src: /images/portfolio/Xp3ZVyTSRAqyw2WUIctF.jpg
@@ -109,7 +109,6 @@ content_blocks:
         alt: "Dating profile photo with coffee, taken by The Match Artist"
       - src: /images/portfolio/f2DkJQOTxKPj92pw1LtW.jpg
         alt: "Dating profile photo with coffee, taken by The Match Artist"
-    column_two:
       - src: /images/portfolio/e8tQ8WjTD6RgkNQEIrfY.jpg
         alt: "Dating profile photo with coffee, taken by The Match Artist"
       - src: /images/portfolio/Ot8R9wU9TJ65suvtb4CP.jpg
@@ -176,7 +175,6 @@ content_blocks:
         alt: "Dating profile photo with coffee, taken by The Match Artist"
       - src: /images/portfolio/8oFNUY4tRSyrBIwSOVky.jpg
         alt: "Dating profile photo with coffee, taken by The Match Artist"
-    column_three:
       - src: /images/portfolio/A0sQBfY0Sn6VyLN6ba9B.jpg
         alt: "Dating profile photo with coffee, taken by The Match Artist"
       - src: /images/portfolio/E4zDCGimTQOx31tGm2p4.jpg

@@ -40,7 +40,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/c6sNQeMjTaeVjUB4eHvl.jpg
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/U48tTiaSrOcR6f6s1GDg.jpg
@@ -507,7 +507,6 @@ content_blocks:
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/JdqyhwpTtu3upA0mxU7f.jpg
         alt: A dating profile photo, taken by The Match Artist
-    column_two:
       - src: /images/portfolio/GcH7x7LrRDmNanPMup2A.jpg
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/Y2GmUSxsRgSgfo5Dh4zA.jpg
@@ -820,7 +819,6 @@ content_blocks:
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/6oRQEMJuTcqKMBnVoTwQ.jpg
         alt: A dating profile photo, taken by The Match Artist
-    column_three:
       - src: /images/portfolio/QL4MgdFKR2ibKAXiVynK.jpg
         alt: A dating profile photo, taken by The Match Artist
       - src: /images/portfolio/mqG6bRKYTlqOnUaObhTC.jpg

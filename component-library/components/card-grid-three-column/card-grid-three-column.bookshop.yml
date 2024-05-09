@@ -15,13 +15,7 @@ blueprint:
   max_width: 1000
   horizontal_gap:
   vertical_gap:
-  column_one:
-    - src:
-      alt:
-  column_two:
-    - src:
-      alt:
-  column_three:
+  images:
     - src:
       alt:
 

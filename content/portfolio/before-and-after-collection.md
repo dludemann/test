@@ -40,7 +40,7 @@ content_blocks:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
-    column_one:
+    images:
       - src: /images/portfolio/C3XQEMLeTbSFCzlnik1e.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/nC4pnh0lQaWiyaBx3CCc.jpg
@@ -141,7 +141,6 @@ content_blocks:
         alt: Before and After photo taken by The Match Artist
       - src: /images/nick-before-after.jpg
         alt:
-    column_two:
       - src: /images/portfolio/FWh1dpGaRQ2Ja7HL3DQL.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/Kl7TJjunSmeoHaXJHjtu.jpg
@@ -300,7 +299,6 @@ content_blocks:
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/EnxqPIhxQhq6uhUuVYnS.jpg
         alt: Before and After photo taken by The Match Artist
-    column_three:
       - src: /images/portfolio/BWEsn6aIQpmHdtNMRVN5.jpg
         alt: Before and After photo taken by The Match Artist
       - src: /images/portfolio/wLIgVmdRRyzth9o3jG5r.jpg
