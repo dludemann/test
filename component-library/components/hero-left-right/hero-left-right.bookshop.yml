@@ -4,13 +4,13 @@ spec:
     - content_blocks
   label: Hero - Left Right
   description: Hero section for the top of the page in a left right format
-  icon: 'cottage'
-  tags: ['Hero']
+  icon: "cottage"
+  tags: ["Hero"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  background_color: '#00000'
-  text_color: '#FFFFFF'
+  background_color: "#00000"
+  text_color: "#FFFFFF"
   pre_title: About The Match Artist
   title: Professional Dating Photography
   heading_style:
@@ -21,7 +21,7 @@ blueprint:
     max_width: 500
     flipped: false
   testimonial:
-    text: 'An overall skyrocketing experience for my online dating.'
+    text: "An overall skyrocketing experience for my online dating."
     person: Brent S
     image:
       src: /images/work/brent.webp
@@ -33,8 +33,8 @@ blueprint:
     vertical_padding: 40
     horizontal_padding: 9
   button:
-    path: '#contact'
-    text: Book a Call
+    path: "#contact"
+    text: Inquire now
   news_mentions: true
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

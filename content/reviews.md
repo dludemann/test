@@ -328,7 +328,7 @@ content_blocks:
       bottom_spacing: 20
       buttons:
         - button_link: /
-          button_text: Book a Call
+          button_text: Inquire Now
     post_text:
       text:
       text_color:

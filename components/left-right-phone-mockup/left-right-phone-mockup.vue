@@ -36,11 +36,11 @@ export default {
 
         <div class="flex flex-col gap-4 my-12">
           <div
-            class="flex items-center gap-4 justify-center lg:justify-start"
+            class="flex items-center gap-4 justify-start"
             v-for="list_item in block.list"
           >
             <tma-image class="w-[24px] h-[24px]" :src="list_item.icon" alt="" />
-            <p class="font-bold text-[22px] font-body">
+            <p class="font-bold text-[22px] font-body text-start">
               {{ list_item.text }}
             </p>
           </div>

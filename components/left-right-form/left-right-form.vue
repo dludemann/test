@@ -16,7 +16,7 @@ export default {
     <div
       class="container mx-auto flex justify-between items-center lg:items-start px-4 lg:px-32 flex-col lg:flex-row"
     >
-      <article class="max-w-[560px] w-full text-white pr-4" id="contact">
+      <article class="max-w-[560px] w-full text-white pr-4">
         <h2 class="font-bold text-[2.2rem] text-[3.125rem]">
           {{ block.title }}
         </h2>
@@ -32,15 +32,17 @@ export default {
         </div>
       </article>
 
-      <div
-        class="p-6 mt-8 bg-white text-black max-w-[375px] flex-shrink-0 w-full flex flex-col items-start gap-8 rounded-sm"
-      >
-        <contact-form
-          :has-city-input="block.form.city_input"
-          :city="block.form.city"
-          :state="block.form.state"
-          :country="'USA'"
-        />
+      <div class="py-8 w-full max-w-[375px]" id="contact">
+        <div
+          class="p-6 bg-white text-black lex-shrink-0 w-full flex flex-col items-start gap-8 rounded-sm"
+        >
+          <contact-form
+            :has-city-input="block.form.city_input"
+            :city="block.form.city"
+            :state="block.form.state"
+            :country="'USA'"
+          />
+        </div>
       </div>
     </div>
   </section>

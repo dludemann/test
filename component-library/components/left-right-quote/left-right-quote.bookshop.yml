@@ -40,7 +40,7 @@ blueprint:
         text: Relationships
   button:
     path: "#contact"
-    text: Book a Call
+    text: Inquire now
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
