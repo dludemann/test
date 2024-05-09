@@ -31,6 +31,17 @@ content_blocks:
       text_color: white
       top_spacing:
       bottom_spacing: 48
+  - _bookshop_name: markdown-block
+    pre_title:
+    title: For more reviews...
+    paragraphs:
+      - text: >-
+          On our <a href="https://thematchartist.com/case-studies"
+          target="_blank" rel="noopener">Case Studies page</a>, we have video
+          reviews and transformation, but below you'll find client screenshots
+          from our team.
+        inline_image:
+        flipped: false
   - _bookshop_name: left-right-image
     background_color: '#171717'
     layout:
@@ -49,8 +60,8 @@ content_blocks:
         text_is_quote: true
         quote_author:
     text: >-
-      I’ve been seeing a girl that[‘s] the most perfect human being for me.
-      [...] the coaching on eye movement + pictures is life changing
+      I’ve been seeing a girl that\[‘s\] the most perfect human being for me.
+      \[...\] the coaching on eye movement + pictures is life changing
     image:
       image:
         src: /images/reviews/text.jpg
