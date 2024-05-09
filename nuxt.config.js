@@ -44,7 +44,11 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "nuxt-swiper",
     "@nuxtjs/robots",
+    '@nuxtjs/google-fonts'
   ],
+  googleFonts: {
+    preload:true
+  },
   components: {
     global: true,
     dirs: ["~/components"],
