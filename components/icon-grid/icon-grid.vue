@@ -21,6 +21,7 @@
         <div class="h-px w-[10px] bg-[#171717]" />
       </div>
       <h1
+        v-if="block.title.heading_style == 'h1'"
         class="mb-[40px] font-bold"
         :style="{
           color: block.title.color,
@@ -31,6 +32,18 @@
       >
         {{ block.title.text }}
       </h1>
+      <h2
+        v-if="block.title.heading_style == 'h2'"
+        class="mb-[40px] font-bold"
+        :style="{
+          color: block.title.color,
+          'font-size': block.title.font_size + 'rem',
+          'margin-bottom': block.title.margin_bottom + 'px',
+          'margin-top': block.title.margin_top + 'px',
+        }"
+      >
+        {{ block.title.text }}
+      </h2>
       <p
         :style="{
           color: block.post_title.color,

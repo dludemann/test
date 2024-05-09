@@ -19,6 +19,7 @@ blueprint:
   text_color:
   title:
     text:
+    heading_style:
     top_spacing:
     bottom_spacing:
     text_color:
