@@ -40,6 +40,7 @@
                   :src="image.src" 
                   :alt="image.alt" 
                   loading="lazy"
+                  placeholder
                    />
       </figure>
     </div>
