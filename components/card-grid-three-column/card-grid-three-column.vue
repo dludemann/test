@@ -1,4 +1,4 @@
-<style>
+<style scoped>
     .img-grid img {
       max-width: 100%;
       display: block;
@@ -6,14 +6,12 @@
 
     .img-grid.container {
       column-count: 3;
-      column-gap: 10px;
     }
 
     .img-grid figure {
       margin: 0;
       display: grid;
       grid-template-rows: 1fr auto;
-      margin-bottom: 10px;
       break-inside: avoid;
     }
 
@@ -38,10 +36,11 @@
       </h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
-    <div class="loading w-100 mx-auto text-center py-8">Loading...</div>
-    <div class="container img-grid hidden relative">
-      <figure v-for="image in block.images">
-        <nuxt-img :src="image.src" :alt="image.alt" />
+    <div class="container img-grid relative"
+        :style="{ columnGap: block.vertical_gap + 'px' }">
+      <figure v-for="image in block.images"
+            :style="{ marginBottom: block.horizontal_gap + 'px' }">
+        <nuxt-img :src="image.src" :alt="image.alt" loading="lazy" />
       </figure>
     </div>
 </section>
@@ -50,14 +49,6 @@
 <script>
 export default {
   props: ["block", "dataBinding"],
-  mounted() {
-  document.onreadystatechange = () => { 
-    if (document.readyState == "complete") { 
-        document.querySelector(".img-grid").classList.remove("hidden");
-        document.querySelector(".loading").remove();
-    } 
-  }
-}
 };
 
 </script>

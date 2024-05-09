@@ -78,7 +78,7 @@ export default {
 
       <div
         class="pb-[50px] text-center flex gap-4 justify-center items-center"
-        v-if="block.cta.buttons[0].button_text"
+        v-if="block.cta.buttons.length > 0 && block.cta.buttons[0].button_text"
         :style="{
           'padding-top': block.cta.top_spacing + 'px',
           'padding-bottom': block.cta.bottom_spacing + 'px',
