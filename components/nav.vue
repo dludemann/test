@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import navData from '../data/nav.json';
+import navData from "../data/nav.json";
 
 const mobileMenuOpen = ref(false);
 const mobileMenuCategoryOpen = ref<string | null>(null);
 
 const nav_links_classes =
-  'text-white text-[14px] leading-[21px] font-display relative group py-2';
+  "text-white text-[14px] leading-[21px] font-display relative group py-2";
 const m_links_classes =
-  'text-white flex items-center gap-2 text-[22px] leading-[33px] font-display hover:text-primary-700 active:text-primary-700 group';
+  "text-white flex items-center gap-2 text-[22px] leading-[33px] font-display hover:text-primary-700 active:text-primary-700 group";
 
 const links = navData;
 
@@ -104,7 +104,7 @@ const toggleMobileCategory = (category: string) => {
     <!-- MOBILE MENU -->
     <div
       class="w-full fixed z-50 mt-[60px] overflow-y-auto"
-      style="height: calc(100vh - 60px)"
+      style="height: calc(100dvh - 60px)"
       v-if="mobileMenuOpen"
     >
       <nav class="flex bg-black flex-col gap-4 container mx-auto py-6 px-8">

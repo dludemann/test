@@ -19,12 +19,12 @@ content_blocks:
       blur: 0
     pre_title:
       text: Show the best you.
-      text_color: '#ffffff'
+      text_color: "#ffffff"
       top_spacing: 100
       bottom_spacing: 0
     title:
       text: Go on better dates!
-      text_color: '#ffffff'
+      text_color: "#ffffff"
       heading_style: h1
       top_spacing:
       bottom_spacing: 100
@@ -34,7 +34,7 @@ content_blocks:
       top_spacing:
       bottom_spacing: 48
   - _bookshop_name: left-right-image
-    background_color: '#171717'
+    background_color: "#171717"
     layout:
       flipped: true
       container: false
@@ -42,7 +42,7 @@ content_blocks:
       vertical_padding: 0
       horizontal_padding:
       text:
-        color: '#ffffff'
+        color: "#ffffff"
         vertically_centered: true
         horizontally_centered: false
         vertical_padding: 64
@@ -86,7 +86,7 @@ content_blocks:
         alt: A grid of professionally taken photos of Karunakaran
         max_height:
   - _bookshop_name: left-right-image
-    background_color: '#171717'
+    background_color: "#171717"
     layout:
       flipped: false
       container: false
@@ -94,7 +94,7 @@ content_blocks:
       vertical_padding: 0
       horizontal_padding:
       text:
-        color: '#ffffff'
+        color: "#ffffff"
         vertically_centered: true
         horizontally_centered: false
         vertical_padding: 64
@@ -134,14 +134,14 @@ content_blocks:
     pre_title:
       text: Results
       font_size: 1.125
-      color: '#00000'
+      color: "#00000"
       margin_bottom: 0
       margin_top: 0
     title:
       text: More than just photos
       heading_style: h2
       font_size: 2.5
-      color: '#00000'
+      color: "#00000"
       margin_bottom: 40
       margin_top: 0
     post_title:
@@ -149,7 +149,7 @@ content_blocks:
         Looking your best is important for your photoshoot, and in real life.
         We'll do both!
       font_size: 1.2
-      color: '#CE3E3E'
+      color: "#CE3E3E"
       margin_bottom: 0
       margin_top: 0
     icon_grid:
@@ -160,7 +160,7 @@ content_blocks:
         title:
           text: Coaching
           font_size: 2
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
         description:
@@ -169,7 +169,7 @@ content_blocks:
             you will practice your facial expressions so you'll be ready to look
             confident during the shoot.
           font_size: 1.125
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
       - icon:
@@ -179,7 +179,7 @@ content_blocks:
         title:
           text: Photos
           font_size: 2
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
         description:
@@ -188,7 +188,7 @@ content_blocks:
             true confidence. We use a unique style of photography that allows
             you to look like a model without actually having to be a model.
           font_size: 1.125
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
       - icon:
@@ -198,7 +198,7 @@ content_blocks:
         title:
           text: Hobby Photos
           font_size: 2
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
         description:
@@ -207,13 +207,13 @@ content_blocks:
             lifestyle photos. We figure out what makes you interesting and
             capture you engaging in your favorite hobbies.
           font_size: 1.125
-          color: '#00000'
+          color: "#00000"
           margin_bottom: 0
           margin_top: 0
     grid_footer:
       text: Like what you see?
       cta:
-        text: Book a call
+        text: Inquire now
         path: /online-dating-photographer-near-me
   - _bookshop_name: social-banner
     heading: Connect with us
