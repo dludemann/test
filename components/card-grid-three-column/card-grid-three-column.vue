@@ -40,7 +40,7 @@
         :style="{ columnGap: block.vertical_gap + 'px' }">
       <figure v-for="image in block.images"
             :style="{ marginBottom: block.horizontal_gap + 'px' }">
-        <nuxt-img :src="image.src" :alt="image.alt" loading="lazy" />
+        <nuxt-img quality="90" :src="image.src" :alt="image.alt" loading="lazy" />
       </figure>
     </div>
 </section>
