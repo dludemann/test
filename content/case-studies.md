@@ -45,6 +45,7 @@ content_blocks:
     title:
       text: Case Studies
       text_color: '#000000'
+      heading_style: h2
       top_spacing: 0
       bottom_spacing: 10
     description:
@@ -93,6 +94,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title: Karthik's Engagement Session
+    heading_style: h2
     paragraphs:
       - text: >-
           Karthik reached out with a plan. He wanted to get some incredible
@@ -499,7 +501,7 @@ content_blocks:
     title:
       text: Jeff's Story
       text_color:
-      heading_style: h1
+      heading_style: h2
       top_spacing:
       bottom_spacing:
     post_title:
@@ -559,6 +561,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title: Will's Engagement Session
+    heading_style: h2
     paragraphs:
       - text: >-
           Will reached back out to us to say he got engaged and needed some

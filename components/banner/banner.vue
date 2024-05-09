@@ -39,7 +39,9 @@ export default {
           <p class="text-[18px] italic">{{ block.pre_title.text }}</p>
           <div class="h-px w-[10px] bg-[#171717]" />
         </div>
+
         <h1
+          v-if="block.title.heading_style === 'h1'"
           class="font-light z-10 relative text-[40px] lg:text-[50px] font-display lg:leading-[96px] text-center text-white"
           :style="{
             'padding-top': block.title.top_spacing + 'px',
@@ -49,6 +51,18 @@ export default {
         >
           {{ block.title.text }}
         </h1>
+        <h2
+          v-if="block.title.heading_style === 'h2'"
+          class="font-light z-10 relative text-[40px] lg:text-[50px] font-display lg:leading-[96px] text-center text-white"
+          :style="{
+            'padding-top': block.title.top_spacing + 'px',
+            'padding-bottom': block.title.bottom_spacing + 'px',
+            color: block.title.text_color,
+          }"
+        >
+          {{ block.title.text }}
+        </h2>
+
         <p
           class="text-[#CE3E3E] text-[18px] tracking-wider leading-8 max-w-[800px] mx-auto font-body"
           v-if="block.description.text"

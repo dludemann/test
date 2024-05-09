@@ -316,6 +316,7 @@ content_blocks:
     title:
       text: Like what you see?
       text_color: black
+      heading_style: h2
       top_spacing: 90
       bottom_spacing: 20
     description:

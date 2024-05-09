@@ -18,11 +18,17 @@ const markdownify = (text) => {
         <div class="h-px w-[10px] bg-[#171717]" />
       </div>
       <h1
-        v-if="block.title"
+        v-if="block.title && block.heading_style === 'h1'"
         class="mb-[40px] text-[2.5rem] max-w-[660px] mx-auto font-bold font-display"
       >
         {{ block.title }}
       </h1>
+      <h2
+        v-if="block.title && block.heading_style === 'h2'"
+        class="mb-[40px] text-[2.5rem] max-w-[660px] mx-auto font-bold font-display"
+      >
+        {{ block.title }}
+      </h2>
       <div
         v-for="(paragraph, index) in block.paragraphs"
         class="max-w-[800px] mx-auto text-left mb-[1rem]"
