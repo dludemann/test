@@ -4,10 +4,6 @@
       display: block;
     }
 
-    .img-grid.container {
-      column-count: 3;
-    }
-
     .img-grid figure {
       margin: 0;
       display: grid;
@@ -27,20 +23,24 @@
     :data-cms-bind="dataBinding"
     :style="{ maxWidth: block.max_width + 'px' }">
     <div class="mx-2 mb-8 mt-6" v-if="block.heading_style === 'portfolio'">
-      <h2 class="font-bold text-[1.25rem]">{{ block.title }}</h2>
+      <h2 class="font-bold text-[1.25rem] text-center lg:text-left">{{ block.title }}</h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
     <div class="text-center my-12" v-if="block.heading_style === 'reviews'">
-      <h2 class="font-bold text-[39px]">
+      <h2 class="font-bold text-[39px] text-center lg:text-left">
         {{ block.title }}
       </h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
-    <div class="container img-grid relative"
+    <div class="container img-grid relative columns-1 md:columns-2 lg:columns-3 md:mx-auto"
         :style="{ columnGap: block.vertical_gap + 'px' }">
       <figure v-for="image in block.images"
             :style="{ marginBottom: block.horizontal_gap + 'px' }">
-        <nuxt-img quality="90" :src="image.src" :alt="image.alt" loading="lazy" />
+        <nuxt-img quality="80" 
+                  :src="image.src" 
+                  :alt="image.alt" 
+                  loading="lazy"
+                   />
       </figure>
     </div>
 </section>
