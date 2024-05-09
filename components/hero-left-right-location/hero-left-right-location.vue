@@ -17,16 +17,16 @@ export default {
       <div
         class="container mx-auto flex flex-col lg:flex-row items-center justify-center pb-[60px] relative p-6"
       >
-        <div class="max-w-[600px] p-5 flex flex-col pt-[96px] relative z-10">
+        <div class="max-w-[600px] flex flex-col lg:pt-[96px] relative z-10">
           <h1
-            class="text-[58px] font-accent tracking-[-1%] leading-[69.6px] font-bold text-white"
+            class="text-[50px] leading-[53px] mb-2 lg:text-[58px] font-accent lg:tracking-[-1%] lg:leading-[69.6px] font-bold text-white"
             style="text-wrap: balance"
           >
             Premier Online Dating Photography in {{ block.location.city
             }}<span v-if="block.location.state">,</span>
             {{ block.location.state }}
           </h1>
-          <p class="text-white text-[22.5px] font-body leadig-[36px]">
+          <p class="text-white text-[22.5px] font-body leading-[36px]">
             Elevate your online dating with stunning profile photography.
             Increase your matches on top dating apps such as Tinder, Hinge,
             Bumble, and Match.com. Serving {{ block.location.city }},

@@ -47,7 +47,7 @@ export default {
       </article>
 
       <tma-image
-        class="max-w-[766px] max-h-[766px] w-1/2 object-contain"
+        class="max-w-[766px] max-h-[766px] p-6 lg:w-1/2 object-contain"
         :style="{
           'max-width': block.image.max_width + 'px',
           'max-height': block.image.max_height + 'px',
