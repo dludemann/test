@@ -138,45 +138,30 @@ content_blocks:
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing: 30
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"
-          data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL1JkOFF4VFBmYUE0P3NpPVZrZm12Y2hndTRPX0dtRUkiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe
-          src="https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-
-          &nbsp;
-
-
           > **I talked to you initially a year ago, and I don't know why I
           didn't hire you right then. It was like a night and day
           difference....by the end of January I was dating non-stop.**
 
 
           <strong>- Rohit</strong>
-
-
-          &nbsp;
-
-
-          ## Rohit: Behind the Scenes
-
-
-          ![](/images/reviews/rohit-reviews-grouped.jpeg)
-
-
-          <strong>Before + After</strong>
-
-
-          <img src="/images/work/rohit-before-after.jpeg" />
         inline_image:
         flipped: false
+  - _bookshop_name: image-block
+    title: "Rohit: Behind the Scenes"
+    image:
+      src: /images/reviews/rohit-reviews-grouped.jpeg
+  - _bookshop_name: image-block
+    title: Before + After
+    image:
+      src: /images/work/rohit-before-after.jpeg
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/anwar-banner.jpeg
@@ -199,52 +184,36 @@ content_blocks:
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/cfZx5IGkTUY?si=DWwqn7ojVplUqvZT
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"
-          data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2NmWng1SUdrVFVZP3NpPURXd3FuN29qVnBsVXF2WlQiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe
-          src="https://www.youtube.com/embed/cfZx5IGkTUY?si=DWwqn7ojVplUqvZT"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-
-          &nbsp;
-
-
-          > When I first started implementing the photos, it was pretty much
+          > **When I first started implementing the photos, it was pretty much
           instant results. Nowadays I can pretty much get dates when I want
           them.... like how many dates do I want to go on this week?..... They
           coach you on how to have the best looks for your photos. This is
           something I had no idea about. Now when I'm taking pictures with
-          friends, I know how to bring out the most attractive looks.
+          friends, I know how to bring out the most attractive looks.**
 
 
           <strong>- Ryan</strong>
 
 
-
-          &nbsp;
-
-
           Ryan met his girlfriend on Bumble using our photos.
-
-
-          ### 1.5 year relationship
-
-
-          ![](/images/reviews/text-38.jpeg)
-
-
-          <strong>Before + After</strong>
-
-
-          **![](/images/work/ryan-before-after.jpeg)**
         inline_image:
         flipped: false
+  - _bookshop_name: image-block
+    title: 1.5 year relationship
+    image:
+      src: /images/reviews/text-38.jpeg
+  - _bookshop_name: image-block
+    title: Before + After
+    image:
+      src: /images/work/ryan-before-after.jpeg
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/danny-banner.jpg
@@ -267,54 +236,30 @@ content_blocks:
       text_color:
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"><iframe
-          src="https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-
-
-          &nbsp;
-
-
-          > There was a significant difference when I got photos taken by The
+          > **There was a significant difference when I got photos taken by The
           Match Artist. My photographer and I shot the shit and it felt like we
-          were old friends, but we had just met that day.
-
-
-          &nbsp;
+          were old friends, but we had just met that day.**
 
 
           <strong>- Danny</strong>
-
-
-          ## <strong>Some more from Danny</strong>
-
-
-          &nbsp;
-
-
-          ![](/images/reviews/danny-reviews-grouped.jpeg)
-
-
-          &nbsp;
-
-
-          <strong>Before + After</strong>
-
-
-          &nbsp;
-
-
-          ![](/images/work/danny-before-after.jpeg)
         inline_image:
         flipped: false
+  - _bookshop_name: image-block
+    title: Some more from Danny
+    image:
+      src: /images/reviews/danny-reviews-grouped.jpeg
+  - _bookshop_name: image-block
+    title: Before + After
+    image:
+      src: /images/work/danny-before-after.jpeg
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/brent-banner.jpeg
@@ -337,30 +282,38 @@ content_blocks:
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2tyYU5zRkd1QzQ0P3NpPWxYNm9BMHIwdDBQdi1kV3AiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-          
-          
-          > It was pretty smooth...it was actually kinda fun...it was 'lets go to a brewery and grab an actual beer.' It kinda felt like hanging out with a friend, but a friend that's got your back and got your best interest in mind. They are as interested in making you look great as you are interested in looking great. I got really good results once I started.
+          > **It was pretty smooth...it was actually kinda fun...it was 'lets go to a brewery and grab an actual beer.' It kinda felt like hanging out with a friend, but a friend that's got your back and got your best interest in mind. They are as interested in making you look great as you are interested in looking great. I got really good results once I started.**
+
           
           <strong>- Brent</strong>
           
-          > An overall skyrocketing experience for my online dating.
+
+          &nbsp;
+
+
+          > **An overall skyrocketing experience for my online dating.**
           
+
           <strong>- Brent</strong>
           
-          
-          ![](/images/reviews/text-39.png)
-          
-          <strong>Before + After</strong>
-          
-          <img src="/images/work/brent-before-after.jpeg" />
         inline_image:
         flipped: false
+  - _bookshop_name: image-block
+    title:
+    image:
+      src: /images/reviews/text-39.png
+  - _bookshop_name: image-block
+    title: Before + After
+    image:
+      src: /images/work/brent-before-after.jpeg
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/michael-banner.jpeg
@@ -385,14 +338,14 @@ content_blocks:
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/0lwNfJDm0s4?si=vMs9YlebjV-Rn7bM
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkLzBsd05mSkRtMHM0P3NpPXZNczlZbGVialYtUm43Yk0iIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://www.youtube.com/embed/0lwNfJDm0s4?si=vMs9YlebjV-Rn7bM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-          
-
           > **Fantastic process. Highly recommend it. It's been a few weeks, and no joke I'm averaging 5-6 likes per day on hinge. Previously, I think I'm a pretty good looking dude and was averaging 1-2 likes per day, but the photos didn't show my lifestyle. I've been bumped up to the higher tier of quality matches.**
           
           <strong>- Michael</strong>
@@ -420,22 +373,14 @@ content_blocks:
       text_color:
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/b1eL3wLmuYg?si=_U93adCAEa_8Evl5
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"
-          data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2IxZUwzd0xtdVlnP3NpPV9VOTNhZENBRWFfOEV2bDUiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe
-          src="https://www.youtube.com/embed/b1eL3wLmuYg?si=_U93adCAEa_8Evl5"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-
-          &nbsp;
-
-
           > **At the moment of doing this interview, I haven't done much effort
           outside of posting a couple of the photos...and I'm at the point where
           I would have too many dates a week...I've had to reschedule dates
@@ -469,29 +414,23 @@ content_blocks:
       text_color: '#ffffff'
       top_spacing:
       bottom_spacing:
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/g_hTlhWOhlQ?si=mKye9Bi-MXFWUBBQ
+    top_spacing: 50
   - _bookshop_name: markdown-block
     pre_title:
     title:
     paragraphs:
       - text: >-
-          <div class="cms-embed"
-          data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2dfaFRsaFdPaGxRP3NpPW1LeWU5QmktTVhGV1VCQlEiIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe
-          src="https://www.youtube.com/embed/g_hTlhWOhlQ?si=mKye9Bi-MXFWUBBQ"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+          **He met his girlfriend online from our
+          photos.**
 
 
-
-          <p class="align-center"><strong>He met his girlfriend online from our
-          photos.</strong></p>
-
-
-          <p class="align-center"><strong>We went out to Phoenix to shoot some
-          couple's photos for Ben and his girlfriend.</strong></p>
+          **We went out to Phoenix to shoot some
+          couple's photos for Ben and his girlfriend.**
 
 
-          <div><img src="/images/work/ben-grid.webp" /></div>
+          <img src="/images/work/ben-grid.webp" />
         inline_image:
         flipped: false
   - _bookshop_name: hero
@@ -516,27 +455,14 @@ content_blocks:
       text_color:
       top_spacing:
       bottom_spacing:
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    paragraphs:
-      - text: >-
-          ### Before + After
-
-
-          ![](/images/screenshot-2024-03-25-at-12-21-52-pm.png)
-
-
-          <div class="cms-embed"><iframe width="800" height="450"
-          src="https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-
-          &nbsp;
-        inline_image:
-        flipped: false
+  - _bookshop_name: image-block
+    top_spacing: 50
+    title: Before + After
+    image:
+      src: /images/screenshot-2024-03-25-at-12-21-52-pm.png
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD
+    bottom_spacing: 50
   - _bookshop_name: hero
     background_color:
     background_image: /images/will-hero.jpg
@@ -573,19 +499,11 @@ content_blocks:
 
 
           ![](/images/will-collage.jpg)
-
-
-          <div class="cms-embed"><iframe
-          src="https://www.youtube.com/embed/_EDjopr725E?si=VApAHpFuJzBn8dYq
-          title=" youtube="" video="" player"="" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture; web-share"
-          allowfullscreen=""></iframe></div>
-
-
-          &nbsp;
         inline_image:
         flipped: false
+  - _bookshop_name: video-embed
+    video_link: https://www.youtube.com/embed/_EDjopr725E?si=VApAHpFuJzBn8dYq
+    bottom_spacing: 50
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:

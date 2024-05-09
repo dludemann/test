@@ -1,6 +1,6 @@
 <template>
   <section
-    class="container mx-auto max-w-[1040px]"
+    class="container mx-auto max-w-[800px]"
     :style="{
       'padding-top': block.top_spacing + 'px',
       'padding-bottom': block.bottom_spacing + 'px',
