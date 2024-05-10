@@ -28,6 +28,18 @@ if (route.query.source) {
   router.replace({ query: null });
 }
 
+onMounted(() => {
+  let plausible = document.createElement("script");
+  plausible.setAttribute("src", "https://plausible.io/js/script.js");
+  plausible.setAttribute("defer", "defer");
+  plausible.setAttribute("data-domain", "thematchartist.com");
+  document.head.appendChild(plausible);
+  let exec = document.createElement("script");
+  exec.innerHTML =
+    "window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }";
+  document.head.appendChild(exec);
+});
+
 useHead(() => {
   const canonical = `${config.public.baseUrl}${route.path}`;
   return {
