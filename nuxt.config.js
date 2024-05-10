@@ -59,6 +59,12 @@ export default defineNuxtConfig({
       anchorLinks: false,
     },
   },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      failOnError: false, 
+    },
+  },
   generate: {
     routes: [
       "/tinder/are-tinder-dates-just-for-hookups",

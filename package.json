@@ -15,7 +15,7 @@
     "@nuxtjs/tailwindcss": "^6.9.4",
     "@types/node": "^18.15.12",
     "luxon": "^3.3.0",
-    "nuxt": "^3.5.2",
+    "nuxt": "^3.11.2",
     "sass": "^1.63.2"
   },
   "dependencies": {
