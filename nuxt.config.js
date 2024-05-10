@@ -45,6 +45,11 @@ export default defineNuxtConfig({
     "nuxt-swiper",
     "@nuxtjs/robots"
   ],
+  nitro:{
+    prerender: {
+      failOnError: false
+    }
+  },
   components: {
     global: true,
     dirs: ["~/components"],
