@@ -502,77 +502,95 @@ content_blocks:
           src: /images/work/ben-grid.webp
           alt:
           title:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/jeff-hero.jpg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text: From a divorce to unlimited dates.
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Jeff's Story
-      text_color:
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: image-block
-    top_spacing: 50
-    title: Before + After
-    image:
-      src: /images/screenshot-2024-03-25-at-12-21-52-pm.png
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD
-    bottom_spacing: 50
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/will-hero.jpg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Will's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing: 30
-      bottom_spacing: 30
-    post_title:
-      text: >-
-        From giving up after working with a match maker, to engaged to be
-        married.
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing: 30
-  - _bookshop_name: markdown-block
-    pre_title:
-    title: Will's Engagement Session
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          Will reached back out to us to say he got engaged and needed some
-          engagement pics. We flew out to Charlotte and shot some, and will be
-          shooting their upcoming wedding.
-
-
-          ![](/images/will-collage.jpg)
-        inline_image:
-        flipped: false
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/_EDjopr725E?si=VApAHpFuJzBn8dYq
-    bottom_spacing: 50
+  - _bookshop_name: case-study
+    label: Jeff
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/jeff-hero.jpg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Jeff's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: From a divorce to unlimited dates.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: Before + After
+        image:
+          src: /images/screenshot-2024-03-25-at-12-21-52-pm.png
+          alt:
+          title:
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/UF1CwSPk4vg?si=JmDjUx9YHwOETtWD
+        top_spacing: 50
+        bottom_spacing: 50
+  - _bookshop_name: case-study
+    label: Will
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/will-hero.jpg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Will's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: >-
+            From giving up after working with a match maker, to engaged to be
+            married.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: markdown-block
+        pre_title:
+        title: Will's Engagement Session
+        heading_style: h2
+        paragraphs:
+          - text: >-
+              Will reached back out to us to say he got engaged and needed some
+              engagement pics. We flew out to Charlotte and shot some, and will
+              be shooting their upcoming wedding.
+            inline_image:
+            flipped: false
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/will-collage.jpg
+          alt:
+          title:
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/_EDjopr725E?si=VApAHpFuJzBn8dYq
+        top_spacing: 50
+        bottom_spacing: 50
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
