@@ -94,53 +94,121 @@ content_blocks:
           text_color: '#ffffff'
           top_spacing:
           bottom_spacing: 30
-  - _bookshop_name: markdown-block
-    pre_title:
-    title: Karthik's Engagement Session
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          Karthik reached out with a plan. He wanted to get some incredible
-          photos of him and his girlfriend of just over two years—but sneak in a
-          proposal at the end. So my wife Allie and I (Nick) flew out to San
-          Francisco to capture the moment. We were a bit nervous with how much
-          it was raining, but it turned out to be the most perfect day to fit
-          our moody and more intense photo style. And she said yes!
-
-
-          ![](/images/work/karthik-grid.webp)
-
-
-          ![](/images/reviews/text-36.webp)
-
-
-          ![](/images/reviews/text-37.webp)
-        inline_image:
-        flipped: false
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/rohit-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Rohit's Story
-      text_color: white
-      heading_style: h2
-      top_spacing: 30
-      bottom_spacing: 30
-    post_title:
-      text: >-
-        From separated during Covid, to women chasing him and as many dates as
-        he wants.
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing: 30
+      - _bookshop_name: markdown-block
+        pre_title:
+        title: Karthik's Engagement Session
+        heading_style: h2
+        paragraphs:
+          - text: >-
+              Karthik reached out with a plan. He wanted to get some incredible
+              photos of him and his girlfriend of just over two years—but sneak
+              in a proposal at the end. So my wife Allie and I (Nick) flew out
+              to San Francisco to capture the moment. We were a bit nervous with
+              how much it was raining, but it turned out to be the most perfect
+              day to fit our moody and more intense photo style. And she said
+              yes!
+            inline_image:
+            flipped: false
+      - _bookshop_name: image-block
+        top_spacing: 0
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/work/karthik-grid.webp
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing: 0
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/reviews/text-36.webp
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/reviews/text-37.webp
+          alt:
+          title:
+  - _bookshop_name: case-study
+    label: Rohit
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/rohit-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Rohit's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: >-
+            From separated during Covid, to women chasing him and as many dates
+            as he wants.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
+        top_spacing: 50
+        bottom_spacing:
+      - _bookshop_name: markdown-block
+        pre_title:
+        title: Karthik's Engagement Session
+        heading_style: h2
+        paragraphs:
+          - text: >-
+              Karthik reached out with a plan. He wanted to get some incredible
+              photos of him and his girlfriend of just over two years—but sneak
+              in a proposal at the end. So my wife Allie and I (Nick) flew out
+              to San Francisco to capture the moment. We were a bit nervous with
+              how much it was raining, but it turned out to be the most perfect
+              day to fit our moody and more intense photo style. And she said
+              yes!
+            inline_image:
+            flipped: false
+      - _bookshop_name: image-block
+        top_spacing: 0
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/work/karthik-grid.webp
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing: 0
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/reviews/text-36.webp
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/reviews/text-37.webp
+          alt:
+          title:
   - _bookshop_name: video-embed
     video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
     top_spacing: 50
