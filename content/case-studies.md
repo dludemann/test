@@ -69,28 +69,31 @@ content_blocks:
       text_color:
       top_spacing:
       bottom_spacing:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/karthik-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Karthik's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing: 30
-      bottom_spacing: 30
-    post_title:
-      text: From dating during Covid to engaged from our photos
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing: 30
+  - _bookshop_name: case-study
+    label: Karthik
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/karthik-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Karthik's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: From dating during Covid to engaged from our photos
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
   - _bookshop_name: markdown-block
     pre_title:
     title: Karthik's Engagement Session
@@ -544,29 +547,4 @@ content_blocks:
         image:
           src: /images/social/news-mentions/morning-brew.webp
           alt: Morning Brew
-  - _bookshop_name: case-study
-    label: Karthik
-    case_study_elements:
-      - _bookshop_name: hero
-        background_color:
-        background_image: /images/backgrounds/karthik-banner.jpeg
-        background_filters:
-          brightness: 1
-          blur: 0
-        pre_title:
-          text:
-          text_color:
-          top_spacing:
-          bottom_spacing:
-        title:
-          text: Karthik's Story
-          text_color: '#ffffff'
-          heading_style: h1
-          top_spacing:
-          bottom_spacing:
-        post_title:
-          text:
-          text_color:
-          top_spacing:
-          bottom_spacing:
 ---
