@@ -155,7 +155,7 @@ content_blocks:
         inline_image:
         flipped: false
   - _bookshop_name: image-block
-    title: "Rohit: Behind the Scenes"
+    title: 'Rohit: Behind the Scenes'
     image:
       src: /images/reviews/rohit-reviews-grouped.jpeg
   - _bookshop_name: image-block
@@ -290,20 +290,24 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
-          > **It was pretty smooth...it was actually kinda fun...it was 'lets go to a brewery and grab an actual beer.' It kinda felt like hanging out with a friend, but a friend that's got your back and got your best interest in mind. They are as interested in making you look great as you are interested in looking great. I got really good results once I started.**
+          > **It was pretty smooth...it was actually kinda fun...it was 'lets go
+          to a brewery and grab an actual beer.' It kinda felt like hanging out
+          with a friend, but a friend that's got your back and got your best
+          interest in mind. They are as interested in making you look great as
+          you are interested in looking great. I got really good results once I
+          started.**
 
-          
+
           <strong>- Brent</strong>
-          
+
 
           &nbsp;
 
 
           > **An overall skyrocketing experience for my online dating.**
-          
+
 
           <strong>- Brent</strong>
-          
         inline_image:
         flipped: false
   - _bookshop_name: image-block
@@ -346,8 +350,12 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
-          > **Fantastic process. Highly recommend it. It's been a few weeks, and no joke I'm averaging 5-6 likes per day on hinge. Previously, I think I'm a pretty good looking dude and was averaging 1-2 likes per day, but the photos didn't show my lifestyle. I've been bumped up to the higher tier of quality matches.**
-          
+          > **Fantastic process. Highly recommend it. It's been a few weeks, and
+          no joke I'm averaging 5-6 likes per day on hinge. Previously, I think
+          I'm a pretty good looking dude and was averaging 1-2 likes per day,
+          but the photos didn't show my lifestyle. I've been bumped up to the
+          higher tier of quality matches.**
+
           <strong>- Michael</strong>
         inline_image:
         flipped: false
@@ -422,12 +430,11 @@ content_blocks:
     title:
     paragraphs:
       - text: >-
-          **He met his girlfriend online from our
-          photos.**
+          **He met his girlfriend online from our photos.**
 
 
-          **We went out to Phoenix to shoot some
-          couple's photos for Ben and his girlfriend.**
+          **We went out to Phoenix to shoot some couple's photos for Ben and his
+          girlfriend.**
 
 
           <img src="/images/work/ben-grid.webp" />
@@ -537,4 +544,29 @@ content_blocks:
         image:
           src: /images/social/news-mentions/morning-brew.webp
           alt: Morning Brew
+  - _bookshop_name: case-study
+    label: Karthik
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/karthik-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Karthik's Story
+          text_color: '#ffffff'
+          heading_style: h1
+          top_spacing:
+          bottom_spacing:
+        post_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
 ---
