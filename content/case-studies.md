@@ -257,53 +257,60 @@ content_blocks:
           src: /images/work/ryan-before-after.jpeg
           alt:
           title:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/danny-banner.jpg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Danny's Story
-      text_color:
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: From divorced to feeling confident in his image.
-      text_color:
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          > **There was a significant difference when I got photos taken by The
+  - _bookshop_name: case-study
+    label: Danny
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/danny-banner.jpg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Danny's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: From divorced to feeling confident in his image.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/pbnwwXSQH5w?si=FPne-nubnZlEqXtd
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          There was a significant difference when I got photos taken by The
           Match Artist. My photographer and I shot the shit and it felt like we
-          were old friends, but we had just met that day.**
-
-
-          <strong>- Danny</strong>
-        inline_image:
-        flipped: false
-  - _bookshop_name: image-block
-    title: Some more from Danny
-    image:
-      src: /images/reviews/danny-reviews-grouped.jpeg
-  - _bookshop_name: image-block
-    title: Before + After
-    image:
-      src: /images/work/danny-before-after.jpeg
+          were old friends, but we had just met that day.
+        author: Danny
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: Some more from Danny
+        image:
+          src: /images/reviews/danny-reviews-grouped.jpeg
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: Before + After
+        image:
+          src: /images/work/danny-before-after.jpeg
+          alt:
+          title:
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/brent-banner.jpeg
