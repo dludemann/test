@@ -166,80 +166,32 @@ content_blocks:
       - _bookshop_name: video-embed
         video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
         top_spacing: 50
-        bottom_spacing:
-      - _bookshop_name: markdown-block
-        pre_title:
-        title: Karthik's Engagement Session
-        heading_style: h2
-        paragraphs:
-          - text: >-
-              Karthik reached out with a plan. He wanted to get some incredible
-              photos of him and his girlfriend of just over two years—but sneak
-              in a proposal at the end. So my wife Allie and I (Nick) flew out
-              to San Francisco to capture the moment. We were a bit nervous with
-              how much it was raining, but it turned out to be the most perfect
-              day to fit our moody and more intense photo style. And she said
-              yes!
-            inline_image:
-            flipped: false
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          I talked to you initially a year ago, and I don't know why I didn't
+          hire you right then. It was like a night and day difference....by the
+          end of January I was dating non-stop.
+        author: Rohit
       - _bookshop_name: image-block
-        top_spacing: 0
+        top_spacing:
         bottom_spacing:
         pre_title:
-        title:
+        title: 'Rohit: Behind the Scenes'
         image:
-          src: /images/work/karthik-grid.webp
-          alt:
-          title:
-      - _bookshop_name: image-block
-        top_spacing: 0
-        bottom_spacing:
-        pre_title:
-        title:
-        image:
-          src: /images/reviews/text-36.webp
+          src: /images/reviews/rohit-reviews-grouped.jpeg
           alt:
           title:
       - _bookshop_name: image-block
         top_spacing:
         bottom_spacing:
         pre_title:
-        title:
+        title: Before + After
         image:
-          src: /images/reviews/text-37.webp
+          src: /images/work/rohit-before-after.jpeg
           alt:
           title:
-      - _bookshop_name: quote
-        quote: >-
-          I talked to you initially a year ago, and I don't know why I didn't
-          hire you right then. It was like a night and day difference....by the
-          end of January I was dating non-stop.
-        author: Rohit
-        style: "Case study"
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    paragraphs:
-      - text: >-
-          > **I talked to you initially a year ago, and I don't know why I
-          didn't hire you right then. It was like a night and day
-          difference....by the end of January I was dating non-stop.**
-
-
-          <strong>- Rohit</strong>
-        inline_image:
-        flipped: false
-  - _bookshop_name: image-block
-    title: 'Rohit: Behind the Scenes'
-    image:
-      src: /images/reviews/rohit-reviews-grouped.jpeg
-  - _bookshop_name: image-block
-    title: Before + After
-    image:
-      src: /images/work/rohit-before-after.jpeg
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/anwar-banner.jpeg
@@ -268,6 +220,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           > **When I first started implementing the photos, it was pretty much
@@ -320,6 +273,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           > **There was a significant difference when I got photos taken by The
@@ -366,6 +320,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           > **It was pretty smooth...it was actually kinda fun...it was 'lets go
@@ -426,6 +381,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           > **Fantastic process. Highly recommend it. It's been a few weeks, and
@@ -465,6 +421,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           > **At the moment of doing this interview, I haven't done much effort
@@ -506,6 +463,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title:
+    heading_style: h2
     paragraphs:
       - text: >-
           **He met his girlfriend online from our photos.**
