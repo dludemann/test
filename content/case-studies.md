@@ -374,88 +374,83 @@ content_blocks:
           src: /images/work/brent-before-after.jpeg
           alt:
           title:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/michael-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Michael's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: >-
-        Michael went from 1-2 (if that) matches per day, to 5-6 likes per day on
-        Hinge.
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/0lwNfJDm0s4?si=vMs9YlebjV-Rn7bM
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          > **Fantastic process. Highly recommend it. It's been a few weeks, and
-          no joke I'm averaging 5-6 likes per day on hinge. Previously, I think
-          I'm a pretty good looking dude and was averaging 1-2 likes per day,
-          but the photos didn't show my lifestyle. I've been bumped up to the
-          higher tier of quality matches.**
-
-          <strong>- Michael</strong>
-        inline_image:
-        flipped: false
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/jake-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Jake's Story
-      text_color:
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: Jake went from a break up to more dates than he has time for.
-      text_color:
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/b1eL3wLmuYg?si=_U93adCAEa_8Evl5
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          > **At the moment of doing this interview, I haven't done much effort
+  - _bookshop_name: case-study
+    label: Michael
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/michael-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Michael's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: >-
+            Michael went from 1-2 (if that) matches per day, to 5-6 likes per
+            day on Hinge.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/0lwNfJDm0s4?si=vMs9YlebjV-Rn7bM
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          Fantastic process. Highly recommend it. It's been a few weeks, and no
+          joke I'm averaging 5-6 likes per day on hinge. Previously, I think I'm
+          a pretty good looking dude and was averaging 1-2 likes per day, but
+          the photos didn't show my lifestyle. I've been bumped up to the higher
+          tier of quality matches.
+        author: Michael
+  - _bookshop_name: case-study
+    label: Jake
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/jake-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Jake's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: Jake went from a break up to more dates than he has time for.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/b1eL3wLmuYg?si=_U93adCAEa_8Evl5
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          At the moment of doing this interview, I haven't done much effort
           outside of posting a couple of the photos...and I'm at the point where
           I would have too many dates a week...I've had to reschedule dates
-          because I was feeling overwhelmed by the attention.**
-
-
-          <strong>- Jake</strong>
-        inline_image:
-        flipped: false
+          because I was feeling overwhelmed by the attention.
+        author: Jake
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/ben-banner.webp
