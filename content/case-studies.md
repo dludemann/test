@@ -451,49 +451,57 @@ content_blocks:
           I would have too many dates a week...I've had to reschedule dates
           because I was feeling overwhelmed by the attention.
         author: Jake
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/ben-banner.webp
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Ben's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: |+
-        From a few matches a week to 40+ per week and a girlfriend.
-
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/g_hTlhWOhlQ?si=mKye9Bi-MXFWUBBQ
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          **He met his girlfriend online from our photos.**
-
-
-          **We went out to Phoenix to shoot some couple's photos for Ben and his
-          girlfriend.**
+  - _bookshop_name: case-study
+    label: Ben
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/ben-banner.webp
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Ben's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: From a few matches a week to 40+ per week and a girlfriend.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/g_hTlhWOhlQ?si=mKye9Bi-MXFWUBBQ
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: markdown-block
+        pre_title:
+        title:
+        heading_style: h2
+        paragraphs:
+          - text: >-
+              **He met his girlfriend online from our photos.**
 
 
-          <img src="/images/work/ben-grid.webp" />
-        inline_image:
-        flipped: false
+              **We went out to Phoenix to shoot some couple's photos for Ben and
+              his girlfriend.**
+            inline_image:
+            flipped: false
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/work/ben-grid.webp
+          alt:
+          title:
   - _bookshop_name: hero
     background_color:
     background_image: /images/jeff-hero.jpg
