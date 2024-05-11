@@ -328,6 +328,13 @@ _inputs:
       preview:
         text:
           - key: city
+  heading_style:
+    type: select
+    comment: Used to control the headings sematic value, leave this as h1 if this is the pages main heading.
+    options:
+      values:
+        - h1
+        - h2
 
 _editables:
   content:
