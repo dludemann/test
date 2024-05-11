@@ -311,65 +311,69 @@ content_blocks:
           src: /images/work/danny-before-after.jpeg
           alt:
           title:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/brent-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Brent's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: Went from being good in person to using those skills + online dating.
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          > **It was pretty smooth...it was actually kinda fun...it was 'lets go
-          to a brewery and grab an actual beer.' It kinda felt like hanging out
+  - _bookshop_name: case-study
+    label: Brent
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/brent-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Brent's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: >-
+            Went from being good in person to using those skills + online
+            dating.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/kraNsFGuC44?si=lX6oA0r0t0Pv-dWp
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          It was pretty smooth...it was actually kinda fun...it was 'lets go to
+          a brewery and grab an actual beer.' It kinda felt like hanging out
           with a friend, but a friend that's got your back and got your best
           interest in mind. They are as interested in making you look great as
           you are interested in looking great. I got really good results once I
-          started.**
-
-
-          <strong>- Brent</strong>
-
-
-          &nbsp;
-
-
-          > **An overall skyrocketing experience for my online dating.**
-
-
-          <strong>- Brent</strong>
-        inline_image:
-        flipped: false
-  - _bookshop_name: image-block
-    title:
-    image:
-      src: /images/reviews/text-39.png
-  - _bookshop_name: image-block
-    title: Before + After
-    image:
-      src: /images/work/brent-before-after.jpeg
+          started.
+        author: Brent
+      - _bookshop_name: quote
+        style: Case study
+        quote: An overall skyrocketing experience for my online dating.
+        author: Brent
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title:
+        image:
+          src: /images/reviews/text-39.png
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: Before + After
+        image:
+          src: /images/work/brent-before-after.jpeg
+          alt:
+          title:
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/michael-banner.jpeg
