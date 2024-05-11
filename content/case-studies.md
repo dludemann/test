@@ -192,59 +192,71 @@ content_blocks:
           src: /images/work/rohit-before-after.jpeg
           alt:
           title:
-  - _bookshop_name: hero
-    background_color:
-    background_image: /images/backgrounds/anwar-banner.jpeg
-    background_filters:
-      brightness: 1
-      blur: 0
-    pre_title:
-      text:
-      text_color:
-      top_spacing:
-      bottom_spacing:
-    title:
-      text: Ryan's Story
-      text_color: '#ffffff'
-      heading_style: h2
-      top_spacing:
-      bottom_spacing:
-    post_title:
-      text: From some dates here and there to as many dates as he wants.
-      text_color: '#ffffff'
-      top_spacing:
-      bottom_spacing:
-  - _bookshop_name: video-embed
-    video_link: https://www.youtube.com/embed/cfZx5IGkTUY?si=DWwqn7ojVplUqvZT
-    top_spacing: 50
-  - _bookshop_name: markdown-block
-    pre_title:
-    title:
-    heading_style: h2
-    paragraphs:
-      - text: >-
-          > **When I first started implementing the photos, it was pretty much
+  - _bookshop_name: case-study
+    label: Ryan
+    case_study_elements:
+      - _bookshop_name: hero
+        background_color:
+        background_image: /images/backgrounds/anwar-banner.jpeg
+        background_filters:
+          brightness: 1
+          blur: 0
+        pre_title:
+          text:
+          text_color:
+          top_spacing:
+          bottom_spacing:
+        title:
+          text: Ryan's Story
+          text_color: '#ffffff'
+          heading_style: h2
+          top_spacing: 30
+          bottom_spacing: 30
+        post_title:
+          text: From some dates here and there to as many dates as he wants.
+          text_color: '#ffffff'
+          top_spacing:
+          bottom_spacing: 30
+      - _bookshop_name: video-embed
+        video_link: https://www.youtube.com/embed/cfZx5IGkTUY?si=DWwqn7ojVplUqvZT
+        top_spacing: 50
+        bottom_spacing: 50
+      - _bookshop_name: quote
+        style: Case study
+        quote: >-
+          When I first started implementing the photos, it was pretty much
           instant results. Nowadays I can pretty much get dates when I want
           them.... like how many dates do I want to go on this week?..... They
           coach you on how to have the best looks for your photos. This is
           something I had no idea about. Now when I'm taking pictures with
-          friends, I know how to bring out the most attractive looks.**
-
-
-          <strong>- Ryan</strong>
-
-
-          Ryan met his girlfriend on Bumble using our photos.
-        inline_image:
-        flipped: false
-  - _bookshop_name: image-block
-    title: 1.5 year relationship
-    image:
-      src: /images/reviews/text-38.jpeg
-  - _bookshop_name: image-block
-    title: Before + After
-    image:
-      src: /images/work/ryan-before-after.jpeg
+          friends, I know how to bring out the most attractive looks.
+        author: Ryan
+      - _bookshop_name: markdown-block
+        pre_title:
+        title:
+        heading_style: h2
+        paragraphs:
+          - text: Ryan met his girlfriend on Bumble using our photos.
+            inline_image:
+            flipped: false
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: 1.5 year relationship
+        image:
+          src: /images/reviews/text-38.jpeg
+          alt:
+          title:
+      - _bookshop_name: image-block
+        top_spacing:
+        bottom_spacing:
+        pre_title:
+        title: Before + After
+        image:
+          src: /images/work/ryan-before-after.jpeg
+          alt:
+          title:
   - _bookshop_name: hero
     background_color:
     background_image: /images/backgrounds/danny-banner.jpg
