@@ -215,6 +215,7 @@ content_blocks:
           hire you right then. It was like a night and day difference....by the
           end of January I was dating non-stop.
         author: Rohit
+        style: "Case study"
   - _bookshop_name: video-embed
     video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
     top_spacing: 50
