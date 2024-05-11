@@ -209,6 +209,12 @@ content_blocks:
           src: /images/reviews/text-37.webp
           alt:
           title:
+      - _bookshop_name: quote
+        quote: >-
+          I talked to you initially a year ago, and I don't know why I didn't
+          hire you right then. It was like a night and day difference....by the
+          end of January I was dating non-stop.
+        author: Rohit
   - _bookshop_name: video-embed
     video_link: https://www.youtube.com/embed/Rd8QxTPfaA4?si=Vkfmvchgu4O_GmEI
     top_spacing: 50
