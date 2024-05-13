@@ -27,8 +27,8 @@ const mainSlug = ["/", collection].join("");
 const silo = contentQuery;
 
 const menuData = menuGroupings.map((menuGrouping) => {
-  console.log("mebu grouping", menuGrouping);
-  console.log("silo", silo);
+  //("mebu grouping", menuGrouping);
+  //console.log("silo", silo);
 
   return {
     title: menuGrouping.heading,
@@ -56,7 +56,7 @@ const menuData = menuGroupings.map((menuGrouping) => {
   };
 });
 
-console.log("menuData", menuData);
+//console.log("menuData", menuData);
 const initData = () => {
   // Find index of the level one title
   const levelOneIndex = menuGroupings.findIndex(

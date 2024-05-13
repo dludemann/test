@@ -11,6 +11,7 @@ spec:
 blueprint:
   pre_title:
   title:
+  heading_style:
   paragraphs:
     - text:
       inline_image:
