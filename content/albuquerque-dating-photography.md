@@ -1,5 +1,5 @@
 ---
-title: Albuquerque Dating Photography Experts
+title: Albuquerque Dating Photography
 seo:
   page_description: >-
     Online Dating Photos in Albuquerque, New Mexico. Before getting my pics
