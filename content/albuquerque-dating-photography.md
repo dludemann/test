@@ -1,5 +1,5 @@
 ---
-title: Albuquerque Dating Photography
+title: Albuquerque Dating Photography Experts
 seo:
   page_description: >-
     Online Dating Photos in Albuquerque, New Mexico. Before getting my pics
@@ -95,7 +95,7 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: "#contact"
+      path: '#contact'
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
     background_color: '#FFFFFF'
@@ -118,7 +118,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: "#contact"
+      path: '#contact'
       text: Inquire Now
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
