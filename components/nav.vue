@@ -21,10 +21,11 @@ const toggleMobileCategory = (category: string) => {
 </script>
 
 <template>
-  <header class="h-[60px] bg-black relative">
+  <header class="h-[60px] bg-black flex"
+        :class="mobileMenuOpen ? 'fixed top-0 left-0 right-0 z-50 h-[60px] bg-black' : 'relative' "
+  >
     <div
-      :class="mobileMenuOpen ? 'fixed top-0 z-50 h-[60px] bg-black' : 'h-full '"
-      class="mx-auto container flex justify-between items-center px-4 font-display"
+      class="mx-auto container flex justify-between items-center px-4 font-display left-0 right-0"
     >
       <!-- LOGO -->
       <NuxtLink to="/" aria-label="Match Artist Logo Link">
@@ -160,6 +161,9 @@ const toggleMobileCategory = (category: string) => {
       </nav>
     </div>
   </header>
+  <div class="spacer w-full"
+          :class="mobileMenuOpen ? 'h-[60px]' : 'h-0'"
+  ></div>
 </template>
 
 <style scoped>

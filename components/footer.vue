@@ -30,7 +30,7 @@ const nav_links =
   <footer class="bg-secondary-900">
     <!-- TOP SECTION -->
     <section
-      class="container mx-auto flex flex-col lg:flex-row py-16 gap-8 px-8"
+      class="container mx-auto flex flex-col xl:flex-row py-16 gap-8 px-8"
     >
       <!-- LOGO SECTION -->
       <div
