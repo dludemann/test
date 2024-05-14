@@ -1,5 +1,5 @@
 ---
-title: "How to Change Age Preference on Bumble"
+name: "How to Change Age Preference on Bumble"
 menu_grouping: Bumble Settings
 author: Shane White
 seo:

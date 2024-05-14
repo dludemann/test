@@ -1,5 +1,5 @@
 ---
-title: Ottowa Dating Photography
+name: Ottowa Dating Photography
 seo:
   title: Ottowa Dating Photography
   page_description: Online Dating Photos in Ottowa, Ontario. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

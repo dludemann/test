@@ -1,5 +1,5 @@
 ---
-title: Anchorage Dating Photography
+name: Anchorage Dating Photography
 seo:
   title: Anchorage Dating Photography
   page_description: >-

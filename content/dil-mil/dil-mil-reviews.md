@@ -1,5 +1,5 @@
 ---
-title: 'Dil Mil Reviews: A Comprehensive Guide'
+name: 'Dil Mil Reviews: A Comprehensive Guide'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:

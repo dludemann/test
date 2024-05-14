@@ -1,5 +1,5 @@
 ---
-title: 'What is The Male to Female Ratio on Hinge?'
+name: 'What is The Male to Female Ratio on Hinge?'
 menu_grouping: Hinge Statistics
 author: Shane White
 seo:

@@ -2,7 +2,7 @@
 created: '2021-08-18T18:19:54.106036Z'
 updated: '2022-06-19T20:46:07.888339Z'
 published: '2020-09-11T18:17:00Z'
-title: The Best First Date Ideas
+name: The Best First Date Ideas
 seo:
   title: The Best First Date Ideas
   page_description: >-

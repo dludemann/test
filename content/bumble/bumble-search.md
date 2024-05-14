@@ -1,5 +1,5 @@
 ---
-title: 'Bumble Search: Learn How to Use It'
+name: 'Bumble Search: Learn How to Use It'
 menu_grouping: Bumble Basics
 author: Shane White
 seo:

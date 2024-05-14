@@ -1,5 +1,5 @@
 ---
-title: "Best Hinge Prompts for Men Women in 2023"
+name: "Best Hinge Prompts for Men Women in 2023"
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:

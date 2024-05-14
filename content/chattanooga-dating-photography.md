@@ -1,5 +1,5 @@
 ---
-title: Chattanooga Dating Photography
+name: Chattanooga Dating Photography
 seo:
   title: Chattanooga Dating Photography
   page_description: Online Dating Photos in Chattanooga, Tennessee. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

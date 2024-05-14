@@ -1,5 +1,5 @@
 ---
-title: Blog
+name: Blog
 pagination:
   size: 3
 seo:

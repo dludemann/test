@@ -1,5 +1,5 @@
 ---
-title: Action
+name: Action
 seo:
   title: Action
   page_description: >-

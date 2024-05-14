@@ -1,5 +1,5 @@
 ---
-title: 'Ghosting on Dil Mil: Learn How It Happens'
+name: 'Ghosting on Dil Mil: Learn How It Happens'
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:

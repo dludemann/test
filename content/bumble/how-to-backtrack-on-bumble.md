@@ -1,5 +1,5 @@
 ---
-title: 'How to Go Back on Bumble: All You Need to Know'
+name: 'How to Go Back on Bumble: All You Need to Know'
 menu_grouping: Bumble Basics
 author: Shane White
 seo:

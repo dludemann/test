@@ -1,5 +1,5 @@
 ---
-title: 'How Does Dil Mil Work? 2023 Expert Review'
+name: 'How Does Dil Mil Work? 2023 Expert Review'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:

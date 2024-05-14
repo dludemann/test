@@ -1,5 +1,5 @@
 ---
-title: Online Dating Photographer
+name: Online Dating Photographer
 seo:
   title: Online Dating Photographer
   page_description: >-

@@ -1,5 +1,5 @@
 ---
-title: Dogs
+name: Dogs
 seo:
   title: Dogs
   page_description: >-

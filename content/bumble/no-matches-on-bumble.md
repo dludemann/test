@@ -1,5 +1,5 @@
 ---
-title: "How to Avoid Getting No Matches on Bumble"
+name: "How to Avoid Getting No Matches on Bumble"
 menu_grouping: Uses for Bumble
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: "Bumble Premium: Unlock Exclusive Features"
+name: "Bumble Premium: Unlock Exclusive Features"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:

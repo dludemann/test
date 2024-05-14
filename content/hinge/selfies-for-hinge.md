@@ -1,5 +1,5 @@
 ---
-title: 'Are Selfies Okay For Hinge? Get The Truth'
+name: 'Are Selfies Okay For Hinge? Get The Truth'
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: "How to Get More Matches on Tinder: A Guide"
+name: "How to Get More Matches on Tinder: A Guide"
 menu_grouping: Tinder Profile and Photos
 author: Shane White
 seo:

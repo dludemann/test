@@ -1,5 +1,5 @@
 ---
-title: "What Does Bumble Look Like for Guys?"
+name: "What Does Bumble Look Like for Guys?"
 menu_grouping: Bumble Settings
 author: Shane White
 seo:

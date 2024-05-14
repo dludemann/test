@@ -1,5 +1,5 @@
 ---
-title: "Ghosting on Bumble: Learn How It Happens"
+name: "Ghosting on Bumble: Learn How It Happens"
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: 'How Many Likes On Hinge? Learn The Facts'
+name: 'How Many Likes On Hinge? Learn The Facts'
 menu_grouping: Hinge Statistics
 author: Shane White
 seo:

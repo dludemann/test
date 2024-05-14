@@ -1,5 +1,5 @@
 ---
-title: Is There a Way to Reset Matches on Tinder?
+name: Is There a Way to Reset Matches on Tinder?
 menu_grouping: Tinder Basics
 author: Shane White
 seo:

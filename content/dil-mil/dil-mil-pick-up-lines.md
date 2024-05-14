@@ -1,5 +1,5 @@
 ---
-title: 'Dil Mil Pick-up Lines: All You Need to Know'
+name: 'Dil Mil Pick-up Lines: All You Need to Know'
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:

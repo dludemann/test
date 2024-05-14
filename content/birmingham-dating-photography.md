@@ -1,5 +1,5 @@
 ---
-title: Birmingham Dating Photography
+name: Birmingham Dating Photography
 seo:
   title: Birmingham Dating Photography
   page_description: Online Dating Photos in Birmingham, Alabama. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

@@ -1,5 +1,5 @@
 ---
-title: 'Effective Dil Mil Conversation Starters'
+name: 'Effective Dil Mil Conversation Starters'
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:

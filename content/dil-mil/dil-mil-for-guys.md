@@ -1,5 +1,5 @@
 ---
-title: What Does Dil Mil Look Like for Guys?
+name: What Does Dil Mil Look Like for Guys?
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:

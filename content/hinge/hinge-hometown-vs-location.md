@@ -1,5 +1,5 @@
 ---
-title: "Understanding Hinge: Insights into the App's Location Features"
+name: "Understanding Hinge: Insights into the App's Location Features"
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

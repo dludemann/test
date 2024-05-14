@@ -1,5 +1,5 @@
 ---
-title: Before + After
+name: Before + After
 seo:
   title: Before + After
   page_description: >-

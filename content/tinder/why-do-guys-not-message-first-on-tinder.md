@@ -1,5 +1,5 @@
 ---
-title: Why Do Guys Not Message First on Tinder?
+name: Why Do Guys Not Message First on Tinder?
 menu_grouping: Tinder Messaging and Communication
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: New York City Dating Photography
+name: New York City Dating Photography
 seo:
   title: New York City Dating Photography
   page_description: Online Dating Photos in New York City, New York. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

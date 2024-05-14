@@ -2,7 +2,7 @@
 created: '2023-02-11T02:51:09.388166Z'
 updated: '2023-05-30T21:06:37.463653Z'
 published: '2023-02-10T17:53:00Z'
-title: Writing Tinder and Bumble Bios with Chat GPT.
+name: Writing Tinder and Bumble Bios with Chat GPT.
 seo:
   title: Writing Tinder and Bumble Bios with Chat GPT.
   page_description: >-

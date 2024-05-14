@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Hinge Bans: Duration, Causes, and Solutions'
+name: 'Understanding Hinge Bans: Duration, Causes, and Solutions'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

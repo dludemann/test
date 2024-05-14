@@ -1,5 +1,5 @@
 ---
-title: Headshots
+name: Headshots
 seo:
   title: Headshots
   page_description: >-

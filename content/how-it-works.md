@@ -1,5 +1,5 @@
 ---
-title: How It Works
+name: How It Works
 seo:
   title: How It Works
   page_description: >-

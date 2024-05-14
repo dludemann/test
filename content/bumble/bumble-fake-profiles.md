@@ -1,5 +1,5 @@
 ---
-title: 'Bumble Fake Profiles Guide (2023)'
+name: 'Bumble Fake Profiles Guide (2023)'
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: 'How Does Hinge Choose Who To Show You?'
+name: 'How Does Hinge Choose Who To Show You?'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: "How Does Hinge Work? 2023 Expert's Guide"
+name: "How Does Hinge Work? 2023 Expert's Guide"
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: Press Inquires
+name: Press Inquires
 seo:
   title: Press Inquires
   page_description: >-

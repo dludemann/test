@@ -1,5 +1,5 @@
 ---
-title: 'Effective Bumble Conversation Starters'
+name: 'Effective Bumble Conversation Starters'
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:

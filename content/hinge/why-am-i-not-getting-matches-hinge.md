@@ -1,5 +1,5 @@
 ---
-title: 'Why Am I Not Getting Any Matches on Hinge?'
+name: 'Why Am I Not Getting Any Matches on Hinge?'
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: "How Does Bumble Work? 2023 Expert’s Guide"
+name: "How Does Bumble Work? 2023 Expert’s Guide"
 menu_grouping: Bumble Basics
 author: Shane White
 seo:

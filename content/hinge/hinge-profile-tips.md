@@ -1,5 +1,5 @@
 ---
-title: "Hinge Profile Tips: To Win More Dates"
+name: "Hinge Profile Tips: To Win More Dates"
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:

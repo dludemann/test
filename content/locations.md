@@ -1,5 +1,5 @@
 ---
-title: Locations We Serve
+name: Locations We Serve
 description: Serving all major cities in the U.S. and Canada
 seo:
   title: Locations We Serve

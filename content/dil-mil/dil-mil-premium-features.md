@@ -1,5 +1,5 @@
 ---
-title: "Up Your Game with Dil Mil's Premium Features"
+name: "Up Your Game with Dil Mil's Premium Features"
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:

@@ -1,5 +1,5 @@
 ---
-title: "Does Bumble Notify You of Screenshots?"
+name: "Does Bumble Notify You of Screenshots?"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:

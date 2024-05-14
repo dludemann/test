@@ -1,5 +1,5 @@
 ---
-title: Sydney Dating Photographer
+name: Sydney Dating Photographer
 seo:
   title: Sydney Dating Photographer
   page_description: >-

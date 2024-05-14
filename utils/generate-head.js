@@ -18,7 +18,7 @@ export default function (pageData, route) {
         },
         {
             name: "og:title",
-            content: pageData.title
+            content: seo.title
         },
         {
             name: "og:type",
@@ -30,7 +30,7 @@ export default function (pageData, route) {
         },
         {
             name: "twitter:title",
-            content: pageData.title
+            content: seo.title
         },
         {
             name: "twitter:image",

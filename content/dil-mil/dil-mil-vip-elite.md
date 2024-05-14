@@ -1,5 +1,5 @@
 ---
-title: 'Is Dil Mil Elite Worth the Cost?'
+name: 'Is Dil Mil Elite Worth the Cost?'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:

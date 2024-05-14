@@ -1,5 +1,5 @@
 ---
-title:
+name:
 seo:
   title:
   page_description:

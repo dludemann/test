@@ -1,5 +1,5 @@
 ---
-title: Chicago Dating Photography
+name: Chicago Dating Photography
 seo:
   title: Chicago Dating Photography
   page_description: >-

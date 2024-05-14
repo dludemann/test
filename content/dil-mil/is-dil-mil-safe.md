@@ -1,5 +1,5 @@
 ---
-title: 'Is Dil Mil a Safe Dating App to Use?'
+name: 'Is Dil Mil a Safe Dating App to Use?'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:

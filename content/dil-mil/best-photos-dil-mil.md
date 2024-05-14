@@ -1,5 +1,5 @@
 ---
-title: 'Best Photos for Dil Mil'
+name: 'Best Photos for Dil Mil'
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:

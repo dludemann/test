@@ -1,5 +1,5 @@
 ---
-title: Calgary Dating Photography
+name: Calgary Dating Photography
 seo:
   title: Calgary Dating Photography
   page_description: >-

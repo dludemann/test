@@ -1,5 +1,5 @@
 ---
-title: 'Navigating Roses on Hinge: Frequency, Usage, and More'
+name: 'Navigating Roses on Hinge: Frequency, Usage, and More'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

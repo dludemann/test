@@ -1,5 +1,5 @@
 ---
-title: What You Should 100% NOT Do on Tinder (16 Tips)
+name: What You Should 100% NOT Do on Tinder (16 Tips)
 menu_grouping: Tinder Etiquette and Behavior
 author: Shane White
 seo:

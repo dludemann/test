@@ -1,5 +1,5 @@
 ---
-title: Our Team
+name: Our Team
 seo:
   title: Our Team
   page_description: Meat the team behind the camera

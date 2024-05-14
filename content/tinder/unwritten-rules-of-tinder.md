@@ -1,5 +1,5 @@
 ---
-title: Learn the Unwritten Rules of Tinder in 2023
+name: Learn the Unwritten Rules of Tinder in 2023
 menu_grouping: Tinder Basics
 author: Shane White
 seo:

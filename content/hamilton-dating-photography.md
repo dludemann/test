@@ -1,5 +1,5 @@
 ---
-title: Hamilton Dating Photography
+name: Hamilton Dating Photography
 seo:
   title: Hamilton Dating Photography
   page_description: >-

@@ -1,5 +1,5 @@
 ---
-title: Night Out
+name: Night Out
 seo:
   title: Night Out
   page_description: >-

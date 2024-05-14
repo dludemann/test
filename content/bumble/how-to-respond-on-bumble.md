@@ -1,5 +1,5 @@
 ---
-title: 'How to Respond on Bumble: A Definitive Guide'
+name: 'How to Respond on Bumble: A Definitive Guide'
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:

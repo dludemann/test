@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+name: Portfolio
 seo:
   title: Portfolio
   page_description: >-

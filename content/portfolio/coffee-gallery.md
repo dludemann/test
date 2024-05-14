@@ -1,5 +1,5 @@
 ---
-title: Coffee
+name: Coffee
 seo:
   title: Coffee
   page_description: >-

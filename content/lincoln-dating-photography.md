@@ -1,5 +1,5 @@
 ---
-title: Lincoln Dating Photography
+name: Lincoln Dating Photography
 seo:
   title: Lincoln Dating Photography
   page_description: Online Dating Photos in Lincoln, California. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

@@ -1,5 +1,5 @@
 ---
-title: 'Is Dil Mil Just for Asians? Understand the Concept'
+name: 'Is Dil Mil Just for Asians? Understand the Concept'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:

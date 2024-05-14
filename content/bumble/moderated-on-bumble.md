@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Bumble: What Does Moderated Mean on the Platform?'
+name: 'Understanding Bumble: What Does Moderated Mean on the Platform?'
 menu_grouping: Bumble Settings
 author: Shane White
 seo:

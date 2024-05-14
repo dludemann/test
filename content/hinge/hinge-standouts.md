@@ -1,5 +1,5 @@
 ---
-title: 'Hinge Standouts:  How To Use The Feature'
+name: 'Hinge Standouts:  How To Use The Feature'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:

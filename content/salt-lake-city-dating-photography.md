@@ -1,5 +1,5 @@
 ---
-title: Salt Lake City Dating Photography
+name: Salt Lake City Dating Photography
 seo:
   title: Salt Lake City Dating Photography
   page_description: Online Dating Photos in Salt Lake City, Utah. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
