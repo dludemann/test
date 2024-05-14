@@ -3,7 +3,8 @@ title: "Bumble Premium: Unlock Exclusive Features"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "Bumble Premium: Unlock Exclusive Features"
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

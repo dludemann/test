@@ -3,6 +3,7 @@ title: What is the Best First Text on Tinder? A Guide
 menu_grouping: Tinder Messaging and Communication
 author: Shane White
 seo:
+  title: What is the Best First Text on Tinder? A Guide
   page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:

@@ -4,6 +4,7 @@ updated: '2023-01-29T18:37:57.543611Z'
 published: '2022-10-09T16:24:00Z'
 title: How to get Married from Tinder?
 seo:
+  title: How to get Married from Tinder?
   page_description: >-
     My co-founder Shane got married a couple weeks ago. Obviously, he put in the work to intrigue his now wife, but it was a few photos I captur
   canonical_url:

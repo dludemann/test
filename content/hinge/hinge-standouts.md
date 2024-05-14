@@ -3,7 +3,8 @@ title: 'Hinge Standouts:  How To Use The Feature'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Hinge Standouts:  How To Use The Feature'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

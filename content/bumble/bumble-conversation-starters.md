@@ -3,7 +3,8 @@ title: 'Effective Bumble Conversation Starters'
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Effective Bumble Conversation Starters'
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

@@ -1,6 +1,7 @@
 ---
 title: Press Inquires
 seo:
+  title: Press Inquires
   page_description: >-
     We've been featured in countless publications. Use our sample logos, and
     design assets to link to us.

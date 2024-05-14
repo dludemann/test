@@ -4,6 +4,7 @@ updated: '2022-06-19T20:42:22.145495Z'
 published: '2022-02-12T15:33:00Z'
 title: Our Process
 seo:
+  title: Our Process
   page_description: >-
     Each of our sessions is custom-tailored to you specifically, so it’s difficult to nail down exactly what your shoot will look like until you
   canonical_url:

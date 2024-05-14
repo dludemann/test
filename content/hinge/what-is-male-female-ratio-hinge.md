@@ -3,7 +3,8 @@ title: 'What is The Male to Female Ratio on Hinge?'
 menu_grouping: Hinge Statistics
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'What is The Male to Female Ratio on Hinge?'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

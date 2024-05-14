@@ -3,7 +3,8 @@ title: 'Why Am I Not Getting Any Matches on Hinge?'
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Why Am I Not Getting Any Matches on Hinge?'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

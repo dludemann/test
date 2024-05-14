@@ -1,6 +1,7 @@
 ---
 title: Reviews
 seo:
+  title: Reviews
   page_description: A team is a family
   canonical_url:
   featured_image:

@@ -4,6 +4,7 @@ updated: '2023-07-26T19:43:40.737543Z'
 published: '2023-07-26T16:18:00Z'
 title: 'Introducing: The Match Artist Online Dating Coach'
 seo:
+  title: 'Introducing: The Match Artist Online Dating Coach'
   page_description: >-
     We’ve been working on something new for a while, and it’s finally here. We are now welcoming our new dating coach, Robby on to The Match Art
   canonical_url:

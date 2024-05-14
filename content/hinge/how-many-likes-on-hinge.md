@@ -3,7 +3,8 @@ title: 'How Many Likes On Hinge? Learn The Facts'
 menu_grouping: Hinge Statistics
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'How Many Likes On Hinge? Learn The Facts'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

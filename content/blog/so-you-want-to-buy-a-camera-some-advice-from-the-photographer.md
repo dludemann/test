@@ -4,6 +4,7 @@ updated: '2021-11-24T20:38:09.309203Z'
 published: '2019-06-01T19:36:00Z'
 title: So You Want to Buy a Camera? Some Advice from the Photographer
 seo:
+  title: So You Want to Buy a Camera? Some Advice from the Photographer
   page_description: >-
     Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations for camera gear, insight on taking good photos, and how to use all of this for a photo date.
   canonical_url:

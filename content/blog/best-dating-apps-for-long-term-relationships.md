@@ -4,6 +4,7 @@ updated: '2023-08-01T13:49:04.861900Z'
 published: '2023-08-01T13:03:00Z'
 title: Best Dating Apps for Long Term Relationships
 seo:
+  title: Best Dating Apps for Long Term Relationships
   page_description: >-
     Dating sites have grown exponentially since the first ever online dating platform, Match.com was launched in 2005. Today there are an estima
   canonical_url:

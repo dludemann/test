@@ -3,7 +3,8 @@ title: 'Bumble Search: Learn How to Use It'
 menu_grouping: Bumble Basics
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Bumble Search: Learn How to Use It'
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

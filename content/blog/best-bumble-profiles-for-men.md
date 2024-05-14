@@ -4,6 +4,7 @@ updated: '2022-08-15T19:08:03.073526Z'
 published: '2022-08-05T20:50:00Z'
 title: Best Bumble Profiles for Men
 seo:
+  title: Best Bumble Profiles for Men
   page_description: >-
     These are some photos you need for your online dating profiles to be successful.
   canonical_url:

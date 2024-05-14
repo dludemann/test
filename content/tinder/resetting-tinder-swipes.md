@@ -3,7 +3,8 @@ title: Is There a Way to Reset Matches on Tinder?
 menu_grouping: Tinder Basics
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Tinder algorithm
+  title: Is There a Way to Reset Matches on Tinder?
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

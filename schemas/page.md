@@ -1,6 +1,7 @@
 ---
 title:
 seo:
+  title:
   page_description:
   canonical_url:
   featured_image:

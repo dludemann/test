@@ -3,7 +3,8 @@ title: "Ghosting on Bumble: Learn How It Happens"
 menu_grouping: Conversation and Interaction
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "Ghosting on Bumble: Learn How It Happens"
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

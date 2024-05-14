@@ -3,7 +3,8 @@ title: "How to Avoid Getting No Matches on Bumble"
 menu_grouping: Uses for Bumble
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "How to Avoid Getting No Matches on Bumble"
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

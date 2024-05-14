@@ -3,7 +3,8 @@ title: 'Ghosting on Dil Mil: Learn How It Happens'
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Ghosting on Dil Mil: Learn How It Happens'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

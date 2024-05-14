@@ -63,7 +63,7 @@ export default function (pageData, route) {
     }
 
     return {
-        title: `${pageData.title} | ${siteData.site_title}`,
+        title: `${seo.title} | ${siteData.site_title}`,
         meta: metaData,
         link: [{
             hid: 'canonical',

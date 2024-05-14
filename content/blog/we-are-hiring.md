@@ -4,6 +4,7 @@ updated: '2022-06-19T20:45:51.681522Z'
 published: '2021-06-29T20:52:00Z'
 title: We are hiring!
 seo:
+  title: We are hiring!
   page_description: >-
     The Match Artist is seeking a part or full time photographer to join our fast growing company.
   canonical_url:

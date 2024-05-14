@@ -1,6 +1,7 @@
 ---
 title: Our Team
 seo:
+  title: Our Team
   page_description: Meat the team behind the camera
   canonical_url:
   featured_image:

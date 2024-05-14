@@ -3,7 +3,8 @@ title: 'Bumble Fake Profiles Guide (2023)'
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Bumble Fake Profiles Guide (2023)'
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

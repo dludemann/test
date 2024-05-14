@@ -3,7 +3,8 @@ title: "Up Your Game with Dil Mil's Premium Features"
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "Up Your Game with Dil Mil's Premium Features"
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

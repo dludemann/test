@@ -4,6 +4,7 @@ updated: '2022-01-25T15:02:25.710934Z'
 published: '2022-01-25T15:00:00Z'
 title: Buying a Camera
 seo:
+  title: Buying a Camera
   page_description: >-
     What to look for when buying a camera for your online dating portfolio.
   canonical_url:

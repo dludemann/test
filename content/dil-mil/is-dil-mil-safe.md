@@ -3,7 +3,8 @@ title: 'Is Dil Mil a Safe Dating App to Use?'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Is Dil Mil a Safe Dating App to Use?'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

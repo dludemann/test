@@ -1,6 +1,7 @@
 ---
 title: Headshots
 seo:
+  title: Headshots
   page_description: >-
     From The Match Artist's portfolio, these \"Headshots\" shots helped our customers go on more dates, and for many, find the love of their life.
   canonical_url:

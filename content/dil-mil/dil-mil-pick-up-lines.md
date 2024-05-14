@@ -3,7 +3,8 @@ title: 'Dil Mil Pick-up Lines: All You Need to Know'
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Dil Mil Pick-up Lines: All You Need to Know'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

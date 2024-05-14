@@ -4,6 +4,7 @@ updated: '2021-08-18T18:10:50.193270Z'
 published: '2021-03-28T18:02:00Z'
 title: 'The Smirk: How We Coach Expressions to Look Alive'
 seo:
+  title: 'The Smirk: How We Coach Expressions to Look Alive'
   page_description: >-
     By far the most important aspect of our business is that of facial expression coaching. With all of our facial muscles, slight movements can entirely change the implications of what you mean to others. Most haven’t ever thought about facial expressions, but they are crucial for dates, job interviews, and especially every photo you’ll ever take.
   canonical_url:

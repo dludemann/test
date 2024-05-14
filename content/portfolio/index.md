@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 seo:
+  title: Portfolio
   page_description: >-
     From The Match Artist's portfolio, these shots helped our customers go on
     more dates, and for many, find the love of their life.

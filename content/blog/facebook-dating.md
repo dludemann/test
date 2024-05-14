@@ -4,6 +4,7 @@ updated: '2021-11-24T20:13:53.823659Z'
 published: '2019-04-03T19:01:00Z'
 title: Facebook Dating Is Here
 seo:
+  title: Facebook Dating Is Here
   page_description: >-
     It's about time that Facebook enters the dating market. I've set up a profile and have begun exploring the newest dating platform. Not many are using it regularly quite yet, but I'd imagine it will be more functional as more start swiping. The layout is much like other common apps with a swipe right/left, as well as Instagram connectivity.
   canonical_url:

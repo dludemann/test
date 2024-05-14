@@ -1,6 +1,7 @@
 ---
 title: Durham Dating Photography
 seo:
+  title: Durham Dating Photography
   page_description: Online Dating Photos in Durham, North Carolina. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

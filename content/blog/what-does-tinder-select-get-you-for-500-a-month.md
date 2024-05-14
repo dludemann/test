@@ -4,6 +4,7 @@ updated: 2023-09-26T21:06:18Z
 published: 2023-09-26T14:26:00Z
 title: What does Tinder Select get you for $500 a month?
 seo:
+  title: What does Tinder Select get you for $500 a month?
   page_description: >-
     Tinder's new offering, Tinder Select, comes at a significant price of $500 a
     month and is geared toward a highly select audience. Two times

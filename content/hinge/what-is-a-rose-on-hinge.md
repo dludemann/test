@@ -3,7 +3,8 @@ title: 'Navigating Roses on Hinge: Frequency, Usage, and More'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Navigating Roses on Hinge: Frequency, Usage, and More'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

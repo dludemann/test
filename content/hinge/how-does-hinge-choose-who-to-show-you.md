@@ -3,7 +3,8 @@ title: 'How Does Hinge Choose Who To Show You?'
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'How Does Hinge Choose Who To Show You?'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:

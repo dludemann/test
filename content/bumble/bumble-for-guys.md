@@ -3,7 +3,8 @@ title: "What Does Bumble Look Like for Guys?"
 menu_grouping: Bumble Settings
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "What Does Bumble Look Like for Guys?"
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

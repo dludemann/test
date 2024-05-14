@@ -2,6 +2,7 @@
 title: Locations We Serve
 description: Serving all major cities in the U.S. and Canada
 seo:
+  title: Locations We Serve
   page_description: >-
     Occasionally The Match Artist embarks on a tour. Click here to see the
     cities we are visiting.

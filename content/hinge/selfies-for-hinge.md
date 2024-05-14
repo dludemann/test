@@ -3,7 +3,8 @@ title: 'Are Selfies Okay For Hinge? Get The Truth'
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Are Selfies Okay For Hinge? Get The Truth'
+  page_description: >-
     A guide to the Hinge algorithm
   canonical_url:
   featured_image:
