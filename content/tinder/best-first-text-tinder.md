@@ -67,6 +67,7 @@ The best first message will depend on everyone’s individual circumstances, so 
 <p style="margin: 10px 0;">Just let us know where to send it.</p>
 <div style="display: flex; align-items: center;"><form action="https://www.getdrip.com/forms/21599629/submissions" class="drip-form plausible-event-name=NewsLetterFormSignup" data-drip-embedded-form="21599629" method="post"><input name="fields[email]" placeholder="Email" required="required" style="width: 80%; padding: 10px; margin: 10px 0; border: none; border-radius: 4px;" type="email" value="" /> <input name="fields[first_name]" placeholder="First Name" required="required" style="width: 80%; padding: 10px; margin: 10px 0; border: none; border-radius: 4px;" type="text" /> <button onmouseout="this.style.backgroundColor='#FFF'; this.style.color='#000';" onmouseover="this.style.backgroundColor='#444'; this.style.color='#FFF';" style="padding: 10px 20px; background-color: #fff; color: #000; border: none; border-radius: 4px;" type="submit">Send it to me.</button></form><img src="https://cdn.buttercms.com/GAumtSyRQgeNGLdLesYY" style="margin-left: 20px; margin-top: -69px; max-width: 30%;" /></div>
 </div>
+</div>
 <p></p>
 <h2 id="tips-for-starting-a-tinder-conversation">Tips for Starting a Tinder Conversation</h2>
 <p dir="ltr"><span>Our best tips for starting a Tinder conversation are to somehow make your match react to your first message. Even something as simple as reacting with GIFs or emojis will mean that they’re engaged!</span><b></b></p>
@@ -229,10 +230,3 @@ The best first message will depend on everyone’s individual circumstances, so 
 </li>
 </ol>
 <p></p>
-</div>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
