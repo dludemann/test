@@ -11,6 +11,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
+
 **TINDER MESSAGING AND COMMUNICATION**
 
 In these technology-focused times, the dating game has been all about apps—especially Tinder!
@@ -23,12 +24,12 @@ Well, luckily, that’s where The Match Artist can help you out. No matter what 
 
 In this article, we’re going to cover:
 
-* What exactly it is that makes a good first Tinder message
-* Our top tips for how to start a conversation on Tinder
-* How to flirt over text on Tinder
-* Whether or not it’s weird for a woman to message your Tinder profile first
-* Some easy first message examples for all sorts of situations
-* Frequently asked questions
+- What exactly it is that makes a good first Tinder message
+- Our top tips for how to start a conversation on Tinder
+- How to flirt over text on Tinder
+- Whether or not it’s weird for a woman to message your Tinder profile first
+- Some easy first message examples for all sorts of situations
+- Frequently asked questions
 
 Whether you’re looking for compliments, conversations, a pick-up line, or any other inspiration for an icebreaker to ask someone you matched with, we’ll cover it all.
 
@@ -44,11 +45,11 @@ This could be anything! Just give them a reason to respond and talk to you, as y
 
 Some examples could include:
 
-* Complimenting them on their photos
-* Sending a meme or GIF
-* Telling them a joke that will need a response
-* Asking them something about their city or town
-* Asking them about their job or work.
+- Complimenting them on their photos
+- Sending a meme or GIF
+- Telling them a joke that will need a response
+- Asking them something about their city or town
+- Asking them about their job or work.
 
 The best first message will depend on everyone’s individual circumstances, so be sure to pay extra attention to their profile and bio and don’t just send a generic message.
 
@@ -226,7 +227,3 @@ The best first message will depend on everyone’s individual circumstances, so 
 </ol>
 <p></p>
 </div>
-
-&nbsp;
-
-&nbsp;
