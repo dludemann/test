@@ -26,3 +26,9 @@ const BOOKING_LINK =
     />
   </section>
 </template>
+
+<style scoped>
+iframe #logo-landmark-booking-container {
+  display: none;
+}
+</style>
