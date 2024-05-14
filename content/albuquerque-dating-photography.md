@@ -71,7 +71,7 @@ content_blocks:
       city: Albuquerque
       state: New Mexico
     image:
-      src: /images/work/Albuquerque-before-after.webp
+      src: /images/work/brent-before-after.jpeg
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#FFFFFF'
