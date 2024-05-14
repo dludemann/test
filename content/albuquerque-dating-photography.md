@@ -1,7 +1,7 @@
 ---
 title: Albuquerque Dating Photography
 seo:
-  title: Albuquerque Dating Photography Testing
+  title: Albuquerque Dating Photography
   page_description: >-
     Online Dating Photos in Albuquerque, New Mexico. Before getting my pics
     taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+
