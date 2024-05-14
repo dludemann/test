@@ -11,6 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: card-grid
     heading: The Team
+    heading_style: h1
     cards:
       - title: Shane White
         subtitle: Founder
