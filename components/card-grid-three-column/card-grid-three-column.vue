@@ -23,16 +23,16 @@
     :data-cms-bind="dataBinding"
     :style="{ maxWidth: block.max_width + 'px' }">
     <div class="mx-2 mb-8 mt-6" v-if="block.heading_style === 'portfolio'">
-      <h2 class="font-bold text-[1.25rem] text-center lg:text-left">{{ block.title }}</h2>
+      <h2 class="font-bold text-[1.25rem] text-center">{{ block.title }}</h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
     <div class="text-center my-12" v-if="block.heading_style === 'reviews'">
-      <h2 class="font-bold text-[39px] text-center lg:text-left">
+      <h2 class="font-bold text-[39px] text-center">
         {{ block.title }}
       </h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
-    <div class="container img-grid relative columns-1 md:columns-2 lg:columns-3 md:mx-auto"
+    <div class="container img-grid relative columns-1 md:columns-2 lg:columns-3 mx-auto"
         :style="{ columnGap: block.vertical_gap + 'px' }">
       <figure v-for="image in block.images"
             :style="{ marginBottom: block.horizontal_gap + 'px' }">
