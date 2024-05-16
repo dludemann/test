@@ -1,2 +1,2 @@
-npm run prebuild:fetch-theme-color
-node ./utils/generate-routes.js
+#npm run prebuild:fetch-theme-color
+#node ./utils/generate-routes.js

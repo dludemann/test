@@ -65,10 +65,12 @@ export default function (pageData, route) {
     return {
         title: `${pageData.title} | ${siteData.site_title}`,
         meta: metaData,
-        link: [{
-            hid: 'canonical',
-            rel: 'canonical',
-            href: cannonical_url
-        }]
+        link: [
+            {
+                hid: 'canonical',
+                rel: 'canonical',
+                href: cannonical_url
+            }
+        ]
     }
 }
