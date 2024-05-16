@@ -38,13 +38,6 @@ preview:
 _inputs:
   text:
     type: textarea
-  heading_style:
-    type: select
-    comment: Used to control the headings sematic value, leave this as h1 if this is the pages main heading.
-    options:
-      values:
-        - h1
-        - h2
   background_color:
     type: color
     comment: This is used to set the background color if no background image is present.
