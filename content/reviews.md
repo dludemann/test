@@ -31,6 +31,17 @@ content_blocks:
       text_color: white
       top_spacing:
       bottom_spacing: 48
+  - _bookshop_name: markdown-block
+    pre_title:
+    title: For more reviews...
+    paragraphs:
+      - text: >-
+          On our <a href="https://thematchartist.com/case-studies"
+          target="_blank" rel="noopener">Case Studies page</a>, we have video
+          reviews and transformation, but below you'll find client screenshots
+          from our team.
+        inline_image:
+        flipped: false
   - _bookshop_name: left-right-image
     background_color: '#171717'
     layout:
@@ -305,6 +316,7 @@ content_blocks:
     title:
       text: Like what you see?
       text_color: black
+      heading_style: h2
       top_spacing: 90
       bottom_spacing: 20
     description:

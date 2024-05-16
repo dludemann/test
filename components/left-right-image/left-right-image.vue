@@ -39,7 +39,7 @@ const markdownify = (text) => {
           'max-width': block.layout.text.max_width + 'px',
         }"
       >
-        <h1 class="font-bold text-[36px] border-b">{{ block.heading }}</h1>
+        <h2 class="font-bold text-[36px] border-b">{{ block.heading }}</h2>
         <blockquote
           class="large-quote"
           v-if="block.layout.text.text_is_quote"
@@ -123,9 +123,9 @@ const markdownify = (text) => {
           'max-width': block.layout.text.max_width + 'px',
         }"
       >
-        <h1 class="font-bold text-[36px] border-b">
+        <h2 class="font-bold text-[36px] border-b">
           {{ block.heading }}
-        </h1>
+        </h2>
         <blockquote class="large-quote" v-if="block.layout.text.text_is_quote">
           {{ block.text }}
           <footer
