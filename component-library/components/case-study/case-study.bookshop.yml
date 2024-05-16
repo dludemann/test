@@ -2,27 +2,21 @@
 spec:
   structures:
     - content_blocks
-  label: Quote
-  description: A quote block
-  icon: 'format_quote'
-  tags: ['Quote']
+  label: Case study
+  description: Case study section for grouping info about cases.
+  icon: 'face'
+  tags: ['Case study']
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  style: "Case study"
-  quote:
-  author:
+  label:
+  case_study_elements: [bookshop:structure:content_blocks]
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  quote:
-    type: textarea
-  style:
-    type: select
-    options:
-      values:
-        - "Case study"
-        - "Large quote"
+  label:
+    type: text
+    comment: Only for identifying case study blocks within CloudCannon. Won't show on the live site.

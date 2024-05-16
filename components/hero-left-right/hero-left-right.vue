@@ -28,11 +28,19 @@ export default {
             >{{ block.pre_title.toUpperCase() }}</span
           >
           <h1
+            v-if="block.heading_style == 'h1'"
             class="text-[2.5rem] lg:text-[3.5rem] tracking-[-1%] leading-[69.6px] font-bold mb-5"
             style="text-wrap: balance"
           >
             {{ block.title }}
           </h1>
+          <h2
+            v-if="block.heading_style == 'h2'"
+            class="text-[2.5rem] lg:text-[3.5rem] tracking-[-1%] leading-[69.6px] font-bold mb-5"
+            style="text-wrap: balance"
+          >
+            {{ block.title }}
+          </h2>
           <p class="text-[1.25rem]">
             {{ block.description }}
           </p>

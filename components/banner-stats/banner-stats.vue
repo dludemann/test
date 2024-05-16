@@ -34,7 +34,7 @@ export default {
         }"
       >
         <h1
-          v-if="block.title.text"
+          v-if="block.title.text && block.title.heading_style == 'h1'"
           class="text-[39px] font-bold"
           :style="{
             'padding-top': block.title.top_spacing + 'px',
@@ -44,6 +44,18 @@ export default {
         >
           {{ block.title.text }}
         </h1>
+        <h2
+          v-if="block.title.text && block.title.heading_style == 'h2'"
+          class="text-[39px] font-bold"
+          :style="{
+            'padding-top': block.title.top_spacing + 'px',
+            'padding-bottom': block.title.bottom_spacing + 'px',
+            color: block.title.text_color,
+          }"
+        >
+          {{ block.title.text }}
+        </h2>
+
         <ul
           class="flex flex-col lg:flex-row mx-auto gap-8 justify-center flex-wrap"
         >

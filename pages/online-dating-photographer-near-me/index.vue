@@ -7,13 +7,13 @@ const data = await $fetch(
   "https://thematchartist.com/.netlify/functions/findUserLocation"
 );
 
-console.log("data", data);
+//console.log("data", data);
 
 const location = data ? JSON.parse(data).message : null;
 
 const city = location ? location.city : null;
 const state = location ? location.state : null;
-console.log("city", city);
+//console.log("city", city);
 
 const headerString = city
   ? `${location.city}, ${location.state}`

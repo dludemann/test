@@ -78,7 +78,7 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: https://photostma.blob.core.windows.net/marketing/before_after-nick.png
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#ffffff'

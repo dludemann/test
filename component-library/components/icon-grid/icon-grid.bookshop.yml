@@ -17,6 +17,7 @@ blueprint:
     margin_top: 0
   title:
     text:
+    heading_style: h2
     font_size: 2
     color: '#00000'
     margin_bottom: 0

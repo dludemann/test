@@ -40,19 +40,7 @@ So here's John, pretty good looking guy, right?
 
 &nbsp;
 
-![](https://photostma.blob.core.windows.net/web/nice.png)
-
 &nbsp;
-
-![](/marketing/image_&#40;6&#41;.png)
-
-&nbsp;
-
-![](/marketing/IMG_6096.jpeg)
-
-&nbsp;
-
-![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
 ![](/marketing/b99cc0ff985961cb67fa93205962d801-large.jpg)
 

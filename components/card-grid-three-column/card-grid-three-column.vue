@@ -9,9 +9,9 @@
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
     <div class="text-center my-12" v-if="block.heading_style === 'reviews'">
-      <h1 class="font-bold text-[39px]">
+      <h2 class="font-bold text-[39px]">
         {{ block.title }}
-      </h1>
+      </h2>
       <p v-if="block.subtitle">{{ block.subtitle }}</p>
     </div>
     <div class="grid grid-cols-3" :style="{ gap: block.horizontal_gap + 'px' }">

@@ -21,7 +21,7 @@ author: Shane White
 ---
 
 <h1 class="primary-title text-left">So You Want to Buy a Camera? Some Advice from the Photographer</h1>
-<div class="blog-content">
+
 <p>Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations for camera gear, insight on taking good photos, and how to use all of this for a photo date.</p>
 <p><img src="http://images.ctfassets.net/9e33rgnm1y4m/5I29sYYDxkXEpBrabvtxje/3c5f948a2087766cad57c9b4d02ac287/Screen_Shot_2019-06-01_at_6.33.45_PM.png" alt="Screen Shot 2019-06-01 at 6.33.45 PM" /></p>
 <p>First, let's talk about why you're doing this. You're taking photos for you. Photography is a beautiful hobby, and self-fulfilling, so don't buy a camera to show off, or 'get the girl', even though this can help. Thinking of the world in a sense of photography increases your awareness of beauty in everything you see. Instilling the world into photographs can tell a story to your social media following about who you are, what you appreciate, and beyond this - just a beautiful photo.</p>
@@ -39,4 +39,3 @@ author: Shane White
 <p><strong>Photo Date</strong></p>
 <p>So now that you're a camera pro, it's time to use that on a potential date. If you're a date is a photographer, wonderful, if not - you'll say you want to go out and shoot some photos. This could be out on a hike, some street photography, or at a concert downtown. Structure it around something you both love to do, but make sure you bring your camera, and certainly take photos of your date if they want you to. Having a camera around can make you far more interesting than you otherwise were, especially if you take great photos!</p>
 <p>Taking interesting photos is valuable for many different reasons. It's an enjoyable hobby, a date prop, and a way to layer your social media pages. If you have the means, certainly consider purchasing a camera and start shooting.</p>
-</div>

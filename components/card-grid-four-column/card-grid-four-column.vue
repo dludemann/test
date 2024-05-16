@@ -10,9 +10,16 @@ export default {
       class="container mx-auto py-[42px] flex justify-center items-center px-6 font-display"
     >
       <div class="max-w-[600px] w-full">
-        <h1 class="text-white text-center text-heading-h1 font-bold">
+        <h1 
+          v-if="block.heading_style == 'h1'"
+          class="text-white text-center text-heading-h1 font-bold">
           {{ block.title }}
         </h1>
+        <h2
+          v-if="block.heading_style == 'h2'"
+          class="text-white text-center text-heading-h1 font-bold">
+          {{ block.title }}
+        </h2>
         <p class="text-white text-center mt-2">{{ block.description }} ASD</p>
 
         <div class="relative w-full">

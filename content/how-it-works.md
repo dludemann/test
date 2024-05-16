@@ -51,10 +51,8 @@ content_blocks:
         max_width: 500
         text_is_quote: false
         quote_author:
+    heading: What you get
     text: >-
-      ## What you get
-
-
       * A personalized 4-5 hour photoshoot with an A-list photographer who comes
       to you so that you're never out of your element.
 
@@ -105,10 +103,8 @@ content_blocks:
         max_width: 500
         text_is_quote: false
         quote_author:
+    heading: How it works
     text: >-
-      ## How it works
-
-
       * Book a call with our photographer
 
       * Fill out detailed questionnaire.
@@ -144,6 +140,7 @@ content_blocks:
       margin_top: 0
     title:
       text: More than just photos
+      heading_style: h2
       font_size: 2.5
       color: "#00000"
       margin_bottom: 40

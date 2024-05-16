@@ -148,7 +148,8 @@ export default {
                 }
               )
               .then((res) => {
-                window.location.href = `https://meetings.hubspot.com/the-match-artist/strategy-session?email=${email}&firstname=${firstName}&lastname=${lastName}`;
+                const origin = window.location.origin;
+                window.location.href = `${origin}/book-a-call`;
               })
               .catch((error) => {
                 console.log("ERROR");
