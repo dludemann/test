@@ -60,8 +60,8 @@ content_blocks:
         text_is_quote: true
         quote_author:
     text: >-
-      I’ve been seeing a girl that\[‘s\] the most perfect human being for me.
-      \[...\] the coaching on eye movement + pictures is life changing
+      I’ve been seeing a girl that[‘s] the most perfect human being for me.
+      [...] the coaching on eye movement + pictures is life changing
     image:
       image:
         src: /images/reviews/text.jpg

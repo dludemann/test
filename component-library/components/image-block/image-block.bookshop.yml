@@ -2,27 +2,24 @@
 spec:
   structures:
     - content_blocks
-  label: Quote
-  description: A quote block
-  icon: 'format_quote'
-  tags: ['Quote']
+  label: Image block
+  description: Large image block with optional heading
+  icon: 'image'
+  tags: ['Image']
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  style: "Case study"
-  quote:
-  author:
+  top_spacing:
+  bottom_spacing:
+  pre_title:
+  title: 
+  image:
+    src:
+    alt:
+    title:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  quote:
-    type: textarea
-  style:
-    type: select
-    options:
-      values:
-        - "Case study"
-        - "Large quote"
