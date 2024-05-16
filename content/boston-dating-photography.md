@@ -1,6 +1,7 @@
 ---
-title: Boston Dating Photography
+name: Boston Dating Photography
 seo:
+  title: Boston Dating Photography
   page_description: Online Dating Photos in Boston, Massachusetts. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

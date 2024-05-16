@@ -1,9 +1,10 @@
 ---
-title: 'Best Photos for Dil Mil'
+name: 'Best Photos for Dil Mil'
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Best Photos for Dil Mil'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

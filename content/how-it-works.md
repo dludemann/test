@@ -1,6 +1,7 @@
 ---
-title: How It Works
+name: How It Works
 seo:
+  title: How It Works
   page_description: >-
     We guide you through the entire process. We first give you some solid
     planning material, we then teach you how to look at the camera.

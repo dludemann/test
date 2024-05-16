@@ -2,8 +2,9 @@
 created: '2022-01-24T15:41:56.253536Z'
 updated: '2022-05-07T19:45:35.719773Z'
 published: '2022-01-24T15:39:00Z'
-title: 'How Online Dating Photos Can Lead to Marriage: Our First Engaged Client'
+name: 'How Online Dating Photos Can Lead to Marriage: Our First Engaged Client'
 seo:
+  title: 'How Online Dating Photos Can Lead to Marriage: Our First Engaged Client'
   page_description: >-
     Hearing client success stories is always inspiring, whether it be a new relationship, increased matches, or an overall better quality of life due to a more exciting dating life. We recently heard of something for the first time: our first engaged client. We confirmed with him that special
   canonical_url:

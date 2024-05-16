@@ -1,6 +1,7 @@
 ---
-title: Anchorage Dating Photography
+name: Anchorage Dating Photography
 seo:
+  title: Anchorage Dating Photography
   page_description: >-
     Online Dating Photos in Anchorage, Alaska. Before getting my pics taken by
     The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches

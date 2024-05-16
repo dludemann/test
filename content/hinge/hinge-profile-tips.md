@@ -1,9 +1,10 @@
 ---
-title: "Hinge Profile Tips: To Win More Dates"
+name: "Hinge Profile Tips: To Win More Dates"
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Hinge algorithm
+  title: "Hinge Profile Tips: To Win More Dates"
+  page_description: A guide to the Hinge algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

@@ -1,6 +1,7 @@
 ---
-title: Memphis Dating Photography
+name: Memphis Dating Photography
 seo:
+  title: Memphis Dating Photography
   page_description: Online Dating Photos in Memphis, Tennessee. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

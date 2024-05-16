@@ -2,8 +2,9 @@
 created: '2021-11-24T20:28:31.250475Z'
 updated: '2021-11-24T20:28:31.269933Z'
 published: '2021-11-24T20:21:00Z'
-title: Let's Talk About Hinge
+name: Let's Talk About Hinge
 seo:
+  title: Let's Talk About Hinge
   page_description: >-
     Here's an app I've been really enjoying for a while now. It seems to have surpassed the general 'hookup' apps toward their slogan, "Designed to be Deleted". It's a free app, and allows some interesting features, while still keeping the standard 'Swipe Right, Swipe Left' model. I'll talk a bit about the app below. But first, here's a fun shot from last night's shoot.
   canonical_url:

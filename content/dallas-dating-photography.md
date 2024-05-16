@@ -1,10 +1,8 @@
 ---
-title: Dallas Dating Photography
+name: Dallas Dating Photography
 seo:
-  page_description: >-
-    Online Dating Photos in Dallas, Texas. Before getting my pics taken by The
-    Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every
-    week!
+  title: Dallas Dating Photography
+  page_description: Online Dating Photos in Dallas, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
   featured_image_alt:

@@ -2,8 +2,9 @@
 created: '2023-02-08T21:23:58.474643Z'
 updated: '2023-02-08T21:59:25.025503Z'
 published: '2023-02-08T21:10:00Z'
-title: From The Match Artist to getting Engaged from Online Dating
+name: From The Match Artist to getting Engaged from Online Dating
 seo:
+  title: From The Match Artist to getting Engaged from Online Dating
   page_description: >-
     Online Dating Photos helped Karthk Match With His Fiancée. We shot engagement photos in San Francisco and it included a proposal.
   canonical_url:

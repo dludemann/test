@@ -2,8 +2,9 @@
 created: '2021-08-18T18:26:18.997671Z'
 updated: '2021-08-18T18:27:19.843976Z'
 published: '2020-08-25T18:20:00Z'
-title: The Best Men's Fashion Instagrams
+name: The Best Men's Fashion Instagrams
 seo:
+  title: The Best Men's Fashion Instagrams
   page_description: >-
     There are billions of Instagram accounts, and millions of those accounts have to do with men's fashion. It's hard to gauge which accounts you should follow and which accounts you should ignore. After all, not everyone has the same style. I went through the depths of Instagram to find the best men's fashion accounts so you wouldn't have to.
   canonical_url:

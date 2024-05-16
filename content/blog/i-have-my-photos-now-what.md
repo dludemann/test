@@ -2,8 +2,9 @@
 created: '2021-11-24T20:35:41.097089Z'
 updated: '2021-11-24T20:35:41.122124Z'
 published: '2021-11-24T20:33:00Z'
-title: I Have My Photos, Now What?
+name: I Have My Photos, Now What?
 seo:
+  title: I Have My Photos, Now What?
   page_description: >-
     We took your photos, you had a great experience, now you're wondering what to do with the pics you just got? Some of this you may know, but I'm going to segment some key things to do with your photos as far as dating apps and social media are concerned. This is a lengthier blog, but it should be helpful in maximizing your success.
   canonical_url:

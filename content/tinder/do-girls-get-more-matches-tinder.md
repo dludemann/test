@@ -1,9 +1,10 @@
 ---
-title: Do Girls Get More Matches On Tinder?
+name: Do Girls Get More Matches On Tinder?
 menu_grouping: Tinder Dating and Relationships
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Tinder algorithm
+  title: Do Girls Get More Matches On Tinder?
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

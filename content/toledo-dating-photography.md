@@ -1,6 +1,7 @@
 ---
-title: Toledo Dating Photography
+name: Toledo Dating Photography
 seo:
+  title: Toledo Dating Photography
   page_description: Online Dating Photos in Toledo, Ohio. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

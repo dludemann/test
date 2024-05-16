@@ -2,8 +2,9 @@
 created: '2021-08-18T18:19:54.106036Z'
 updated: '2022-06-19T20:46:07.888339Z'
 published: '2020-09-11T18:17:00Z'
-title: The Best First Date Ideas
+name: The Best First Date Ideas
 seo:
+  title: The Best First Date Ideas
   page_description: >-
     Where should you go on your first date? There are so many places! But, what if you want to be original? This blog will show you six of the m
   canonical_url:

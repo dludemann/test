@@ -1,6 +1,7 @@
 ---
-title: Albuquerque Dating Photography
+name: Albuquerque Dating Photography
 seo:
+  title: Albuquerque Dating Photography
   page_description: >-
     Online Dating Photos in Albuquerque, New Mexico. Before getting my pics
     taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+
@@ -95,7 +96,7 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: "#contact"
+      path: '#contact'
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
     background_color: '#ffffff'
@@ -118,7 +119,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: "#contact"
+      path: '#contact'
       text: Inquire Now
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot

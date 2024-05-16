@@ -2,8 +2,9 @@
 created: '2021-11-24T20:32:07.632178Z'
 updated: '2021-11-24T20:32:07.650869Z'
 published: '2020-06-27T19:30:00Z'
-title: 'The Match Artist Story: How it Began'
+name: 'The Match Artist Story: How it Began'
 seo:
+  title: 'The Match Artist Story: How it Began'
   page_description: >-
     Many are surprised that our business exists, others are excited intrigued and tell us it's a brilliant idea. It all started about a year and a half ago, but it had been unknowingly in the making for a number of years prior. Here's a photo of us at our first paid shoot.
   canonical_url:
