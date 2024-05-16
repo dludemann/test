@@ -33,6 +33,8 @@ In this article, we’re going to cover:
 
 Whether you’re looking for compliments, conversations, a pick-up line, or any other inspiration for an icebreaker to ask someone you matched with, we’ll cover it all.
 
+![](https://photostma.blob.core.windows.net/web/2022-08-20TMADaveWoolf-Boston_0410.jpeg)
+
 Let’s get straight into it so you can start matching with people and getting dates!
 
 ## What Makes a Good First Message on Tinder?
@@ -52,6 +54,8 @@ Some examples could include:
 - Asking them about their job or work.
 
 The best first message will depend on everyone’s individual circumstances, so be sure to pay extra attention to their profile and bio and don’t just send a generic message.
+
+&nbsp;
 
 &nbsp;
 

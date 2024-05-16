@@ -2,25 +2,24 @@
 spec:
   structures:
     - content_blocks
-  label: Card Grid - Four Column
-  description: Card grid with four locations
-  icon: 'view_comfy'
-  tags: ['Grid']
+  label: Image block
+  description: Large image block with optional heading
+  icon: 'image'
+  tags: ['Image']
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title:
-  heading_style:
-  description:
-  cards:
-    - title:
-      img:
-      path:
+  top_spacing:
+  bottom_spacing:
+  pre_title:
+  title: 
+  image:
+    src:
+    alt:
+    title:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  description:
-    type: textarea

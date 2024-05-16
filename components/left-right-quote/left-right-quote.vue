@@ -20,17 +20,17 @@ export default {
         color: block.quote.text_color,
       }"
     >
-      <!-- <tma-image
+       <tma-image
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         :src="block.image.src"
         :alt="block.image.alt"
-      /> -->
+      /> 
 
-      <tma-image
+    <!--  <tma-image
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         src="/images/work/austin-before-after.webp"
         :alt="block.image.alt"
-      />
+      /> -->
       <div>
         <p class="text-primary-500 font-bold mb-0">
           DATING PHOTOGRAPHY IN {{ block.location.city.toUpperCase() }},

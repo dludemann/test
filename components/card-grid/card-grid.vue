@@ -9,7 +9,12 @@ export default {
     class="container mx-auto max-w-[1000px] text-[48px] px-6 font-display"
     :data-cms-bind="dataBinding"
   >
-    <h1 class="my-10 font-bold">{{ block.heading }}</h1>
+    <h1 
+      v-if="block.heading_style == 'h1'"
+      class="my-10 font-bold">{{ block.heading }}</h1>
+    <h2
+      v-if="block.heading_style == 'h2'"
+      class="my-10 font-bold">{{ block.heading }}</h2>
 
     <div class="grid grid-cols-2 gap-16">
       <div
