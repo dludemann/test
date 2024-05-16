@@ -1,10 +1,9 @@
 ---
-title: 'Hinge Profile Tips: To Win More Dates'
+title: "Hinge Profile Tips: To Win More Dates"
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Hinge algorithm
+  page_description: &gt;- A guide to the Hinge algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -395,59 +394,3 @@ seo:
 <p><a href="https://hingeapp.zendesk.com/hc/en-us/articles/360040576594-What-are-Photo-Prompts-">hingeapp.zendesk.com</a></p>
 </li>
 </ol>
-esk.com
-
-
-/p&gt;
-
-
-/a&gt;
-
-
-/p&gt;
-
-
-/a&gt;
-
-
-&gt;
-
-/a&gt;
-
-
-/p&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
-/p&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
-&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
-/a&gt;
-
-
