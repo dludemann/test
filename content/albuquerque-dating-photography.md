@@ -39,7 +39,7 @@ content_blocks:
       text: Inquire Now
   - _bookshop_name: image-slider
     background_color: '#090303'
-    text_color: '#FFFFFF'
+    text_color: '#ffffff'
     location:
       city: Albuquerque
       state: New Mexico
@@ -98,7 +98,7 @@ content_blocks:
       path: '#contact'
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
+    background_color: '#ffffff'
     text_color: '#090303'
     image:
       src: /images/mockups/tindermock.webp
