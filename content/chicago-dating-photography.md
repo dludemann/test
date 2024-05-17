@@ -44,7 +44,7 @@ content_blocks:
     location:
       city: Chicago
       state: Illinois
-    title: Full Photoshoot In 10+ Settings To Capture The Best You
+    title: Full Photoshoot in 10+ Settings to Capture The Best You
     description: >-
       We'll guide you through the process of logistics for the shoot, coach you
       on body language and facial expressions, and help you design your profile
@@ -159,8 +159,8 @@ content_blocks:
         answer: >-
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Dallas, our online dating
-          photographers can help you get there.
+          meet even more amazing people, our online dating photographers can
+          help you get there.
       - question: What are the best photos for dating in Chicago?
         answer: >-
           From our testing and research, people prefer photos that are
