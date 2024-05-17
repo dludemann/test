@@ -1,8 +1,9 @@
 ---
-title: Are Tinder Dates Just For Hookups?
+name: Are Tinder Dates Just For Hookups?
 menu_grouping: Tinder Dating and Relationships
 author: Shane White
 seo:
+  title: Are Tinder Dates Just For Hookups?
   page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:

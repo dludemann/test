@@ -18,7 +18,7 @@ export default function (pageData, route) {
         },
         {
             name: "og:title",
-            content: pageData.title
+            content: seo.title
         },
         {
             name: "og:type",
@@ -30,7 +30,7 @@ export default function (pageData, route) {
         },
         {
             name: "twitter:title",
-            content: pageData.title
+            content: seo.title
         },
         {
             name: "twitter:image",
@@ -63,12 +63,14 @@ export default function (pageData, route) {
     }
 
     return {
-        title: `${pageData.title} | ${siteData.site_title}`,
+        title: `${seo.title} | ${siteData.site_title}`,
         meta: metaData,
-        link: [{
-            hid: 'canonical',
-            rel: 'canonical',
-            href: cannonical_url
-        }]
+        link: [
+            {
+                hid: 'canonical',
+                rel: 'canonical',
+                href: cannonical_url
+            }
+        ]
     }
 }

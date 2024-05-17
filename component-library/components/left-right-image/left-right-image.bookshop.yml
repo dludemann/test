@@ -25,6 +25,7 @@ blueprint:
       max_width:
       text_is_quote:
       quote_author:
+  heading:
   text:
   image:
     image:

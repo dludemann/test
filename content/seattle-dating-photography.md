@@ -1,6 +1,7 @@
 ---
-title: Seattle Dating Photography
+name: Seattle Dating Photography
 seo:
+  title: Seattle Dating Photography
   page_description: Online Dating Photos in Seattle, Washington. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:
@@ -10,8 +11,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: "#090303"
-    text_color: "#FFFFFF"
+    background_color: '#090303'
+    text_color: '#FFFFFF'
     location:
       city: Seattle
       state: Washington
@@ -20,7 +21,7 @@ content_blocks:
       alt: Photo of Brian on a black background
       max_width: 500
     testimonial:
-      text: "An overall skyrocketing experience for my online dating."
+      text: An overall skyrocketing experience for my online dating.
       person: Brent S
       image:
         src: /images/work/brent.webp
@@ -32,16 +33,19 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: "#contact"
+      path: '#contact'
       text: Inquire Now
   - _bookshop_name: image-slider
-    background_color: "#090303"
-    text_color: "#FFFFFF"
+    background_color: '#090303'
+    text_color: '#FFFFFF'
     location:
       city: Seattle
       state: Washington
     title: Full Photoshoot In Different Settings To Capture The Best You
-    description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
+    description: >-
+      Our approach involves capturing a multitude of photos to ensure we curate
+      a selection that shows your personality, helping you stand out on dating
+      platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
       - /images/connor-tma-210.jpg
@@ -52,35 +56,35 @@ content_blocks:
       - /images/20220921-18-10-35-johnkilmer-7403399.jpg
       - /images/rohith-tma-2-191.jpg
     testimonial:
-      text:
+      text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
         matches a week. After getting new high value pictures from The Match
         Artist and tweaking my bio I was getting over 5 matches per day with
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: "#090303"
-    text_color: "#FFFFFF"
+    background_color: '#090303'
+    text_color: '#FFFFFF'
     location:
       city: Seattle
       state: Washington
     image:
-      src: /images/work/Seattle-before-after.webp
+      src: /images/work/austin-before-after.webp
     title: Transform Your Online Dating Profile
     quote:
-      background_color: "#FFFFFF"
-      text_color: "#090303"
-      text: Before getting pics taken by The Match Artist, I was getting 2-3
-        tinder matches a week. After getting new high value pictures from
-        The Match Artist and tweaking my bio I was getting over 5 matches
-        per day with really great girls. The results truly speak for
-        themselves.
+      background_color: '#FFFFFF'
+      text_color: '#090303'
+      text: >-
+        Before getting pics taken by The Match Artist, I was getting 2-3 tinder
+        matches a week. After getting new high value pictures from The Match
+        Artist and tweaking my bio I was getting over 5 matches per day with
+        really great girls. The results truly speak for themselves.
       person: Cameron T
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Inquire Now
-        background_color: "#990800"
+        background_color: '#990800'
       stats:
         - number: 1000
           text: Successful Clients
@@ -92,16 +96,16 @@ content_blocks:
       path: "#contact"
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
-    background_color: "#FFFFFF"
-    text_color: "#090303"
+    background_color: '#FFFFFF'
+    text_color: '#090303'
     image:
       src: /images/mockups/tindermock.webp
       height: 812
       width: 375
     title: Elevate Your Dating Profile with Professional Dating Photography
-    description: In a picture-first dating world, make sure your profile photo
-      entices prospects to explore further and discover your true
-      potential.
+    description: >-
+      In a picture-first dating world, make sure your profile photo entices
+      prospects to explore further and discover your true potential.
     list:
       - icon: /icons/camera.svg
         text: Make a great first impression
@@ -116,11 +120,10 @@ content_blocks:
       text: Inquire Now
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
-    description:
+    description: >-
       Our professional photographers strike the perfect balance between
-      showcasing your best features and maintaining an honest representation
-      of yourself, avoiding the pitfalls of overediting and appearing
-      inauthentic.
+      showcasing your best features and maintaining an honest representation of
+      yourself, avoiding the pitfalls of overediting and appearing inauthentic.
     list:
       - icon: /icons/green-tick.svg
         text: Facial expression & body language coaching
@@ -131,8 +134,8 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: "#contact"
-      text: "Inquire now"
+      path: '#contact'
+      text: Inquire now
     image:
       src: /images/dan-collage.png
       alt:
@@ -140,25 +143,40 @@ content_blocks:
       height: 766
   - _bookshop_name: faq
     title: FAQS
-    description:
-      Everything you need to know about the product and billing. Can’t find
-      the answer you’re looking for? Please chat to our friendly team.
+    description: >-
+      Everything you need to know about the product and billing. Can’t find the
+      answer you’re looking for? Please chat to our friendly team.
     faqs:
       - question: Should I hire an online dating photographer?
-        answer:
+        answer: >-
           Photos are arguably the most important part of your dating profile.
-          When you upgrade your photos, you upgrade your matches. If you want
-          to meet even more amazing people in Seattle, an online dating
-          photographer can help.
-      - question: What are the best photos for dating in Seattle?
-        answer: From our testing, people in Seattle prefers photos that are authentic. This means no professional studio photos which have obviously been posed and edited. Instead, your photos should be taken outdoors in natural light, and they should focus on your charm, personality and confidence.
+          When you upgrade your photos, you upgrade your matches. If you want to
+          meet even more amazing people in Austin, an online dating photographer
+          can help.
+      - question: What are the best photos for dating in Austin?
+        answer: >-
+          From our testing, people in Austin prefers photos that are authentic.
+          This means no professional studio photos which have obviously been
+          posed and edited. Instead, your photos should be taken outdoors in
+          natural light, and they should focus on your charm, personality and
+          confidence.
       - question: Why hire an online dating photographer?
-        answer: Because every online dating app prioritizes photos. You could look like Brad Pitt in real life, but if your photos suck and people can't see that - then you're not going to be matching with many people. Most people don't have great photos. So we scrap together whatever old photos we can find, add in a few bathroom selfies and hope for the best. We know these awkward photos don't do us justice, but it's all we have. An online dating photographer will help showcase all your best features. They'll highlight your charisma, charm and confidence. The'll find all your best angles, help you look natural and deliver stunning photos that will stop people in their tracks.
+        answer: >-
+          Because every online dating app prioritizes photos. You could look
+          like Brad Pitt in real life, but if your photos suck and people can't
+          see that - then you're not going to be matching with many people. Most
+          people don't have great photos. So we scrap together whatever old
+          photos we can find, add in a few bathroom selfies and hope for the
+          best. We know these awkward photos don't do us justice, but it's all
+          we have. An online dating photographer will help showcase all your
+          best features. They'll highlight your charisma, charm and confidence.
+          The'll find all your best angles, help you look natural and deliver
+          stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: "#090303"
-    text_color: "#000000"
+    background_color: '#090303'
+    text_color: '#000000'
     title: Professional Dating Photography in Seattle, Washington
-    description:
+    description: >-
       We tailor your photo experience with us to highlight things you enjoy
       doing most. Whether it's kayaking, rock climbing, reading, or drinking
       coffee, you'll get more matches with a varied profile filled with your

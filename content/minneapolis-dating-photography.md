@@ -1,6 +1,7 @@
 ---
-title: Minneapolis Dating Photography
+name: Minneapolis Dating Photography
 seo:
+  title: Minneapolis Dating Photography
   page_description: Online Dating Photos in Minneapolis, Minnesota. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

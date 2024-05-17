@@ -1,6 +1,7 @@
 ---
-title: Chesapeake Dating Photography
+name: Chesapeake Dating Photography
 seo:
+  title: Chesapeake Dating Photography
   page_description: Online Dating Photos in Chesapeake, Virginia. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

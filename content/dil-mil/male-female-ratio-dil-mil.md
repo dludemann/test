@@ -1,9 +1,10 @@
 ---
-title: 'What Is the Male to Female Ratio on Dil Mil?'
+name: 'What Is the Male to Female Ratio on Dil Mil?'
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'What Is the Male to Female Ratio on Dil Mil?'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

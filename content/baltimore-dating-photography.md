@@ -1,6 +1,7 @@
 ---
-title: Baltimore Dating Photography
+name: Baltimore Dating Photography
 seo:
+  title: Baltimore Dating Photography
   page_description: Online Dating Photos in Baltimore, Maryland. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
   featured_image:

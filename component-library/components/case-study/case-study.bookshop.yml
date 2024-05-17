@@ -1,0 +1,22 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Case study
+  description: Case study section for grouping info about cases.
+  icon: 'face'
+  tags: ['Case study']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  label:
+  case_study_elements: [bookshop:structure:content_blocks]
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  label:
+    type: text
+    comment: Only for identifying case study blocks within CloudCannon. Won't show on the live site.

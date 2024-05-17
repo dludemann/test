@@ -9,7 +9,7 @@ const data = await $fetch(
 const location = data ? JSON.parse(data).message : null;
 
 const city = location ? location.city : null;
-console.log("city", city);
+//console.log("city", city);
 const largeQuote1 = {
   quote: "This is one of the most fun things I’ve ever done.",
   author: "Match Artist Customer",

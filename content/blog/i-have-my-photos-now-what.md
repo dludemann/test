@@ -2,8 +2,9 @@
 created: '2021-11-24T20:35:41.097089Z'
 updated: '2021-11-24T20:35:41.122124Z'
 published: '2021-11-24T20:33:00Z'
-title: I Have My Photos, Now What?
+name: I Have My Photos, Now What?
 seo:
+  title: I Have My Photos, Now What?
   page_description: >-
     We took your photos, you had a great experience, now you're wondering what to do with the pics you just got? Some of this you may know, but I'm going to segment some key things to do with your photos as far as dating apps and social media are concerned. This is a lengthier blog, but it should be helpful in maximizing your success.
   canonical_url:
@@ -19,7 +20,7 @@ featured_image_alt: The Match Artist Behind The Scenes
 author: Shane White
 ---
 
-<div class="blog-content">We took your photos, you had a great experience, now you're wondering what to do with the pics you just got? Some of this you may know, but I'm going to segment some key things to do with your photos as far as dating apps and social media are concerned. This is a lengthier blog, but it should be helpful in maximizing your success.
+We took your photos, you had a great experience, now you're wondering what to do with the pics you just got? Some of this you may know, but I'm going to segment some key things to do with your photos as far as dating apps and social media are concerned. This is a lengthier blog, but it should be helpful in maximizing your success.
 <p><strong>Downloading Photos</strong>: Using the link and the PIN we send you, download the photos to your computer. We've found that airdropping your favorites to your phone works well as a way to transfer them, otherwise emailing + saving will work just fine too.</p>
 <p><img src="https://images.ctfassets.net/9e33rgnm1y4m/vkMIFcRPVM1vMNjT6mEa6/2c08b107fbf196ba89614cae4797412f/Screen_Shot_2019-06-01_at_8.07.05_PM.png" alt="Screen Shot 2019-06-01 at 8.07.05 PM" /></p>
 <p><strong>Uploading to Apps</strong>: It's time to select your favorite 6-9 photos depending on the app you're uploading to. If you have the option to have more, include them - you should have plenty of unique photos after your shoot. Often times, I've seen Tinder reject photos because they are too high quality. If you get an error uploading, first try restarting the app, but if this doesn't work, take a screenshot of the actual photo, which will drop the size down a bit enough to upload.</p>
@@ -35,4 +36,3 @@ author: Shane White
 <p><strong>Extra Resources</strong>:</p>
 <p>For help on layering your photos and branding yourself on Instagram, see this [link] (https://www.thematchartist.com/blog/branding-yourself-for-online-dating-with-instagram "Instagram").</p>
 <p>For help getting into photography and taking interesting pictures, see this<span>&nbsp;</span><a href="https://www.thematchartist.com/blog/buying-a-camera" title="Camera">link</a></p>
-</div>

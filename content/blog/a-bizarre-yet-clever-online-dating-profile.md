@@ -2,8 +2,9 @@
 created: 2021-08-18T18:17:40Z
 updated: 2021-11-23T22:58:37Z
 published: 2021-03-28T18:13:00Z
-title: A Bizarre, Yet Clever Online Dating Profile.
+name: A Bizarre, Yet Clever Online Dating Profile.
 seo:
+  title: A Bizarre, Yet Clever Online Dating Profile.
   page_description: >-
     When we started this company, our dedication was to coach facial expressions
     and accurately show how fun and interesting our clients are. As we kept
@@ -39,19 +40,7 @@ So here's John, pretty good looking guy, right?
 
 &nbsp;
 
-![](https://photostma.blob.core.windows.net/web/nice.png)
-
 &nbsp;
-
-![](/marketing/image_&#40;6&#41;.png)
-
-&nbsp;
-
-![](/marketing/IMG_6096.jpeg)
-
-&nbsp;
-
-![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
 ![](/marketing/b99cc0ff985961cb67fa93205962d801-large.jpg)
 

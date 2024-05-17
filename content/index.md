@@ -1,6 +1,7 @@
 ---
-title: Online Dating Photographer
+name: Online Dating Photographer
 seo:
+  title: Online Dating Photographer
   page_description: >-
     We are the only photography company that ONLY specializes in online dating
     photography.
@@ -46,7 +47,8 @@ content_blocks:
       bottom_spacing: 0
     title:
       text: The Match Artist
-      text_color: "#000000"
+      text_color: '#000000'
+      heading_style: h2
       top_spacing: 10
       bottom_spacing: 10
     description:
@@ -89,10 +91,8 @@ content_blocks:
         text_is_quote: false
         quote_author:
       max-width:
+    heading: Go on Better Dates
     text: >-
-      ## Go on Better Dates
-
-
       Our photographers have studied the success of body language and facial
       expressions. They knows how to create eye-catching photos that won’t be
       quickly glanced over. Your new photos will catch more eyes and highlight
@@ -143,10 +143,8 @@ content_blocks:
         text_is_quote: false
         quote_author:
       max-width:
+    heading: Look Confident
     text: >-
-      ## Look Confident
-
-
       If your new photos catch a lady’s eye and highlight your personality, she
       is bound to click on your profile. We tailor your photo experience with us
       to highlight things you enjoy doing most. Whether it’s kayaking, rock
@@ -183,6 +181,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title: The Importance of
     title: Professional Dating Photography
+    heading_style: h2
     paragraphs:
       - text: >-
           One of the most common questions we get is, "Is dating photography a
@@ -260,6 +259,7 @@ content_blocks:
     title:
       text: Sessions available in all major U.S. cities
       text_color: white
+      heading_style: h2
       top_spacing: 120
       bottom_spacing: 30
     description:
@@ -282,6 +282,7 @@ content_blocks:
   - _bookshop_name: markdown-block
     pre_title:
     title: Who needs online dating photography for their online dating profile?
+    heading_style: h2
     paragraphs:
       - text: >-
           Based on what you've read so far, you would assume that everyone needs
@@ -374,6 +375,7 @@ content_blocks:
     title:
       text: We are the online dating experts.
       text_color: white
+      heading_style: h2
       top_spacing: 160
       bottom_spacing:
     description:
@@ -395,13 +397,11 @@ content_blocks:
       bottom_spacing:
   - _bookshop_name: markdown-block
     pre_title:
-    title:
+    title: Dating profile pictures photography - 5 must-have dating photos for
+          success
+    heading_style: h2
     paragraphs:
       - text: >-
-          ## Dating profile pictures photography - 5 must-have dating photos for
-          success
-
-
           Each day we meet with men and women who feel anxious about getting
           back into the dating game. Men and women who have been in a single
           relationship for a long time are often the hardest hit. While we

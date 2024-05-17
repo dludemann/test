@@ -1,6 +1,7 @@
 ---
-title: Press Inquires
+name: Press Inquires
 seo:
+  title: Press Inquires
   page_description: >-
     We've been featured in countless publications. Use our sample logos, and
     design assets to link to us.
@@ -16,6 +17,7 @@ content_blocks:
     text_color: '#FFFFFF'
     pre_title: About The Match Artist
     title: Professional Dating Photography
+    heading_style: h1
     description: >-
       We are a photography company specializing in transforming online dating
       profiles through intriguing photography, facial expression coaching, and

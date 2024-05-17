@@ -1,9 +1,10 @@
 ---
-title: "How To Hack the Hinge Algorithm Get Matches"
+name: "How To Hack the Hinge Algorithm Get Matches"
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Hinge algorithm
+  title: "How To Hack the Hinge Algorithm Get Matches"
+  page_description: A guide to the Hinge algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

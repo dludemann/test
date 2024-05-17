@@ -27,6 +27,8 @@ const cleanSrc = computed(() => {
 
   if (imageSrc) {
     if (isRelative) {
+      if(imageSrc.startsWith("/web"))
+        imageSrc = imageSrc.replace("/web","")
       imageSrc = `${baseURL}${imageSrc}`;
     } else {
       imageSrc = imageSrc

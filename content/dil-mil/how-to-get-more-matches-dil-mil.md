@@ -1,9 +1,10 @@
 ---
-title: "How to Get More Instant Matches on Dil Mil"
+name: "How to Get More Instant Matches on Dil Mil"
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "How to Get More Instant Matches on Dil Mil"
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

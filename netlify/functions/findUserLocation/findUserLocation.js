@@ -45,12 +45,12 @@ exports.handler = async function (event) {
   const userIp = event.headers["x-nf-client-connection-ip"];
 
   // console.log(event.headers);
-  console.log("userIp", userIp);
+  //console.log("userIp", userIp);
   const query = `${base}${userIp}?access_key=${process.env.IPSTACK_API_TOKEN}`;
 
   try {
     const { data } = await axios.get(query);
-    console.log("data", data);
+    //console.log("data", data);
 
     // IP was invalid
     if (data.success && data.success === false) {

@@ -1,8 +1,9 @@
 ---
-title: Blog
+name: Blog
 pagination:
   size: 3
 seo:
+  title: Blog
   page_description: >-
     Read about our process and get online dating advice. We will teach you how to alter your online presence to get more matches.
   canonical_url:
