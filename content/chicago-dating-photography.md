@@ -56,8 +56,6 @@ content_blocks:
       - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
       - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
-      - >-
-        https://photostma.blob.core.windows.net/marketing/shureed-7405361-282.jpeg
       - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
