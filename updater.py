@@ -8,19 +8,29 @@ def replace_description_block(folder_path):
             with open(file_path, 'r') as file:
                 content = file.read()
 
-            # Pattern to capture and replace the description block
-            description_pattern = re.compile(r"description:\s*\n\s*Everything you need to know about the product and billing. Can’t find\n\s*the answer you’re looking for\? Please chat to our friendly team.", re.MULTILINE)
-            new_description_block = """
-description:
-      Have more questions than what you see here? Reach out to our team—we'd
-      love to chat and help however we can.
+            # Pattern to capture and replace the images block
+            images_pattern = re.compile(r"images:\s*\n(\s*- /images/.*\n)+", re.MULTILINE)
+            new_images_block = """
+images:
+      - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
+      - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
+      - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
+      - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
+      - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
+      - https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg
+      - https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg
+      - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
             """
             
-            new_content = description_pattern.sub(new_description_block.strip(), content)
+            content = images_pattern.sub(new_images_block.strip(), content)
             
             # Write back the modified content to the file
             with open(file_path, 'w') as file:
-                file.write(new_content)
+                file.write(content)
+
 
 if __name__ == "__main__":
     folder_path = './content'  # Replace with the path to your folder
