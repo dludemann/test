@@ -40,7 +40,7 @@ content_blocks:
       horizontal_padding: 9
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: image-slider
     background_color: "#090303"
     text_color: "#ffffff"
@@ -97,12 +97,12 @@ content_blocks:
     cta:
       title: Stand Out in the Online Dating Scene
       button:
-        text: Inquire Now
+        text: "Book a Call"
         background_color: "#990800"
       stats: []
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-phone-mockup
     background_color: "#ffffff"
     text_color: "#090303"
@@ -127,7 +127,7 @@ content_blocks:
         text: Have the best chance at finding your life partner
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-list
     title: Custom-tailored, done-for-you photoshoot
     description: >-

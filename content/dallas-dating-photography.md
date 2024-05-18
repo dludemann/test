@@ -37,7 +37,7 @@ content_blocks:
       horizontal_padding: 9
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: image-slider
     background_color: "#090303"
     text_color: "#FFFFFF"
@@ -86,7 +86,7 @@ content_blocks:
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
-        text: Inquire Now
+        text: "Book a Call"
         background_color: "#990800"
       stats:
         - number: 1000
@@ -97,7 +97,7 @@ content_blocks:
           text: Relationships
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-phone-mockup
     background_color: "#FFFFFF"
     text_color: "#090303"
@@ -120,7 +120,7 @@ content_blocks:
         text: Feel more confident
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
     description: >-

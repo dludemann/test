@@ -4,8 +4,8 @@ import fileinput
 import glob
 
 # Define the text to be replaced and the replacement text
-old_text = 'src: /images/location/group-image.webp'
-new_text = 'src: /images/dan-collage.png'
+old_text = 'text: Inquire Now'
+new_text = 'text: "Book a Call"'
 # Get all .md files in the directory
 files = glob.glob('./content/*.md')
 
