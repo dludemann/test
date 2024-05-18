@@ -75,12 +75,13 @@ content_blocks:
       person: Cameron T.
   - _bookshop_name: left-right-quote
     background_color: '#090303'
-    text_color: '#FFFFFF'
+    text_color: '#ffffff'
     location:
       city: Los Angeles
       state: California
     image:
-      src: /web/images/nick-before-after-1.png
+      src: >-
+        https://photostma.blob.core.windows.net/web/images/locations/qC8Aioa4SNaGgdWqFX3L.jpg
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#FFFFFF'
