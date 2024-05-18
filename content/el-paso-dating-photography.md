@@ -73,7 +73,7 @@ content_blocks:
       city: El Paso
       state: Texas
     image:
-      src: /images/work/El Paso-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

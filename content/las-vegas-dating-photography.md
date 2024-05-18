@@ -73,7 +73,7 @@ content_blocks:
       city: Las Vegas
       state: Nevada
     image:
-      src: /images/work/Las Vegas-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

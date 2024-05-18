@@ -73,7 +73,7 @@ content_blocks:
       city: Winston-Salem
       state: North Carolina
     image:
-      src: /images/work/Winston-Salem-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

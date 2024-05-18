@@ -73,7 +73,7 @@ content_blocks:
       city: Fort Wayne
       state: Indiana
     image:
-      src: /images/work/Fort Wayne-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

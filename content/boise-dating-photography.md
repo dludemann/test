@@ -73,7 +73,7 @@ content_blocks:
       city: Boise
       state: Idaho
     image:
-      src: /images/work/Boise-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

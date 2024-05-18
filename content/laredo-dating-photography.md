@@ -73,7 +73,7 @@ content_blocks:
       city: Laredo
       state: Texas
     image:
-      src: /images/work/Laredo-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

@@ -73,7 +73,7 @@ content_blocks:
       city: Tulsa
       state: Oklahoma
     image:
-      src: /images/work/Tulsa-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

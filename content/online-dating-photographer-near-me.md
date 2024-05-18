@@ -70,7 +70,7 @@ content_blocks:
       city: a city
       state: near you
     image:
-      src: /images/work/austin-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

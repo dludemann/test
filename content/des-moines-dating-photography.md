@@ -73,7 +73,7 @@ content_blocks:
       city: Des Moines
       state: Iowa
     image:
-      src: /images/work/Des Moines-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

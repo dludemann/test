@@ -73,7 +73,7 @@ content_blocks:
       city: Greensboro
       state: North Carolina
     image:
-      src: /images/work/Greensboro-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

@@ -73,7 +73,7 @@ content_blocks:
       city: Salt Lake City
       state: Utah
     image:
-      src: /images/work/Salt Lake City-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

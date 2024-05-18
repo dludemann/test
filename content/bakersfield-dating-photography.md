@@ -73,7 +73,7 @@ content_blocks:
       city: Bakersfield
       state: California
     image:
-      src: /images/work/Bakersfield-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

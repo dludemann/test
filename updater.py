@@ -25,4 +25,4 @@ image:
 
 if __name__ == "__main__":
     folder_path = './content'  # Replace with the path to your folder
-    replace_description_block(folder_path)
+    replace_image_block(folder_path)

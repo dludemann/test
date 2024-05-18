@@ -73,7 +73,7 @@ content_blocks:
       city: Long Beach
       state: California
     image:
-      src: /images/work/Long Beach-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

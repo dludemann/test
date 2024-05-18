@@ -72,7 +72,7 @@ content_blocks:
       city: London
       state: Ontario
     image:
-      src: /images/work/London-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"
