@@ -355,6 +355,9 @@ _editables:
     redo: true
     snippet: true
 
+_snippets_imports:
+  mdx: true
+
 _snippets:
   customFooter:
     snippet: :customFooter{[[args]]}
@@ -370,3 +373,5 @@ _snippets:
             - editor_key: title
               type: string
               default: ""
+          format:
+            ref: "mdx_format"
