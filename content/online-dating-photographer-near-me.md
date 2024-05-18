@@ -45,13 +45,17 @@ content_blocks:
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
-      - /images/connor-tma-210.jpg
-      - /images/shureed-7405361-282.jpg
-      - /images/jeff.jpg
-      - /images/shakked-tma-06.jpg
-      - /images/tejesh-tma-0033.jpg
-      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
-      - /images/rohith-tma-2-191.jpg
+      - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
+      - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
+      - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
+      - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
+      - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
+      - https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg
+      - https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg
+      - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
     testimonial:
       text:
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
