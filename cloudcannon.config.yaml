@@ -357,7 +357,7 @@ _editables:
 
 _snippets:
   customFooter:
-    snippet: ':customFooter'
+    snippet: ':customFooter{title="Test" text="Test" img="https://img.com"}'
     inline: false
     preview:
       text: Custom Footer
