@@ -1,8 +1,8 @@
 ---
 name: New York City Dating Photography
 location:
-  city: New York
-  state: City
+  city: New York City
+  state:
 seo:
   title: NYC Online Dating Profile Photographer
   page_description: >-
