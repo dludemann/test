@@ -357,7 +357,7 @@ _editables:
 
 _snippets:
   customFooter:
-    snippet: ':customFooter{title="[[title]]" text="Test" img="https://img.com"}'
+    snippet: ':customFooter{title="[[title_arg]]" text="Test" img="https://img.com"}'
     inline: false
     preview:
       text: Custom Footer
@@ -366,11 +366,11 @@ _snippets:
       title:
         type: text
     params:
-      title:
+      title_arg:
         parser: argument
         options:
           model:
-            editor_key: title
-            type: string
-          style:
-            output: inline
+            editor_key: title_arg
+          format:
+            string_boundary:
+              - ""
