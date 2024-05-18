@@ -1,5 +1,8 @@
 ---
 title: London Ontario Dating Photographer
+location:
+  city: London
+  state: Ontario
 seo:
   page_description: Online Dating Photos in London, Ontario. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
   canonical_url:
@@ -33,7 +36,7 @@ content_blocks:
       horizontal_padding: 9
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: image-slider
     background_color: "#090303"
     text_color: "#FFFFFF"
@@ -44,13 +47,17 @@ content_blocks:
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
     background_image: /images/backgrounds/city-background-detailed.jpeg
     images:
-      - /images/connor-tma-210.jpg
-      - /images/shureed-7405361-282.jpg
-      - /images/jeff.jpg
-      - /images/shakked-tma-06.jpg
-      - /images/tejesh-tma-0033.jpg
-      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
-      - /images/rohith-tma-2-191.jpg
+      - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
+      - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
+      - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
+      - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
+      - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
+      - https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg
+      - https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg
+      - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
     testimonial:
       text:
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
@@ -65,7 +72,7 @@ content_blocks:
       city: London
       state: Ontario
     image:
-      src: /images/work/London-before-after.webp
+      src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"
@@ -79,7 +86,7 @@ content_blocks:
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
-        text: Inquire Now
+        text: "Book a Call"
         background_color: "#990800"
       stats:
         - number: 1000
@@ -90,7 +97,7 @@ content_blocks:
           text: Relationships
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-phone-mockup
     background_color: "#FFFFFF"
     text_color: "#090303"
@@ -113,7 +120,7 @@ content_blocks:
         text: Feel more confident
     button:
       path: "#contact"
-      text: Inquire Now
+      text: "Book a Call"
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
     description:
@@ -132,7 +139,7 @@ content_blocks:
         text: 200-300 edited photos
     button:
       path: "#contact"
-      text: "Inquire now"
+      text: "Book a Call"
     image:
       src: /images/dan-collage.png
       alt:
@@ -141,8 +148,8 @@ content_blocks:
   - _bookshop_name: faq
     title: FAQS
     description:
-      Everything you need to know about the product and billing. Can’t find
-      the answer you’re looking for? Please chat to our friendly team.
+      Have more questions than what you see here? Reach out to our team—we'd
+      love to chat and help however we can.
     faqs:
       - question: Should I hire an online dating photographer?
         answer:
