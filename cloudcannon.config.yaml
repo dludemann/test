@@ -353,3 +353,44 @@ _editables:
     image: true
     undo: true
     redo: true
+    snippets: true
+
+_snippets:
+  customFooter:
+    snippet: ":customFooter{title=[[title]] text=[[text]] img=[[img]]}"
+    inline: false
+    preview:
+      text: Custom Footer
+      icon: view_quilt
+    _inputs:
+      title:
+        type: text
+      text:
+        type: text
+      img:
+        type: image
+    params:
+      title:
+        parser: argument
+        options:
+          model:
+            editor_key: title
+            type: string
+          style:
+            output: inline
+      text:
+        parser: argument
+        options:
+          model:
+            editor_key: text
+            type: string
+          style:
+            output: inline
+      img:
+        parser: argument
+        options:
+          model:
+            editor_key: img
+            type: string
+          style:
+            output: inline
