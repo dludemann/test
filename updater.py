@@ -12,8 +12,8 @@ def replace_description_block(folder_path):
             description_pattern = re.compile(r"description:\s*\n\s*Everything you need to know about the product and billing. Can’t find\n\s*the answer you’re looking for\? Please chat to our friendly team.", re.MULTILINE)
             new_description_block = """
 description:
-  Have more questions than what you see here? Reach out to our team—we'd
-  love to chat and help however we can.
+      Have more questions than what you see here? Reach out to our team—we'd
+      love to chat and help however we can.
             """
             
             new_content = description_pattern.sub(new_description_block.strip(), content)

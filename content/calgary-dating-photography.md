@@ -149,9 +149,9 @@ content_blocks:
       height: 766
   - _bookshop_name: faq
     title: FAQS
-    description: >-
-      Everything you need to know about the product and billing. Can’t find the
-      answer you’re looking for? Please chat to our friendly team.
+    description:
+      Have more questions than what you see here? Reach out to our team—we'd
+      love to chat and help however we can.
     faqs:
       - question: Should I hire an online dating photographer?
         answer: >-

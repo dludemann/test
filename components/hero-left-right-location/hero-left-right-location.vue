@@ -27,10 +27,10 @@ export default {
             {{ block.location.state }}
           </h1>
           <p class="text-white text-[22.5px] font-body leading-[36px]">
-            Elevate your online dating with stunning profile photography.
-            Increase your matches on top dating apps such as Tinder, Hinge,
-            Bumble, and Match.com. Serving {{ block.location.city }},
-            {{ block.location.state }}.
+            Go on better dates with intriguing photography that actually shows
+            off your personality and interests on dating apps like Tinder,
+            Bumble, Hinge, and Match.com. We'll help you custom tailor your
+            profile to who you&apos;re looking to meet.
           </p>
           <a :href="block.button.path">
             <button

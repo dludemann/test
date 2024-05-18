@@ -17,8 +17,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Anchorage
       state: Alaska
@@ -39,11 +39,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire Now
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Anchorage
       state: Alaska
@@ -69,8 +69,8 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Anchorage
       state: Alaska
@@ -79,8 +79,8 @@ content_blocks:
         https://photostma.blob.core.windows.net/marketing/shanefromfargo_A_computer_programmer_in_his_mid_30s_with_brown__bfff5df0-f977-4327-8b06-4922f650fe8f-4.png
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
+      background_color: "#FFFFFF"
+      text_color: "#090303"
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
         matches a week. After getting new high value pictures from The Match
@@ -91,7 +91,7 @@ content_blocks:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Inquire Now
-        background_color: '#990800'
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -103,8 +103,8 @@ content_blocks:
       path: "#contact"
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -141,7 +141,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire now
     image:
       src: /images/dan-collage.png
@@ -151,8 +151,8 @@ content_blocks:
   - _bookshop_name: faq
     title: FAQS
     description: >-
-      Everything you need to know about the product and billing. Can’t find the
-      answer you’re looking for? Please chat to our friendly team.
+      Have more questions than what you see here? Reach out to our team—we'd
+       love to chat and help however we can.
     faqs:
       - question: Should I hire an online dating photographer?
         answer: >-
@@ -180,8 +180,8 @@ content_blocks:
           The'll find all your best angles, help you look natural and deliver
           stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Anchorage, Alaska
     description: >-
       We tailor your photo experience with us to highlight things you enjoy
