@@ -365,10 +365,6 @@ _snippets:
     _inputs:
       title:
         type: text
-      text:
-        type: text
-      img:
-        type: image
     params:
       title:
         parser: argument
@@ -376,21 +372,5 @@ _snippets:
           model:
             editor_key: title
             type: string
-          style:
-            output: inline
-      text:
-        parser: argument
-        options:
-          model:
-            editor_key: text
-            type: string
-          style:
-            output: inline
-      img:
-        parser: argument
-        options:
-          model:
-            editor_key: img
-            type: url
           style:
             output: inline
