@@ -9,7 +9,7 @@ def replace_description_block(folder_path):
                 content = file.read()
 
             # Pattern to capture and replace the images block
-            images_pattern = re.compile(r"images:\s*\n(\s*- /images/.*\n)+", re.MULTILINE)
+            images_pattern = re.compile(r"images:\s*\n((\s*- /images/.*\n)+)(?!\s*- )", re.MULTILINE)
             new_images_block = """
 images:
       - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
@@ -25,11 +25,11 @@ images:
       - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
             """
             
-            content = images_pattern.sub(new_images_block.strip(), content)
+            new_content = images_pattern.sub(new_images_block.strip() + '\n', content)
             
             # Write back the modified content to the file
             with open(file_path, 'w') as file:
-                file.write(content)
+                file.write(new_content)
 
 
 if __name__ == "__main__":
