@@ -365,9 +365,8 @@ _snippets:
     _inputs:
       title:
         type: text
-    params:
-      title_arg:
-        parser: argument
-        options:
-          model:
-            editor_key: title_arg
+    definitions:
+      named_args:
+        - editor_key: title_arg
+          type: string
+          optional: true
