@@ -40,7 +40,7 @@ So here's John, pretty good looking guy, right?
 
 &nbsp;
 
-&nbsp;
+:customFooter{title="Test" text="Test" img="https://img.com"}
 
 ![](/marketing/b99cc0ff985961cb67fa93205962d801-large.jpg)
 
