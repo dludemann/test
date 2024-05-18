@@ -6,9 +6,9 @@ location:
 seo:
   title: NYC Online Dating Profile Photographer
   page_description: >-
-    Online Dating Photos in New York City, New York. Before getting my pics
-    taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+
-    matches every week!
+    Online Dating Photos in New York City. Before getting my pics taken by The
+    Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every
+    week!
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -18,7 +18,7 @@ seo:
 content_blocks:
   - _bookshop_name: hero-left-right-location
     background_color: '#090303'
-    text_color: '#FFFFFF'
+    text_color: '#ffffff'
     location:
       city: New York
       state: City
