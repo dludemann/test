@@ -24,5 +24,5 @@ def process_files(folder_path):
                     file.writelines(new_lines)
 
 if __name__ == "__main__":
-    folder_path = 'path/to/your/markdown/files'  # Replace with the path to your folder
+    folder_path = 'content'  # Replace with the path to your folder
     process_files(folder_path)
