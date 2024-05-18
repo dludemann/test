@@ -373,5 +373,11 @@ _snippets:
             - editor_key: title
               type: string
               default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
           format:
             ref: "mdx_format"
