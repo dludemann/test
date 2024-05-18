@@ -357,16 +357,22 @@ _editables:
 
 _snippets:
   customFooter:
-    snippet: ":customFooter{title=\"[[title_arg]]\" text=\"Test\" img=\"https://img.com\"}"
+    snippet: ":customFooter{[[args]]}"
     inline: false
     preview:
       text: Custom Footer
       icon: view_quilt
-    _inputs:
-      title:
-        type: text
-    definitions:
-      named_args:
-        - editor_key: title_arg
-          type: string
-          optional: true
+    params:
+      args:
+        parser: key_values
+        options:
+          models:
+            - editor_key: title
+              type: string
+              default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
