@@ -62,7 +62,13 @@ The best first message will depend on everyone’s individual circumstances, so 
 
 &nbsp;
 
+::customFooter
+#title
+This is just a test
 
+#paragraph
+This is also a test
+::
 
 <h2 id="tips-for-starting-a-tinder-conversation">Tips for Starting a Tinder Conversation</h2>
 <p dir="ltr">Our best tips for starting a Tinder conversation are to somehow make your match react to your first message. Even something as simple as reacting with GIFs or emojis will mean that they’re engaged!</p>
