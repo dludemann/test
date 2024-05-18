@@ -293,7 +293,7 @@ locations:
     img: /images/locations/ZStRzCuVQSSnGI2mBf8O.jpg
     path: /phoenix-dating-photography
   - location_name: New York City
-    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    img: https://photostma.blob.core.windows.net/web/nyc-skyline.jpg
     path: /new-york-city-dating-photography
   - location_name: Winnipeg
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
