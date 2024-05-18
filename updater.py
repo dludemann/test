@@ -12,17 +12,18 @@ def process_files(folder_path):
                 content = file.read()
 
             # Adjusted pattern to capture the location block more robustly
-            block_pattern = re.compile(r"location:\s*\n\s*city:\s*(?P<city>.*?)\s*\n\s*state:\s*(?P<state>.*?)\s*", re.MULTILINE)
+            block_pattern = re.compile(r"location:\s*\n\s*city:\s*(?P<city>.*?)\s*\n\s*state:\s*(?P<state>.*?)\s*\n", re.MULTILINE)
             match = block_pattern.search(content)
 
             if match:
                 city = match.group('city').strip()
                 state = match.group('state').strip()
 
+
                 new_block = f"""
-                location:
-                    city: {city}
-                    state: {state}
+location:
+  city: {city}
+  state: {state}
                 """
 
                 # Insert the block at line 2
