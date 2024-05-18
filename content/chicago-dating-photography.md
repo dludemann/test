@@ -14,8 +14,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Chicago
       state: Illinois
@@ -36,11 +36,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire Now
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Chicago
       state: Illinois
@@ -70,8 +70,8 @@ content_blocks:
         really great girls. The results truly speak for themselves."
       person: Cameron T
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Chicago
       state: Illinois
@@ -79,8 +79,8 @@ content_blocks:
       src: /web/images/nick-before-after-1.png
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#ffffff'
-      text_color: '#090303'
+      background_color: "#ffffff"
+      text_color: "#090303"
       text: >-
         I was hesitant to invest in what I thought were glorified glamour shots,
         and worried that the results would be a little cheesy... but I was also
@@ -95,14 +95,14 @@ content_blocks:
       title: Stand Out in the Online Dating Scene
       button:
         text: Inquire Now
-        background_color: '#990800'
+        background_color: "#990800"
       stats: []
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire Now
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#ffffff'
-    text_color: '#090303'
+    background_color: "#ffffff"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -123,7 +123,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: Have the best chance at finding your life partner
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire Now
   - _bookshop_name: left-right-list
     title: Custom-tailored, done-for-you photoshoot
@@ -140,7 +140,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: Guaranteed more matches
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire now
     image:
       src: /images/dan-collage.png
@@ -186,8 +186,8 @@ content_blocks:
           find all your best angles, help you look natural, and deliver enough
           photos to fill up your dating profile and then some.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Chicago, Illinois
     description: >-
       We tailor your photo experience with us to highlight things you enjoy

@@ -1,5 +1,8 @@
 ---
 name:
+location:
+  city:
+  state:
 seo:
   title:
   page_description:
