@@ -1,5 +1,8 @@
 ---
 name: Jersey City Dating Photography
+location:
+  city: Jersey City
+  state: New Jersey
 seo:
   title: Jersey City Dating Photography
   page_description: Online Dating Photos in Jersey City, New Jersey. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

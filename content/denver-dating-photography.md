@@ -1,5 +1,8 @@
 ---
 name: Dating Photographer Denver
+location:
+  city: Denver
+  state: Colorado
 seo:
   title: Dating Photographer Denver
   page_description: Online Dating Photos in Denver, Colorado. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

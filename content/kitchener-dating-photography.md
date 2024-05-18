@@ -1,5 +1,8 @@
 ---
 name: Kitchener Dating Photography
+location:
+  city: Kitchener
+  state: Ontario
 seo:
   title: Kitchener Dating Photography
   page_description: Online Dating Photos in Kitchener, Ontario. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

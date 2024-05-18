@@ -1,5 +1,8 @@
 ---
 name: Cleveland Dating Photography
+location:
+  city: Cleveland
+  state: Tennessee
 seo:
   title: Cleveland Dating Photography
   page_description: Online Dating Photos in Cleveland, Tennessee. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

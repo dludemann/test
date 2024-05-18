@@ -1,5 +1,8 @@
 ---
 name: Waco Dating Photographer
+location:
+  city: Waco
+  state: Texas
 seo:
   title: Waco Dating Photographer
   page_description: Online Dating Photos in Waco, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

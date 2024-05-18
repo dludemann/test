@@ -1,5 +1,8 @@
 ---
 name: Long Beach Dating Photography
+location:
+  city: Long Beach
+  state: California
 seo:
   title: Long Beach Dating Photography
   page_description: Online Dating Photos in Long Beach, California. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

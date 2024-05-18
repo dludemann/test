@@ -1,5 +1,8 @@
 ---
 name: Sacramento Dating Photography
+location:
+  city: Sacramento
+  state: California
 seo:
   title: Sacramento Dating Photography
   page_description: Online Dating Photos in Sacramento, California. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

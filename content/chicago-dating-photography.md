@@ -1,5 +1,8 @@
 ---
 name: Chicago Dating Photography
+location:
+  city: Chicago
+  state: Illinois
 seo:
   title: Chicago Dating Photography
   page_description: >-
@@ -149,7 +152,7 @@ content_blocks:
       height: 766
   - _bookshop_name: faq
     title: FAQ
-    description: >-
+    description:
       Have more questions than what you see here? Reach out to our team—we'd
       love to chat and help however we can.
     faqs:

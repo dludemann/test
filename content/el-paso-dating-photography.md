@@ -1,5 +1,8 @@
 ---
 name: El Paso Dating Photography
+location:
+  city: El Paso
+  state: Texas
 seo:
   title: El Paso Dating Photography
   page_description: Online Dating Photos in El Paso, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

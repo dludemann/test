@@ -1,5 +1,8 @@
 ---
 name: Hamilton Dating Photography
+location:
+  city: Hamilton
+  state: Ontario
 seo:
   title: Hamilton Dating Photography
   page_description: >-

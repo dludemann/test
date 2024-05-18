@@ -1,5 +1,8 @@
 ---
 name: Sioux Falls Dating Photography
+location:
+  city: Sioux Falls
+  state: South Dakota
 seo:
   title: Sioux Falls Dating Photography
   page_description: Online Dating Photos in Sioux Falls, South Dakota. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

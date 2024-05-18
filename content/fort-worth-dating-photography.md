@@ -1,5 +1,8 @@
 ---
 name: Fort Worth Dating Photography
+location:
+  city: Fort Worth
+  state: Texas
 seo:
   title: Fort Worth Dating Photography
   page_description: Online Dating Photos in Fort Worth, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

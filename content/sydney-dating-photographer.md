@@ -1,5 +1,8 @@
 ---
 name: Sydney Dating Photographer
+location:
+  city: Baton Rouge
+  state: Louisiana
 seo:
   title: Sydney Dating Photographer
   page_description: >-

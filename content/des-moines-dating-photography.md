@@ -1,5 +1,8 @@
 ---
 name: Des Moines Dating Photography
+location:
+  city: Des Moines
+  state: Iowa
 seo:
   title: Des Moines Dating Photography
   page_description: Online Dating Photos in Des Moines, Iowa. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

@@ -1,5 +1,8 @@
 ---
 name: San Jose Dating Photography
+location:
+  city: San Jose
+  state: California
 seo:
   title: San Jose Dating Photography
   page_description: Online Dating Photos in San Jose, California. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

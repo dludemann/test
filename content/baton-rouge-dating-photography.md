@@ -1,5 +1,8 @@
 ---
 name: Baton Rouge Dating Photography
+location:
+  city: Baton Rouge
+  state: Louisiana
 seo:
   title: Baton Rouge Dating Photography
   page_description: Online Dating Photos in Baton Rouge, Louisiana. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

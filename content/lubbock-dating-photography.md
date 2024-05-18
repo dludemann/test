@@ -1,5 +1,8 @@
 ---
 name: Lubbock Dating Photography
+location:
+  city: Lubbock
+  state: Texas
 seo:
   title: Lubbock Dating Photography
   page_description: Online Dating Photos in Lubbock, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

@@ -1,5 +1,8 @@
 ---
 name: Anchorage Dating Photography
+location:
+  city: Anchorage
+  state: Alaska
 seo:
   title: Anchorage Dating Photography
   page_description: >-

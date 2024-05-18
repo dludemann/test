@@ -1,5 +1,8 @@
 ---
 name: Calgary Dating Photography
+location:
+  city: Calgary
+  state: Alberta
 seo:
   title: Calgary Dating Photography
   page_description: >-
@@ -18,7 +21,7 @@ content_blocks:
     text_color: "#ffffff"
     location:
       city: Calgary
-      state:
+      state: Alberta
     image:
       src: /images/rohit5.jpg
       alt: Photo of Brian on a black background

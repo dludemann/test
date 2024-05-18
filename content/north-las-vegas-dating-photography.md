@@ -1,5 +1,8 @@
 ---
 name: North Las Vegas Dating Photography
+location:
+  city: North Las Vegas
+  state: Nevada
 seo:
   title: North Las Vegas Dating Photography
   page_description: Online Dating Photos in North Las Vegas, Nevada. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

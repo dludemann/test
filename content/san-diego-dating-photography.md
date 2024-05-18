@@ -1,5 +1,8 @@
 ---
 name: San Diego Dating Photography
+location:
+  city: San Diego
+  state: California
 seo:
   title: San Diego Dating Photography
   page_description: Online Dating Photos in San Diego, California. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

@@ -1,5 +1,8 @@
 ---
 name: Washington D.C. Dating Photographer
+location:
+  city: Washington
+  state: District of Columbia
 seo:
   title: Washington D.C. Dating Photographer
   page_description: Online Dating Photos in Washington, District of Columbia. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

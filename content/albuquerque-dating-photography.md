@@ -1,5 +1,8 @@
 ---
 name: Albuquerque Dating Photography
+location:
+  city: Albuquerque
+  state: New Mexico
 seo:
   title: Albuquerque Dating Photography
   page_description: >-

@@ -1,5 +1,8 @@
 ---
 name: Philadelphia Dating Photography
+location:
+  city: Philadelphia
+  state: Pennsylvania
 seo:
   title: hiladelphia Dating Photography
   page_description: Online Dating Photos in Philadelphia, Pennsylvania. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

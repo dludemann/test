@@ -1,5 +1,8 @@
 ---
 name: Corpus Christi Dating Photography
+location:
+  city: Corpus Christi
+  state: Texas
 seo:
   title: Corpus Christi Dating Photography
   page_description: Online Dating Photos in Corpus Christi, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

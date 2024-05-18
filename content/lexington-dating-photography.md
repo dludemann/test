@@ -1,5 +1,8 @@
 ---
 name: Lexington Dating Photography
+location:
+  city: Lexington
+  state: Kentucky
 seo:
   title: Lexington Dating Photography
   page_description: Online Dating Photos in Lexington, Kentucky. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

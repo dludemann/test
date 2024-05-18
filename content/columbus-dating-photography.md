@@ -1,5 +1,8 @@
 ---
 name: Columbus Dating Photography
+location:
+  city: Columbus
+  state: Georgia
 seo:
   title: Columbus Dating Photography
   page_description: Online Dating Photos in Columbus, Georgia. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

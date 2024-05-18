@@ -1,5 +1,8 @@
 ---
 name: Louisville Dating Photography
+location:
+  city: Louisville
+  state: Kentucky
 seo:
   title: Louisville Dating Photography
   page_description: Online Dating Photos in Louisville, Kentucky. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!

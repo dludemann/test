@@ -1,5 +1,8 @@
 ---
 name: Garland Dating Photography
+location:
+  city: Garland
+  state: Texas
 seo:
   title: Garland Dating Photography
   page_description: Online Dating Photos in Garland, Texas. Before getting my pics taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every week!
