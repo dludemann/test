@@ -1,11 +1,10 @@
 ---
-name: "Best Hinge Prompts for Men Women in 2023"
+name: Best Hinge Prompts for Men & Women in 2024
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
 seo:
-  title: "Best Hinge Prompts for Men Women in 2023"
-  page_description: >- 
-    A guide to the Hinge algorithm
+  title: Best Hinge Prompts for Men and Women in 2024
+  page_description: A guide to the Hinge algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -13,7 +12,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p>If you’re on Hinge then you’ll know that unlike other dating apps — such as Tinder or Bumble — Hinge doesn’t ask you to fill out your profile in quite the same way. </p>
 <p></p>
 <p>While users will still need to add a name, location, and a minimum of six photos to their profiles, their bio is revealed through a series of interview-type questions: known as Prompts.</p>
