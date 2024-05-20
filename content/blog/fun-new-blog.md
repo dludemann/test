@@ -14,10 +14,11 @@ tags:
   - blog
 author:
 thumbImg:
-  image:
+  image: >-
+    https://photostma.blob.core.windows.net/web/screenshot-2024-03-25-at-12-21-52-pm.png
   image_alt:
 featuredImg:
-  image:
+  image: https://photostma.blob.core.windows.net/web/nyc-skyline.jpg
   image_alt:
 ---
 This is a new blog post
