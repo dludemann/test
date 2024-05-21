@@ -1,6 +1,9 @@
 <script>
 export default {
   props: ["image", "city", "state"],
+  mounted: function () {
+    console.log("this", this);
+  },
 };
 </script>
 
@@ -286,7 +289,7 @@ export default {
             x="50%"
             y="128"
           >
-            {{ city || "Austin" }}, {{ state || "TX" }}
+            {{ city }} {{ state && `, ${state}` }}
           </text>
           <path
             d="M119.836 80.5857H94.388C85.1247 80.5857 77.6152 88.0951 77.6152 97.3585V122.807C77.6152 132.07 85.1247 139.579 94.388 139.579H119.836C129.1 139.579 136.609 132.07 136.609 122.807V97.3585C136.609 88.0951 129.1 80.5857 119.836 80.5857Z"
