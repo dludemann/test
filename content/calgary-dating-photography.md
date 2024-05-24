@@ -78,8 +78,12 @@ content_blocks:
     location:
       city: Calgary
       state: Alberta
+    
     image:
-      src: /web/images/nick-before-after-1.png
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
+    image2:
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg
+
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"

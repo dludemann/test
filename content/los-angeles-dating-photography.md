@@ -17,8 +17,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Los Angeles
       state: California
@@ -39,11 +39,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Los Angeles
       state: California
@@ -74,18 +74,20 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Los Angeles
       state: California
     image:
-      src: >-
-        https://photostma.blob.core.windows.net/web/images/locations/qC8Aioa4SNaGgdWqFX3L.jpg
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
+    image2:
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg
+
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
+      background_color: "#FFFFFF"
+      text_color: "#090303"
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
         matches a week. After getting new high value pictures from The Match
@@ -96,7 +98,7 @@ content_blocks:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Book a Call
-        background_color: '#990800'
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -105,11 +107,11 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -128,7 +130,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
@@ -146,7 +148,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
     image:
       src: /images/dan-collage.png
@@ -180,8 +182,8 @@ content_blocks:
           guidance on outfit choices that complement your style and the desired
           aesthetic of your photos.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Los Angeles, California
     description: >-
       We tailor your photo experience with us to highlight things you enjoy

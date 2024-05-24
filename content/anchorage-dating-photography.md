@@ -79,8 +79,10 @@ content_blocks:
       city: Anchorage
       state: Alaska
     image:
-      src: >-
-        https://photostma.blob.core.windows.net/marketing/shanefromfargo_A_computer_programmer_in_his_mid_30s_with_brown__bfff5df0-f977-4327-8b06-4922f650fe8f-4.png
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
+    image2:
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg
+
     title: Transform Your Online Dating Profile
     quote:
       background_color: "#FFFFFF"
