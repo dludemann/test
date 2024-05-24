@@ -16,6 +16,8 @@ blueprint:
     state: Texas
   image:
     src: /images/work/austin-before-after.webp
+  image2:
+    src: /images/work/austin-before-after.webp
   title: Transform Your Online Dating Profile
   quote:
     background_color: "#FFFFFF"

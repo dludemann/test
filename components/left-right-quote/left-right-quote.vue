@@ -14,23 +14,51 @@ export default {
     }"
   >
     <div
-      class="max-w-[1200px] mx-auto rounded-[8px] py-10 px-6 lg:px-[64px] flex flex-col lg:flex-row justify-between gap-8"
+      class="max-w-[1200px] mx-auto rounded-[8px] py-10 px-6 lg:px-[64px] flex flex-col lg:flex-row justify-between gap-24"
       :style="{
         'background-color': block.quote.background_color,
         color: block.quote.text_color,
       }"
     >
-      <tma-image
-        class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
-        :src="block.image.src"
-        :alt="block.image.alt"
-      />
+      <div class="flex w-[500px] flex-shrink-0 items-end space-x-10">
+        <!-- Before -->
+        <div class="max-w-[190px] w-full relative">
+          <tma-image
+            class="h-[270px] w-full object-cover self-center rounded-sm"
+            :src="block.image.src"
+            :alt="block.image.alt"
+          />
+          <div
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm bottom-[90px] -left-4"
+          >
+            BEFORE
+          </div>
+          <ul class="list-disc list-inside mt-4 text-gray-700 space-y-1">
+            <li>Few photos</li>
+            <li>Few matches</li>
+            <li>Few dates</li>
+          </ul>
+        </div>
+        <!-- After -->
+        <div class="max-w-[300px] w-full relative">
+          <tma-image
+            class="h-[400px] w-full object-cover self-center rounded-sm"
+            :src="block.image2.src"
+            :alt="block.image2.alt"
+          />
+          <div
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm bottom-[90px] -left-4"
+          >
+            AFTER
+          </div>
+          <ul class="list-disc list-inside mt-4 text-gray-700 space-y-1">
+            <li>Feel confident</li>
+            <li>Get more matches</li>
+            <li>Go on better dates</li>
+          </ul>
+        </div>
+      </div>
 
-      <!--  <tma-image
-        class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
-        src="/images/work/austin-before-after.webp"
-        :alt="block.image.alt"
-      /> -->
       <div>
         <p class="text-primary-500 font-bold mb-0">
           DATING PHOTOGRAPHY IN {{ block.location.city.toUpperCase() }}
