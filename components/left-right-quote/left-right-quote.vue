@@ -20,38 +20,44 @@ export default {
         color: block.quote.text_color,
       }"
     >
-      <div class="flex w-[500px] flex-shrink-0 items-end space-x-10">
+      <div
+        class="flex flex-col gap-2 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-end space-x-10"
+      >
         <!-- Before -->
-        <div class="max-w-[190px] w-full relative">
+        <div class="md:max-w-[190px] w-full relative">
           <tma-image
-            class="h-[270px] w-full object-cover self-center rounded-sm"
+            class="h-[400px] md:h-[270px] w-full object-cover self-center rounded-sm"
             :src="block.image.src"
             :alt="block.image.alt"
           />
           <div
-            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm bottom-[90px] -left-4"
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[90px] md:-left-4"
           >
             BEFORE
           </div>
-          <ul class="list-disc list-inside mt-4 text-gray-700 space-y-1">
+          <ul
+            class="list-disc list-inside mt-4 text-gray-700 space-y-1 hidden md:block"
+          >
             <li>Few photos</li>
             <li>Few matches</li>
             <li>Few dates</li>
           </ul>
         </div>
         <!-- After -->
-        <div class="max-w-[300px] w-full relative">
+        <div class="md:max-w-[300px] w-full relative">
           <tma-image
-            class="h-[400px] w-full object-cover self-center rounded-sm"
+            class="h-[400px] md:h-[400px] w-full object-cover self-center rounded-sm"
             :src="block.image2.src"
             :alt="block.image2.alt"
           />
           <div
-            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm bottom-[90px] -left-4"
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[90px] md:-left-4"
           >
             AFTER
           </div>
-          <ul class="list-disc list-inside mt-4 text-gray-700 space-y-1">
+          <ul
+            class="list-disc list-inside mt-4 text-gray-700 space-y-1 hidden md:block"
+          >
             <li>Feel confident</li>
             <li>Get more matches</li>
             <li>Go on better dates</li>
