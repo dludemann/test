@@ -19,7 +19,8 @@ thumbImg:
     https://photostma.blob.core.windows.net/web/thematchartist_online_dating_eb0fa8a8-7d51-4f9b-b286-8ceffcd7c9d6.png
   image_alt:
 featuredImg:
-  image:
+  image: >-
+    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_eb0fa8a8-7d51-4f9b-b286-8ceffcd7c9d6.png
   image_alt:
 ---
 # Tinder Ban Workaround: An Ultimate Guide in 2024
