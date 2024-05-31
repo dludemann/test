@@ -13,9 +13,7 @@ tags:
   - blog
 author:
 summary:
-thumbImg:
-  image:
-  image_alt:
+
 featuredImg:
   image:
   image_alt:
