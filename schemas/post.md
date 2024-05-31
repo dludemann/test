@@ -12,6 +12,7 @@ seo:
 tags:
   - blog
 author:
+summary:
 thumbImg:
   image:
   image_alt:
