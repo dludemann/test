@@ -1,12 +1,13 @@
 ---
 _schema: blog_post
-date:
+date: 2024-05-28T00:00:00Z
 name: What You Should 100% NOT Do on Tinder  (16 Tips)
 seo:
   title: What You Should 100% NOT Do on Tinder  (16 Tips)
   page_description:
   canonical_url:
-  featured_image:
+  featured_image: >-
+    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_in_a_big_city_4b0a58b8-4619-49be-b129-d8b788733b5c.png
   author_twitter_handle:
   open_graph_type: article
   no_index: false
