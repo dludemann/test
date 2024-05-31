@@ -1,12 +1,13 @@
 ---
 _schema: blog_post
-date:
+date: 2024-05-30T00:00:00Z
 name: 'Tinder Ban Workaround: An Ultimate Guide in 2024'
 seo:
   title: 'Tinder Ban Workaround: An Ultimate Guide in 2024'
   page_description:
   canonical_url:
-  featured_image:
+  featured_image: >-
+    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_eb0fa8a8-7d51-4f9b-b286-8ceffcd7c9d6.png
   author_twitter_handle:
   open_graph_type: article
   no_index: false
@@ -14,7 +15,8 @@ tags:
   - blog
 author:
 thumbImg:
-  image:
+  image: >-
+    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_eb0fa8a8-7d51-4f9b-b286-8ceffcd7c9d6.png
   image_alt:
 featuredImg:
   image:
