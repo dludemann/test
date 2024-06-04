@@ -29,7 +29,7 @@ collections_config:
     icon: add_chart
   pages:
     path: content
-    url: '/[full_slug]/'
+    url: "/[full_slug]/"
     output: true
     icon: cottage
     _enabled_editors:
@@ -48,7 +48,7 @@ collections_config:
   blog:
     path: content/blog
     output: true
-    url: '/blog/[slug]/'
+    url: "/blog/[slug]/"
     icon: event_available
     _enabled_editors:
       - content
@@ -57,7 +57,7 @@ collections_config:
       blog_post:
         name: New Blog Post
         path: schemas/post.md
-        hide_extra_inputs: false
+        hide_extra_inputs: true
         remove_extra_inputs: false
     disable_add_folder: true
     add_options:
@@ -67,9 +67,9 @@ collections_config:
     preview:
       text:
         - key: name
-        - 'Blog Post'
+        - "Blog Post"
       icon:
-        - 'rss_feed'
+        - "rss_feed"
       subtext:
         - key: author
       gallery:
@@ -80,7 +80,7 @@ collections_config:
       summary:
         type: textarea
       featured_image_alt:
-        hidden: '!featured_image'
+        hidden: "!featured_image"
       created:
         type: date
       updated:
@@ -90,7 +90,7 @@ collections_config:
   portfolio:
     path: content/portfolio/
     output: true
-    url: '/portfolio/[slug]/'
+    url: "/portfolio/[slug]/"
     icon: burst_mode
     _enabled_editors:
       - visual
@@ -111,9 +111,9 @@ collections_config:
       horizontal_gap:
         type: number
       brightness:
-        hidden: '!src'
+        hidden: "!src"
       position:
-        hidden: '!src'
+        hidden: "!src"
       column_one:
         type: array
       column_one[*]:
@@ -127,11 +127,11 @@ collections_config:
       column_three[*]:
         type: image
       hero_image_filters:
-        hidden: '!hero_image'
+        hidden: "!hero_image"
   tinder:
     path: content/tinder
     output: true
-    url: '/tinder/[slug]/'
+    url: "/tinder/[slug]/"
     icon: local_fire_department
     _enabled_editors:
       - visual
@@ -161,7 +161,7 @@ collections_config:
   hinge:
     path: content/hinge
     output: true
-    url: '/hinge/[slug]/'
+    url: "/hinge/[slug]/"
     icon: diversity_1
     _enabled_editors:
       - visual
@@ -191,7 +191,7 @@ collections_config:
   dilmil:
     path: content/dil-mil
     output: true
-    url: '/dil-mil/[slug]/'
+    url: "/dil-mil/[slug]/"
     icon: favorite
     _enabled_editors:
       - visual
@@ -221,7 +221,7 @@ collections_config:
   bumble:
     path: content/bumble
     output: true
-    url: '/bumble/[slug]/'
+    url: "/bumble/[slug]/"
     icon: emoji_nature
     _enabled_editors:
       - visual

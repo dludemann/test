@@ -1,8 +1,5 @@
 ---
 _schema: blog_post
-# created: 2023-09-26T15:05:32Z
-# updated: 2023-09-26T21:06:18Z
-# published: 2023-09-26T14:26:00Z
 name: What does Tinder Select get you for $500 a month?
 seo:
   title: What does Tinder Select get you for $500 a month?
@@ -18,7 +15,6 @@ summary: >-
   month and is geared toward a highly select audience. Two times a week you can
   send a message without matching with that particular person. If you like
   someone and they don't have any premium version of Tinder, ...
-
 author: Nick Friesen
 featuredImg:
   image: >-
