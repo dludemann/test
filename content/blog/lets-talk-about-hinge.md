@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-11-24T20:28:31.250475Z'
 # updated: '2021-11-24T20:28:31.269933Z'
-# published: '2021-11-24T20:21:00Z'
+published: "2021-11-24T20:21:00Z"
 name: Let's Talk About Hinge
 seo:
   title: Let's Talk About Hinge

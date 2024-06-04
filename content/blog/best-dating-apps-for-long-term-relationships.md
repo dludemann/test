@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2023-08-01T13:37:39.994525Z'
 # updated: '2023-08-01T13:49:04.861900Z'
-# published: '2023-08-01T13:03:00Z'
+published: "2023-08-01T13:03:00Z"
 name: Best Dating Apps for Long Term Relationships
 seo:
   title: Best Dating Apps for Long Term Relationships

@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2022-08-05T20:56:39.679296Z'
 # updated: '2022-08-15T19:08:03.073526Z'
-# published: '2022-08-05T20:50:00Z'
+published: "2022-08-05T20:50:00Z"
 name: Best Bumble Profiles for Men
 seo:
   title: Best Bumble Profiles for Men

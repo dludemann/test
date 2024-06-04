@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-08-18T18:07:40.846280Z'
 # updated: '2021-08-18T18:10:50.193270Z'
-# published: '2021-03-28T18:02:00Z'
+published: "2021-03-28T18:02:00Z"
 name: "The Smirk: How We Coach Expressions to Look Alive"
 seo:
   title: "The Smirk: How We Coach Expressions to Look Alive"

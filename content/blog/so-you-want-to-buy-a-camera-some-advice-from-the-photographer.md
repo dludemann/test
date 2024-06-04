@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-11-24T20:38:09.281019Z'
 # updated: '2021-11-24T20:38:09.309203Z'
-# published: '2019-06-01T19:36:00Z'
+published: "2019-06-01T19:36:00Z"
 name: So You Want to Buy a Camera? Some Advice from the Photographer
 seo:
   title: So You Want to Buy a Camera? Some Advice from the Photographer

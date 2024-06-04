@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2022-01-25T15:02:25.697477Z'
 # updated: '2022-01-25T15:02:25.710934Z'
-# published: '2022-01-25T15:00:00Z'
+published: "2022-01-25T15:00:00Z"
 name: Buying a Camera
 seo:
   title: Buying a Camera

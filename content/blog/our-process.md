@@ -3,7 +3,7 @@ _schema: blog_post
 
 # created: '2022-02-12T15:34:38.778093Z'
 # updated: '2022-06-19T20:42:22.145495Z'
-# published: '2022-02-12T15:33:00Z'
+published: "2022-02-12T15:33:00Z"
 name: Our Process
 seo:
   title: Our Process

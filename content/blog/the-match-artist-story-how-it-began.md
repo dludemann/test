@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-11-24T20:32:07.632178Z'
 # updated: '2021-11-24T20:32:07.650869Z'
-# published: '2020-06-27T19:30:00Z'
+published: "2020-06-27T19:30:00Z"
 name: "The Match Artist Story: How it Began"
 seo:
   title: "The Match Artist Story: How it Began"

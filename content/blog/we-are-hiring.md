@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-07-26T20:59:23.086474Z'
 # updated: '2022-06-19T20:45:51.681522Z'
-# published: '2021-06-29T20:52:00Z'
+published: "2021-06-29T20:52:00Z"
 name: We are hiring!
 seo:
   title: We are hiring!

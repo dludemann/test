@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2021-11-24T20:35:41.097089Z'
 # updated: '2021-11-24T20:35:41.122124Z'
-# published: '2021-11-24T20:33:00Z'
+published: "2021-11-24T20:33:00Z"
 name: I Have My Photos, Now What?
 seo:
   title: I Have My Photos, Now What?

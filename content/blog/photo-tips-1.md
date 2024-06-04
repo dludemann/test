@@ -2,7 +2,7 @@
 _schema: blog_post
 # created: '2022-08-05T20:38:13.394835Z'
 # updated: '2022-08-05T20:47:43.884655Z'
-# published: '2022-08-05T20:36:00Z'
+published: "2022-08-05T20:36:00Z"
 name: "Photo Tips #1"
 seo:
   title: "Photo Tips #1"
