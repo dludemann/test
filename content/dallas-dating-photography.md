@@ -17,8 +17,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
@@ -39,11 +39,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#ffffff'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Dallas
       state: Texas
@@ -74,12 +74,12 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
-    
+
     image:
       src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
     image2:
@@ -87,19 +87,23 @@ content_blocks:
 
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
-      text: >-
-        Before getting pics taken by The Match Artist, I was getting 2-3 tinder
-        matches a week. After getting new high value pictures from The Match
-        Artist and tweaking my bio I was getting over 5 matches per day with
-        really great girls. The results truly speak for themselves.
+      background_color: "#FFFFFF"
+      text_color: "#090303"
+      text:
+        I was hesitant to invest in what I thought were glorified glamour shots,
+        and worried that the results would be a little cheesy... but I was also
+        fed up with hours of mediocre results with my mirror selfies and cropped
+        group photos... I was intimidated going into it but that was immediately
+        alleviated. They did a great job of making me relaxed, comfortable, and
+        confident.  And the results... WOW! Way more matches and likes, but the
+        increase in the follow-through rate was the noticeable difference. No
+        more expired Bumble matches waiting for that first outreach!
       person: Cameron T
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
         text: Book a Call
-        background_color: '#990800'
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -108,11 +112,11 @@ content_blocks:
         - number: 250
           text: Relationships
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -131,7 +135,7 @@ content_blocks:
       - icon: /icons/gold-star.svg
         text: Feel more confident
     button:
-      path: '#contact'
+      path: "#contact"
       text: Book a Call
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
@@ -149,7 +153,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire now
     image:
       src: /images/dan-collage.png
@@ -162,7 +166,7 @@ content_blocks:
       Have more questions than what you see here? Reach out to our team—we'd
       love to chat and help however we can.
     faqs:
-      - question: ' Can I use photos from my dating profile for other professional online profiles?'
+      - question: " Can I use photos from my dating profile for other professional online profiles?"
         answer: >-
           Yes, you can use photos from your dating profile for other
           professional online profiles. Using high-quality photos like those
@@ -178,7 +182,7 @@ content_blocks:
           Dallas skyline, perfect for a casual and relaxed photoshoot. For those
           looking for a more artistic backdrop, the Dallas Arts District
           features striking architecture and public art installations that can
-          add a sophisticated touch to your photos. 
+          add a sophisticated touch to your photos.
       - question: Why hire an online dating photographer?
         answer: >-
           Because every online dating app prioritizes photos. You could look
@@ -192,8 +196,8 @@ content_blocks:
           The'll find all your best angles, help you look natural and deliver
           stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Dallas, Texas
     description: >-
       We tailor your photo experience with us to highlight things you enjoy
