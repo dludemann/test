@@ -18,7 +18,35 @@ export default defineNuxtConfig({
           type: "text/javascript",
           body: true,
         },
+        {
+          hid: "facebook-pixel",
+          innerHTML: `
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '2783252915148719');
+          fbq('track', 'PageView');
+        `,
+          type: "text/javascript",
+          charset: "utf-8",
+        },
       ],
+      noscript: [
+        {
+          hid: "facebook-pixel-noscript",
+          innerHTML: `<img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=2783252915148719&ev=PageView&noscript=1" />`,
+        },
+      ],
+      __dangerouslyDisableSanitizersByTagID: {
+        "facebook-pixel": ["innerHTML"],
+        "facebook-pixel-noscript": ["innerHTML"],
+      },
       link: [
         { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico" },
         { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
@@ -43,12 +71,12 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@nuxt/image",
     "nuxt-swiper",
-    "@nuxtjs/robots"
+    "@nuxtjs/robots",
   ],
-  nitro:{
+  nitro: {
     prerender: {
-      failOnError: false
-    }
+      failOnError: false,
+    },
   },
   components: {
     global: true,
@@ -65,5 +93,5 @@ export default defineNuxtConfig({
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ["@/assets/style/main.scss", "@/assets/css/editor.css"],
-  telemetry: false
+  telemetry: false,
 });
