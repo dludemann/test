@@ -19,6 +19,8 @@ featuredImg:
   image: >-
     https://photostma.blob.core.windows.net/web/images/blog/WRmRUhggQ3GztIXbhhtM.jpg
   image_alt:
+tags:
+  - blog
 ---
 
 <h1 class="primary-title text-left">So You Want to Buy a Camera? Some Advice from the Photographer</h1>
