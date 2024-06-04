@@ -1,23 +1,24 @@
 ---
-created: '2021-11-24T20:32:07.632178Z'
-updated: '2021-11-24T20:32:07.650869Z'
-published: '2020-06-27T19:30:00Z'
-name: 'The Match Artist Story: How it Began'
+_schema: blog_post
+# created: '2021-11-24T20:32:07.632178Z'
+# updated: '2021-11-24T20:32:07.650869Z'
+# published: '2020-06-27T19:30:00Z'
+name: "The Match Artist Story: How it Began"
 seo:
-  title: 'The Match Artist Story: How it Began'
+  title: "The Match Artist Story: How it Began"
   page_description: >-
     Many are surprised that our business exists, others are excited intrigued and tell us it's a brilliant idea. It all started about a year and a half ago, but it had been unknowingly in the making for a number of years prior. Here's a photo of us at our first paid shoot.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   Many are surprised that our business exists, others are excited intrigued and tell us it's a brilliant idea. It all started about a year and a half ago, but it had been unknowingly in the making for a number of years prior. Here's a photo of us at our first paid shoot.
-featured_image: /images/blog/ziOir4hqQler1YvBg8qw.jpg
-featured_image_alt: Shane and Nick Founders of The Match Artist
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/ziOir4hqQler1YvBg8qw.jpg
+  image_alt: Shane and Nick Founders of The Match Artist
 ---
 
 <p>It's Nick here: The Match Artist photographer.</p>

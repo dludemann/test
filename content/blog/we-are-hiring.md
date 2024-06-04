@@ -1,23 +1,24 @@
 ---
-created: '2021-07-26T20:59:23.086474Z'
-updated: '2022-06-19T20:45:51.681522Z'
-published: '2021-06-29T20:52:00Z'
+_schema: blog_post
+# created: '2021-07-26T20:59:23.086474Z'
+# updated: '2022-06-19T20:45:51.681522Z'
+# published: '2021-06-29T20:52:00Z'
 name: We are hiring!
 seo:
   title: We are hiring!
   page_description: >-
     The Match Artist is seeking a part or full time photographer to join our fast growing company.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   The Match Artist is seeking a part or full time photographer to join our fast growing company. We are seeking a candidate in Chicago IL, but would consider other locations for the right candidate. The Match Artist transforms online dating profiles through intriguing and artistic photography. We specialize in facial ...
-featured_image: /images/blog/WKsWssRCRUe15c8smydG.jpg
-featured_image_alt: Photographer kneeling on a beach while taking a photo
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/WKsWssRCRUe15c8smydG.jpg
+  image_alt: Photographer kneeling on a beach while taking a photo
 ---
 
 <p>The Match Artist is seeking a part or full time photographer to join our fast growing company. We are seeking a candidate in Chicago IL, but would consider other locations for the right candidate.</p>

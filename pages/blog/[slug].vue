@@ -8,10 +8,10 @@
         class="w-[800px] h-[500px] mb-8 object-cover"
       />
       <div>
-        <p
+        <!-- <p
           class="text-center text-[20px] text-[#787878] px-6"
           v-html="formatDate(pageData.created)"
-        ></p>
+        ></p> -->
         <h1
           class="font-bold text-center text-[#171717] text-[48px] leading-[62.5px] mb-[50px] px-6"
         >

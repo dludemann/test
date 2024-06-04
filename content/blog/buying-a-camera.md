@@ -1,23 +1,24 @@
 ---
-created: '2022-01-25T15:02:25.697477Z'
-updated: '2022-01-25T15:02:25.710934Z'
-published: '2022-01-25T15:00:00Z'
+_schema: blog_post
+# created: '2022-01-25T15:02:25.697477Z'
+# updated: '2022-01-25T15:02:25.710934Z'
+# published: '2022-01-25T15:00:00Z'
 name: Buying a Camera
 seo:
   title: Buying a Camera
   page_description: >-
     What to look for when buying a camera for your online dating portfolio.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   So You Want to Buy a Camera? Some Advice from the Photographer Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations ...
-featured_image: /images/blog/WRmRUhggQ3GztIXbhhtM.jpg
-featured_image_alt:
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/WRmRUhggQ3GztIXbhhtM.jpg
+  image_alt:
 ---
 
 <h1 class="primary-title text-left">So You Want to Buy a Camera? Some Advice from the Photographer</h1>

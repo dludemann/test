@@ -1,23 +1,25 @@
 ---
-created: '2022-02-12T15:34:38.778093Z'
-updated: '2022-06-19T20:42:22.145495Z'
-published: '2022-02-12T15:33:00Z'
+_schema: blog_post
+
+# created: '2022-02-12T15:34:38.778093Z'
+# updated: '2022-06-19T20:42:22.145495Z'
+# published: '2022-02-12T15:33:00Z'
 name: Our Process
 seo:
   title: Our Process
   page_description: >-
     Each of our sessions is custom-tailored to you specifically, so it’s difficult to nail down exactly what your shoot will look like until you
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   We'll walk through a bit more about our photoshoot process and how we get results for our clients.
-featured_image: /images/blog/zqxjPQpyT8yHjpu8Ga7E.jpg
-featured_image_alt:
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/zqxjPQpyT8yHjpu8Ga7E.jpg
+  image_alt:
 ---
 
 <p>Each of our sessions are custom-tailored to you specifically, so it&rsquo;s difficult to nail down exactly what your shoot will look like until you chat with your photographer. Our Pre-Shoot Questionnaire will help us get to know you. Some of the guys we work with have a number of photographable hobbies to capture, while a number of others don&rsquo;t&mdash;and that&rsquo;s just fine. Don&rsquo;t worry if you&rsquo;re not a podcaster, musician, or avid kayaker. What&rsquo;s important is capturing you in a variety of elements with confident facial expressions. As far as starting locations, these range from starting at an apartment, house, and hotel. We&rsquo;re versatile with our shooting ability, so we can make it work just about anywhere! At the bottom, we&rsquo;ve included some of the best shots from a few sessions for you to see the variety. You might be able to mentally put yourself into a few of the activities/poses.</p>

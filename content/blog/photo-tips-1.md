@@ -1,23 +1,26 @@
 ---
-created: '2022-08-05T20:38:13.394835Z'
-updated: '2022-08-05T20:47:43.884655Z'
-published: '2022-08-05T20:36:00Z'
-name: 'Photo Tips #1'
+_schema: blog_post
+# created: '2022-08-05T20:38:13.394835Z'
+# updated: '2022-08-05T20:47:43.884655Z'
+# published: '2022-08-05T20:36:00Z'
+name: "Photo Tips #1"
 seo:
-  title: 'Photo Tips #1'
+  title: "Photo Tips #1"
   page_description: >-
     I want to share some tips on how to take better photos using Dan's photo shoot as an example. My favorite photos from the session are below,
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   Take a look at some tips from a recent session we did.
-featured_image: /images/blog/zVn934fTMalVjuUeG4sQ.jpg
-featured_image_alt:
+
 author: Nick Friesen
+
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/zVn934fTMalVjuUeG4sQ.jpg
+  image_alt:
 ---
 
 <p>I want to share some tips on how to take better photos using Dan's photo shoot as an example.</p>

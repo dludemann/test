@@ -19,10 +19,10 @@
           >
             {{ post.title }}
           </h2>
-          <p
+          <!-- <p
             class="border-t-2 border-black text-[18px] mb-[20px] inline-flex"
             v-html="formatDate(post.created || post.date)"
-          ></p>
+          ></p> -->
           <p
             class="text-[18px] mb-[20px] leading-[30.6px] tracking-[0.252px] text-[#171717]"
           >

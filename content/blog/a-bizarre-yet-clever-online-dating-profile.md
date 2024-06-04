@@ -1,7 +1,8 @@
 ---
-created: 2021-08-18T18:17:40Z
-updated: 2021-11-23T22:58:37Z
-published: 2021-03-28T18:13:00Z
+_schema: blog_post
+# created: 2021-08-18T18:17:40Z
+# updated: 2021-11-23T22:58:37Z
+# published: 2021-03-28T18:13:00Z
 name: A Bizarre, Yet Clever Online Dating Profile.
 seo:
   title: A Bizarre, Yet Clever Online Dating Profile.
@@ -15,8 +16,6 @@ seo:
     profile, and in turn - investigate the rest of their profile, instagram, bio
     - etc.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
@@ -26,10 +25,13 @@ summary: >-
   shooting, we realized that adding some bizarre humor into the shoots was very
   effective. We know that our photos look candid, yet professional - but, what
   if we could also be a bit witty with the photos we take.
-featured_image: /images/blog/dnGwiuOTQxql2irsYF1O.jpg
-featured_image_alt:
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/dnGwiuOTQxql2irsYF1O.jpg
+  image_alt:
 ---
+
 When we started this company, our dedication was to coach facial expressions and accurately show how fun and interesting our clients are. As we kept shooting, we realized that adding some bizarre humor into the shoots was very effective. We know that our photos look candid, yet professional - but, what if we could also be a bit witty with the photos we take. The ultimate goal with what we do is to grab someone's attention so they pause on your profile, and in turn - investigate the rest of their profile, instagram, bio - etc.
 
 &nbsp;

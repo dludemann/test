@@ -1,10 +1,11 @@
 ---
-created: '2023-07-25T16:24:50.659508Z'
-updated: '2023-07-26T19:43:40.737543Z'
-published: '2023-07-26T16:18:00Z'
-name: 'Introducing: The Match Artist Online Dating Coach'
+_schema: blog_post
+# created: '2023-07-25T16:24:50.659508Z'
+# updated: '2023-07-26T19:43:40.737543Z'
+# published: '2023-07-26T16:18:00Z'
+name: "Introducing: The Match Artist Online Dating Coach"
 seo:
-  title: 'Introducing: The Match Artist Online Dating Coach'
+  title: "Introducing: The Match Artist Online Dating Coach"
   page_description: >-
     We’ve been working on something new for a while, and it’s finally here. We are now welcoming our new dating coach, Robby on to The Match Art
   canonical_url:
@@ -15,9 +16,13 @@ seo:
   no_index: false
 summary: >-
   We’ve been working on something new for a while, and it’s finally here. We are now welcoming our new dating coach, Robby on to The Match Artist team. He has been coaching in areas like dating, relationships, peak performance, and more for over a decade– and now he’s bringing his ...
-featured_image: /images/blog/km3C3ffYScKWpAlVfnTA.jpg
-featured_image_alt:
+
 author: Nick Friesen
+
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/km3C3ffYScKWpAlVfnTA.jpg
+  image_alt:
 ---
 
 <p>We&rsquo;ve been working on something new for a while, and it&rsquo;s finally here.</p>
