@@ -1,31 +1,34 @@
-
-
-import fileinput
 import glob
+import re
 
 # Define the text to be replaced and the replacement text
-old_text = 'text: Inquire Now'
-new_text = 'text: "Book a Call"'
+old_text = """      text: Before getting pics taken by The Match Artist, I was getting 2-3
+        tinder matches a week. After getting new high value pictures from
+        The Match Artist and tweaking my bio I was getting over 5 matches
+        per day with really great girls. The results truly speak for
+        themselves."""
+new_text = """      text:
+        I was hesitant to invest in what I thought were glorified glamour shots,
+        and worried that the results would be a little cheesy... but I was also
+        fed up with hours of mediocre results with my mirror selfies and cropped
+        group photos... I was intimidated going into it but that was immediately
+        alleviated. They did a great job of making me relaxed, comfortable, and
+        confident.  And the results... WOW! Way more matches and likes, but the
+        increase in the follow-through rate was the noticeable difference. No
+        more expired Bumble matches waiting for that first outreach!"""
+
 # Get all .md files in the directory
 files = glob.glob('./content/*.md')
 
 # Go through each file
 for file in files:
-    # Open the file
-    with fileinput.input(files=(file), inplace=True) as f:
-        for line in f:
+    # Read the entire content of the file
+    with open(file, 'r') as f:
+        content = f.read()
 
-            print(line.replace(old_text, new_text), end='')
+    # Replace the old text with the new text
+    content = content.replace(old_text, new_text)
 
-            # if '      - /images/work/tmafav-5683.webp' not in line:
-            #     print(line, end='')
-
-            # line = line.replace('/images/work/favorites-4491.webp', '/images/connor-tma-210.jpg')
-            # line = line.replace('/images/work/tma-123.webp', '/images/shureed-7405361-282.jpg')
-            # line = line.replace('/images/work/tma-1234.webp', '/images/jeff.jpg')
-            # line = line.replace('/images/work/tma-best-2584.webp', '/images/shakked-tma-06.jpg')
-            # line = line.replace('/images/work/tma-best-4346.webp', '/images/tejesh-tma-0033.jpg')
-            # line = line.replace('/images/work/tma-favs-0047.webp', '/images/20220921-18-10-35-johnkilmer-7403399.jpg')
-            # line = line.replace('/images/work/tma-favs-6152.webp', '/images/rohith-tma-2-191.jpg')
-            # line = line.replace('/images/work/tmafavs-5683.webp', '')
-            # print(line, end='')
+    # Write the modified content back to the file
+    with open(file, 'w') as f:
+        f.write(content)

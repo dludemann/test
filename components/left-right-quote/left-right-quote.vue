@@ -21,7 +21,7 @@ export default {
       }"
     >
       <div
-        class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-end space-x-10"
+        class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center md:items-end space-x-10"
       >
         <!-- Before -->
         <div class="md:max-w-[190px] w-full relative">

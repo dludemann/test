@@ -88,7 +88,7 @@ content_blocks:
     quote:
       background_color: "#ffffff"
       text_color: "#090303"
-      text: >-
+      text:
         I was hesitant to invest in what I thought were glorified glamour shots,
         and worried that the results would be a little cheesy... but I was also
         fed up with hours of mediocre results with my mirror selfies and cropped
