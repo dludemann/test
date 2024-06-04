@@ -2,29 +2,30 @@
   <BlogLayout
     :posts="pagedPosts"
     :pageNumber="pageNumber"
-    :numberOfPages="numberOfPages" />
+    :numberOfPages="numberOfPages"
+  />
 </template>
 
 <script setup>
-definePageMeta({ layout: 'blog' });
+definePageMeta({ layout: "blog" });
 
 const route = useRoute();
 const pageNumber = parseInt(route.params.pagenumber);
 if (isNaN(pageNumber)) {
-  navigateTo('/blog');
+  navigateTo("/blog");
 }
 
-const pageData = await queryContent('blog').where({ _path: '/blog' }).findOne();
+const pageData = await queryContent("blog").where({ _path: "/blog" }).findOne();
 const pageSize = pageData.pagination.size || 9;
 
-const allPosts = await queryContent('blog')
-  .where({ _path: { $ne: '/blog' } })
+const allPosts = await queryContent("blog")
+  .where({ _path: { $ne: "/blog" } })
   .find();
 const numberOfPosts = allPosts.length;
 const numberOfPages = Math.ceil(numberOfPosts / pageSize);
 
 if (pageNumber && (pageNumber === 0 || numberOfPages === 1)) {
-  navigateTo('/blog');
+  navigateTo("/blog");
 }
 
 if (pageNumber > numberOfPages) {
@@ -33,11 +34,11 @@ if (pageNumber > numberOfPages) {
 
 const skipAmount = (pageNumber - 1) * pageSize;
 
-const pagedPosts = await queryContent('blog')
+const pagedPosts = await queryContent("blog")
   .where({
-    _path: { $ne: '/blog' },
+    _path: { $ne: "/blog" },
   })
-  .sort({ created: -1 })
+  .sort({ published: -1 })
   .skip(skipAmount)
   .limit(pageData.pagination.size)
   .find();
