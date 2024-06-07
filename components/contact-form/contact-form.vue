@@ -183,7 +183,7 @@ export default {
     @submit.stop.prevent="submitForm"
     :id="id ? id : 'main-contact-form'"
   >
-    <h2 class="font-bold font-accent text-[45px] font-body">Inquire Now</h2>
+    <h2 class="font-bold font-accent text-[45px] font-body">Book a Call</h2>
     <fieldset class="flex flex-col">
       <label class="contact__label" for="firstName">First Name </label>
       <input
@@ -274,7 +274,7 @@ export default {
       type="submit"
       :data-analytics="contactFormAttribute"
     >
-      Inquire Now
+      Book a Call
       <tma-image
         src="/icons/arrow-right.svg"
         class="w-[24px] h-[24px] ml-2"

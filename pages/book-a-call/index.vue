@@ -3,6 +3,10 @@ useHead({
   title: "Book a Call | The Match Artist",
   meta: [],
 });
+
+definePageMeta({
+  layout: false,
+});
 </script>
 
 <template>

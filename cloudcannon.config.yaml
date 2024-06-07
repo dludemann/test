@@ -87,6 +87,7 @@ collections_config:
         type: date
       published:
         type: date
+        instance_value: NOW
   portfolio:
     path: content/portfolio/
     output: true
@@ -267,6 +268,10 @@ collection_groups:
     collections:
       - data
 _inputs:
+  date:
+    instance_value: NOW
+  published:
+    instance_value: NOW
   src:
     type: image
     label: Image Source

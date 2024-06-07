@@ -36,7 +36,7 @@ export default {
           <button
             class="flex bg-primary-500 font-bold w-fit py-[12px] px-[24px] text-white"
           >
-            {{ block.button.text }}
+            Book a Call
             <tma-image
               src="/icons/arrow-right.svg"
               class="w-[24px] h-[24px] ml-2"

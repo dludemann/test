@@ -21,7 +21,7 @@ export default {
       }"
     >
       <div
-        class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center space-x-10"
+        class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center md:space-x-10"
       >
         <!-- Before -->
         <div class="md:max-w-[190px] w-full relative">
@@ -39,7 +39,7 @@ export default {
         <!-- After -->
         <div class="md:max-w-[300px] w-full relative">
           <tma-image
-            class="h-[400px] md:h-[400px] w-full object-cover self-center rounded-sm"
+            class="h-[500px] md:h-[400px] w-full object-cover self-center rounded-sm"
             :src="block.image2.src"
             :alt="block.image2.alt"
           />
