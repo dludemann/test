@@ -7,8 +7,6 @@
 </template>
 
 <script setup>
-definePageMeta({ layout: "blog" });
-
 const route = useRoute();
 const pageNumber = parseInt(route.params.pagenumber);
 if (isNaN(pageNumber)) {

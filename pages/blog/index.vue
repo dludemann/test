@@ -1,14 +1,14 @@
 <template>
-  <BlogLayout
-    :posts="pagedPosts"
-    :pageNumber="pageNumber"
-    :numberOfPages="numberOfPages"
-  />
+  <NuxtLayout>
+    <BlogLayout
+      :posts="pagedPosts"
+      :pageNumber="pageNumber"
+      :numberOfPages="numberOfPages"
+    />
+  </NuxtLayout>
 </template>
 
 <script setup>
-definePageMeta({ layout: "blog" });
-
 const pageNumber = 1;
 
 const pageData = await queryContent("blog").where({ _path: "/blog" }).findOne();
@@ -20,6 +20,8 @@ const allPosts = await queryContent("blog")
   .find();
 const numberOfPosts = allPosts.length;
 const numberOfPages = Math.ceil(numberOfPosts / pageSize);
+
+console.log("hello");
 
 const pagedPosts = await queryContent("blog")
   .where({

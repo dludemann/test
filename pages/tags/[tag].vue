@@ -8,8 +8,6 @@
 </template>
 
 <script setup>
-definePageMeta({ layout: "blog" });
-
 const route = useRoute();
 const pageNumber = 1;
 const tag = route.params.tag;

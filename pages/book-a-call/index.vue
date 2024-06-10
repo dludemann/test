@@ -24,6 +24,5 @@ definePageMeta({
       </p>
     </div>
     <Booking />
-    <ConnectWithUs />
   </div>
 </template>

@@ -1,31 +1,35 @@
 <template>
-  <section class="bg-[#efefef] py-[70px] font-display">
-    <div class="max-w-[800px] mx-auto">
-      <tma-image
-        v-if="pageData.featured_image"
-        :src="pageData.featured_image"
-        :alt="pageData.featured_image_alt"
-        class="w-[800px] h-[500px] mb-8 object-cover"
-      />
-      <div>
-        <!-- <p
+  <NuxtLayout>
+    <section class="bg-[#efefef] py-[70px] font-display">
+      <div class="max-w-[800px] mx-auto">
+        <tma-image
+          v-if="pageData.featured_image"
+          :src="pageData.featured_image"
+          :alt="pageData.featured_image_alt"
+          class="w-[800px] h-[500px] mb-8 object-cover"
+        />
+        <div>
+          <!-- <p
           class="text-center text-[20px] text-[#787878] px-6"
           v-html="formatDate(pageData.created)"
         ></p> -->
-        <h1
-          class="font-bold text-center text-[#171717] text-[48px] leading-[62.5px] mb-[50px] px-6"
-        >
-          {{ pageData.title }}
-        </h1>
-        <p class="text-[22px] font-medium leading-[37.4px] text-[#787878] px-6">
-          {{ pageData.summary }}
-        </p>
+          <h1
+            class="font-bold text-center text-[#171717] text-[48px] leading-[62.5px] mb-[50px] px-6"
+          >
+            {{ pageData.title }}
+          </h1>
+          <p
+            class="text-[22px] font-medium leading-[37.4px] text-[#787878] px-6"
+          >
+            {{ pageData.summary }}
+          </p>
+        </div>
       </div>
+    </section>
+    <div class="max-w-[800px] mx-auto py-[70px] body-container px-6">
+      <ContentDoc />
     </div>
-  </section>
-  <div class="max-w-[800px] mx-auto py-[70px] body-container px-6">
-    <ContentDoc />
-  </div>
+  </NuxtLayout>
 </template>
 <script setup>
 import { DateTime } from "luxon";

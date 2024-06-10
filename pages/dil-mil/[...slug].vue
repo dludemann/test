@@ -179,45 +179,49 @@ loaded.value = true;
 // };
 </script>
 <template>
-  <div class="flex font-display">
-    <SideNav
-      v-if="loaded"
-      :current-hash="currentHash"
-      :menu-data="menuData"
-      :current-path="currentPath"
-      :page-data="silo"
-      :main-slug="mainSlug"
-      @hash-change="changeCurrentHash"
-    />
-    <section class="w-full font-display">
-      <!-- Text content  -->
-      <section class="px-6 lg:px-0 max-w-[800px] mx-auto">
-        <p class="text-[1rem] font-bold text-[#171717] uppercase pt-[50px]">
-          {{ pageData.menu_grouping }}
-        </p>
-        <h1 class="text-[3rem] font-bold py-2 leading-[3.75rem] text-[#1E293B]">
-          {{ pageData.title }}
-        </h1>
-        <p class="py-5">
-          Written by <span class="font-bold">{{ pageData.author }}</span>
-        </p>
-
-        <GuideBody
-          class="guide-content"
-          :current-content="currentPath.level_three"
-          @hash-change="changeCurrentHash"
-        />
-      </section>
-
-      <!-- START SILO FOOTER -->
-      <GuideFooter
+  <NuxtLayout>
+    <div class="flex font-display">
+      <SideNav
+        v-if="loaded"
+        :current-hash="currentHash"
         :menu-data="menuData"
         :current-path="currentPath"
+        :page-data="silo"
         :main-slug="mainSlug"
+        @hash-change="changeCurrentHash"
       />
-      <!--- END SILO FOOTER-->
-    </section>
-  </div>
+      <section class="w-full font-display">
+        <!-- Text content  -->
+        <section class="px-6 lg:px-0 max-w-[800px] mx-auto">
+          <p class="text-[1rem] font-bold text-[#171717] uppercase pt-[50px]">
+            {{ pageData.menu_grouping }}
+          </p>
+          <h1
+            class="text-[3rem] font-bold py-2 leading-[3.75rem] text-[#1E293B]"
+          >
+            {{ pageData.title }}
+          </h1>
+          <p class="py-5">
+            Written by <span class="font-bold">{{ pageData.author }}</span>
+          </p>
+
+          <GuideBody
+            class="guide-content"
+            :current-content="currentPath.level_three"
+            @hash-change="changeCurrentHash"
+          />
+        </section>
+
+        <!-- START SILO FOOTER -->
+        <GuideFooter
+          :menu-data="menuData"
+          :current-path="currentPath"
+          :main-slug="mainSlug"
+        />
+        <!--- END SILO FOOTER-->
+      </section>
+    </div>
+  </NuxtLayout>
 </template>
 
 <style>

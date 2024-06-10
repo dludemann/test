@@ -1,9 +1,9 @@
 <template>
-  <Nav></Nav>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
-  <Footer></Footer>
+  <!-- <Nav /> -->
+  <!-- <NuxtLayout> -->
+  <NuxtPage />
+  <!-- </NuxtLayout> -->
+  <!-- <Footer></Footer> -->
 </template>
 
 <script setup>
