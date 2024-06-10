@@ -152,7 +152,7 @@ content_blocks:
       path: "#contact"
       text: Inquire now
     image:
-      src: /images/dan-collage.png
+      src: https://photostma.blob.core.windows.net/web/justen collage (1).png
       alt:
       max_width: 766
       height: 766
