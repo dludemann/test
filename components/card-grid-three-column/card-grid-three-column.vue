@@ -50,11 +50,11 @@
 
 <script>
 
-mounted() {
-  console.log(dataBinding)
-}
 export default {
   props: ["block", "dataBinding"],
+  mounted() {
+    console.log(dataBinding)
+  }
 };
 
 </script>
