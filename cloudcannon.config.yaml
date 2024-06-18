@@ -3,6 +3,25 @@ paths:
   data: data
   static: public
   uploads: public/images
+_snippets_imports:
+  mdx: true
+_snippets:
+  mdx_tint:
+    template: mdx_component
+    inline: true
+    preview:
+      text: Newsletter
+    definitions:
+      component_name: Newsletter
+      named_args:
+        - editor_key: newsletter
+          source_key: newsletter
+          type: string
+    _inputs:
+      light_mode:
+        type: checkbox
+      image:
+        comment: Image to display
 
 data_config:
   locations:
