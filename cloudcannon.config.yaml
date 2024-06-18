@@ -373,3 +373,4 @@ _editables:
     image: true
     undo: true
     redo: true
+    snippet: true
