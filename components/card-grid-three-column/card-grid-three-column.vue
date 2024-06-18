@@ -53,7 +53,7 @@
 export default {
   props: ["block", "dataBinding"],
   mounted() {
-    console.log(dataBinding)
+    console.log(props.dataBinding)
   }
 };
 
