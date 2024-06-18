@@ -1,9 +1,10 @@
 ---
-title: 'Dil Mil Reviews: A Comprehensive Guide'
+name: 'Dil Mil Reviews: A Comprehensive Guide'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Dil Mil Reviews: A Comprehensive Guide'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

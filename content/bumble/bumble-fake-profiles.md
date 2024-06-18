@@ -1,10 +1,10 @@
 ---
-title: 'Bumble Fake Profiles Guide (2023)'
+name: Bumble Fake Profiles Guide (2024)
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Bumble algorithm
+  title: Bumble Fake Profiles Guide (2024)
+  page_description: A guide to the Bumble algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,7 +12,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p>Have you ever made a match on a dating app, started chatting, and then seen some red flags? Maybe the person you’re talking to is just a bit too good to be true, or their username is CatFish123456, or the details they’re giving you just <em>don’t quite add up</em>.</p>
 <p></p>
 <p>Well, hate to break it to you, but you may have been fooled by a fake dating profile.</p>

@@ -1,22 +1,25 @@
 ---
-created: '2021-08-18T18:26:18.997671Z'
-updated: '2021-08-18T18:27:19.843976Z'
-published: '2020-08-25T18:20:00Z'
-title: The Best Men's Fashion Instagrams
+_schema: blog_post
+# created: '2021-08-18T18:26:18.997671Z'
+# updated: '2021-08-18T18:27:19.843976Z'
+published: "2020-08-25T18:20:00Z"
+name: The Best Men's Fashion Instagrams
 seo:
+  title: The Best Men's Fashion Instagrams
   page_description: >-
     There are billions of Instagram accounts, and millions of those accounts have to do with men's fashion. It's hard to gauge which accounts you should follow and which accounts you should ignore. After all, not everyone has the same style. I went through the depths of Instagram to find the best men's fashion accounts so you wouldn't have to.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   There are billions of Instagram accounts, and millions of those accounts have to do with men's fashion. It's hard to gauge which accounts you should follow and which accounts you should ignore. After all, not everyone has the same style. I went through the depths of Instagram to find the best men's fashion accounts so you wouldn't have to.
-featured_image: /images/blog/Vnbp1F81REGfUVidZyTL.jpg
-featured_image_alt:
+
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/Vnbp1F81REGfUVidZyTL.jpg
+  image_alt:
 ---
 
 <p>There are billions of Instagram accounts, and millions of those accounts have to do with men's fashion. It's hard to gauge which accounts you should follow and which accounts you should ignore. After all, not everyone has the same style. I went through the depths of Instagram to find the best men's fashion accounts so you wouldn't have to.</p>

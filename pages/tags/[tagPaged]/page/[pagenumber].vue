@@ -3,12 +3,11 @@
     :posts="pagedPosts"
     :pageNumber="pageNumber"
     :numberOfPages="numberOfPages"
-    :urlPrefix="urlPrefix" />
+    :urlPrefix="urlPrefix"
+  />
 </template>
 
 <script setup>
-definePageMeta({ layout: 'blog' });
-
 const route = useRoute();
 const pageNumber = parseInt(route.params.pagenumber);
 const tag = route.params.tagPaged;
@@ -17,22 +16,22 @@ if (isNaN(pageNumber)) {
   navigateTo(`/${urlPrefix}`);
 }
 
-const pageData = await queryContent('blog').where({ _path: '/blog' }).findOne();
+const pageData = await queryContent("blog").where({ _path: "/blog" }).findOne();
 const pageSize = pageData.pagination.size || 9;
 
 let allPosts;
 try {
-  allPosts = await queryContent('blog')
+  allPosts = await queryContent("blog")
     .where({
-      _path: { $ne: '/blog' },
+      _path: { $ne: "/blog" },
       tags: { $in: [tag] },
     })
-    .only(['title'])
+    .only(["title"])
     .find();
 } catch (e) {
   throw createError({
     statusCode: 404,
-    statusMessage: 'Page Not Found',
+    statusMessage: "Page Not Found",
     fatal: true,
   });
 }
@@ -50,13 +49,13 @@ if (pageNumber > numberOfPages) {
 
 const skipAmount = (pageNumber - 1) * pageSize;
 
-const pagedPosts = await queryContent('blog')
+const pagedPosts = await queryContent("blog")
   .where({
-    _path: { $ne: '/blog' },
+    _path: { $ne: "/blog" },
     tags: { $in: [tag] },
   })
-  .only(['title', 'thumbImg', 'tags', '_path'])
-  .sort({ created: -1 })
+  .only(["title", "thumbImg", "tags", "_path"])
+  .sort({ published: -1 })
   .skip(skipAmount)
   .limit(pageData.pagination.size)
   .find();

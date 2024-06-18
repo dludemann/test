@@ -1,10 +1,10 @@
 ---
-title: "How Does Hinge Work? 2023 Expert's Guide"
+name: How Does Hinge Work? 2024 Expert's Guide
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
 seo:
-  page_description: &gt;-
-    A guide to the Hinge algorithm
+  title: How Does Hinge Work? 2023 Expert's Guide
+  page_description: A guide to the Hinge algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -12,7 +12,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p>If you’ve been on dating apps or dating sites and have tried your luck but not yet found a good match, then let us introduce you to Hinge.</p>
 <p></p>
 <p>Similar in concept to some of the other apps you’ll have seen out there, nonetheless Hinge is a little different from, say, Bumble or Tinder.</p>

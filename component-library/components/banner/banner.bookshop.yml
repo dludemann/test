@@ -22,7 +22,7 @@ blueprint:
   title:
     text:
     text_color:
-    heading_style:
+    heading_style: h2
     top_spacing:
     bottom_spacing:
   description:

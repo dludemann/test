@@ -1,6 +1,7 @@
 ---
-title: Reviews
+name: Reviews
 seo:
+  title: Reviews
   page_description: A team is a family
   canonical_url:
   featured_image:
@@ -60,8 +61,8 @@ content_blocks:
         text_is_quote: true
         quote_author:
     text: >-
-      I’ve been seeing a girl that\[‘s\] the most perfect human being for me.
-      \[...\] the coaching on eye movement + pictures is life changing
+      I’ve been seeing a girl that[‘s] the most perfect human being for me.
+      [...] the coaching on eye movement + pictures is life changing
     image:
       image:
         src: /images/reviews/text.jpg
@@ -328,7 +329,7 @@ content_blocks:
       bottom_spacing: 20
       buttons:
         - button_link: /
-          button_text: Inquire Now
+          button_text: "Book a Call"
     post_text:
       text:
       text_color:

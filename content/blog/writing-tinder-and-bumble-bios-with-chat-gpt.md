@@ -1,22 +1,24 @@
 ---
-created: '2023-02-11T02:51:09.388166Z'
-updated: '2023-05-30T21:06:37.463653Z'
-published: '2023-02-10T17:53:00Z'
-title: Writing Tinder and Bumble Bios with Chat GPT.
+_schema: blog_post
+# created: '2023-02-11T02:51:09.388166Z'
+# updated: '2023-05-30T21:06:37.463653Z'
+published: "2023-02-10T17:53:00Z"
+name: Writing Tinder and Bumble Bios with Chat GPT.
 seo:
+  title: Writing Tinder and Bumble Bios with Chat GPT.
   page_description: >-
     Chat GPT can do just about anything, including writing your Tinder and Bumble bios.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   Take Chat GPT for a spin to update your online dating bio.
-featured_image: /images/blog/LP8Ge3uRDl8tmQuTowiQ.jpg
-featured_image_alt:
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/LP8Ge3uRDl8tmQuTowiQ.jpg
+  image_alt:
 ---
 
 <p>The new AI age is here, and the hype about Chat GPT is huge these days. We've been using it at The Match Artist to help with ideas for new content and a number of other things. I was wondering about its capability to write online dating bios for different styles of people, and it's been really helpful so far. Rather than finding a bumble profile writing service, you can power your online experience with a chatgpt dating profile.&nbsp;</p>

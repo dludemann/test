@@ -7,8 +7,8 @@
           <a :href="post._path">
             <tma-image
               class="h-full object-cover max-h-[550px]"
-              :src="post.featured_image"
-              :alt="post.featured_image_alt"
+              :src="post.featured_image || post.featuredImg.image"
+              :alt="post.featured_image_alt || post.featuredImg?.image_alt"
               loading="eager"
             />
           </a>
@@ -19,10 +19,10 @@
           >
             {{ post.title }}
           </h2>
-          <p
+          <!-- <p
             class="border-t-2 border-black text-[18px] mb-[20px] inline-flex"
-            v-html="formatDate(post.created)"
-          ></p>
+            v-html="formatDate(post.created || post.date)"
+          ></p> -->
           <p
             class="text-[18px] mb-[20px] leading-[30.6px] tracking-[0.252px] text-[#171717]"
           >
@@ -69,6 +69,8 @@ const { posts, pageNumber, numberOfPages, urlPrefix } = defineProps({
     },
   },
 });
+
+console.log("posts", posts);
 
 const hasPaginatinon = numberOfPages > 1;
 

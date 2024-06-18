@@ -1,9 +1,10 @@
 ---
-title: "How to Get More Matches on Tinder: A Guide"
+name: "How to Get More Matches on Tinder: A Guide"
 menu_grouping: Tinder Profile and Photos
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Tinder algorithm
+  title: "How to Get More Matches on Tinder: A Guide"
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

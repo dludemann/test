@@ -1,9 +1,11 @@
 ---
-created: '2023-02-08T21:23:58.474643Z'
-updated: '2023-02-08T21:59:25.025503Z'
-published: '2023-02-08T21:10:00Z'
-title: From The Match Artist to getting Engaged from Online Dating
+_schema: blog_post
+# created: "2023-02-08T21:23:58.474643Z"
+# updated: "2023-02-08T21:59:25.025503Z"
+published: "2023-02-08T21:10:00Z"
+name: From The Match Artist to getting Engaged from Online Dating
 seo:
+  title: From The Match Artist to getting Engaged from Online Dating
   page_description: >-
     Online Dating Photos helped Karthk Match With His Fiancée. We shot engagement photos in San Francisco and it included a proposal.
   canonical_url:
@@ -14,9 +16,11 @@ seo:
   no_index: false
 summary: >-
   This blog post is definitely going to be photo heavy. I shot individual photos for Karthik a little over two years ago. We had a great time hopping from place to place in San Francisco. We had tea at his place, took some photos on his motorcycle, and got a ...
-featured_image: /images/blog/YWLOC7jSD6C4LqeVB9uK.jpg
-featured_image_alt:
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/YWLOC7jSD6C4LqeVB9uK.jpg
+  image_alt:
 ---
 
 <p>This blog post is definitely going to be photo heavy.</p>

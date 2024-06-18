@@ -1,6 +1,7 @@
 ---
-title: Our Team
+name: Our Team
 seo:
+  title: Our Team
   page_description: Meat the team behind the camera
   canonical_url:
   featured_image:
@@ -11,6 +12,7 @@ seo:
 content_blocks:
   - _bookshop_name: card-grid
     heading: The Team
+    heading_style: h1
     cards:
       - title: Shane White
         subtitle: Founder

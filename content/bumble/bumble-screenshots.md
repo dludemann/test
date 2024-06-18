@@ -1,9 +1,10 @@
 ---
-title: "Does Bumble Notify You of Screenshots?"
+name: "Does Bumble Notify You of Screenshots?"
 menu_grouping: Premium Features and Safety
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: "Does Bumble Notify You of Screenshots?"
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

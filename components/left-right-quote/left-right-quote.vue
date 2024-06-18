@@ -14,28 +14,52 @@ export default {
     }"
   >
     <div
-      class="max-w-[1200px] mx-auto rounded-[8px] py-10 px-6 lg:px-[64px] flex flex-col lg:flex-row justify-between gap-8"
+      class="max-w-[1200px] mx-auto rounded-[8px] py-10 px-6 lg:px-[64px] flex flex-col lg:flex-row justify-between gap-8 md:gap-24"
       :style="{
         'background-color': block.quote.background_color,
         color: block.quote.text_color,
       }"
     >
-       <tma-image
-        class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
-        :src="block.image.src"
-        :alt="block.image.alt"
-        :data-cms-bind="`${dataBinding}.image`"
-      /> 
 
-    <!--  <tma-image
-        class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
-        src="/images/work/austin-before-after.webp"
-        :alt="block.image.alt"
-      /> -->
+      <div
+        class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center md:space-x-10"
+      >
+        <!-- Before -->
+        <div class="md:max-w-[190px] w-full relative">
+          <tma-image
+            class="h-[400px] md:h-[270px] w-full object-cover self-center rounded-sm"
+            :src="block.image.src"
+            :alt="block.image.alt"
+            :data-cms-bind="`${dataBinding}.image`"
+          />
+          <div
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[10px] md:-left-4"
+          >
+            BEFORE
+          </div>
+        </div>
+        <!-- After -->
+        <div class="md:max-w-[300px] w-full relative">
+          <tma-image
+            class="h-[500px] md:h-[400px] w-full object-cover self-center rounded-sm"
+            :src="block.image2.src"
+            :alt="block.image2.alt"
+            :data-cms-bind="`${dataBinding}.image2`"
+          />
+          <div
+            class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[10px] md:-left-4"
+          >
+            AFTER
+          </div>
+        </div>
+      </div>
+
       <div>
         <p class="text-primary-500 font-bold mb-0">
-          DATING PHOTOGRAPHY IN {{ block.location.city.toUpperCase() }},
-          {{ block.location.state.toUpperCase() }}
+          DATING PHOTOGRAPHY IN {{ block.location.city.toUpperCase() }}
+          {{
+            block.location?.state && `,${block.location?.state?.toUpperCase()}`
+          }}
         </p>
         <h2 class="text-[3rem] tracking-[-1.32px] leading-[3.5rem] font-bold">
           {{ block.title }}

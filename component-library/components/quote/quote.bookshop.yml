@@ -9,6 +9,7 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
+  style: "Case study"
   quote:
   author:
 
@@ -19,3 +20,9 @@ preview:
 _inputs:
   quote:
     type: textarea
+  style:
+    type: select
+    options:
+      values:
+        - "Case study"
+        - "Large quote"

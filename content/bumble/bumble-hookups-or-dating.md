@@ -1,9 +1,10 @@
 ---
-title: 'Is Bumble a Hookup App Too? Learn the Truth'
+name: 'Is Bumble a Hookup App Too? Learn the Truth'
 menu_grouping: Uses for Bumble
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'Is Bumble a Hookup App Too? Learn the Truth'
+  page_description: >-
     A guide to the Bumble algorithm
   canonical_url:
   featured_image:

@@ -1,6 +1,10 @@
 ---
-title:
+name:
+location:
+  city:
+  state:
 seo:
+  title:
   page_description:
   canonical_url:
   featured_image:
