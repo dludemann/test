@@ -41,7 +41,7 @@
                   :alt="image.alt" 
                   loading="lazy"
                   placeholder
-                  :data-cms-bind="`${image}`"
+                  :data-cms-bind="`#images${[index]}`"
                    />
       </figure>
     </div>
