@@ -1,7 +1,10 @@
-<script>
-export default {
-  props: ["block", "dataBinding"],
-};
+<script setup>
+import { defineProps } from "vue";
+const { block, dataBinding } = defineProps(["block", "dataBinding"]);
+const { page } = useContent();
+
+const city = page.value.location.city;
+const state = page.value.location.state;
 </script>
 
 <template>
@@ -20,7 +23,11 @@ export default {
         <div
           class="relative lg:absolute w-[200px] lg:w-auto top-[10px] lg:top-0 h-full lg:h-auto overflow-hidden lg:right-[60%] lg:translate-x-0"
         >
-          <UtilityPhoneMockup :image="block.image" />
+          <UtilityPhoneMockup
+            :image="block.image"
+            :city="city"
+            :state="state"
+          />
         </div>
       </div>
       <article class="max-w-[560px] w-full p-4 text-center lg:text-left">

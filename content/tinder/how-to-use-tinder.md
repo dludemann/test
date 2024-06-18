@@ -1,8 +1,9 @@
 ---
-title: "How to Use Tinder for Free  (2024 Expert’s Guide) "
+name: "How to Use Tinder for Free  (2024 Expert’s Guide)"
 menu_grouping: Tinder Basics
 author: Shane White
 seo:
+  title: "How to Use Tinder for Free  (2024 Expert’s Guide)"
   page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:

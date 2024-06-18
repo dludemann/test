@@ -1,25 +1,28 @@
 ---
-created: 2022-08-05T20:56:39Z
-updated: 2022-08-15T19:08:03Z
-published: 2022-08-05T20:50:00Z
-title: Best Bumble Profiles for Men
+_schema: blog_post
+# created: '2022-08-05T20:56:39.679296Z'
+# updated: '2022-08-15T19:08:03.073526Z'
+published: "2022-08-05T20:50:00Z"
+name: Best Bumble Profiles for Men
 seo:
+  title: Best Bumble Profiles for Men
   page_description: >-
     These are some photos you need for your online dating profiles to be
     successful.
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   These are some photos you need for your online dating profiles to be
   successful.
-featured_image: /images/blog/oQ5ftAZSQa249hYSSSWD.jpg
-featured_image_alt:
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/oQ5ftAZSQa249hYSSSWD.jpg
+  image_alt:
 ---
+
 If you missed our video training, I converted it into blog form.
 
 It's a bit longer than normal, but we just want you to take better photos - so buckle up.

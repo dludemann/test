@@ -1,8 +1,9 @@
 ---
-title: What Does Dil Mil Look Like for Guys?
+name: What Does Dil Mil Look Like for Guys?
 menu_grouping: User Experience on Dil Mil
 author: Shane White
 seo:
+  title: What Does Dil Mil Look Like for Guys?
   page_description: A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

@@ -1,22 +1,25 @@
 ---
-created: '2021-08-18T18:19:54.106036Z'
-updated: '2022-06-19T20:46:07.888339Z'
-published: '2020-09-11T18:17:00Z'
-title: The Best First Date Ideas
+_schema: blog_post
+# created: '2021-08-18T18:19:54.106036Z'
+# updated: '2022-06-19T20:46:07.888339Z'
+published: "2020-09-11T18:17:00Z"
+name: The Best First Date Ideas
 seo:
+  title: The Best First Date Ideas
   page_description: >-
     Where should you go on your first date? There are so many places! But, what if you want to be original? This blog will show you six of the m
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   Where should you go on your first date? There are so many places! But, what if you want to be original? This blog will show you six of the most unique first date spots that are sure to impress the other person you're going out with!
-featured_image: /images/blog/XS2ZDxUQShaGIkzvWLm3.jpg
-featured_image_alt:
+
 author: Shane White
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/XS2ZDxUQShaGIkzvWLm3.jpg
+  image_alt:
 ---
 
 <p>The first date can be a bit overwhelming. After all, you're getting to know someone that you haven't even met before. There can be a lot of thoughts that travel through your mind like...</p>

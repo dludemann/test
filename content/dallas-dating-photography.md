@@ -1,6 +1,10 @@
 ---
-title: Dallas Dating Photography
+name: Dallas Online Dating Profile Photographer
+location:
+  city: Dallas
+  state: Texas
 seo:
+  title: Dallas Dating Photography
   page_description: >-
     Online Dating Photos in Dallas, Texas. Before getting my pics taken by The
     Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches every
@@ -13,8 +17,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero-left-right-location
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
@@ -35,11 +39,11 @@ content_blocks:
       vertical_padding: 40
       horizontal_padding: 9
     button:
-      path: '#contact'
-      text: Inquire Now
+      path: "#contact"
+      text: Book a Call
   - _bookshop_name: image-slider
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#ffffff"
     location:
       city: Dallas
       state: Texas
@@ -48,15 +52,20 @@ content_blocks:
       Our approach involves capturing a multitude of photos to ensure we curate
       a selection that shows your personality, helping you stand out on dating
       platforms.
-    background_image: /images/backgrounds/city-background-detailed.jpeg
+    background_image: >-
+      https://photostma.blob.core.windows.net/web/gabriel-tovar-VI5zZE102T0-unsplash.jpg
     images:
-      - /images/connor-tma-210.jpg
-      - /images/shureed-7405361-282.jpg
-      - /images/jeff.jpg
-      - /images/shakked-tma-06.jpg
-      - /images/tejesh-tma-0033.jpg
-      - /images/20220921-18-10-35-johnkilmer-7403399.jpg
-      - /images/rohith-tma-2-191.jpg
+      - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
+      - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
+      - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
+      - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
+      - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
+      - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
+      - https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg
+      - https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg
+      - https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg
     testimonial:
       text: >-
         Before getting pics taken by The Match Artist, I was getting 2-3 tinder
@@ -65,28 +74,36 @@ content_blocks:
         really great girls. The results truly speak for themselves.
       person: Cameron T.
   - _bookshop_name: left-right-quote
-    background_color: '#090303'
-    text_color: '#FFFFFF'
+    background_color: "#090303"
+    text_color: "#FFFFFF"
     location:
       city: Dallas
       state: Texas
+
     image:
-      src: /images/work/austin-before-after.webp
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
+    image2:
+      src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg
+
     title: Transform Your Online Dating Profile
     quote:
-      background_color: '#FFFFFF'
-      text_color: '#090303'
-      text: >-
-        Before getting pics taken by The Match Artist, I was getting 2-3 tinder
-        matches a week. After getting new high value pictures from The Match
-        Artist and tweaking my bio I was getting over 5 matches per day with
-        really great girls. The results truly speak for themselves.
+      background_color: "#FFFFFF"
+      text_color: "#090303"
+      text:
+        I was hesitant to invest in what I thought were glorified glamour shots,
+        and worried that the results would be a little cheesy... but I was also
+        fed up with hours of mediocre results with my mirror selfies and cropped
+        group photos... I was intimidated going into it but that was immediately
+        alleviated. They did a great job of making me relaxed, comfortable, and
+        confident.  And the results... WOW! Way more matches and likes, but the
+        increase in the follow-through rate was the noticeable difference. No
+        more expired Bumble matches waiting for that first outreach!
       person: Cameron T
     cta:
       title: Stand Out in the Digital Dating Scene
       button:
-        text: Inquire Now
-        background_color: '#990800'
+        text: Book a Call
+        background_color: "#990800"
       stats:
         - number: 1000
           text: Successful Clients
@@ -96,10 +113,10 @@ content_blocks:
           text: Relationships
     button:
       path: "#contact"
-      text: Inquire Now
+      text: Book a Call
   - _bookshop_name: left-right-phone-mockup
-    background_color: '#FFFFFF'
-    text_color: '#090303'
+    background_color: "#FFFFFF"
+    text_color: "#090303"
     image:
       src: /images/mockups/tindermock.webp
       height: 812
@@ -119,7 +136,7 @@ content_blocks:
         text: Feel more confident
     button:
       path: "#contact"
-      text: Inquire Now
+      text: Book a Call
   - _bookshop_name: left-right-list
     title: Expert guidance in every step of your photoshoot
     description: >-
@@ -136,32 +153,36 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: 200-300 edited photos
     button:
-      path: '#contact'
+      path: "#contact"
       text: Inquire now
     image:
-      src: /images/dan-collage.png
+      src: https://photostma.blob.core.windows.net/web/justen collage (1).png
       alt:
       max_width: 766
       height: 766
   - _bookshop_name: faq
     title: FAQS
     description: >-
-      Everything you need to know about the product and billing. Can’t find the
-      answer you’re looking for? Please chat to our friendly team.
+      Have more questions than what you see here? Reach out to our team—we'd
+      love to chat and help however we can.
     faqs:
-      - question: Should I hire an online dating photographer?
+      - question: " Can I use photos from my dating profile for other professional online profiles?"
         answer: >-
-          Photos are arguably the most important part of your dating profile.
-          When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Austin, an online dating photographer
-          can help.
-      - question: What are the best photos for dating in Austin?
+          Yes, you can use photos from your dating profile for other
+          professional online profiles. Using high-quality photos like those
+          taken by a dating profile photographer near me can enhance your
+          professional image on platforms such as LinkedIn or your company
+          website.
+      - question: What is the best place for a dating profile photoshoot in Dallas?
         answer: >-
-          From our testing, people in Austin prefers photos that are authentic.
-          This means no professional studio photos which have obviously been
-          posed and edited. Instead, your photos should be taken outdoors in
-          natural light, and they should focus on your charm, personality and
-          confidence.
+          The best place for a dating profile photoshoot in Dallas offers a mix
+          of urban and natural backdrops to suit a variety of styles and
+          personalities. Klyde Warren Park is a fantastic choice, providing a
+          vibrant and lively atmosphere with its green spaces and views of the
+          Dallas skyline, perfect for a casual and relaxed photoshoot. For those
+          looking for a more artistic backdrop, the Dallas Arts District
+          features striking architecture and public art installations that can
+          add a sophisticated touch to your photos.
       - question: Why hire an online dating photographer?
         answer: >-
           Because every online dating app prioritizes photos. You could look
@@ -175,8 +196,8 @@ content_blocks:
           The'll find all your best angles, help you look natural and deliver
           stunning photos that will stop people in their tracks.
   - _bookshop_name: left-right-form
-    background_color: '#090303'
-    text_color: '#000000'
+    background_color: "#090303"
+    text_color: "#000000"
     title: Professional Dating Photography in Dallas, Texas
     description: >-
       We tailor your photo experience with us to highlight things you enjoy

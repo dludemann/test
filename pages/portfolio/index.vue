@@ -1,7 +1,7 @@
 <template>
-  <section class="flex font-display">
-    <SideNavBars :links="portfolioMenu" />
-    <NuxtLayout class="w-full">
+  <NuxtLayout>
+    <section class="flex font-display">
+      <SideNavBars :links="portfolioMenu" />
       <main>
         <template v-if="formattedPage">
           <component
@@ -9,26 +9,27 @@
             :is="block._bookshop_name"
             :block="block"
             :dataBinding="`#content_blocks.${index}`"
-            :key="index"></component>
+            :key="index"
+          ></component>
         </template>
         <slot />
       </main>
-    </NuxtLayout>
-  </section>
+    </section>
+  </NuxtLayout>
 </template>
 
 <script setup>
-import { onMounted, onBeforeUnmount, ref } from 'vue';
 import {
   onCloudCannonChanges,
   stopCloudCannonChanges,
-} from '@cloudcannon/visual-editor-connector';
+} from "@cloudcannon/visual-editor-connector";
+import { onBeforeUnmount, onMounted, ref } from "vue";
 
 const { page } = useContent();
 if (!page.value) {
   throw createError({
     statusCode: 404,
-    statusMessage: 'Page Not Found',
+    statusMessage: "Page Not Found",
     fatal: true,
   });
 }
@@ -41,9 +42,9 @@ useHead(head);
 const formatBookshopName = (pageObject) => {
   pageObject.content_blocks.forEach(function (item) {
     item._bookshop_name = item._bookshop_name
-      .replaceAll(/[^a-zA-Z0-9 ]/g, ' ')
+      .replaceAll(/[^a-zA-Z0-9 ]/g, " ")
       .replaceAll(/(^\w{1})|(\s+\w{1})/g, (c) => c.toUpperCase())
-      .replaceAll(' ', '');
+      .replaceAll(" ", "");
   });
   return pageObject;
 };
@@ -62,14 +63,14 @@ onBeforeUnmount(async () => {
   stopCloudCannonChanges();
 });
 
-const allPortfolios = await queryContent('portfolio').find();
+const allPortfolios = await queryContent("portfolio").find();
 
 const portfolioMenu = allPortfolios.map((file) => {
-  const filePath = file._path.split('.')[0];
-  if (filePath === '/portfolio/index') {
+  const filePath = file._path.split(".")[0];
+  if (filePath === "/portfolio/index") {
     return {
-      path: '/portfolio/',
-      title: 'General',
+      path: "/portfolio/",
+      title: "General",
       active: filePath === pageData._path ? true : false,
     };
   } else {

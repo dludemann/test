@@ -1,8 +1,9 @@
 ---
-title: Are Tinder Dates Just For Hookups?
+name: Are Tinder Dates Just For Hookups?
 menu_grouping: Tinder Dating and Relationships
 author: Shane White
 seo:
+  title: Are Tinder Dates Just For Hookups?
   page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
@@ -11,7 +12,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 Let’s cut to the chase. The big question on everyone’s mind: are Tinder dates just for hookups and casual sex?
 
 Most times the answer is not as straightforward as a simple yes or no.
@@ -22,16 +22,15 @@ The truth is, people around the world use Tinder for all kinds of reasons — so
 
 In this article we’re going to look at:
 
-- The reasons why Tinder’s product is known as a hookup app
-- What the majority of people just Tinder for
-- How often guys hook up through Tinder
-- How hard it is to get a hookup on Tinder
-- Whether or not Tinder is mostly for one-night stands
-- What percentage of women are looking for hookups
-- Whether or not you can find a relationship through Tinder
-- Frequently asked questions.
-
-\*\*&nbsp;\*\*
+* The reasons why Tinder’s product is known as a hookup app
+* What the majority of people just Tinder for
+* How often guys hook up through Tinder
+* How hard it is to get a hookup on Tinder
+* Whether or not Tinder is mostly for one-night stands
+* What percentage of women are looking for hookups
+* Whether or not you can find a relationship through Tinder
+* Frequently asked questions.
+* &nbsp;
 
 So, if you’re ready to stop staring at your device and that fire logo and dive in, let’s get into it!
 
@@ -55,13 +54,13 @@ All of this means that while Tinder can be a great place to find love and friend
 
 ### Tinder Experiments For Men & Women
 
-\*\*&nbsp;\*\*
+&nbsp;
 
 ## [Is Tinder Only for Hooking Up?](#is-tinder-only-for-hooking-up)
 
 The short answer is no! Whether you’re a man or a woman, there are plenty of people who use Tinder to find more serious relationships. People have even gotten married and [Tinder has sponsored their weddings](https://mashable.com/article/tinder-weddings-swipe-right-decor)!
 
-In fact, the app has a variety of features that cater to different types of users. For example, the ability to search for potential partners based on shared \[interests\](https://www.help.tinder.com/hc/en-us/articles/360046122691-Interests#:~:text=The%20Interests%20feature%20(also%20known,and%20get%20the%20conversation%20started.) and hobbies, or even to filter out those who share none with you.
+In fact, the app has a variety of features that cater to different types of users. For example, the ability to search for potential partners based on shared interests and hobbies, or even to filter out those who share none with you.
 
 Tinder is one of the most popular dating apps, with a lot of success stories. A [survey](https://www.bustle.com/p/how-many-people-who-meet-on-dating-apps-get-married-swiping-isnt-just-for-hookups-44359) of regular users of dating apps found that 14% of users were either engaged or had a marriage to someone they met through the service!
 

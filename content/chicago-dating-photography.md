@@ -1,6 +1,10 @@
 ---
-title: Chicago Dating Photography
+name: Chicago Dating Photography
+location:
+  city: Chicago
+  state: Illinois
 seo:
+  title: Chicago Dating Photography
   page_description: >-
     Online Dating Photos in Chicago, Illinois. Before getting my pics taken by
     The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches
@@ -36,14 +40,14 @@ content_blocks:
       horizontal_padding: 9
     button:
       path: '#contact'
-      text: Inquire Now
+      text: Book a Call
   - _bookshop_name: image-slider
     background_color: '#090303'
     text_color: '#ffffff'
     location:
       city: Chicago
       state: Illinois
-    title: Full Photoshoot In 10+ Settings To Capture The Best You
+    title: Full Photoshoot in 10+ Settings to Capture The Best You
     description: >-
       We'll guide you through the process of logistics for the shoot, coach you
       on body language and facial expressions, and help you design your profile
@@ -55,8 +59,6 @@ content_blocks:
       - https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg
       - https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg
-      - >-
-        https://photostma.blob.core.windows.net/marketing/shureed-7405361-282.jpeg
       - https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg
       - https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg
@@ -77,7 +79,11 @@ content_blocks:
       city: Chicago
       state: Illinois
     image:
-      src: /web/images/nick-before-after-1.png
+      src: >-
+        https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
+    image2:
+      src: >-
+        https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg
     title: Transform Your Online Dating Profile
     quote:
       background_color: '#ffffff'
@@ -95,12 +101,12 @@ content_blocks:
     cta:
       title: Stand Out in the Online Dating Scene
       button:
-        text: Inquire Now
+        text: Book a Call
         background_color: '#990800'
       stats: []
     button:
       path: '#contact'
-      text: Inquire Now
+      text: Book a Call
   - _bookshop_name: left-right-phone-mockup
     background_color: '#ffffff'
     text_color: '#090303'
@@ -125,7 +131,7 @@ content_blocks:
         text: Have the best chance at finding your life partner
     button:
       path: '#contact'
-      text: Inquire Now
+      text: Book a Call
   - _bookshop_name: left-right-list
     title: Custom-tailored, done-for-you photoshoot
     description: >-
@@ -144,7 +150,7 @@ content_blocks:
       path: '#contact'
       text: Inquire now
     image:
-      src: /images/dan-collage.png
+      src: https://photostma.blob.core.windows.net/web/justen collage (1).png
       alt:
       max_width: 800
       height: 766
@@ -158,8 +164,8 @@ content_blocks:
         answer: >-
           Photos are arguably the most important part of your dating profile.
           When you upgrade your photos, you upgrade your matches. If you want to
-          meet even more amazing people in Dallas, our online dating
-          photographers can help you get there.
+          meet even more amazing people, our online dating photographers can
+          help you get there.
       - question: What are the best photos for dating in Chicago?
         answer: >-
           From our testing and research, people prefer photos that are

@@ -1,7 +1,8 @@
 ---
-title: Locations We Serve
+name: Locations We Serve
 description: Serving all major cities in the U.S. and Canada
 seo:
+  title: Locations We Serve
   page_description: >-
     Occasionally The Match Artist embarks on a tour. Click here to see the
     cities we are visiting.
@@ -292,7 +293,7 @@ locations:
     img: /images/locations/ZStRzCuVQSSnGI2mBf8O.jpg
     path: /phoenix-dating-photography
   - location_name: New York City
-    img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg
+    img: https://photostma.blob.core.windows.net/web/nyc-skyline.jpg
     path: /new-york-city-dating-photography
   - location_name: Winnipeg
     img: /images/locations/LUNEHMM8SRyFvwwGISiP.jpg

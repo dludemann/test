@@ -1,9 +1,10 @@
 ---
-title: 'How Does Dil Mil Work? 2023 Expert Review'
+name: 'How Does Dil Mil Work? 2023 Expert Review'
 menu_grouping: Understanding Dil Mil
 author: Shane White
 seo:
-  page_description: &gt;-
+  title: 'How Does Dil Mil Work? 2023 Expert Review'
+  page_description: >-
     A guide to the Dil Mil algorithm
   canonical_url:
   featured_image:

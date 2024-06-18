@@ -1,19 +1,18 @@
 ---
-date:
-title:
+published:
+name:
 seo:
+  title:
   page_description:
   canonical_url:
-  featured_image:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
 tags:
   - blog
 author:
-thumbImg:
-  image:
-  image_alt:
+summary:
+
 featuredImg:
   image:
   image_alt:

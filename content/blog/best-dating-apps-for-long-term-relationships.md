@@ -1,15 +1,15 @@
 ---
-created: 2023-08-01T13:37:39Z
-updated: 2023-08-01T13:49:04Z
-published: 2023-08-01T13:03:00Z
-title: Best Dating Apps for Long Term Relationships
+_schema: blog_post
+# created: '2023-08-01T13:37:39.994525Z'
+# updated: '2023-08-01T13:49:04.861900Z'
+published: "2023-08-01T13:03:00Z"
+name: Best Dating Apps for Long Term Relationships
 seo:
+  title: Best Dating Apps for Long Term Relationships
   page_description: >-
     Dating sites have grown exponentially since the first ever online dating
     platform, Match.com was launched in 2005. Today there are an estima
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
@@ -19,15 +19,17 @@ summary: >-
   Bumble are the top five online dating platforms designed for those seeking
   long-term relationships, each offering unique features from 100% criteria
   matching to detailed user filtering.
-featured_image: /images/blog/RB1Bxv70QZy3GjyHBnaZ.jpg
-featured_image_alt:
+
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/RB1Bxv70QZy3GjyHBnaZ.jpg
+  image_alt:
 ---
+
 Dating sites have grown exponentially since the first ever online dating platform, <a data-saferedirecturl="https://www.google.com/url?q=http://match.com/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3crTeLsN3obbnp9_fqN3aw" target="_blank" rel="noopener noreferrer" href="http://match.com/">Match.com</a> was launched in 2005. Today there are an estimated 8,000 dating sites worldwide, in 2022 <a data-saferedirecturl="https://www.google.com/url?q=https://www.statista.com/topics/7443/online-dating/%23:~:text%3DIn%25202022%252C%2520there%2520were%2520over,no%2520signs%2520of%2520slowing%2520down.&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3mIp6MLBIlou_F7tpsy0RM" target="_blank" href="https://www.statista.com/topics/7443/online-dating/#:~:text=In%202022%2C%20there%20were%20over,no%20signs%20of%20slowing%20down." rel="noopener noreferrer">336 million people</a> went online in a quest to find a partner, and according to a recent <a data-saferedirecturl="https://www.google.com/url?q=https://www.statista.com/chart/24165/online-dating-penetration-rate-revenue-selected-countries/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1tyPQ8_7A_f9aDnxb6U3ke" target="_blank" href="https://www.statista.com/chart/24165/online-dating-penetration-rate-revenue-selected-countries/" rel="noopener noreferrer">Statista</a> study, this number will reach 441 million users by the end of 2023. All this choice sounds great, but where does one begin when there are so many options? The choice is overwhelming but we’ve done a breakdown and rated the best dating sites for people looking for long term relationships.
 
-
 ![thematchartist_match_hearts_ef5be709-d81f-482d-97b3-f8de1a026130.webp](https://cdn.buttercms.com/1vKbOlvSySbRECGox0q7)
-
 
 1\. <a data-saferedirecturl="https://www.google.com/url?q=https://keeper.ai/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw34HooN0aCMbaH8kKtcyxlt" target="_blank" rel="noopener noreferrer" href="https://keeper.ai/">Keeper</a>
 
@@ -49,7 +51,6 @@ Match charges $20 a month which is slightly more costly than other mainstream al
 
 4\. <a data-saferedirecturl="https://www.google.com/url?q=https://hinge.co/en-gb&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1sMKrO9RwUVnh-msh9_SE2" target="_blank" href="https://hinge.co/en-gb" rel="noopener">Hinge</a>
 
-
 ![undefined](https://cdn.buttercms.com/ow9EzNZuRaaTVE1NVvs3)
 
 Hinge is the dating app that according to its creators was ‘<a data-saferedirecturl="https://www.google.com/url?q=https://hinge.co/en-gb&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1sMKrO9RwUVnh-msh9_SE2" target="_blank" rel="noopener noreferrer" href="https://hinge.co/en-gb">designed to be deleted</a>’. Amongst millennials there is an idea that Tinder is for hookups and Hinge is the alternative - a platform better suited to people looking for relationships - but although this may be the case, the platform places no real emphasis on helping people find a long term relationship.
@@ -59,7 +60,6 @@ Unlike Tinder, Hinge sought from the outset to help people get to know each othe
 While lots of happy relationships have come from Hinge, that’s due to the large number of people using it (23 million users) and if a serious relationship is what you’re looking for, you’re better suited to a site that filters out people from the outset who aren’t looking for a long term relationship.
 
 5\. <a data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/search?client%3Dsafari%26rls%3Den%26q%3Dbumble%26ie%3DUTF-8%26oe%3DUTF-8&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3LrEkgIgLgsyerUiaIzkh7" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=bumble&amp;ie=UTF-8&amp;oe=UTF-8">Bumble</a>
-
 
 ![undefined](https://cdn.buttercms.com/V4NW359aQlWHk1Nv8Vyj)
 

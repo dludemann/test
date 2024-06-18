@@ -1,9 +1,10 @@
 ---
-title: What Photos Attract Girls on Tinder (12 Picks)
+name: What Photos Attract Girls on Tinder (12 Picks)
 menu_grouping: Tinder Profile and Photos
 author: Shane White
 seo:
-  page_description: &gt;- A guide to the Tinder algorithm
+  title: What Photos Attract Girls on Tinder (12 Picks)
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:

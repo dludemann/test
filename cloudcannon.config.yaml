@@ -3,6 +3,21 @@ paths:
   data: data
   static: public
   uploads: public/images
+_snippets_imports:
+  mdx: true
+_snippets:
+  custom_snippet:
+    template: mdx_component
+    inline: false
+    preview:
+      text: My Custom Component
+    definitions:
+      component_name: CustomComponent
+      named_args:
+        - editor_key: arg1
+          type: string
+        - editor_key: arg2
+          type: string
 
 data_config:
   locations:
@@ -29,7 +44,7 @@ collections_config:
     icon: add_chart
   pages:
     path: content
-    url: '/[full_slug]/'
+    url: "/[full_slug]/"
     output: true
     icon: cottage
     _enabled_editors:
@@ -48,7 +63,7 @@ collections_config:
   blog:
     path: content/blog
     output: true
-    url: '/blog/[slug]/'
+    url: "/blog/[slug]/"
     icon: event_available
     _enabled_editors:
       - content
@@ -57,7 +72,7 @@ collections_config:
       blog_post:
         name: New Blog Post
         path: schemas/post.md
-        hide_extra_inputs: false
+        hide_extra_inputs: true
         remove_extra_inputs: false
     disable_add_folder: true
     add_options:
@@ -66,10 +81,10 @@ collections_config:
         schema: blog_post
     preview:
       text:
-        - key: title
-        - 'Blog Post'
+        - key: name
+        - "Blog Post"
       icon:
-        - 'rss_feed'
+        - "rss_feed"
       subtext:
         - key: author
       gallery:
@@ -80,17 +95,18 @@ collections_config:
       summary:
         type: textarea
       featured_image_alt:
-        hidden: '!featured_image'
+        hidden: "!featured_image"
       created:
         type: date
       updated:
         type: date
       published:
         type: date
+        instance_value: NOW
   portfolio:
     path: content/portfolio/
     output: true
-    url: '/portfolio/[slug]/'
+    url: "/portfolio/[slug]/"
     icon: burst_mode
     _enabled_editors:
       - visual
@@ -111,9 +127,9 @@ collections_config:
       horizontal_gap:
         type: number
       brightness:
-        hidden: '!src'
+        hidden: "!src"
       position:
-        hidden: '!src'
+        hidden: "!src"
       column_one:
         type: array
       column_one[*]:
@@ -127,11 +143,11 @@ collections_config:
       column_three[*]:
         type: image
       hero_image_filters:
-        hidden: '!hero_image'
+        hidden: "!hero_image"
   tinder:
     path: content/tinder
     output: true
-    url: '/tinder/[slug]/'
+    url: "/tinder/[slug]/"
     icon: local_fire_department
     _enabled_editors:
       - visual
@@ -161,7 +177,7 @@ collections_config:
   hinge:
     path: content/hinge
     output: true
-    url: '/hinge/[slug]/'
+    url: "/hinge/[slug]/"
     icon: diversity_1
     _enabled_editors:
       - visual
@@ -191,7 +207,7 @@ collections_config:
   dilmil:
     path: content/dil-mil
     output: true
-    url: '/dil-mil/[slug]/'
+    url: "/dil-mil/[slug]/"
     icon: favorite
     _enabled_editors:
       - visual
@@ -221,7 +237,7 @@ collections_config:
   bumble:
     path: content/bumble
     output: true
-    url: '/bumble/[slug]/'
+    url: "/bumble/[slug]/"
     icon: emoji_nature
     _enabled_editors:
       - visual
@@ -267,6 +283,10 @@ collection_groups:
     collections:
       - data
 _inputs:
+  date:
+    instance_value: NOW
+  published:
+    instance_value: NOW
   src:
     type: image
     label: Image Source
@@ -328,6 +348,13 @@ _inputs:
       preview:
         text:
           - key: city
+  heading_style:
+    type: select
+    comment: Used to control the headings sematic value, leave this as h1 if this is the pages main heading.
+    options:
+      values:
+        - h1
+        - h2
 
 _editables:
   content:
@@ -346,3 +373,4 @@ _editables:
     image: true
     undo: true
     redo: true
+    snippet: true

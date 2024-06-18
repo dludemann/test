@@ -1,22 +1,25 @@
 ---
-created: '2022-10-09T16:51:03.862244Z'
-updated: '2023-01-29T18:37:57.543611Z'
-published: '2022-10-09T16:24:00Z'
-title: How to get Married from Tinder?
+_schema: blog_post
+# created: '2022-10-09T16:51:03.862244Z'
+# updated: '2023-01-29T18:37:57.543611Z'
+published: "2022-10-09T16:24:00Z"
+name: How to get Married from Tinder?
 seo:
+  title: How to get Married from Tinder?
   page_description: >-
     My co-founder Shane got married a couple weeks ago. Obviously, he put in the work to intrigue his now wife, but it was a few photos I captur
   canonical_url:
-  featured_image:
-  featured_image_alt:
   author_twitter_handle:
   open_graph_type:
   no_index: false
 summary: >-
   A little teaser of my co-founder's wedding. It all started with a few photos years ago.
-featured_image: /images/blog/q7joEouATRiuC0MkI06L.jpg
-featured_image_alt:
+
 author: Nick Friesen
+featuredImg:
+  image: >-
+    https://photostma.blob.core.windows.net/web/images/blog/q7joEouATRiuC0MkI06L.jpg
+  image_alt:
 ---
 
 <p>My co-founder Shane got married a couple of weeks ago. Obviously, he put in the work to intrigue his now wife, but it was a few photos I captured of him 6 years ago that led to them matching online. This was back when we were just two guys hanging out in my photography studio. We never knew our photos would lead to many relationships and even 4 marriages (that we know of, anyway).</p>

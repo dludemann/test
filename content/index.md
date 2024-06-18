@@ -1,6 +1,7 @@
 ---
-title: Online Dating Photographer
+name: Online Dating Photographer
 seo:
+  title: Online Dating Photographer
   page_description: >-
     We are the only photography company that ONLY specializes in online dating
     photography.
