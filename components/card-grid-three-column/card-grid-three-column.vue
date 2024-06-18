@@ -34,13 +34,14 @@
     </div>
     <div class="container img-grid relative columns-1 md:columns-2 lg:columns-3 mx-auto"
         :style="{ columnGap: block.vertical_gap + 'px' }">
-      <figure v-for="image in block.images"
+      <figure v-for="(image, index) in block.images"
             :style="{ marginBottom: block.horizontal_gap + 'px' }">
         <nuxt-img quality="80" 
                   :src="image.src" 
                   :alt="image.alt" 
                   loading="lazy"
                   placeholder
+                  data-cms-bind="#block.images[{{ index }}]"
                    />
       </figure>
     </div>
