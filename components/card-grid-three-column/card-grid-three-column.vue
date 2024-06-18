@@ -51,10 +51,7 @@
 <script>
 
 export default {
-  props: ["block", "dataBinding"],
-  mounted() {
-    console.log(this.dataBinding)
-  }
+  props: ["block", "dataBinding"]
 };
 
 </script>
