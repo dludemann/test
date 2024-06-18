@@ -6,22 +6,18 @@ paths:
 _snippets_imports:
   mdx: true
 _snippets:
-  mdx_tint:
+  custom_snippet:
     template: mdx_component
-    inline: true
+    inline: false
     preview:
-      text: Newsletter
+      text: My Custom Component
     definitions:
-      component_name: Newsletter
+      component_name: CustomComponent
       named_args:
-        - editor_key: newsletter
-          source_key: newsletter
+        - editor_key: arg1
           type: string
-    _inputs:
-      light_mode:
-        type: checkbox
-      image:
-        comment: Image to display
+        - editor_key: arg2
+          type: string
 
 data_config:
   locations:
