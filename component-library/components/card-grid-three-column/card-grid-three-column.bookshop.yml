@@ -52,7 +52,7 @@ _structures:
           src: 
           alt:
         preview:
-          src:
+          text:
             - key: alt
             - Image
           subtext:
