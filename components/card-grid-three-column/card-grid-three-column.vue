@@ -49,7 +49,10 @@
 </template>
 
 <script>
-console.log(dataBinding);
+
+mounted() {
+  console.log(dataBinding)
+}
 export default {
   props: ["block", "dataBinding"],
 };
