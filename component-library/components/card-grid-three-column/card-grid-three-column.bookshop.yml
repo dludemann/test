@@ -39,3 +39,24 @@ _inputs:
   max_width:
     comment: Leave this blank for no max width
     type: number
+  images:
+    type: array
+  images[*].src:
+    type: image
+_structures:
+  images:
+    style: modal
+    values:
+      - value:
+          _type: Image
+          src: 
+          alt:
+        preview:
+          src:
+            - Image
+          subtext:
+            - key: src
+            - An image for the grid
+          image:
+            - key: src
+          icon: image
