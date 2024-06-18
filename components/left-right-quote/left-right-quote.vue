@@ -24,6 +24,7 @@ export default {
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         :src="block.image.src"
         :alt="block.image.alt"
+        :data-cms-bind="`${dataBinding}.image`"
       /> 
 
     <!--  <tma-image
