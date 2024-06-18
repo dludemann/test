@@ -41,7 +41,7 @@
                   :alt="image.alt" 
                   loading="lazy"
                   placeholder
-                  :data-cms-bind="`dataBinding.images[${index}]`"
+                  :data-cms-bind="`dataBinding.block.images[${index}]`"
                    />
       </figure>
     </div>
@@ -49,6 +49,7 @@
 </template>
 
 <script>
+console.log(dataBinding)
 export default {
   props: ["block", "dataBinding"],
 };
