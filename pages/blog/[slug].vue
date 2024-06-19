@@ -51,6 +51,8 @@ if (!page.value) {
 
 const pageData = page.value;
 
+console.log("p", pageData);
+
 const formatDate = (date) => {
   return DateTime.fromISO(date).toFormat("LLL dd");
 };
@@ -65,7 +67,7 @@ const renderAST = (nodes) => {
     }
 
     if (node.type === "element") {
-      if (node.tag === "custom-footer") {
+      if (node.tag === "news-letter") {
         return h(Newsletter, {
           title: node.props.title,
           text: node.props.text,

@@ -19,10 +19,10 @@ _snippets:
           models:
             - editor_key: title
               type: string
-              default: ""
+              default: "Sign-up for our newsletter"
             - editor_key: text
               type: string
-              default: ""
+              default: "Get dating profile tips & strategy straight to your inbox."
             - editor_key: img
               type: string
               default: ""
