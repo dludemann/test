@@ -28,7 +28,7 @@ My co-founder Shane got married a couple of weeks ago. Obviously, he put in the 
 
 &nbsp;
 
-&nbsp;
+<CustomComponent arg1="" arg2=""/>
 
 Here's one of the photos that brought in the matches initially. Confidently looking into the distance in a cafe.
 
