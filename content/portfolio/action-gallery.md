@@ -3,7 +3,8 @@ name: Action
 seo:
   title: Action
   page_description: >-
-    From The Match Artist's portfolio, these \"Action\" shots helped our customers go on more dates, and for many, find the love of their life.
+    From The Match Artist's portfolio, these \"Action\" shots helped our
+    customers go on more dates, and for many, find the love of their life.
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -24,7 +25,7 @@ content_blocks:
       bottom_spacing:
     title:
       text: ACTION
-      text_color: "#FFFFFF"
+      text_color: '#FFFFFF'
       heading_style: h1
       top_spacing: 72
       bottom_spacing: 72
@@ -40,20 +41,21 @@ content_blocks:
       brightness: 1
       blur: 0
     pre_title:
-      text: 
-      text_color: "#000000"
+      text:
+      text_color: '#000000'
       top_spacing: 20
       bottom_spacing: 0
     title:
-      text: 
+      text:
       text_color: '#000000'
       heading_style: h2
       top_spacing: 10
       bottom_spacing: 10
     description:
       text: >-
-        From The Match Artist's portfolio, these "Action" shots helped our customers go on more dates, and for many, find the love of their life.
-      text_color: "#000000"
+        From The Match Artist's portfolio, these "Action" shots helped our
+        customers go on more dates, and for many, find the love of their life.
+      text_color: '#000000'
       top_spacing: 30
       bottom_spacing: 30
     cta:
@@ -69,9 +71,9 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: card-grid-three-column
-    title: Featured images
-    subtitle: 
     heading_style: portfolio
+    title: Featured images
+    subtitle:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
@@ -131,9 +133,9 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: card-grid-three-column
-    title: More Action shots from The Match Artist
-    subtitle: 
     heading_style: portfolio
+    title: More Action shots from The Match Artist
+    subtitle:
     max_width:
     horizontal_gap: 12
     vertical_gap: 12
