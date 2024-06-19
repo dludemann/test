@@ -27,7 +27,6 @@ export default {
         >
           <tma-image 
             :src="card.image.src" 
-            :data-cms-bind="`${dataBinding}.cards[${index}].image`"
             :alt="card.image.alt"
             class="object-cover h-full w-full" />
         </div>
