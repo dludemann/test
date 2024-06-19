@@ -18,14 +18,18 @@ export default {
 
     <div class="grid grid-cols-2 gap-16">
       <div
-        v-for="card in block.cards"
+        v-for="(card,index) in block.cards"
         :key="card.title"
         class="col-span-2 lg:col-span-1 text-center overflow-hidden"
       >
         <div
           class="h-auto lg:h-[510px] w-full lg:w-[510px] bg-slate-500 overflow-hidden relative"
         >
-          <tma-image :src="card.image" class="object-cover h-full w-full" />
+          <tma-image 
+            :src="card.src" 
+            :data-cms-bind="`${dataBinding}.cards[${index}]`"
+            :alt="card.alt"
+            class="object-cover h-full w-full" />
         </div>
 
         <article class="p-8">
