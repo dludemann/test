@@ -18,6 +18,30 @@ _snippets:
           type: string
         - editor_key: arg2
           type: string
+  newsLetter:
+    snippet: :customFooter{[[args]]}
+    inline: false
+    preview:
+      text: Newsletter
+      icon: view_quilt
+    params:
+      args:
+        parser: key_values
+        options:
+          models:
+            - editor_key: title
+              type: string
+              default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
+          format:
+            ref: "mdx_format"
+    definitions:
+      component_name: Newsletter
 
 data_config:
   locations:
