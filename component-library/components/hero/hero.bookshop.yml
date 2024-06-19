@@ -6,6 +6,9 @@ spec:
   description: Hero section for the top of a page.
   icon: 'cottage'
   tags: ['Hero']
+  picker_preview:
+    gallery:
+      image: /public/component_thumbnails/hero.preview.png
 
 # Defines the structure of this component, as well as the default values
 blueprint:
