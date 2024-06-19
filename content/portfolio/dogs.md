@@ -77,25 +77,25 @@ content_blocks:
     horizontal_gap: 12
     vertical_gap: 12
     images:
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/qYK6D5RVmVI6NcdWreAM.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/qYK6D5RVmVI6NcdWreAM.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/kGJAPHNRdCdkaiHW1jln.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/kGJAPHNRdCdkaiHW1jln.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/XoeoWwEYS5mLdgF7pqnK.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/XoeoWwEYS5mLdgF7pqnK.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/yIJQoZwbTriT9tN9h9bb.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/yIJQoZwbTriT9tN9h9bb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/i7C28Y28SHyzL6wqHaVs.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/i7C28Y28SHyzL6wqHaVs.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/RphMP4fQU6CltH0DcdFg.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/RphMP4fQU6CltH0DcdFg.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/M7nSw30SJCiv2RWoLui2.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/M7nSw30SJCiv2RWoLui2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/vVY3We85RvaTNAmnbeIJ.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/vVY3We85RvaTNAmnbeIJ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/r8hyFp3EQFecfLHFFspq.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/r8hyFp3EQFecfLHFFspq.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/9BDbaMUbSge1KH88S6fI.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/9BDbaMUbSge1KH88S6fI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
   - _bookshop_name: banner
     background_color: white
@@ -139,126 +139,126 @@ content_blocks:
     horizontal_gap: 12
     vertical_gap: 12
     images:        
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/DwZh97RT76Yt76GfvIUd.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/DwZh97RT76Yt76GfvIUd.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/ejTbkTrERLOBS7V2JUiX.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/ejTbkTrERLOBS7V2JUiX.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/zAh3kNNSFqNdoVDOdXOg.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/zAh3kNNSFqNdoVDOdXOg.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/p6O2odU9RfaBrer3jZ6w.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/p6O2odU9RfaBrer3jZ6w.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/Wht90YMsRxS1UArqmba9.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/Wht90YMsRxS1UArqmba9.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/augTiQAXQw2cdaafLmNN.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/augTiQAXQw2cdaafLmNN.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/aGXNnC40SyiyIAUrch5y.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/aGXNnC40SyiyIAUrch5y.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/VUqNev8DR0GkAgv5vV5k.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/VUqNev8DR0GkAgv5vV5k.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/C4b9BOQ2KK4r5YkHp2g5.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/C4b9BOQ2KK4r5YkHp2g5.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/Buz4woVNQwy94CSI7TQi.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/Buz4woVNQwy94CSI7TQi.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/KgH7EscNQOaPQtKQyvjz.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/KgH7EscNQOaPQtKQyvjz.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/BoXLIsLHTmCNDgCq5rhC.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/BoXLIsLHTmCNDgCq5rhC.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/0q3kZmlERCRgubDfcfUQ.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/0q3kZmlERCRgubDfcfUQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/iu8KrZnVQ2yQlj2Kb9E8.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/iu8KrZnVQ2yQlj2Kb9E8.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/2qtCdmFQgW8ajaqt5VOU.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/2qtCdmFQgW8ajaqt5VOU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/tcnFXzlQ6KM8XMco6pYQ.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/tcnFXzlQ6KM8XMco6pYQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/azYctq0Ry6qfxd3r2oBQ.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/azYctq0Ry6qfxd3r2oBQ.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/b7eWjb4kSd2RBSstaDlH.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/b7eWjb4kSd2RBSstaDlH.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/W2Vb74F7TYGth6bc2fdL.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/W2Vb74F7TYGth6bc2fdL.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/uvrgA9gbTMKeMH3ivKTW.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/uvrgA9gbTMKeMH3ivKTW.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/lNtRZMySoC3GDfZRU5pj.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/lNtRZMySoC3GDfZRU5pj.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/huGlcjR5TweTFXZqsfF0.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/huGlcjR5TweTFXZqsfF0.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/MRFrvfRSeaW3y3yxOU7Q.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/MRFrvfRSeaW3y3yxOU7Q.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/O94pFDM4SXWu1fZ8tENU.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/O94pFDM4SXWu1fZ8tENU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/caGobFvhTj2g1lAUIVSc.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/caGobFvhTj2g1lAUIVSc.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/9CYjzjHKTY29cr41Qvkc.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/9CYjzjHKTY29cr41Qvkc.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/6G6CCmQsQ4u17dCHUTdr.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/6G6CCmQsQ4u17dCHUTdr.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/V4Yp14QfQ0601e2g7Vyb.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/V4Yp14QfQ0601e2g7Vyb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/M3ZX2R0pSXmVAKTYdTbv.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/M3ZX2R0pSXmVAKTYdTbv.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/Wf5mB0U5SPClcTGjWbsP.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/Wf5mB0U5SPClcTGjWbsP.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/3xyz19mETt6A4RiRFMS0.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/3xyz19mETt6A4RiRFMS0.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/agXhaUtKRsq4cOmtoQNM.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/agXhaUtKRsq4cOmtoQNM.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/hR8oq98zTDWmJebqeOVX.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/hR8oq98zTDWmJebqeOVX.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/dln4J8h2QWCAxWGD5Mp2.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/dln4J8h2QWCAxWGD5Mp2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/pBaDv3SS1ejIwdpwKonk.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/pBaDv3SS1ejIwdpwKonk.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/Se87rqR6q8Jzf73A98Ug.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/Se87rqR6q8Jzf73A98Ug.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/AGb2CDxfSVq2FUIwCXhP.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/AGb2CDxfSVq2FUIwCXhP.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/r5RNHTirTom7JbSBnCbm.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/r5RNHTirTom7JbSBnCbm.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/qmjkq29fSEqkeBsIkjAp.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/qmjkq29fSEqkeBsIkjAp.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/tPC5aI56SPK06D8BnNLq.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/tPC5aI56SPK06D8BnNLq.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/0PMtXqwoTHqeTCq4M5KI.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/0PMtXqwoTHqeTCq4M5KI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/mTXDGRFzQFecHRi5RN0K.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/mTXDGRFzQFecHRi5RN0K.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/dmocjzfTTAGic828Ivxz.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/dmocjzfTTAGic828Ivxz.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/bHnWHtQkOaACIzarxqTA.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/bHnWHtQkOaACIzarxqTA.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/mQZJH5c6Qo2w3JpB7hk4.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/mQZJH5c6Qo2w3JpB7hk4.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/1SJ43CyGR0Gj5moDNe3N.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/1SJ43CyGR0Gj5moDNe3N.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/ZMBGTCEpQnq72BRCDJd7.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/ZMBGTCEpQnq72BRCDJd7.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/SgJbOgWFQBuQllLb2O0N.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/SgJbOgWFQBuQllLb2O0N.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/UAc2CWBGQuUJjxbBsK0g.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/UAc2CWBGQuUJjxbBsK0g.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/xPVwlVhdSVKs6JEx0yFi.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/xPVwlVhdSVKs6JEx0yFi.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/qY2WRI2QD29iidWWj8ng.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/qY2WRI2QD29iidWWj8ng.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/vUwxaN2NSQiGQwvGEFvU.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/vUwxaN2NSQiGQwvGEFvU.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/SgSUJmqtSF2SGgCnopfp.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/SgSUJmqtSF2SGgCnopfp.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/Cyc1YXgkTGemw3FoOdCK.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/Cyc1YXgkTGemw3FoOdCK.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/CaQ0M9wTSVyeY6Jqv7xj.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/CaQ0M9wTSVyeY6Jqv7xj.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/984THtfbSFyJ3mZbuzmR.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/984THtfbSFyJ3mZbuzmR.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/SbQFANWtS7qA5lV0nkqI.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/SbQFANWtS7qA5lV0nkqI.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/ZwMy8lcQCOy1lmprEX4A.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/ZwMy8lcQCOy1lmprEX4A.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/ANvCGwnQHi8CxcYy3tSe.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/ANvCGwnQHi8CxcYy3tSe.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/OgbWCCnERf268cxl6fJ2.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/OgbWCCnERf268cxl6fJ2.jpg
         alt: Dating photo with a dog, taken by The Match Artist
-      - src:https://photostma.blob.core.windows.net/web/images/portfolio/ktwEBrZySIO8kphh0UIb.jpg
+      - src: https://photostma.blob.core.windows.net/web/images/portfolio/ktwEBrZySIO8kphh0UIb.jpg
         alt: Dating photo with a dog, taken by The Match Artist
 ---
