@@ -38,19 +38,13 @@ _inputs:
     type: image
 _structures:
   cards:
-    style: modal
-    values:
-      - value:
-          _type: Image
-          image_src: 
-          image_alt:
-        preview:
-          text:
-            - key: title
-            - Card
-          subtext:
-            - key: description
-            - A card for the grid
-          image:
-            - key: image.src
-          icon: check_box_outline_blank
+    preview:
+      text:
+        - key: title
+        - Card
+      subtext:
+        - key: description
+        - A card for the grid
+      image:
+        - key: image.src
+      icon: check_box_outline_blank
