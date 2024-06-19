@@ -39,13 +39,14 @@ _inputs:
 
 _structures:
   cards:
-    preview:
-      text:
-        - key: title
-        - Card
-      subtext:
-        - key: description
-        - A card for the grid
-      image:
-        - key: image.src
-      icon: check_box_outline_blank
+    values:
+      - preview:
+          text:
+            - key: title
+            - Card
+          subtext:
+            - key: description
+            - A card for the grid
+          image:
+            - key: image.src
+          icon: check_box_outline_blank
