@@ -4,7 +4,7 @@ spec:
     - content_blocks
   label: Youtube Embed
   description: Insert a Youtube video
-  icon: 'cottage'
+  icon: 'smart_display'
   tags: ['services']
 
 # Defines the structure of this component, as well as the default values
