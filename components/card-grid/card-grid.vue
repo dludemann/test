@@ -32,7 +32,9 @@ export default {
             class="object-cover h-full w-full" />
         </div>
 
-        <article class="p-8">
+        <article class="p-8"
+          :data-cms-bind="`${dataBinding}.cards[${index}]`"
+        >
           <p class="font-bold text-[1.5rem]">{{ card.title }}</p>
           <p class="mb-5 text-[1.125rem]">{{ card.subtitle }}</p>
           <p class="text-[1.125rem] tracking-[1px] leading-6 font-body">
