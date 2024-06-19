@@ -36,7 +36,7 @@
         :style="{ columnGap: block.vertical_gap + 'px' }">
       <figure v-for="(image, index) in block.images"
             :style="{ marginBottom: block.horizontal_gap + 'px' }">
-        <nuxt-img quality="80" 
+        <tma-img quality="80" 
                   :src="image.src" 
                   :alt="image.alt" 
                   loading="lazy"
