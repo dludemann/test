@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout>
-    <main class="overflow-x-hidden">
+    <main class="w-full overflow-x-hidden">
       <template v-if="formattedPage">
         <component
           v-for="(block, index) in formattedPage.content_blocks"
