@@ -6,20 +6,8 @@ paths:
 _snippets_imports:
   mdx: true
 _snippets:
-  custom_snippet:
-    template: mdx_component
-    inline: false
-    preview:
-      text: My Custom Component
-    definitions:
-      component_name: CustomComponent
-      named_args:
-        - editor_key: arg1
-          type: string
-        - editor_key: arg2
-          type: string
   newsLetter:
-    snippet: :customFooter{[[args]]}
+    snippet: :newsLetter{[[args]]}
     inline: false
     preview:
       text: Newsletter

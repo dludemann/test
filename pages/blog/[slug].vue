@@ -27,12 +27,16 @@
       </div>
     </section>
     <div class="max-w-[800px] mx-auto py-[70px] body-container px-6">
-      <ContentDoc />
+      <component :is="renderComponent"></component>
     </div>
   </NuxtLayout>
 </template>
+
 <script setup>
+import Newsletter from "@/components/Newsletter.vue"; // Adjust the import path
 import { DateTime } from "luxon";
+import { defineComponent, h } from "vue";
+
 const route = useRoute();
 
 const { page } = useContent();
@@ -53,8 +57,36 @@ const formatDate = (date) => {
 
 const head = generateHead(pageData, route);
 useHead(head);
-</script>
 
+const renderAST = (nodes) => {
+  return nodes.map((node) => {
+    if (node.type === "text") {
+      return h("p", {}, node.value);
+    }
+
+    if (node.type === "element") {
+      if (node.tag === "custom-footer") {
+        return h(Newsletter, {
+          title: node.props.title,
+          text: node.props.text,
+          img: node.props.img,
+        });
+      }
+
+      const children = renderAST(node.children || []);
+      return h(node.tag, node.props, children);
+    }
+
+    return null;
+  });
+};
+
+const renderComponent = defineComponent({
+  render() {
+    return h("div", {}, renderAST(pageData.body.children));
+  },
+});
+</script>
 <style>
 .body-container {
   display: flex;
