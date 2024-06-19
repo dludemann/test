@@ -15,8 +15,9 @@ blueprint:
     - title:
       subtitle:
       description:
-      image_src:
-      image_alt:
+      image:
+        src:
+        alt:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -33,7 +34,7 @@ _inputs:
     type: textarea
   cards:
     type: array
-  cards[*].image_src:
+  cards[*].image.src:
     type: image
 _structures:
   cards:
@@ -48,8 +49,8 @@ _structures:
             - key: title
             - Card
           subtext:
-            - key: subtitle
+            - key: description
             - A card for the grid
           image:
-            - key: image_src
+            - key: image.src
           icon: check_box_outline_blank

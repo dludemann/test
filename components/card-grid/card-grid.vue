@@ -26,9 +26,9 @@ export default {
           class="h-auto lg:h-[510px] w-full lg:w-[510px] bg-slate-500 overflow-hidden relative"
         >
           <tma-image 
-            :src="card.image_src" 
-            :data-cms-bind="`${dataBinding}.cards[${index}]`"
-            :alt="card.image_alt"
+            :src="card.image.src" 
+            :data-cms-bind="`${dataBinding}.cards[${index}].image`"
+            :alt="card.image.alt"
             class="object-cover h-full w-full" />
         </div>
 
