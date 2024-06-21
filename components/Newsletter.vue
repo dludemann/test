@@ -23,6 +23,7 @@
 </template>
 
 <script setup>
+import axios from "axios";
 import { ref } from "vue";
 
 const props = defineProps({
@@ -36,24 +37,14 @@ const email = ref("");
 const signedUp = ref(false);
 
 const signUp = async () => {
-  const myHeaders = new Headers();
-  myHeaders.append("Content-Type", "application/json");
-
-  const raw = JSON.stringify({
-    email: email.value,
-    campaign: props.campaign,
-  });
-
-  const requestOptions = {
-    method: "POST",
-    headers: myHeaders,
-    body: raw,
-    redirect: "follow",
-  };
-
-  fetch("https://hooks.zapier.com/hooks/catch/1261564/2buyw3f/", requestOptions)
-    .then((response) => response.text())
-    .then((result) => (signedUp.value = true))
+  axios
+    .post("https://hooks.zapier.com/hooks/catch/1261564/2buyw3f/", {
+      email: email.value,
+      campaign: props.campaign || "default",
+    })
+    .then(() => {
+      signedUp.value = true;
+    })
     .catch((error) => alert("Failed to sign up. Please try again."));
 };
 </script>
