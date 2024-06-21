@@ -39,7 +39,7 @@ const signedUp = ref(false);
 const signUp = async () => {
   axios
     .post(
-      "https://hooks.zapier.com/hooks/catch/1261564/se0vhq/",
+      "https://hooks.zapier.com/hooks/catch/1261564/bdpikub/",
       {
         email: email.value,
         campaign: props.campaign || "default",
