@@ -23,6 +23,9 @@ _snippets:
             - editor_key: text
               type: string
               default: "Get dating profile tips & strategy straight to your inbox."
+            - editor_key: campaign
+              type: string
+              default: "default"
             - editor_key: img
               type: string
               default: ""

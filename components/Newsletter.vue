@@ -6,9 +6,17 @@
     <div class="newsletter-content px-10">
       <h2>{{ title }}</h2>
       <p>{{ text }}</p>
-      <div class="newsletter-signup">
-        <input type="email" v-model="email" placeholder="Enter your email" />
+      <div class="newsletter-signup" v-if="!signedUp">
+        <input
+          class="text-black"
+          type="email"
+          v-model="email"
+          placeholder="Enter your email"
+        />
         <button @click="signUp">Sign-up</button>
+      </div>
+      <div class="newsletter-thankyou" v-else>
+        <p>Thank you for signing up!</p>
       </div>
     </div>
   </div>
@@ -17,16 +25,33 @@
 <script setup>
 import { ref } from "vue";
 
-defineProps({
+const props = defineProps({
   title: String,
   text: String,
   img: String,
+  campaign: String,
 });
 
 const email = ref("");
+const signedUp = ref(false);
 
-const signUp = () => {
-  alert(`Signed up with email: ${email.value}`);
+const signUp = async () => {
+  const response = await fetch(
+    "https://hooks.zapier.com/hooks/catch/1261564/2buyw3f/",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ email: email.value, campaign: props.campaign }),
+    }
+  );
+
+  if (response.ok) {
+    signedUp.value = true;
+  } else {
+    alert("Failed to sign up. Please try again.");
+  }
 };
 </script>
 
