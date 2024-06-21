@@ -36,22 +36,25 @@ const email = ref("");
 const signedUp = ref(false);
 
 const signUp = async () => {
-  const response = await fetch(
-    "https://hooks.zapier.com/hooks/catch/1261564/2buyw3f/",
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ email: email.value, campaign: props.campaign }),
-    }
-  );
+  const myHeaders = new Headers();
+  myHeaders.append("Content-Type", "application/json");
 
-  if (response.ok) {
-    signedUp.value = true;
-  } else {
-    alert("Failed to sign up. Please try again.");
-  }
+  const raw = JSON.stringify({
+    email: email.value,
+    campaign: props.campaign,
+  });
+
+  const requestOptions = {
+    method: "POST",
+    headers: myHeaders,
+    body: raw,
+    redirect: "follow",
+  };
+
+  fetch("https://hooks.zapier.com/hooks/catch/1261564/2buyw3f/", requestOptions)
+    .then((response) => response.text())
+    .then((result) => (signedUp.value = true))
+    .catch((error) => alert("Failed to sign up. Please try again."));
 };
 </script>
 
