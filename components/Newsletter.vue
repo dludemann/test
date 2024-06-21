@@ -38,10 +38,18 @@ const signedUp = ref(false);
 
 const signUp = async () => {
   axios
-    .post("https://hooks.zapier.com/hooks/catch/1261564/se0vhq/", {
-      email: email.value,
-      campaign: props.campaign || "default",
-    })
+    .post(
+      "https://hooks.zapier.com/hooks/catch/1261564/se0vhq/",
+      {
+        email: email.value,
+        campaign: props.campaign || "default",
+      },
+      {
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+      }
+    )
     .then(() => {
       signedUp.value = true;
     })
