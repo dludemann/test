@@ -7,6 +7,8 @@
       <h2>{{ title }}</h2>
       <p>{{ text }}</p>
       <form
+        ref="newsletterForm"
+        @submit="handleSubmit"
         class="newsletter-signup"
         :class="`plausible-event-name=${newsletterPlausible}`"
         action="https://www.getdrip.com/forms/91517951/submissions"
@@ -26,7 +28,7 @@
         <input
           type="email"
           name="fields[email]"
-          value=""
+          v-model="email"
           placeholder="Email"
           required
           class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
@@ -39,7 +41,6 @@
 </template>
 
 <script setup>
-import axios from "axios";
 import { ref } from "vue";
 
 const props = defineProps({
@@ -50,29 +51,14 @@ const props = defineProps({
   img: String,
 });
 
-console.log(props);
-
 const email = ref("");
-const signedUp = ref(false);
 
-const signUp = async () => {
-  axios
-    .post(
-      "https://hooks.zapier.com/hooks/catch/1261564/bdpikub/",
-      {
-        email: email.value,
-        campaign: props.campaign || "default",
-      },
-      {
-        headers: {
-          "Content-Type": "application/x-www-form-urlencoded",
-        },
-      }
-    )
-    .then(() => {
-      signedUp.value = true;
-    })
-    .catch((error) => alert("Failed to sign up. Please try again."));
+const newsletterForm = ref(null);
+
+const handleSubmit = async () => {
+  setTimeout(() => {
+    email.value = "";
+  }, 1000);
 };
 </script>
 
