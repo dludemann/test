@@ -212,6 +212,7 @@ const nav_links =
             data-drip-embedded-form="91517951"
             method="post"
             id="dating-tool-capture"
+            target="_blank"
           >
             <input
               type="text"

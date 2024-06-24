@@ -6,18 +6,34 @@
     <div class="newsletter-content px-10">
       <h2>{{ title }}</h2>
       <p>{{ text }}</p>
-      <div class="newsletter-signup" v-if="!signedUp">
+      <form
+        class="newsletter-signup"
+        :class="`plausible-event-name=${newsletterPlausible}`"
+        action="https://www.getdrip.com/forms/91517951/submissions"
+        data-drip-embedded-form="91517951"
+        method="post"
+        id="dating-tool-capture"
+        target="_blank"
+      >
         <input
-          class="text-black"
-          type="email"
-          v-model="email"
-          placeholder="Enter your email"
+          type="text"
+          name="fields[campaign]"
+          :value="campaign"
+          placeholder="campaign"
+          class="sr-only"
+          :disabled="true"
         />
-        <button @click="signUp">Sign-up</button>
-      </div>
-      <div class="newsletter-thankyou" v-else>
-        <p>Thank you for signing up!</p>
-      </div>
+        <input
+          type="email"
+          name="fields[email]"
+          value=""
+          placeholder="Email"
+          required
+          class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
+        />
+
+        <button type="submit">Sign Up</button>
+      </form>
     </div>
   </div>
 </template>
