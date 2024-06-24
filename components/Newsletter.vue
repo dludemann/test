@@ -1,7 +1,7 @@
 <template>
   <div class="newsletter my-4 max-w-[800px] mx-auto">
     <div class="newsletter-image">
-      <img :src="img" alt="Newsletter Image" />
+      <tma-image :src="img" alt="Newsletter Image" />
     </div>
     <div class="newsletter-content px-10">
       <h2>{{ title }}</h2>
