@@ -35,8 +35,49 @@ export default defineNuxtConfig({
           type: "text/javascript",
           charset: "utf-8",
         },
+        {
+          hid: "linkedin-partner",
+          innerHTML: `
+          _linkedin_partner_id = "6338732";
+          window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+          window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+          </script><script type="text/javascript">
+          (function(l) {
+          if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+          window.lintrk.q=[]}
+          var s = document.getElementsByTagName("script")[0];
+          var b = document.createElement("script");
+          b.type = "text/javascript";b.async = true;
+          b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+          s.parentNode.insertBefore(b, s);})(window.lintrk);
+          </script>
+          `,
+          type: "text/javascript",
+          charset: "utf-8",
+        },
+        {
+          hid: "drip",
+          innerHTML: `
+          var _dcq = _dcq || [];
+            var _dcs = _dcs || {};
+            _dcs.account = '4489721';
+            (function() {
+              var dc = document.createElement('script');
+              dc.type = 'text/javascript'; dc.async = true;
+              dc.src = '//tag.getdrip.com/4489721.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(dc, s);
+            })();
+          `,
+          type: "text/javascript",
+          charset: "utf-8",
+        },
       ],
       noscript: [
+        {
+          hid: "linkedin-partner-noscript",
+          innerHTML: `<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6338732&fmt=gif" />`,
+        },
         {
           hid: "facebook-pixel-noscript",
           innerHTML: `<img height="1" width="1" style="display:none"
