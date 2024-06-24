@@ -68,10 +68,14 @@ const renderAST = (nodes) => {
 
     if (node.type === "element") {
       if (node.tag === "news-letter") {
+        console.log("NODE", node);
+
         return h(Newsletter, {
           title: node.props.title,
           text: node.props.text,
           img: node.props.img,
+          campaign: node.props.campaign,
+          cta_text: node.props["cta-text"],
         });
       }
 

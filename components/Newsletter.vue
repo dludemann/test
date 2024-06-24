@@ -32,7 +32,7 @@
           class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
         />
 
-        <button type="submit">Sign Up</button>
+        <button type="submit">{{ cta_text }}</button>
       </form>
     </div>
   </div>
@@ -44,10 +44,13 @@ import { ref } from "vue";
 
 const props = defineProps({
   title: String,
+  campaign: String,
+  cta_text: String,
   text: String,
   img: String,
-  campaign: String,
 });
+
+console.log(props);
 
 const email = ref("");
 const signedUp = ref(false);
