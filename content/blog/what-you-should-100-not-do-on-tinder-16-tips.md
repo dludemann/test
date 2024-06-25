@@ -21,6 +21,8 @@ Let’s be real — not all of us are pros at this online dating thing. In fact,
 
 That’s why we’ve compiled a list of 16 tips on what you should absolutely *not* do on Tinder.
 
+:newsLetter{title="Sign-up for our newsletter" text="Get dating profile tips & strategy straight to your inbox." campaign="default" cta_text="Sign-up" img=""}
+
 If you're new to Tinder or looking to improve your experience, learning [how to use Tinder](https://thematchartist.com/tinder/how-to-use-tinder/) effectively is a great first step. Understanding the app’s features and best practices can help you make the most of your matches and avoid common pitfalls.
 
 In this article we’ll cover:
