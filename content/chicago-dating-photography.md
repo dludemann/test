@@ -52,7 +52,8 @@ content_blocks:
       We'll guide you through the process of logistics for the shoot, coach you
       on body language and facial expressions, and help you design your profile
       and bio to stand out on dating apps.
-    background_image:
+    background_image: >-
+      https://photostma.blob.core.windows.net/web/images/locations/0PdJwueNTj2LdSwVwUAj.jpg
     images:
       - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
       - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
