@@ -34,7 +34,7 @@ In this article we’re going to look at:
 
 So, if you’re ready to stop staring at your device and that fire logo and dive in, let’s get into it!
 
-## [Why Is Tinder Known for Hookups?](#why-is-tinder-known-for-hookups)
+## Why Is Tinder Known for Hookups?
 
 While Tinder offers a variety of options and features that cater to all kinds of relationships, the fact remains that Tinder’s reputation is centered around hookup culture.
 
@@ -56,7 +56,7 @@ All of this means that while Tinder can be a great place to find love and friend
 
 &nbsp;
 
-## [Is Tinder Only for Hooking Up?](#is-tinder-only-for-hooking-up)
+## Is Tinder Only for Hooking Up?
 
 The short answer is no! Whether you’re a man or a woman, there are plenty of people who use Tinder to find more serious relationships. People have even gotten married and [Tinder has sponsored their weddings](https://mashable.com/article/tinder-weddings-swipe-right-decor)!
 
@@ -64,7 +64,7 @@ In fact, the app has a variety of features that cater to different types of user
 
 Tinder is one of the most popular dating apps, with a lot of success stories. A [survey](https://www.bustle.com/p/how-many-people-who-meet-on-dating-apps-get-married-swiping-isnt-just-for-hookups-44359) of regular users of dating apps found that 14% of users were either engaged or had a marriage to someone they met through the service!
 
-## [How Often Do Guys Hook Up on Tinder?](#how-often-do-guys-hook-up-on-tinder)
+## How Often Do Guys Hook Up on Tinder?
 
 [Research](https://www.thehealthyjournal.com/frequently-asked-questions/how-often-do-people-hookup-on-tinder#:~:text=In%20terms%20of%20hookups%2C%20just,20%25%20had%20more%20than%20two.) indicates about 20% of Tinder users have had a one-night stand with someone they met on the site.
 
@@ -72,7 +72,7 @@ Some guys may be looking for hookups more frequently than others, while some may
 
 However, it’s safe to say that hookups do happen on Tinder, and there are plenty of guys out there who are interested in that kind of thing.
 
-## [Is It Hard to Get Hookups on Tinder?](#is-it-hard-to-get-hookups-on-tinder)
+## Is It Hard to Get Hookups on Tinder?
 
 Again, it depends on the person and their preferences. Some people might find it relatively easy to get hookups on the app, while others might struggle.
 
@@ -86,13 +86,13 @@ At The Match Artist, we specialize in profile photos for dating apps like Tinder
 
 Whatever those results may be!
 
-## [Is Tinder Mostly for One-Night Stands?](#is-tinder-mostly-for-one-night-stands)
+## Is Tinder Mostly for One-Night Stands?
 
 While it’s true that hookups are a common occurrence on the app, Tinder isn’t just for one-night stands. Many singles use the app to find serious relationships or even just to make new friends. It all depends on what you’re looking for and how you use the app.
 
 Tinder has a variety of features and options that allow users to specify their interests and preferences, so there’s something for anyone on the app.
 
-## [What Percentage of Girls on Tinder Are Looking for Hookups?](#what-percentage-of-girls-on-tinder-are-looking-for-hookups)
+## What Percentage of Girls on Tinder Are Looking for Hookups?
 
 While there is no hard data on how many girls go on Tinder looking for a hookup, [22\.2%](https://www.thehealthyjournal.com/frequently-asked-questions/what-is-the-hookup-rate-on-tinder)of Tinder users overall are looking for a hookup.
 
@@ -100,7 +100,7 @@ It is likely that girls, just like guys, often do not start conversations with o
 
 In some cases this could lead to a one-night stand, in others a serious relationship!
 
-## [Is It Possible to Find a Relationship on Tinder?](#is-it-possible-to-find-a-relationship-on-tinder)
+## Is It Possible to Find a Relationship on Tinder?
 
 In short — yes!
 
@@ -124,7 +124,7 @@ It’s how you can come across as sexy, or mysterious, or fun, or whatever it is
 
 And, crucially, it’s what can get you more matches.
 
-## [Key Takeaways](#key-takeaways)
+## Key Takeaways
 
 Tinder is what you make it, and while it is known for being a popular app for hookups, it can also be used for dating and finding meaningful connections, no matter your gender preference.
 
@@ -148,7 +148,9 @@ While Tinder has had its fair share of bad press, this is true of most dating si
 
 And, when you’re ready to really start taking your Tinder seriously, [get in touch with The Match Artist](https://thematchartist.com/online-dating-photographer-near-me)! We can’t wait to work with you and help you level up your profile!
 
-## [Are Tinder Dates Just for Hookups? FAQs](#are-tinder-dates-just-for-hookups-faqs)
+## Are Tinder Dates Just for Hookups? FAQs
+
+&nbsp;
 
 ### What percentage of Tinder dates are hookups
 
@@ -170,7 +172,7 @@ It’s important to pay attention to your own sense of comfort and boundaries, a
 
 If you do decide to make a move, make sure you have consent and are respecting your partner’s wishes.
 
-## [Sources](#sources)
+## Sources
 
 1. [thehealthyjournal.com](https://www.thehealthyjournal.com/frequently-asked-questions/what-is-the-hookup-rate-on-tinder)
 2. [help.tinder.com](https://www.help.tinder.com/hc/en-us/articles/360046122691-Interests#:~:text=The%20Interests%20feature%20)
