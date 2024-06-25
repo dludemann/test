@@ -1,5 +1,5 @@
 ---
-name: Chicago Dating Photography
+name: Chicago's Best Dating Profile Photographers
 location:
   city: Chicago
   state: Illinois

@@ -18,8 +18,6 @@ Most times the answer is not as straightforward as a simple yes or no.
 
 The truth is, people around the world use Tinder for all kinds of reasons — some are looking for love and serious relationships, while others are just in it for the hookups. It all depends on the person, their interests, and anything they’re looking for in a partner or friend.
 
-&nbsp;
-
 In this article we’re going to look at:
 
 * The reasons why Tinder’s product is known as a hookup app
@@ -30,7 +28,8 @@ In this article we’re going to look at:
 * What percentage of women are looking for hookups
 * Whether or not you can find a relationship through Tinder
 * Frequently asked questions.
-* &nbsp;
+
+  &nbsp;
 
 So, if you’re ready to stop staring at your device and that fire logo and dive in, let’s get into it!
 
