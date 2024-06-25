@@ -506,7 +506,7 @@ Don’t:
 
 * Plagiarize content from the internet for your profile
 * Make bad-taste or offensive jokes
-* Be too judgemental
+* Be too judgmental
 * Ghost matches
 * Lie about yourself
 * Send those kinds of pics — you know what we’re talking about!
