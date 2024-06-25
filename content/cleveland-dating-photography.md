@@ -46,7 +46,7 @@ content_blocks:
       state: Tennessee
     title: Full Photoshoot In Different Settings To Capture The Best You
     description: Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.
-    background_image: /images/backgrounds/city-background-detailed.jpeg
+    background_image: /images/locations/w1ObnxL8SYibvTzTrSZa.jpg
     images:
       - https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg
       - https://photostma.blob.core.windows.net/marketing/jeff.jpeg
