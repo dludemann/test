@@ -4,7 +4,7 @@ location:
   city: San Francisco
   state: California
 seo:
-  title: San Francisco Dating Photography
+  title: San Francisco Online Dating Profile Photographer
   page_description: >-
     Online Dating Photos in San Francisco, California. Before getting my pics
     taken by The Match Artist, I was getting 2-3 matches a week. Now I get 30+

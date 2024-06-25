@@ -4,7 +4,7 @@ location:
   city: Chicago
   state: Illinois
 seo:
-  title: Chicago Dating Photography
+  title: Chicago's Best Dating Profile Photographers
   page_description: >-
     Online Dating Photos in Chicago, Illinois. Before getting my pics taken by
     The Match Artist, I was getting 2-3 matches a week. Now I get 30+ matches
