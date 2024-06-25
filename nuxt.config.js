@@ -34,6 +34,7 @@ export default defineNuxtConfig({
         `,
           type: "text/javascript",
           charset: "utf-8",
+          body: true,
         },
         {
           hid: "linkedin-partner",
@@ -54,6 +55,7 @@ export default defineNuxtConfig({
           `,
           type: "text/javascript",
           charset: "utf-8",
+          body: true,
         },
         {
           hid: "drip",
