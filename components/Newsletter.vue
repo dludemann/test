@@ -5,7 +5,7 @@
     </div>
     <div class="newsletter-content px-10">
       <h2>{{ title }}</h2>
-      <p>{{ text }}</p>
+      <p>{{ description }}</p>
       <form
         ref="newsletterForm"
         @submit="handleSubmit"
@@ -47,7 +47,7 @@ const props = defineProps({
   title: String,
   campaign: String,
   cta_text: String,
-  text: String,
+  description: String,
   img: String,
 });
 

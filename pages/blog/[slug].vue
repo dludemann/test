@@ -72,7 +72,7 @@ const renderAST = (nodes) => {
 
         return h(Newsletter, {
           title: node.props.title,
-          text: node.props.text,
+          description: node.props.description,
           img: node.props.img,
           campaign: node.props.campaign,
           cta_text: node.props["cta-text"],
