@@ -137,7 +137,8 @@ locations:
     img: /images/locations/2aFOJZOaRMS6459xhPID.jpg
     path: /albuquerque-dating-photography
   - location_name: El Paso
-    img: /images/locations/8MBJLJ2UTA60ifzJDv0W.jpg
+    img: >-
+      https://photostma.blob.core.windows.net/web/aiden-frazier-EKNVOn3zWUw-unsplash.jpg
     path: /el-paso-dating-photography
   - location_name: Oklahoma City
     img: /images/locations/Fa2avytQQdyvxP50b7VV.jpg
