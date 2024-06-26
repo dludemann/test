@@ -27,7 +27,6 @@ _snippets:
               type: string
               default: "Sign-up"
             - editor_key: img
-              type: string
               default: ""
             - editor_key: campaign
               type: string
