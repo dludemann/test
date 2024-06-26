@@ -24,9 +24,7 @@ featuredImg:
 ---
 My co-founder Shane got married a couple of weeks ago. Obviously, he put in the work to intrigue his now wife, but it was a few photos I captured of him 6 years ago that led to them matching online. This was back when we were just two guys hanging out in my photography studio. We never knew our photos would lead to many relationships and even 4 marriages (that we know of, anyway).
 
-&nbsp;
 
-:newsLetter{title="Sign-up for our newsletter" text="Get dating profile tips & strategy straight to your inbox." campaign="default" cta_text="Sign up" img="https://photostma.blob.core.windows.net/web/2022-08-20TMADaveWoolf-Boston_0410.jpeg"}
 
 &nbsp;
 
