@@ -20,7 +20,7 @@ _snippets:
             - editor_key: title
               type: string
               default: "Sign-up for our newsletter"
-            - editor_key: text
+            - editor_key: description
               type: string
               default: "Get dating profile tips & strategy straight to your inbox."
             - editor_key: campaign
