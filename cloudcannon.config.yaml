@@ -23,16 +23,15 @@ _snippets:
             - editor_key: description
               type: string
               default: "Get dating profile tips & strategy straight to your inbox."
-            - editor_key: campaign
-              type: string
-              default: "default"
             - editor_key: cta_text
               type: string
               default: "Sign-up"
             - editor_key: img
               type: string
               default: ""
-
+            - editor_key: campaign
+              type: string
+              default: "default"
           format:
             ref: "mdx_format"
     definitions:
