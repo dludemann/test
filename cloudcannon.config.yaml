@@ -26,12 +26,13 @@ _snippets:
             - editor_key: campaign
               type: string
               default: "default"
-            - editor_key: img
-              type: string
-              default: ""
             - editor_key: cta_text
               type: string
               default: "Sign-up"
+            - editor_key: img
+              type: string
+              default: ""
+
           format:
             ref: "mdx_format"
     definitions:
