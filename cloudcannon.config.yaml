@@ -20,17 +20,18 @@ _snippets:
             - editor_key: title
               type: string
               default: "Sign-up for our newsletter"
-            - editor_key: description
-              type: textarea
-              default: "Get dating profile tips & strategy straight to your inbox."
-            - editor_key: cta_text
+            - editor_key: text
               type: string
-              default: "Sign-up"
-            - editor_key: img
-              default: ""
+              default: "Get dating profile tips & strategy straight to your inbox."
             - editor_key: campaign
               type: string
               default: "default"
+            - editor_key: img
+              type: string
+              default: ""
+            - editor_key: cta_text
+              type: string
+              default: "Sign-up"
           format:
             ref: "mdx_format"
     definitions:
