@@ -215,25 +215,3 @@ However, if you made a mistake and just need to undo your last Swipe, Tinder Rew
 4. [textgod.com](https://textgod.com/how-to-reset-tinder)
 5. [vidaselect.com](https://www.vidaselect.com/reset-tinder)
 6. [roast.dating](https://roast.dating/blog/tinder-reset-guide)
-
-&nbsp;
-
-ol&gt;
-
-&nbsp;
-
-&gt;
-
-&nbsp;
-
-ol&gt;
-
-&nbsp;
-
-&gt;
-
-&nbsp;
-
-ol&gt;
-
-&nbsp;
