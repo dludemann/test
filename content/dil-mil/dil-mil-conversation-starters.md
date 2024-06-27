@@ -29,7 +29,6 @@ In this article we’re going to cover:
 * Examples of witty first messages
 * Frequently asked questions.
 
-  &nbsp;
 
 ## Why Your First Message on Dil Mil is Vital
 
@@ -55,13 +54,11 @@ Secondly, if your first messages tend to be, “Hey,” then you’re unlikely t
 
 In order to get someone’s attention, you need to make sure that your first message is:
 
-&nbsp;
 
 * Engaging
 * Shows some interest in your match
 * Worthy of a response!
 
-&nbsp;
 
 Your mission, therefore (after making sure that your profile is interesting enough for someone to want to match with you), should be to make sure that your first message gives you a great shot at connecting with the other person!
 
