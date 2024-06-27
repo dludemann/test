@@ -12,6 +12,7 @@ _snippets:
     preview:
       text: Newsletter
       icon: view_quilt
+      image: https://photostma.blob.core.windows.net/web/images/mockups/newsletter-snippet.png
     params:
       args:
         parser: key_values
