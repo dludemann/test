@@ -34,6 +34,8 @@ In this article we’ll look at:
 
 So, let’s get started so that hopefully you can find a solution to getting banned!
 
+:newsLetter{title="Profile so good, she'll message you first..." description="Get dating profile tips & strategy straight to your inbox." cta_text="Send it to me." img="https://photostma.blob.core.windows.net/web/james-joci-favorites-0640.jpg" campaign="default"}
+
 ## What Is Tinder?
 
 [Tinder](https://tinder.com/) is one of the most popular dating apps on the market, a place where millions of men and women come together to find matches and ignite connections.
