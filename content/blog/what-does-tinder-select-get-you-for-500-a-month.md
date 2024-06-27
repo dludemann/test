@@ -28,7 +28,7 @@ featuredImg:
 
 But what do you get for the price tag?&nbsp;
 
-:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://photostma.blob.core.windows.net/web/IMG_3283 (1).jpg" campaign="default"}
+:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://photostma.blob.core.windows.net/web/team-photo.jpg" campaign="default"}
 
 ![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
@@ -53,4 +53,8 @@ Tinder Select adds another layer to the evolving landscape of online dating by c
 
 Unfortunately, the premium features on the apps don't work too well unless you have a curated set of pictures to give you a boost. We can help you out [here](https://thematchartist.com/online-dating-photographer-near-me/).
 
+&nbsp;
+
 <form action="https://www.getdrip.com/forms/241985245/submissions" method="post" data-drip-embedded-form="241985245" id="drip-ef-241985245"></form>
+
+&nbsp;
