@@ -6,41 +6,42 @@
     <div class="newsletter-content px-10">
       <h2>{{ title }}</h2>
       <p>{{ description }}</p>
-      <form
-        ref="newsletterForm"
-        @submit="handleSubmit"
-        class="newsletter-signup"
-        :class="`plausible-event-name=${newsletterPlausible}`"
-        action="https://www.getdrip.com/forms/69925476/submissions"
-        data-drip-embedded-form="69925476"
-        method="post"
-        id="dating-tool-capture"
-        target="_blank"
-      >
-        <input
-          type="text"
-          name="fields[campaign]"
-          :value="campaign"
-          placeholder="campaign"
-          class="sr-only"
-          :disabled="true"
-        />
-        <input
-          type="email"
-          name="fields[email]"
-          v-model="email"
-          placeholder="Email"
-          required
-          class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
-        />
-
-        <button type="submit">{{ cta_text }}</button>
-      </form>
+      <div v-if="!subscribed">
+        <form
+          ref="newsletterForm"
+          @submit.prevent="handleSubmit"
+          class="newsletter-signup"
+          :class="`plausible-event-name=${newsletterPlausible}`"
+          id="dating-tool-capture"
+        >
+          <input
+            type="text"
+            name="fields[campaign]"
+            :value="campaign"
+            placeholder="campaign"
+            class="sr-only"
+            :disabled="true"
+          />
+          <input
+            type="email"
+            name="fields[email]"
+            v-model="email"
+            placeholder="Email"
+            required
+            class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
+          />
+          <button type="submit">{{ cta_text }}</button>
+        </form>
+      </div>
+      <div v-else>
+        <p>Thanks for subscribing!</p>
+      </div>
     </div>
   </div>
 </template>
 
 <script setup>
+import axios from "axios";
 import { ref } from "vue";
 
 const props = defineProps({
@@ -52,14 +53,64 @@ const props = defineProps({
 });
 
 const email = ref("");
+const subscribed = ref(false);
 
 const newsletterForm = ref(null);
 
 const handleSubmit = async () => {
-  setTimeout(() => {
-    email.value = "";
-  }, 1000);
+  const emailElement = newsletterForm.value.elements["fields[email]"];
+  const campaign = newsletterForm.value.elements["fields[campaign]"];
+
+  const preparedData = {
+    Email: emailElement.value,
+    Campaign: campaign.value,
+    Token: "",
+  };
+
+  console.log("preparedData", preparedData);
+
+  grecaptcha.ready(function () {
+    // eslint-disable-next-line no-undef
+    grecaptcha
+      .execute("6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM", {
+        action: "submit",
+      })
+      .then(function (token) {
+        preparedData.Token = token;
+        axios
+          .post(
+            "https://hooks.zapier.com/hooks/catch/17396810/2buyw3f/",
+            preparedData,
+            {
+              headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+              },
+            }
+          )
+          .then((res) => {
+            email.value = "";
+            subscribed.value = true;
+          })
+          .catch((error) => {
+            console.log("ERROR");
+            console.log(error);
+          });
+      });
+  });
+
+  console.log("Email:", emailElement.value);
 };
+
+onMounted(() => {
+  let captcha = document.createElement("script");
+  captcha.setAttribute(
+    "src",
+    "https://www.google.com/recaptcha/api.js?render=6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM"
+  );
+  document.head.appendChild(captcha);
+
+  console.log("Component has been mounted!");
+});
 </script>
 
 <style scoped>
