@@ -37,7 +37,7 @@ While that’s all well and good, and definitely something that can happen, be s
 
 Ghosting, while it may seem easier, is never the answer. Remember, online dating is all about treating others how you want to be treated. So, if you’re not feeling a connection, be kind and let them know.
 
-![undefined](https://cdn.buttercms.com/5pC6Wp3WSaKDzokuLlA2)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/5pC6Wp3WSaKDzok.jpg)
 
 ## 2\. Don't Include Other Social Media Handles in Your Profile
 

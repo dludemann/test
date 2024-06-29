@@ -14,7 +14,7 @@ seo:
   no_index: false
 ---
 
-![](https://cdn.buttercms.com/97gq4ZI4SOSExBlWi3eC)
+![](https://images.thematchartist.com/images/Missed%20Images/97gq4ZI4SOSExBl.jpg)
 
 If you’ve been on Bumble for a while and haven’t had much luck on the basic free version, it may be time to shell out a few dollars and explore Bumble Premium!
 

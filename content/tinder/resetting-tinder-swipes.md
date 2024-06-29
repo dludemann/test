@@ -14,7 +14,7 @@ seo:
 ---
 &nbsp;
 
-![thematchartist_hearts_in_a_city_made_...](https://cdn.buttercms.com/WsLYKH5ERSSOZmr43JV3)
+![thematchartist_hearts_in_a_city_made_...](https://images.thematchartist.com/images/Missed%20Images/WsLYKH5ERSSOZmr.jpg)
 
 It’s all well and good Swiping on Tinder until you run out of profiles to Swipe on —&nbsp;yikes! What now?
 
@@ -132,7 +132,7 @@ To do a “hard” reset if you use your cell phone number to log in:
 6. Reinstall the Tinder app
 7. Create a new account using your new phone number.
 
-<img height="439" src="https://cdn.buttercms.com/zXCfdNE0T96nrNEG5KBZ" width="624" />
+<img height="439" src="https://images.thematchartist.com/images/Missed%20Images/zXCfdNE0T96nrNE.jpg" width="624" />
 
 &nbsp;**&nbsp;**&nbsp;
 
@@ -160,7 +160,7 @@ To do this:
 2. Navigate to ‘Apps and Websites’
 3. Navigate down to Tinder and click ‘Remove App’, then confirm.
 
-<img height="319" src="https://cdn.buttercms.com/aSMuQ4igQka4XUhYh220" width="624" />
+<img height="319" src="https://images.thematchartist.com/images/Missed%20Images/aSMuQ4igQka4XUh.jpg" width="624" />
 
 &nbsp;**&nbsp;**&nbsp;
 

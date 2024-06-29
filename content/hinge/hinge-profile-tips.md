@@ -288,7 +288,7 @@ How about a photo of you hiking the summit of a mountain, paired with the Prompt
 
 When used well, you can potentially get a few more Likes in your Likes You feed, and maybe even a comment or two, which could all lead to more dates…!
 
-![](https://lh4.googleusercontent.com/UvBa3553JusZ1CS7jqyhynuPG9eq__Y0qf2HdoUi9zx6WYG2mgRlR1o8AIuP1r9zJXSSPjqeSHQ8-ynZ2LXaVAqDNbhjI2zo63y6Z3pHuf-D0XCzQ11xfC0Z5L0kdnZXU1CRzmZu9phGEY3f9fwz0CM)
+![](https://images.thematchartist.com/images/Missed%20Images/UvBa3553JusZ1CS.jpg)
 
 Key Takeaways
 -------------

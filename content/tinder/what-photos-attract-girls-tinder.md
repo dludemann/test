@@ -41,7 +41,7 @@ Ready to level up your dating app game with our guide? Let’s get started!
 
 ## The Importance of High-Quality Tinder Pictures
 
-![undefined](https://cdn.buttercms.com/XQssyZvSsawmrhCWBMaU)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/XQssyZvSsawmrhC.jpg)
 
 No one likes to look at grainy photos, especially not dating photos! And on Tinder, the first thing people do is assess the attractiveness of their potential partner.
 
@@ -75,7 +75,7 @@ While a nice selfie is tempting, unfortunately it can also make you appear vain,
 
 ### Let Your Picture Describe Your Personality
 
-![undefined](https://cdn.buttercms.com/suEcja7xQAye0r6b4XQA)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/suEcja7xQAye0r6.jpg)
 
 If you have any particular hobbies, now is the time to show it through your photos.
 
@@ -89,7 +89,7 @@ So if you have an activity that could be seen as a little risky, include a photo
 
 ### Wear Nice Clothes & Be Groomed
 
-![undefined](https://cdn.buttercms.com/dp4SN1DXRNONR3dA5gs9)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/dp4SN1DXRNONR3d.jpg)
 
 [Dating experts](http://personaldatingassistants.com/tinder-pictures) have found that when compared to a more casual outfit, people who dressed up a little for their photos were more positively viewed by potential matches.
 
@@ -141,7 +141,7 @@ Unless you want comments that you look like a playboy, just don’t do it!
 
 ### Strive to Look Confident
 
-![undefined](https://cdn.buttercms.com/pGZOglDlQmm46VM32s47)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/pGZOglDlQmm46VM.jpg)
 
 At the end of the day, confidence is key, and it’s what will make you truly look your best.
 
@@ -213,19 +213,19 @@ But let’s go into closer detail now with the 12 best types of Tinder pics you 
 
 ### 1\. The Full Body Physique Shot
 
-![](https://cdn.buttercms.com/P54rdFvGRSe4hmBVdi1i)
+![](https://images.thematchartist.com/images/Missed%20Images/P54rdFvGRSe4hmB.jpg)
 
 While not every woman is looking for a body-builder type, just close-up shots of your head can look a little sus. So be sure to include at least one photo where you can see your full body.
 
 ### 2\. The GQ Shot: Pose in Your Best Suit
 
-![](https://cdn.buttercms.com/BDvr82h5Q0eOXUNILjmp)
+![](https://images.thematchartist.com/images/Missed%20Images/BDvr82h5Q0eOXUN.jpg)
 
 Take your photos to the next level and get really dressed up. Every woman loves to see a man looking a little suave, even if just to prove that they know how to clean up!
 
 ### 3\. Pose with Your Dog
 
-![](https://cdn.buttercms.com/3kBNrL3ERGuALhX0ACch)
+![](https://images.thematchartist.com/images/Missed%20Images/3kBNrL3ERGuALhX.jpg)
 
 Do you know what the number one photo that could get you more Right Swipes and an opportunity to meet someone?
 
@@ -237,7 +237,7 @@ Either way, including a photo of your dog (or a borrowed friend’s dog), could 
 
 ### 4\. The Social Shot: Highlight That You Do Fun Things
 
-![](https://cdn.buttercms.com/ZoswIMacTLuEKZCRqETY)
+![](https://images.thematchartist.com/images/Missed%20Images/ZoswIMacTLuEKZC.jpg)
 
 Look, it’s all well and good to be a couch potato sometimes, but when you’re trying to make a good first impression, pick a photo that shows that you do leave your apartment and have a social life — if only from time to time!
 
@@ -245,7 +245,7 @@ Your potential match will want to know that you have a group of friends and that
 
 ### 5\. The Outdoors Shot: Post in the Wilderness
 
-![](https://cdn.buttercms.com/B0vJOk93Tli2WZGtisap)
+![](https://images.thematchartist.com/images/Missed%20Images/B0vJOk93Tli2WZG.jpg)
 
 Hunter-gatherer vibes could make you seem more attractive to a potential match. It’s all to do with the way our brains are wired!
 
@@ -253,7 +253,7 @@ And, at the very least, you may attract someone who’s into hiking — a fun ac
 
 ### 6\. The Down-to-Earth Casual Shot
 
-![](https://cdn.buttercms.com/ucbUW8hfTXm3fLPcOe6b)
+![](https://images.thematchartist.com/images/Missed%20Images/ucbUW8hfTXm3fLP.jpg)
 
 While we’ve talked quite a bit about elevating your images by making sure you’re well groomed, don’t forget to include a photo that shows that you’re just a guy, looking for a girl…!
 
@@ -261,19 +261,19 @@ Remember: approachable!
 
 ### 7\. Highlight Your Smile Shot
 
-![](https://cdn.buttercms.com/nrG2TO6R96capfDS3Haw)
+![](https://images.thematchartist.com/images/Missed%20Images/nrG2TO6R96capfD.jpg)
 
 If you have a nice smile, be sure to get at least one photo of you showing it off! For some, that could be the difference between a Swipe Right and a Swipe Left.
 
 ### 8\. Highlight Your Favorite Hobbies Shot
 
-![](https://cdn.buttercms.com/0MrAlGXzTaGw3vaftv36)
+![](https://images.thematchartist.com/images/Missed%20Images/0MrAlGXzTaGw3va.jpg)
 
 Like we’ve already mentioned, if you’ve got a good hobby or interest that could spark a conversation, then include it!
 
 ### 9\. Pose with Your Musical Instrument
 
-![](https://cdn.buttercms.com/8WOGuTFjTJmaZFgZ6rOz)
+![](https://images.thematchartist.com/images/Missed%20Images/8WOGuTFjTJmaZFg.jpg)
 
 This one, when done carefully, can really help boost your attractiveness. After all, men who play instruments are sexy.
 
@@ -281,13 +281,13 @@ Just be careful how you portray yourself — this isn’t a highschool band phot
 
 ### 10\. The Traveler Shot
 
-![](https://cdn.buttercms.com/QtWSm5DaQcy0rDx00ccv)
+![](https://images.thematchartist.com/images/Missed%20Images/QtWSm5DaQcy0rDx.jpg)
 
 If you love travel, then include a photo of you traveling! It’ll be a great conversation starter (“Wow, you went to Morocco, too?”) and also shows that you’re adventurous and interested in the world.
 
 ### 11\. Pose in Natural Light
 
-![](https://cdn.buttercms.com/aBC4ctMJTSGnfF6y69Qq)
+![](https://images.thematchartist.com/images/Missed%20Images/aBC4ctMJTSGnfF6.jpg)
 
 Lighting is such an important part of taking good photos. And natural light is best — definitely avoid harsh flash!
 
@@ -295,7 +295,7 @@ If you can, take your photos in natural light. An overcast day with diffused lig
 
 ### 12\. Highlight Your Stoic Side
 
-![](https://cdn.buttercms.com/Og7roT3lQo6d1IszWdrm)
+![](https://images.thematchartist.com/images/Missed%20Images/Og7roT3lQo6d1Is.jpg)
 
 Bit self-conscious about your teeth or smile? Well luckily there isn’t a whole lot of difference between photos that show you looking into the difference smiling, or a little more stoic.
 
@@ -305,7 +305,7 @@ You’re not just looking into the camera, you’re looking beyond it — all so
 
 ### Concluding Thoughts
 
-![](https://cdn.buttercms.com/UMd80fxCRkGQnuNx0dWM)
+![](https://images.thematchartist.com/images/Missed%20Images/UMd80fxCRkGQnuN.jpg)
 
 ## What Photos Attract Girls on Tinder FAQs
 

@@ -30,7 +30,7 @@ We’ve been working on something new for a while, and it’s finally here.
 
 We are now welcoming our new dating coach, Robby on to The Match Artist team. He has been coaching in areas like dating, relationships, peak performance, and more for over a decade– and now he’s bringing his skills to The Match Artist team.
 
-![](https://cdn.buttercms.com/mAJl7IvSo6LRW492Xi7w)
+![](https://images.thematchartist.com/images/Missed%20Images/mAJl7IvSo6LRW49.jpg)
 
 In the past few years of this business, we’ve been able to consistently get people more matches than they knew what to do with, but we couldn’t help but notice that the dating struggles went far beyond just getting matches.
 

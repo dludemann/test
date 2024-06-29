@@ -51,7 +51,7 @@ Let’s get into it!
 Does Bumble Have a Search Feature?
 ----------------------------------
 
-![](https://cdn.buttercms.com/g4SHaEfPTjSpLjs6GvvX)
+![](https://images.thematchartist.com/images/Missed%20Images/g4SHaEfPTjSpLjs.jpg)
 
 Unfortunately, Bumble doesn’t have a [direct search](https://bumble.com/en/help/can-i-search-for-a-specific-person-on-bumble) feature. In fact, you’d be hard pressed to find one on most dating apps!
 
@@ -146,7 +146,7 @@ Keep in mind that even if you have the Snooze feature activated, when you’re s
 How Can You Tell If Someone Is on Bumble?
 -----------------------------------------
 
-![](https://cdn.buttercms.com/QY1v00lRHyt5SWTRZyCl)
+![](https://images.thematchartist.com/images/Missed%20Images/QY1v00lRHyt5SWT.jpg)
 
 The simplest way to find out if someone is on Bumble is to get swiping. This is essentially just boring gumshoe detective work. Get onto the app and browse as many pages as you possibly can!
 
@@ -290,7 +290,7 @@ Of course, there are situations where friendships can develop into romantic rela
 How Do You Know If Someone Deleted Bumble?
 ------------------------------------------
 
-![](https://cdn.buttercms.com/T4SqnKAxTVi01PgsgI2j)
+![](https://images.thematchartist.com/images/Missed%20Images/T4SqnKAxTVi01Pg.jpg)
 
 If someone deletes their Bumble account, any conversations you had with them will remain in your chat log. Where their name used to be, it will simply say “deleted profile”. 
 

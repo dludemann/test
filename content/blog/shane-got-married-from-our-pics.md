@@ -30,7 +30,7 @@ Here's one of the photos that brought in the matches initially. Confidently look
 
 &nbsp;
 
-<img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579622/embeddable_bed140ed-5841-4996-af7a-92b170fcb3ed.png" width="504" />
+<img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_bed1.png" width="504" />
 
 **A little more of our story:**
 
@@ -44,7 +44,7 @@ At this point, we've helped jumpstart many relationships with the 600+ guys we'v
 
 As a bonus, I even got to see him cry (which isn't typical for him being the developer and spreadsheet guru that he is).
 
-<img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579508/embeddable_ddd17f38-15c6-4fd1-a581-ec12670c1850.jpg" width="530" /> <img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579325/embeddable_2f5fa442-a813-48cf-9c68-dabacba1a324.jpg" width="530" /> <img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579346/embeddable_de8a88c7-62b2-4729-bfd8-33ace7661230.jpg" width="538" /> <img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579384/embeddable_e901f85a-35b0-4096-8a81-a82ae8ff30a8.jpg" width="538" /> <img src="https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2579268/embeddable_e419bed7-2057-4a65-a57b-1acec9d39ccc.jpg" width="538" />
+<img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_ddd1.jpg" width="530" /> <img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_2f5f.jpg" width="530" /> <img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_de8a.jpg" width="538" /> <img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_e901.jpg" width="538" /> <img src="https://images.thematchartist.com/images/Missed%20Images/embeddable_e419.jpg" width="538" />
 
 He even DJ'd a bit at his own wedding.
 

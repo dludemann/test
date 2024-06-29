@@ -145,7 +145,7 @@ To maximize your Likes make sure you:
 
 Fill out every section, make sure you upload at least six _great_ photos of you (and a good variety), answer at least three Prompts, and try to inject some personality and humor into it!
 
-![](https://lh4.googleusercontent.com/v9efd-ehBcnMORcL-eVPCzNH2onpoQ-wTTWpCnwo3JiFMT1gzeJsC6R_TeXimIv2lMI7HmndpnUyMyqIRBnu_5PUwyTWB434bdtZX9Isy3ozEQds9Lwd1TAAOSjwAlxfG6l5d1s1QxEw56NsfnCoNN0)
+![](https://images.thematchartist.com/images/Missed%20Images/v9efd-ehBcnMORc.jpg)
 
 *   **Don’t set your preferences too strictly**
     

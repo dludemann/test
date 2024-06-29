@@ -31,12 +31,12 @@ My favorite photos from the session are below, and so are the secrets to what ma
 **The Headshot**  
 This shot conveys a slight sense of mystery. Don't give everything away in all your photos. Notice the blurred background that keeps the focus on Dan, as well as the slight smirk to keep people guessing.
 
-![](https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2494503/embeddable_fb5a6165-d4f8-4869-85f6-02d91247149a.jpg)
+![](https://images.thematchartist.com/images/Missed%20Images/embeddable_fb5a.jpg)
 
 **The Intellectual Shot**  
 He's looking slightly amused and possibly thinking about something while looking off in the distance. Notice that although he has a smirk, his gaze still has intention.
 
-![](https://do0ne7yeju3uz.cloudfront.net/uploads/image_upload/image/2494493/embeddable_a5017496-2c9a-4738-9e8b-551b92060575.jpg)
+![](https://images.thematchartist.com/images/Missed%20Images/embeddable_a501.jpg)
 
 **The Cafe Shot**  
 Again, he's looking off intentionally into the distance while hanging out on a patio. We don't want our photos to look like you hired someone, so having the iPhone in the shot can drop the professionalism.

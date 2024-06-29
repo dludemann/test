@@ -29,7 +29,7 @@ featuredImg:
 
 Dating sites have grown exponentially since the first ever online dating platform, <a data-saferedirecturl="https://www.google.com/url?q=http://match.com/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3crTeLsN3obbnp9_fqN3aw" target="_blank" rel="noopener noreferrer" href="http://match.com/">Match.com</a> was launched in 2005. Today there are an estimated 8,000 dating sites worldwide, in 2022 <a data-saferedirecturl="https://www.google.com/url?q=https://www.statista.com/topics/7443/online-dating/%23:~:text%3DIn%25202022%252C%2520there%2520were%2520over,no%2520signs%2520of%2520slowing%2520down.&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3mIp6MLBIlou_F7tpsy0RM" target="_blank" href="https://www.statista.com/topics/7443/online-dating/#:~:text=In%202022%2C%20there%20were%20over,no%20signs%20of%20slowing%20down." rel="noopener noreferrer">336 million people</a> went online in a quest to find a partner, and according to a recent <a data-saferedirecturl="https://www.google.com/url?q=https://www.statista.com/chart/24165/online-dating-penetration-rate-revenue-selected-countries/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1tyPQ8_7A_f9aDnxb6U3ke" target="_blank" href="https://www.statista.com/chart/24165/online-dating-penetration-rate-revenue-selected-countries/" rel="noopener noreferrer">Statista</a> study, this number will reach 441 million users by the end of 2023. All this choice sounds great, but where does one begin when there are so many options? The choice is overwhelming but we’ve done a breakdown and rated the best dating sites for people looking for long term relationships.
 
-![thematchartist_match_hearts_ef5be709-d81f-482d-97b3-f8de1a026130.webp](https://cdn.buttercms.com/1vKbOlvSySbRECGox0q7)
+![thematchartist_match_hearts_ef5be709-d81f-482d-97b3-f8de1a026130.webp](https://images.thematchartist.com/images/Missed%20Images/1vKbOlvSySbRECG.jpg)
 
 1\. <a data-saferedirecturl="https://www.google.com/url?q=https://keeper.ai/&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw34HooN0aCMbaH8kKtcyxlt" target="_blank" rel="noopener noreferrer" href="https://keeper.ai/">Keeper</a>
 
@@ -51,7 +51,7 @@ Match charges $20 a month which is slightly more costly than other mainstream al
 
 4\. <a data-saferedirecturl="https://www.google.com/url?q=https://hinge.co/en-gb&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1sMKrO9RwUVnh-msh9_SE2" target="_blank" href="https://hinge.co/en-gb" rel="noopener">Hinge</a>
 
-![undefined](https://cdn.buttercms.com/ow9EzNZuRaaTVE1NVvs3)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/ow9EzNZuRaaTVE1.jpg)
 
 Hinge is the dating app that according to its creators was ‘<a data-saferedirecturl="https://www.google.com/url?q=https://hinge.co/en-gb&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw1sMKrO9RwUVnh-msh9_SE2" target="_blank" rel="noopener noreferrer" href="https://hinge.co/en-gb">designed to be deleted</a>’. Amongst millennials there is an idea that Tinder is for hookups and Hinge is the alternative - a platform better suited to people looking for relationships - but although this may be the case, the platform places no real emphasis on helping people find a long term relationship.
 
@@ -61,7 +61,7 @@ While lots of happy relationships have come from Hinge, that’s due to the larg
 
 5\. <a data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/search?client%3Dsafari%26rls%3Den%26q%3Dbumble%26ie%3DUTF-8%26oe%3DUTF-8&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw3LrEkgIgLgsyerUiaIzkh7" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=bumble&amp;ie=UTF-8&amp;oe=UTF-8">Bumble</a>
 
-![undefined](https://cdn.buttercms.com/V4NW359aQlWHk1Nv8Vyj)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/V4NW359aQlWHk1N.jpg)
 
 Bumble was launched in 2014 and billed as the first ‘<a data-saferedirecturl="https://www.google.com/url?q=https://www.nytimes.com/2017/03/18/fashion/bumble-feminist-dating-app-whitney-wolfe.html&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw2na9rnwiY7kZZJTmMGYjMk" target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/2017/03/18/fashion/bumble-feminist-dating-app-whitney-wolfe.html">feminist dating app</a>’. The fact it was led by women, who are traditionally more likely to be seeking a long term relationship and shun hook up culture than their male counterparts, was encouraged when the app branded itself as a place to find ‘<a data-saferedirecturl="https://www.google.com/url?q=https://mashable.com/article/bumble-dating-user-survey-2018%238N1OTdcO4qqL&amp;source=gmail&amp;ust=1690981361804000&amp;usg=AOvVaw2GOlr-sNO1OMp_hDkam7qe" target="_blank" rel="noopener noreferrer" href="https://mashable.com/article/bumble-dating-user-survey-2018#8N1OTdcO4qqL">empowering and lasting connections</a>’.
 

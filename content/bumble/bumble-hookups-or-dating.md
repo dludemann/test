@@ -13,7 +13,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
-![](https://cdn.buttercms.com/5g9He1byRRqVj1BNaBiv)
+![](https://images.thematchartist.com/images/Missed%20Images/5g9He1byRRqVj1B.jpg)
 
 Whether you’ve been using Bumble for a while or you’ve just downloaded it from the app store, online dating can be a minefield! However, with [millions of users worldwide](https://backlinko.com/bumble-users), Bumble has made a name for itself in the world of online dating. 
 

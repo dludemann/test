@@ -29,7 +29,7 @@ So You Want to Buy a Camera? Some Advice from the Photographer
 
 Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations for camera gear, insight on taking good photos, and how to use all of this for a photo date.
 
-![Screen Shot 2019-06-01 at 6.33.45 PM](http://images.ctfassets.net/9e33rgnm1y4m/5I29sYYDxkXEpBrabvtxje/3c5f948a2087766cad57c9b4d02ac287/Screen_Shot_2019-06-01_at_6.33.45_PM.png)
+![Screen Shot 2019-06-01 at 6.33.45 PM](https://images.thematchartist.com/images/Missed%20Images/Screen_Shot_201.png)
 
 First, let's talk about why you're doing this. You're taking photos for you. Photography is a beautiful hobby, and self-fulfilling, so don't buy a camera to show off, or 'get the girl', even though this can help. Thinking of the world in a sense of photography increases your awareness of beauty in everything you see. Instilling the world into photographs can tell a story to your social media following about who you are, what you appreciate, and beyond this - just a beautiful photo.
 

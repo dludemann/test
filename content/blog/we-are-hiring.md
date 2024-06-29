@@ -67,7 +67,7 @@ You'll go through the facial expression coaching in person in front of a mirror 
 
 You'll take some initial headshots with the lighting equipment. You will need to perfect our signature moody look.
 
-![undefined](https://cdn.buttercms.com/VDLJcD8iSWO145BNbCcr)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/VDLJcD8iSWO145B.jpg)
 
 After the headshots we begin taking lifestyle photos. We're trying to make these photos look like they weren't taken on the same day. To do this, you'll be helping our clients switch shirts, and alternating their appearance. You'll capture our client's unique hobbies we can (cooking, yoga, piano, etc) and show them in their bestlight.
 

@@ -15,7 +15,7 @@ seo:
 
 &nbsp;
 
-![thematchartist_hearts_in_a_big_city_0...](https://cdn.buttercms.com/xXnJ1jTSxq8REKi6CwSA)
+![thematchartist_hearts_in_a_big_city_0...](https://images.thematchartist.com/images/Missed%20Images/xXnJ1jTSxq8REKi.jpg)
 
 Hey there, fellow swiper!
 
@@ -41,7 +41,7 @@ Ready to get started and learn how to play the Tinder game? Let’s dive in!
 
 ## What Are the Unwritten Rules of Tinder?
 
-![thematchartist_clock_being_held_up_by...](https://cdn.buttercms.com/u1YpYhi0RlCq1vQAz0Jq)
+![thematchartist_clock_being_held_up_by...](https://images.thematchartist.com/images/Missed%20Images/u1YpYhi0RlCq1vQ.jpg)
 
 You might be thinking to yourself, “Unwritten rules? But I thought there were no rules when it comes to dating!”
 
@@ -99,7 +99,7 @@ So, if you do end up meeting someone special, don’t be afraid to proudly decla
 
 ## 4\. Tinder is Unbalanced and is Favorable for Attractive People
 
-![](https://cdn.buttercms.com/j8Mug6laRTa4lTMb5Oi2)
+![](https://images.thematchartist.com/images/Missed%20Images/j8Mug6laRTa4lTM.jpg)
 
 Yet another harsh truth: Tinder tends to favor more attractive people.
 
@@ -127,7 +127,7 @@ But don’t forget, you’re not just the author of your own story — you’re 
 
 ## 5\. You Can Ghost a Match You Don't Like (Though We Don't Necessarily Recommend It)
 
-![](https://cdn.buttercms.com/o0fWTReTyCterOKRFVd5)
+![](https://images.thematchartist.com/images/Missed%20Images/o0fWTReTyCterOK.jpg)
 
 So, let’s talk about everyone’s favorite topic — ghosting.
 
@@ -201,7 +201,7 @@ Additionally, if you don’t log in to your Tinder account for two years, it may
 
 ### Do you kiss on the first Tinder date?
 
-![](https://cdn.buttercms.com/MBYvUys6S8iS4P76XXai)
+![](https://images.thematchartist.com/images/Missed%20Images/MBYvUys6S8iS4P7.jpg)
 
 The truth is, there’s no one-size-fits-all answer to this question. Some people prefer to take things slow and wait until they’ve gotten to know their date a little better before hooking up, while others are all about that instant chemistry and go for it right away.
 
@@ -219,7 +219,7 @@ Don’t forget that you can also use functions like Boost, Super Like, and more 
 
 ### How much should you reveal right away?
 
-![](https://cdn.buttercms.com/FpzuEN5XSc2ZDJskokTo)
+![](https://images.thematchartist.com/images/Missed%20Images/FpzuEN5XSc2ZDJs.jpg)
 
 When it comes to creating an attractive Tinder profile, it’s important to strike a balance between being informative and engaging, while also protecting your personal information and privacy.
 

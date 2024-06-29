@@ -252,7 +252,7 @@ Again, this may be one for the foodies, but you can really get to know someone t
 
 ## Best First Texts on Tinder IRL
 
-<img height="461" src="https://cdn.buttercms.com/rhADOQznSf64Er4veV9B" width="624" />
+<img height="461" src="https://images.thematchartist.com/images/Missed%20Images/rhADOQznSf64Er4.jpg" width="624" />
 
 &nbsp;
 

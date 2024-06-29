@@ -14,7 +14,7 @@ seo:
   no_index: false
 ---
 
-![](https://cdn.buttercms.com/9AbCICZkQdaWICiAXLw0)
+![](https://images.thematchartist.com/images/Missed%20Images/9AbCICZkQdaWICi.jpg)
 
 It can be tricky starting _any_ convo, let alone one on a dating app when you’re trying to meet the woman — or man — of your dreams! And, if you’re on Bumble, even if you don’t have First Move privileges, it’s no different.
 

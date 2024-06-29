@@ -51,7 +51,7 @@ We know from a survey conducted by the [Washington Post](https://www.washingtonp
 
 While the [data](https://thebolditalic.com/the-two-worlds-of-tinder-f1c34e800db4) says that most women only have to Swipe Right on 3 men to make a match, conversely men have to Swipe Right on over 50 women in order to have success.
 
-![undefined](https://cdn.buttercms.com/Z9pliWkyS1WfRIYmKDw9)
+![undefined](https://images.thematchartist.com/images/Missed%20Images/Z9pliWkyS1WfRIY.jpg)
 
 But it’s a self-perpetuating cycle!
 

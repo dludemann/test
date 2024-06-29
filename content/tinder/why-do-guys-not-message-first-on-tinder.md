@@ -151,7 +151,7 @@ When you [work with The Match Artist](https://thematchartist.com/online-dating-p
 
 ## Why Guys Should Send The First Message
 
-![](https://cdn.buttercms.com/FlO6HNIXSiCcvJjXnlII)
+![](https://images.thematchartist.com/images/Missed%20Images/FlO6HNIXSiCcvJj.jpg)
 
 Working with us isn’t just about getting you great photos for your Tinder profile, it’s also about showing the world who you are and how you want to be perceived.
 

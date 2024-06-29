@@ -14,7 +14,7 @@ seo:
   no_index: false
 ---
 
-![](https://cdn.buttercms.com/UibpqksT2qdYqXON7sa3)
+![](https://images.thematchartist.com/images/Missed%20Images/UibpqksT2qdYqXO.jpg)
 
 Bumble has a reputation as a great app if you’re a woman looking for love, but how does it work for guys?
 

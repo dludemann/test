@@ -13,7 +13,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
-![](https://cdn.buttercms.com/O1mobHkzQ6GxzE2M4Ryd)
+![](https://images.thematchartist.com/images/Missed%20Images/O1mobHkzQ6GxzE2.jpg)
 
 If you’ve been using dating apps for a while, chances are you’ve used — or at least heard of — Bumble. Similar to other dating apps, Bumble has been around for almost a decade now, but still manages to stand out from the crowd.
 
@@ -72,7 +72,7 @@ Left swipes are also not forever, which is pretty interesting, and takes away fr
 What Is Unique About Bumble? 
 -----------------------------
 
-![](https://cdn.buttercms.com/DP5R7z7JRp6ySDSzlSqt)
+![](https://images.thematchartist.com/images/Missed%20Images/DP5R7z7JRp6ySDS.jpg)
 
 Thanks to women-initiated conversations on Bumble, this makes the platform unique and allows women on the app to set the pace of their conversations. 
 
@@ -171,7 +171,7 @@ While it’s popular, Bumble hasn’t quite taken over from more popular apps, s
 How Bumble’s Algorithm Works
 ----------------------------
 
-![](https://cdn.buttercms.com/dnm3ktExSXEXkKMycGZ7)
+![](https://images.thematchartist.com/images/Missed%20Images/dnm3ktExSXEXkKM.jpg)
 
 As with other dating apps, there’s an algorithm behind Bumble that determines how you see other users, and how they view your profile. 
 
@@ -287,7 +287,7 @@ You can also specify various information about yourself, which includes everythi
 
 Making sure you complete your profile fully will help the algorithm match you with other users.
 
-![Bumble now has interest badges so it's easier to tell daters your likes |  Tech News](https://images.hindustantimes.com/tech/img/2021/04/15/1600x900/Interest_Badges_Bumble_India_1618464032981_1618464043993.png)
+![Bumble now has interest badges so it's easier to tell daters your likes |  Tech News](https://images.thematchartist.com/images/Missed%20Images/Interest_Badges.png)
 
 ### Linking Other Accounts
 
@@ -343,7 +343,7 @@ Remember to be open minded! Your ideal partner could be just outside of your pre
 Your App Options
 ----------------
 
-![](https://cdn.buttercms.com/jSQLXa8ZR1iuzNcbSwjN)
+![](https://images.thematchartist.com/images/Missed%20Images/jSQLXa8ZR1iuzNc.jpg)
 
 There are three main options for Bumble. These are the basic version of Bumble, Bumble Premium, and Bumble Boost. Only the basic version is free, and you’ll have a limit of 25 swipes per day.
 
@@ -438,7 +438,7 @@ You may find that this is all you need, however!
 How Does Bumble Look For Guys?
 ------------------------------
 
-![](https://cdn.buttercms.com/R9AiOlqnSbOIh4Vom7xZ)
+![](https://images.thematchartist.com/images/Missed%20Images/R9AiOlqnSbOIh4V.jpg)
 
 The user experience whether you’re a guy or girl on the app is, for the most part, extremely similar, with only one main difference: if you’re a guy, you can’t send the first message.
 
