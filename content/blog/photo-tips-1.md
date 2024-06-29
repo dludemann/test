@@ -26,7 +26,7 @@ featuredImg:
 
 I want to share some tips on how to take better photos using Dan's photo shoot as an example.
 
-\>My favorite photos from the session are below, and so are the secrets to what makes each photo match-worthy.
+My favorite photos from the session are below, and so are the secrets to what makes each photo match-worthy.
 
 **The Headshot**  
 This shot conveys a slight sense of mystery. Don't give everything away in all your photos. Notice the blurred background that keeps the focus on Dan, as well as the slight smirk to keep people guessing.

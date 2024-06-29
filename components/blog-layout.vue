@@ -7,8 +7,8 @@
           <a :href="post._path">
             <tma-image
               class="h-full object-cover max-h-[550px]"
-              :src="post.featured_image || post.featuredImg.image"
-              :alt="post.featured_image_alt || post.featuredImg?.image_alt"
+              :src="post.featured_image || post.featuredImg?.image"
+             :alt="post.featured_image_alt || post.featuredImg?.image_alt"
               loading="eager"
             />
           </a>
