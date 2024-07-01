@@ -83,6 +83,7 @@ collections_config:
   blog:
     path: content/blog
     output: true
+    create: "[relative_base_path]/{name|slugify}.md"
     url: "/blog/[slug]/"
     icon: event_available
     _enabled_editors:
