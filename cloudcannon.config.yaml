@@ -31,9 +31,9 @@ _snippets:
             - editor_key: img
               type: string
               default: ""
-            - editor_key: campaign
+            - editor_key: campaign_id
               type: string
-              default: "default"
+              default: "241825807"
           format:
             ref: "mdx_format"
     definitions:
