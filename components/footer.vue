@@ -22,6 +22,58 @@ const silos = [
   },
 ];
 
+const newsletterForm = ref(null);
+
+onMounted(() => {
+  let captcha = document.createElement("script");
+  captcha.setAttribute(
+    "src",
+    "https://www.google.com/recaptcha/api.js?render=6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM"
+  );
+  document.head.appendChild(captcha);
+
+  console.log("Component has been mounted!");
+});
+
+const handleSubmit = async () => {
+  const emailElement = newsletterForm.value.elements["fields[email]"];
+  const name = newsletterForm.value.elements["fields[first_name]"];
+
+  const preparedData = {
+    Email: emailElement.value,
+    FirstName: name.value,
+    Token: "",
+  };
+
+  grecaptcha.ready(function () {
+    // eslint-disable-next-line no-undef
+    grecaptcha
+      .execute("6LeefeUoAAAAAIoet4Cfhv5IO4fwB8TR-cF8fjoM", {
+        action: "submit",
+      })
+      .then(function (token) {
+        preparedData.Token = token;
+        axios
+          .post(
+            "https://hooks.zapier.com/hooks/catch/1261564/23o5q4y/",
+            preparedData,
+            {
+              headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+              },
+            }
+          )
+          .then((res) => {
+            subscribed.value = true;
+          })
+          .catch((error) => {
+            console.log("ERROR");
+            console.log(error);
+          });
+      });
+  });
+};
+
 const nav_links =
   "text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left hover:text-primary-700";
 </script>
@@ -205,38 +257,41 @@ const nav_links =
             dating tools.
           </p>
 
-          <form
-            class="drip-form flex flex-col gap-4"
-            :class="`plausible-event-name=${newsletterPlausible}`"
-            action="https://www.getdrip.com/forms/91517951/submissions"
-            data-drip-embedded-form="91517951"
-            method="post"
-            id="dating-tool-capture"
-            target="_blank"
-          >
-            <input
-              type="text"
-              name="fields[first_name]"
-              placeholder="First Name"
-              required
-              class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
-            />
-            <input
-              type="email"
-              name="fields[email]"
-              value=""
-              placeholder="Email"
-              required
-              class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
-            />
-
-            <button
-              class="px-6 py-3 flex gap-2 font-display text-lg leading-[25px] font-semibold justify-center bg-primary-900 text-white hover:bg-primary-700 focus:bg-primary-700 disabled:bg-secondary-100 transition duration-150 lg:w-auto"
-              type="submit"
+          <div v-if="!subscribed">
+            <form
+              class="drip-form flex flex-col gap-4"
+              :class="`plausible-event-name=${newsletterPlausible}`"
+              id="dating-tool-capture"
+              @submit.prevent="handleSubmit"
+              ref="newsletterForm"
             >
-              Sign Up
-            </button>
-          </form>
+              <input
+                type="text"
+                name="fields[first_name]"
+                placeholder="First Name"
+                required
+                class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
+              />
+              <input
+                type="email"
+                name="fields[email]"
+                value=""
+                placeholder="Email"
+                required
+                class="bg-white border border-[#D0D5DD] flex gap-2 py-2.5 px-[14px] rounded-lg font-body text-body-regular placeholder:text-[#667085] text-[#667085] items-center"
+              />
+
+              <button
+                class="px-6 py-3 flex gap-2 font-display text-lg leading-[25px] font-semibold justify-center bg-primary-900 text-white hover:bg-primary-700 focus:bg-primary-700 disabled:bg-secondary-100 transition duration-150 lg:w-auto"
+                type="submit"
+              >
+                Sign Up
+              </button>
+            </form>
+          </div>
+          <div v-else>
+            <p>Thanks for subscribing!</p>
+          </div>
         </div>
       </div>
     </section>

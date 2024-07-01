@@ -54,7 +54,6 @@ const props = defineProps({
 
 const email = ref("");
 const subscribed = ref(false);
-
 const newsletterForm = ref(null);
 
 const handleSubmit = async () => {
