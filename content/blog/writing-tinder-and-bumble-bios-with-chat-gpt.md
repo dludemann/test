@@ -22,8 +22,6 @@ featuredImg:
 ---
 The new AI age is here, and the hype about Chat GPT is huge these days. We've been using it at The Match Artist to help with ideas for new content and a number of other things. I was wondering about its capability to write online dating bios for different styles of people, and it's been really helpful so far. Rather than finding a bumble profile writing service, you can power your online experience with a chatgpt dating profile.&nbsp;
 
-\:newsLetter{title="Sign-up for our newsletter" text="Get dating profile tips & strategy straight to your inbox." campaign="default" img="https://photostma.blob.core.windows.net/web/IMG_4607.jpg"}
-
 Even if you have great photos, that's just the first part of the funnel. Once the prospective match likes your photos, it's on to make sure there's nothing weird in your bio. If you can give them a laugh or show them you're clever, you'll have a better shot at getting to that date.
 
 # Examples of Online Dating Bios with Chat GPT
