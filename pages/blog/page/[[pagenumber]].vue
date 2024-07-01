@@ -1,9 +1,11 @@
 <template>
-  <BlogLayout
-    :posts="pagedPosts"
-    :pageNumber="pageNumber"
-    :numberOfPages="numberOfPages"
-  />
+  <NuxtLayout>
+    <BlogLayout
+      :posts="pagedPosts"
+      :pageNumber="pageNumber"
+      :numberOfPages="numberOfPages"
+    />
+  </NuxtLayout>
 </template>
 
 <script setup>
