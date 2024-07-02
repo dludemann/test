@@ -74,7 +74,7 @@ const renderAST = (nodes) => {
           title: node.props.title,
           description: node.props.description,
           img: node.props.img,
-          campaign: node.props["cta-id"],
+          campaign: node.props["campaign-id"],
           cta_text: node.props["cta-text"],
         });
       }

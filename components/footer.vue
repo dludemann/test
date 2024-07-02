@@ -1,4 +1,7 @@
 <script setup>
+import axios from "axios";
+const subscribed = ref(false);
+
 const silos = [
   {
     url: "/tinder/how-to-use-tinder",
@@ -244,7 +247,9 @@ const nav_links =
         </div>
 
         <!-- ONLINE DATING TOOLS -->
-        <div class="flex-1 flex flex-col gap-4 px-6 overflow-hidden">
+        <div
+          class="flex-1 min-w-[230px] flex flex-col gap-4 px-6 overflow-hidden"
+        >
           <p
             class="text-primary-500 text-heading-h6 font-bold text-center lg:text-left"
           >
@@ -290,7 +295,7 @@ const nav_links =
             </form>
           </div>
           <div v-else>
-            <p>Thanks for subscribing!</p>
+            <p className="text-white">Thanks for subscribing!</p>
           </div>
         </div>
       </div>

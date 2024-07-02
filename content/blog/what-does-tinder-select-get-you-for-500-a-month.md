@@ -24,20 +24,19 @@ featuredImg:
     https://photostma.blob.core.windows.net/web/images/blog/8I75NVKPTZuNcYi7sr0w.jpg
   image_alt:
 ---
+
 <br>Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience.&nbsp;
 
 But what do you get for the price tag?&nbsp;
 
-:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://photostma.blob.core.windows.net/web/team-photo.jpg" campaign="default"}
-
 ![](/marketing/2018-02-22_14-15-01_610.jpeg)
 
-* **Two times a week you can send a message without matching with that particular person.**
-* **If you like someone and they don't have any premium version of Tinder, they will see your unblurred picture making you more intriguing, as well as having your profile on the top of their likes for the next week.**&nbsp;
-* **If you'd like, you can add "select" to your profile establishing yourself as a premium option for your potential matches.**
-* **The select mode will show you to the most desired profiles as judged by Tinder.**
-* **Since you have to apply for Select if accepted, you'll be less than 1 percent of users with Select, showing off that you're the highest tier on the dating app.**
-* **You'll also be given first access to new features that Tinder is rolling out.**&nbsp;
+- **Two times a week you can send a message without matching with that particular person.**
+- **If you like someone and they don't have any premium version of Tinder, they will see your unblurred picture making you more intriguing, as well as having your profile on the top of their likes for the next week.**&nbsp;
+- **If you'd like, you can add "select" to your profile establishing yourself as a premium option for your potential matches.**
+- **The select mode will show you to the most desired profiles as judged by Tinder.**
+- **Since you have to apply for Select if accepted, you'll be less than 1 percent of users with Select, showing off that you're the highest tier on the dating app.**
+- **You'll also be given first access to new features that Tinder is rolling out.**&nbsp;
 
 You might think that this price is absolutely outrageous, and I get it. But based on my experiences with many of our clients, if dating is important to them, they will prioritize this part of their life as much as they are able to. It's not desperate, it's just giving yourself the best chance you have with the tools you have at your disposal.&nbsp;&nbsp;
 

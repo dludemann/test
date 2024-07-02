@@ -58,11 +58,11 @@ const newsletterForm = ref(null);
 
 const handleSubmit = async () => {
   const emailElement = newsletterForm.value.elements["fields[email]"];
-  const campaign = newsletterForm.value.elements["fields[campaign]"];
+  const campaign = props.campaign;
 
   const preparedData = {
     Email: emailElement.value,
-    Campaign: campaign.value,
+    Campaign: campaign,
     Token: "",
   };
 
