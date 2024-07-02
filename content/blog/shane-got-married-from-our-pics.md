@@ -26,6 +26,10 @@ My co-founder Shane got married a couple of weeks ago. Obviously, he put in the 
 
 &nbsp;
 
+:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://images.thematchartist.com/images/portfolio/2vwYVfAwRVaRiAn1ksd4.jpg" campaign_id="241825807"}
+
+&nbsp;
+
 :newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://photostma.blob.core.windows.net/web/2022-08-20TMADaveWoolf-Boston_0410.jpeg" campaign_id="241825807"}
 
 Here's one of the photos that brought in the matches initially. Confidently looking into the distance in a cafe.
