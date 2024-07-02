@@ -39,6 +39,8 @@ But now you’re noticing one or two red flags, and you’re not so sure that yo
 
 While that’s all well and good, and definitely something that can happen, be sure to be upfront and honest, rather than ghosting!
 
+:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="" campaign_id="241825807"}
+
 Ghosting, while it may seem easier, is never the answer. Remember, online dating is all about treating others how you want to be treated. So, if you’re not feeling a connection, *be kind and let them know.*
 
 To keep the conversation flowing, knowing what to say right from the start can make a big difference. Check out these tips for [the best first text on Tinder](https://thematchartist.com/tinder/best-first-text-tinder/) to ensure you start off on the right foot and engage your match effectively.<br>
