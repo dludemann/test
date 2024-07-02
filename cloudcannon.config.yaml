@@ -30,7 +30,7 @@ _snippets:
               default: "Sign-up"
             - editor_key: img
               type: string
-              default: ""
+              default: "https://images.thematchartist.com/images/portfolio/2vwYVfAwRVaRiAn1ksd4.jpg"
             - editor_key: campaign_id
               type: string
               default: "241825807"
