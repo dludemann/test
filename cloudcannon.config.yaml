@@ -395,3 +395,7 @@ _editables:
     undo: true
     redo: true
     snippet: true
+
+_structures:
+  content_blocks:
+    style: modal

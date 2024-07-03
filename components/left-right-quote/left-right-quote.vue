@@ -20,6 +20,7 @@ export default {
         color: block.quote.text_color,
       }"
     >
+
       <div
         class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center md:space-x-10"
       >
@@ -29,6 +30,7 @@ export default {
             class="h-[400px] md:h-[270px] w-full object-cover self-center rounded-sm"
             :src="block.image.src"
             :alt="block.image.alt"
+            :data-cms-bind="`${dataBinding}.image`"
           />
           <div
             class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[10px] md:-left-4"
@@ -42,6 +44,7 @@ export default {
             class="h-[500px] md:h-[400px] w-full object-cover self-center rounded-sm"
             :src="block.image2.src"
             :alt="block.image2.alt"
+            :data-cms-bind="`${dataBinding}.image2`"
           />
           <div
             class="bg-black text-white text-center py-2 mt-2 font-bold absolute px-2 text-sm top-0 md:top-auto left-0 md:bottom-[10px] md:-left-4"

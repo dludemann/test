@@ -2,7 +2,7 @@
   <NuxtLayout>
     <section class="flex font-display">
       <SideNavBars :links="portfolioMenu" />
-      <main>
+      <main class="w-full">
         <template v-if="formattedPage">
           <component
             v-for="(block, index) in formattedPage.content_blocks"
