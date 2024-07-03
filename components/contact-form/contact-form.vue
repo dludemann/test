@@ -149,7 +149,7 @@ export default {
               )
               .then((res) => {
                 const origin = window.location.origin;
-                window.location.href = `${origin}/book-a-call`;
+                window.location.href = `https://inbound.thematchartist.com/book-a-call`;
               })
               .catch((error) => {
                 console.log("ERROR");
