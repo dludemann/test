@@ -29,12 +29,13 @@ export default {
 
     <div class="grid grid-cols-4 gap-8 items-center px-8">
       <a
-        v-for="news_mention in block.news_mentions"
+        v-for="(news_mention, index) in block.news_mentions"
         class="col-span-4 lg:col-span-1"
         :href="news_mention.path"
         target="_blank"
       >
         <tma-image
+          :data-cms-bind="`${dataBinding}.news_mentions[${index}].image`"
           :src="news_mention.image.src"
           :alt="news_mention.image.alt"
         />
