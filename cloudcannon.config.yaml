@@ -156,7 +156,7 @@ collections_config:
     schemas:
       portfolio:
         name: New Portfolio Section
-        path: schemas/default.md
+        path: schemas/portfolio.md
         hide_extra_inputs: false
         remove_extra_inputs: false
     disable_add_folder: true
