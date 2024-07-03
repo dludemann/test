@@ -103,7 +103,7 @@ collections_config:
     preview:
       text:
         - key: name
-        - "Blog Post"
+        - 'Blog Post'
       icon:
         - "rss_feed"
       subtext:
@@ -399,3 +399,30 @@ _editables:
 _structures:
   content_blocks:
     style: modal
+
+_snippets_imports:
+  mdx: true
+
+_snippets:
+  customFooter:
+    snippet: :customFooter{[[args]]}
+    inline: false
+    preview:
+      text: Custom Footer
+      icon: view_quilt
+    params:
+      args:
+        parser: key_values
+        options:
+          models:
+            - editor_key: title
+              type: string
+              default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
+          format:
+            ref: "mdx_format"
