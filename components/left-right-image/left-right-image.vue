@@ -95,6 +95,7 @@ const markdownify = (text) => {
           </p>
           <tma-image
             :src="image.image.src"
+            :alt="image.image.alt"
             :data-cms-bind="`${dataBinding}.image.image_grid.images[${index}]`"
             class="object-cover h-full w-full rounded-sm"
           />
@@ -105,6 +106,7 @@ const markdownify = (text) => {
       <section v-if="block.image.full_sized_image.src">
         <div class="overflow-hidden justify-center items-center">
           <tma-image
+            :alt="block.image.full_sized_image.alt"
             :src="block.image.full_sized_image.src"
             :data-cms-bind="`${dataBinding}.image.full_sized_image`"
             class="object-cover h-full w-full"
