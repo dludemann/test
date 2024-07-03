@@ -38,6 +38,28 @@ _snippets:
             ref: "mdx_format"
     definitions:
       component_name: Newsletter
+  customFooter:
+    snippet: :customFooter{[[args]]}
+    inline: false
+    preview:
+      text: Custom Footer
+      icon: view_quilt
+    params:
+      args:
+        parser: key_values
+        options:
+          models:
+            - editor_key: title
+              type: string
+              default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
+          format:
+            ref: "mdx_format"
 
 data_config:
   locations:
@@ -399,30 +421,3 @@ _editables:
 _structures:
   content_blocks:
     style: modal
-
-_snippets_imports:
-  mdx: true
-
-_snippets:
-  customFooter:
-    snippet: :customFooter{[[args]]}
-    inline: false
-    preview:
-      text: Custom Footer
-      icon: view_quilt
-    params:
-      args:
-        parser: key_values
-        options:
-          models:
-            - editor_key: title
-              type: string
-              default: ""
-            - editor_key: text
-              type: string
-              default: ""
-            - editor_key: img
-              type: string
-              default: ""
-          format:
-            ref: "mdx_format"
