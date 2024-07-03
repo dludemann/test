@@ -1,6 +1,6 @@
 ---
 _schema: blog_post
-published:
+published: 2024-06-27T00:00:00Z
 name: What You Should 100% NOT Do on Tinder  (16 Tips)
 seo:
   title: What You Should 100% NOT Do on Tinder  (16 Tips)
@@ -39,8 +39,6 @@ But now you’re noticing one or two red flags, and you’re not so sure that yo
 
 While that’s all well and good, and definitely something that can happen, be sure to be upfront and honest, rather than ghosting!
 
-:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="" campaign_id="241825807"}
-
 Ghosting, while it may seem easier, is never the answer. Remember, online dating is all about treating others how you want to be treated. So, if you’re not feeling a connection, *be kind and let them know.*
 
 To keep the conversation flowing, knowing what to say right from the start can make a big difference. Check out these tips for [the best first text on Tinder](https://thematchartist.com/tinder/best-first-text-tinder/) to ensure you start off on the right foot and engage your match effectively.<br>
@@ -54,6 +52,8 @@ We get it, you want to show off your Instagram feed or your TikTok dances. But i
 Not only can it be seen as a desperate attempt at self-advertisement, it can also make you come across as less genuine.
 
 Plus, *it’s a safety concern!*
+
+:newsLetter{title="Sign-up for our newsletter" description="Get dating profile tips & strategy straight to your inbox." cta_text="Sign-up" img="https://images.thematchartist.com/images/portfolio/2vwYVfAwRVaRiAn1ksd4.jpg" campaign_id="241825807"}
 
 You never know who’s on the other end of that match, so keep your personal information private until you’ve established a real connection.
 
