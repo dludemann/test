@@ -8,7 +8,7 @@ const markdownify = (text) => {
 
 <template>
   <section
-    class="container mx-auto max-w-[1040px] lg:px-16 px-3"
+    class="container mx-auto max-w-[1040px] lg:px-16 px-8"
     :data-cms-bind="dataBinding"
   >
     <div class="py-[50px] text-center justify-center flex flex-col">
@@ -74,7 +74,7 @@ export default {
   letter-spacing: 1px;
   font-weight: lighter;
   line-height: 2rem;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 .markdown-block__text h1,

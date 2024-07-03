@@ -21,10 +21,11 @@ const toggleMobileCategory = (category: string) => {
 </script>
 
 <template>
-  <header class="h-[60px] bg-black relative">
+  <header class="h-[60px] bg-black flex"
+        :class="mobileMenuOpen ? 'fixed top-0 left-0 right-0 z-50 h-[60px] bg-black' : 'relative' "
+  >
     <div
-      :class="mobileMenuOpen ? 'fixed top-0 z-50 h-[60px] bg-black' : 'h-full '"
-      class="mx-auto container flex justify-between items-center px-4 font-display"
+      class="mx-auto container flex justify-between items-center px-4 font-display left-0 right-0"
     >
       <!-- LOGO -->
       <NuxtLink to="/" aria-label="Match Artist Logo Link">
@@ -103,63 +104,68 @@ const toggleMobileCategory = (category: string) => {
 
     <!-- MOBILE MENU -->
     <div
-      class="w-full fixed z-50 mt-[60px] overflow-y-auto"
+      class="w-full fixed z-50 mt-[60px] overflow-y-auto lg:hidden"
       style="height: calc(100dvh - 60px)"
       v-if="mobileMenuOpen"
     >
-      <nav class="flex bg-black flex-col gap-4 container mx-auto py-6 px-8">
-        <div v-for="link in links" :key="link.label">
-          <a
-            rel="canonical"
-            v-if="link.link"
-            :href="link.link"
-            :class="m_links_classes"
-            :title="link.label"
-            >{{ link.label }}</a
-          >
-          <span
-            v-if="link.children"
-            :class="m_links_classes"
-            @click="toggleMobileCategory(link.label)"
-            >{{ link.label }}
-
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              :class="
-                mobileMenuCategoryOpen === link.label
-                  ? 'rotate-180'
-                  : 'rotate-0'
-              "
-              class="w-4 h-4 stroke-current group-active:stroke-primary-700 transform transition"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M19.5 8.25l-7.5 7.5-7.5-7.5"
-              />
-            </svg>
-          </span>
-
-          <div
-            class="flex flex-col px-4"
-            v-if="mobileMenuCategoryOpen === link.label"
-          >
+      <div class="w-full bg-black">
+        <nav class="flex bg-black flex-col gap-4 container mx-auto py-6 px-4">
+          <div v-for="link in links" :key="link.label">
             <a
-              @click="mobileMenuCategoryOpen = null"
-              v-for="child in link.children"
-              :href="child.link"
-              :key="child.link"
-              class="text-white py-2 font-display"
-              >{{ child.label }}
-            </a>
+              rel="canonical"
+              v-if="link.link"
+              :href="link.link"
+              :class="m_links_classes"
+              :title="link.label"
+              >{{ link.label }}</a
+            >
+            <span
+              v-if="link.children"
+              :class="m_links_classes"
+              @click="toggleMobileCategory(link.label)"
+              >{{ link.label }}
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                :class="
+                  mobileMenuCategoryOpen === link.label
+                    ? 'rotate-180'
+                    : 'rotate-0'
+                "
+                class="w-4 h-4 stroke-current group-active:stroke-primary-700 transform transition"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                />
+              </svg>
+            </span>
+
+            <div
+              class="flex flex-col px-4"
+              v-if="mobileMenuCategoryOpen === link.label"
+            >
+              <a
+                @click="mobileMenuCategoryOpen = null"
+                v-for="child in link.children"
+                :href="child.link"
+                :key="child.link"
+                class="text-white py-2 font-display"
+                >{{ child.label }}
+              </a>
+            </div>
           </div>
-        </div>
-      </nav>
+        </nav>
+      </div>
     </div>
   </header>
+  <div class="spacer w-full"
+          :class="mobileMenuOpen ? 'h-[60px]' : 'h-0'"
+  ></div>
 </template>
 
 <style scoped>

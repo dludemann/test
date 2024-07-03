@@ -412,7 +412,7 @@ content_blocks:
           part of our dating profile pictures photography service.
 
 
-          ## The Headshot with a Smile
+          ### The Headshot with a Smile
 
 
           99\.9% of people visiting your online dating profile will start by
@@ -434,7 +434,7 @@ content_blocks:
           take what we consider to be a winning headshot for a dating profile.
 
 
-          ## A Candid Portrait
+          ### A Candid Portrait
 
 
           Candid photos are an excellent way to show off your personality. When
@@ -452,7 +452,7 @@ content_blocks:
           rehearse the shot before it is taken.
 
 
-          ## Shots of Your Hobbies
+          ### Shots of Your Hobbies
 
 
           We don't mean pictures of your stamp collection, but instead, you
@@ -471,7 +471,7 @@ content_blocks:
           person who shares your passion.
 
 
-          ## A Full Body Shot
+          ### A Full Body Shot
 
 
           We usually recommend a full body shot to avoid any misunderstandings.
