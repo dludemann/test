@@ -74,4 +74,5 @@ export default {
       />
     </div>
   </section>
+  <the-fold></the-fold>
 </template>
