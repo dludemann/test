@@ -6,6 +6,9 @@ spec:
   description: Hero section for the top of the page in a left right format
   icon: "cottage"
   tags: ["Hero"]
+  picker_preview:
+    gallery:
+      image: /public/component_thumbnails/hero-left-right.preview.png
 
 # Defines the structure of this component, as well as the default values
 blueprint:
