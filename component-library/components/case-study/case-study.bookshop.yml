@@ -6,6 +6,9 @@ spec:
   description: Case study section for grouping info about cases.
   icon: 'face'
   tags: ['Case study']
+  picker_preview:
+    gallery:
+      image: /public/component_thumbnails/case-study.preview.png
 
 # Defines the structure of this component, as well as the default values
 blueprint:
