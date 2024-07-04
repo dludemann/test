@@ -89,14 +89,14 @@ export default {
           rel="canonical"
           :to="button.button_link"
           v-for="(button, index) in block.cta.buttons"
-          class="flex"
+          class="flex min-h-12"
         >
           <p class="font-bold self-center mr-4" v-if="index > 0">/</p>
-          <button
-            class="text-[18px] py-1 underline underline-offset-8 decoration-2 font-body"
+          <span
+            class="text-[18px] py-1 underline underline-offset-8 decoration-2 font-body self-center"
           >
             {{ button.button_text }}
-          </button>
+          </span>
         </nuxt-link>
       </div>
       <div
