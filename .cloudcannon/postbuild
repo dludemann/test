@@ -4,6 +4,6 @@
 # Install and run generate
 #npm i
 npx "@bookshop/generate"
-npx @divriots/jampack ./dist --fast
+npx @divriots/jampack ./dist --onlyoptim
 
 # node ./utils/move-files-postbuild.js

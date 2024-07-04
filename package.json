@@ -32,7 +32,7 @@
   },
   "jampack":{
     "css": {
-      "inline_critical_css": false
+      "inline_critical_css": true
     }
   }
 }
