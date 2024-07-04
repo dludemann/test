@@ -1,7 +1,10 @@
 # Metadata about this component, to be used in the CMS
+######################
+# Did not appear to be in use, so have removed it from showing in CC... can be made to
+# show in CC again by adding structures: ['content_blocks'] to the spec below
+######################
 spec:
-  structures:
-    - content_blocks
+  structures: []
   label: Card Grid - Four Column
   description: Card grid with four locations
   icon: 'view_comfy'
