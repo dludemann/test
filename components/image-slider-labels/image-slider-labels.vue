@@ -47,7 +47,7 @@ export default {
               :key="slide.src"
               class="h-[500px] lg:w-[300px] !max-w-[300px] relative"
             >
-              <div class="h-[300px] lg:w-[300px] !max-w-[300px] relative">
+              <div class="h-[300px] relative">
                 <tma-image
                   :src="slide.src"
                   alt="Portfolio Image"
