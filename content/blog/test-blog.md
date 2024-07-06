@@ -1,7 +1,7 @@
 ---
 _schema: blog_post
 published: 2024-07-06T03:07:41Z
-name: test-blog
+name: Test blog
 seo:
   title:
   page_description:
