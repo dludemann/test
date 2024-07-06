@@ -1,6 +1,6 @@
 ---
 _schema: blog_post
-published: '2022-08-05T20:36:00Z'
+published: 2022-08-05T20:36:00Z
 name: 'Photo Tips #1'
 seo:
   title: 'Photo Tips #1'
@@ -13,10 +13,10 @@ seo:
   no_index: false
 tags:
   - blog
-author: zdfd
+author: Nick Friesen
 summary: sdfsfs
 featuredImg:
-  image:
-  image_alt:
+  image: /images/brent.png
+  image_alt: gfh
 ---
 sdfsfs
