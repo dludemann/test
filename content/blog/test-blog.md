@@ -16,7 +16,7 @@ tags:
 author: Nick Friesen
 summary: sdfsfs
 featuredImg:
-  image: /images/brent.png
+  image: 
   image_alt: gfh
 ---
 sdfsfs
