@@ -42,7 +42,7 @@ content_blocks:
       blur: 0
     pre_title:
       text: Introducing
-      text_color: "#000000"
+      text_color: '#000000'
       top_spacing: 20
       bottom_spacing: 0
     title:
@@ -57,7 +57,7 @@ content_blocks:
         profiles through intriguing photography, facial expression coaching, and
         showing off you in your element. Based in Austin, TX, and we shoot all
         over the U.S.
-      text_color: "#CE3E3E"
+      text_color: '#CE3E3E'
       top_spacing: 30
       bottom_spacing: 30
     cta:
@@ -75,14 +75,14 @@ content_blocks:
       top_spacing:
       bottom_spacing:
   - _bookshop_name: left-right-image
-    background_color: "#171717"
+    background_color: '#171717'
     layout:
       flipped: true
       container: true
       vertical_padding: 64
       horizontal_padding: 10
       text:
-        color: "#FFFFFF"
+        color: '#FFFFFF'
         vertically_centered: true
         horizontally_centered: true
         vertical_padding:
@@ -127,14 +127,14 @@ content_blocks:
         alt:
         max_height:
   - _bookshop_name: left-right-image
-    background_color: "#171717"
+    background_color: '#171717'
     layout:
       flipped: false
       container: true
       vertical_padding: 64
       horizontal_padding: 10
       text:
-        color: "#FFFFFF"
+        color: '#FFFFFF'
         vertically_centered: true
         horizontally_centered: true
         vertical_padding:
@@ -397,8 +397,9 @@ content_blocks:
       bottom_spacing:
   - _bookshop_name: markdown-block
     pre_title:
-    title: Dating profile pictures photography - 5 must-have dating photos for
-          success
+    title: >-
+      Dating profile pictures photography - 5 must-have dating photos for
+      success
     heading_style: h2
     paragraphs:
       - text: >-
