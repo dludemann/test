@@ -78,6 +78,7 @@ export default {
             :style="{ 'max-width': block.image.max_width + 'px' }"
             :src="block.image.src"
             :alt="block.image.alt"
+            :data-cms-bind="`${dataBinding}.image`"
           />
         </div>
       </div>
@@ -131,4 +132,5 @@ export default {
       </div>
     </div>
   </section>
+  <the-fold></the-fold>
 </template>

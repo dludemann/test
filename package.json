@@ -29,5 +29,10 @@
     "nuxt-swiper": "^1.2.2",
     "recast": "^0.23.4",
     "vue3-markdown-it": "^1.0.10"
+  },
+  "jampack":{
+    "css": {
+      "inline_critical_css": true
+    }
   }
 }

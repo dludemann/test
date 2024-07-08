@@ -7,18 +7,19 @@
           <a :href="post._path">
             <tma-image
               class="h-full object-cover max-h-[550px]"
-              :src="post.featured_image || post.featuredImg?.image"
-             :alt="post.featured_image_alt || post.featuredImg?.image_alt"
+              :src="(post.featured_image || post.featuredImg?.image) ?? siteData.default_blog_image"
+              :alt="(post.featured_image_alt || post.featuredImg?.image_alt) ?? ''"
               loading="eager"
             />
           </a>
         </div>
         <div class="p-[70px]">
-          <h2
+          <a :href="post._path"><h2
             class="mb-[50px] font-bold text-[31px] tracking-[0.252px] leading-[40px]"
           >
             {{ post.title }}
           </h2>
+          </a>
           <!-- <p
             class="border-t-2 border-black text-[18px] mb-[20px] inline-flex"
             v-html="formatDate(post.created || post.date)"
@@ -47,6 +48,7 @@
 
 <script setup>
 import { DateTime } from "luxon";
+import siteData from "../data/site.json";
 
 const { posts, pageNumber, numberOfPages, urlPrefix } = defineProps({
   posts: Array,
@@ -69,8 +71,6 @@ const { posts, pageNumber, numberOfPages, urlPrefix } = defineProps({
     },
   },
 });
-
-console.log("posts", posts);
 
 const hasPaginatinon = numberOfPages > 1;
 
@@ -159,3 +159,9 @@ const heroData = {
   },
 };
 </script>
+
+<style scoped>
+a:hover{
+  text-decoration:underline;
+}
+</style>

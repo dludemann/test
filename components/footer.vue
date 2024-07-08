@@ -77,15 +77,14 @@ const handleSubmit = async () => {
   });
 };
 
-const nav_links =
-  "text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left hover:text-primary-700";
+const nav_links = (hover) => `text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left ${hover ? 'hover:text-primary-700' : ''}`;
 </script>
 
 <template>
   <footer class="bg-secondary-900">
     <!-- TOP SECTION -->
     <section
-      class="container mx-auto flex flex-col lg:flex-row py-16 gap-8 px-8"
+      class="container mx-auto flex flex-col xl:flex-row py-16 gap-8 px-8"
     >
       <!-- LOGO SECTION -->
       <div
@@ -135,35 +134,35 @@ const nav_links =
             BROWSE
           </p>
           <nav class="flex flex-col gap-3">
-            <nuxt-link rel="canonical" to="/" :class="nav_links"
+            <nuxt-link rel="canonical" to="/" :class="nav_links(true)"
               >Home</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/blog" :class="nav_links"
+            <nuxt-link rel="canonical" to="/blog" :class="nav_links(true)"
               >Blog</nuxt-link
             >
             <nuxt-link
               rel="canonical"
               to="/locations"
-              :class="nav_links"
+              :class="nav_links(true)"
               title="Locations"
               >Locations</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/how-it-works" :class="nav_links"
+            <nuxt-link rel="canonical" to="/how-it-works" :class="nav_links(true)"
               >How it Works</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/photos-for-women" :class="nav_links"
+            <nuxt-link rel="canonical" to="/photos-for-women" :class="nav_links(true)"
               >For Women</nuxt-link
             >
             <nuxt-link
               rel="canonical"
               to="/online-dating-photographer-near-me"
-              :class="nav_links"
+              :class="nav_links(true)"
               >Book a Spot</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/case-studies" :class="nav_links"
+            <nuxt-link rel="canonical" to="/case-studies" :class="nav_links(true)"
               >Case Studies</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/press" :class="nav_links"
+            <nuxt-link rel="canonical" to="/press" :class="nav_links(true)"
               >Press</nuxt-link
             >
           </nav>
@@ -182,7 +181,7 @@ const nav_links =
               v-for="silo in silos"
               :key="silo.title"
               :href="silo.url"
-              :class="nav_links"
+              :class="nav_links(true)"
               >{{ silo.title }}</nuxt-link
             >
           </nav>
@@ -196,7 +195,7 @@ const nav_links =
             CONTACT US
           </p>
           <nav class="flex flex-col gap-3">
-            <div :class="nav_links">
+            <div :class="nav_links(false)">
               <div class="w-6 h-6 flex items-center justify-center">
                 <svg
                   width="24"
@@ -223,7 +222,7 @@ const nav_links =
               </div>
               Austin, TX 78701
             </div>
-            <a href="mailto:info@thematchartist.com" :class="nav_links">
+            <a href="mailto:info@thematchartist.com" :class="nav_links(true)">
               <div class="w-6 h-6 flex items-center justify-center">
                 <svg
                   width="24"

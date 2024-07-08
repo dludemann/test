@@ -38,6 +38,28 @@ _snippets:
             ref: "mdx_format"
     definitions:
       component_name: Newsletter
+  customFooter:
+    snippet: :customFooter{[[args]]}
+    inline: false
+    preview:
+      text: Custom Footer
+      icon: view_quilt
+    params:
+      args:
+        parser: key_values
+        options:
+          models:
+            - editor_key: title
+              type: string
+              default: ""
+            - editor_key: text
+              type: string
+              default: ""
+            - editor_key: img
+              type: string
+              default: ""
+          format:
+            ref: "mdx_format"
 
 data_config:
   locations:
@@ -103,7 +125,7 @@ collections_config:
     preview:
       text:
         - key: name
-        - "Blog Post"
+        - 'Blog Post'
       icon:
         - "rss_feed"
       subtext:
@@ -134,7 +156,7 @@ collections_config:
     schemas:
       portfolio:
         name: New Portfolio Section
-        path: schemas/default.md
+        path: schemas/portfolio.md
         hide_extra_inputs: false
         remove_extra_inputs: false
     disable_add_folder: true
@@ -171,8 +193,8 @@ collections_config:
     url: "/tinder/[slug]/"
     icon: local_fire_department
     _enabled_editors:
-      - visual
       - content
+      - visual
     schemas:
       guide:
         name: New Tinder Section
@@ -201,8 +223,8 @@ collections_config:
     url: "/hinge/[slug]/"
     icon: diversity_1
     _enabled_editors:
-      - visual
       - content
+      - visual
     schemas:
       guide:
         name: New Hinge Section
@@ -231,8 +253,8 @@ collections_config:
     url: "/dil-mil/[slug]/"
     icon: favorite
     _enabled_editors:
-      - visual
       - content
+      - visual
     schemas:
       guide:
         name: New Dil Mil Section
@@ -261,8 +283,8 @@ collections_config:
     url: "/bumble/[slug]/"
     icon: emoji_nature
     _enabled_editors:
-      - visual
       - content
+      - visual
     schemas:
       guide:
         name: New Bumble Section
@@ -395,3 +417,7 @@ _editables:
     undo: true
     redo: true
     snippet: true
+
+_structures:
+  content_blocks:
+    style: modal

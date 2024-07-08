@@ -69,6 +69,7 @@ const markdownify = (text) => {
           class="rounded-sm"
           :src="block.image.image.src"
           :alt="block.image.image.alt"
+          :data-cms-bind="`${dataBinding}.image.image`"
         />
       </section>
 
@@ -84,7 +85,7 @@ const markdownify = (text) => {
       >
         <div
           class="flex flex-col overflow-hidden justify-center items-center"
-          v-for="image in block.image.image_grid.images"
+          v-for="(image, index) in block.image.image_grid.images"
         >
           <p
             v-if="image.heading"
@@ -94,6 +95,8 @@ const markdownify = (text) => {
           </p>
           <tma-image
             :src="image.image.src"
+            :alt="image.image.alt"
+            :data-cms-bind="`${dataBinding}.image.image_grid.images[${index}]`"
             class="object-cover h-full w-full rounded-sm"
           />
         </div>
@@ -103,7 +106,9 @@ const markdownify = (text) => {
       <section v-if="block.image.full_sized_image.src">
         <div class="overflow-hidden justify-center items-center">
           <tma-image
+            :alt="block.image.full_sized_image.alt"
             :src="block.image.full_sized_image.src"
+            :data-cms-bind="`${dataBinding}.image.full_sized_image`"
             class="object-cover h-full w-full"
             :style="{
               'max-height': block.image.full_sized_image.max_height + 'px',

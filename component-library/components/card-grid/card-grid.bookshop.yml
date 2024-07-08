@@ -1,0 +1,63 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Card Grid
+  description: A two column grid of images.
+  icon: 'apps'
+  tags: ['Grid']
+  picker_preview:
+    gallery:
+      image: /public/component_thumbnails/card-grid.preview.png
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  heading_style: h2
+  heading: Portfolio
+  cards:
+    - title:
+      subtitle:
+      description:
+      image:
+        src: ""
+        alt: ""
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  heading_style:
+    type: select
+    options:
+      values:
+        - h1
+        - h2
+  subtitle:
+    type: textarea
+  cards:
+    type: array
+  cards[*].image.src:
+    type: image
+
+_structures:
+  cards:
+    values:
+      - value:
+          _type: Card
+          title:
+          subtitle:
+          description:
+          image:
+            src: 
+            alt:
+        preview:
+          text:
+            - key: title
+            - Card
+          subtext:
+            - key: description
+            - A card for the grid
+          image:
+            - key: image.src
+          icon: check_box_outline_blank

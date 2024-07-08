@@ -1,5 +1,5 @@
 <template>
-  <img :src="cleanSrc" v-bind="$attrs" />
+  <nuxt-img quality="85" :src="cleanSrc" v-bind="$attrs" />
 </template>
 
 <script setup>

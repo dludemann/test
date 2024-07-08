@@ -54,6 +54,7 @@ export default {
         }"
         :src="block.image.src"
         :alt="block.image.alt"
+        :data-cms-bind="`${dataBinding}.image`"
       />
     </div>
   </section>
