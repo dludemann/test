@@ -20,7 +20,6 @@ export default {
         color: block.quote.text_color,
       }"
     >
-
       <div
         class="flex flex-col gap-8 md:gap-0 md:flex-row md:w-[500px] mx-auto flex-shrink-0 items-center md:space-x-10"
       >

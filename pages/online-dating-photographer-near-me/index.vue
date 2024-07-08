@@ -45,153 +45,250 @@ useHead({
     },
   ],
 });
+
+const heroBlock = {
+  _bookshop_name: "HeroLeftRightLocation",
+  background_color: "#090303",
+  text_color: "#FFFFFF",
+  location: {
+    city,
+    state,
+  },
+  image: {
+    src: "/images/rohit5.jpg",
+    alt: "Photo of Brian on a black background",
+    max_width: 500,
+  },
+  testimonial: {
+    text: "An overall skyrocketing experience for my online dating.",
+    person: "Brent S",
+    image: {
+      src: "/images/work/brent.webp",
+      alt: "Photo of Brent",
+      height: 50,
+      width: 50,
+    },
+    height: 54,
+    width: 365,
+    vertical_padding: 40,
+    horizontal_padding: 9,
+  },
+  button: {
+    path: "#contact",
+    text: "Book a Call",
+  },
+};
+
+const imageBlock = {
+  _bookshop_name: "ImageSlider",
+  background_color: "#090303",
+  text_color: "#FFFFFF",
+  location: { city, state },
+  title: "Full Photoshoot In Different Settings To Capture The Best You",
+  description:
+    "Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.",
+  background_image: "/images/backgrounds/city-background-detailed.jpeg",
+  images: [
+    "https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/jeff.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg",
+  ],
+  testimonial: {
+    text: "I was hesitant to invest in what I thought were glorified glamour shots, and worried that the results would be a little cheesy... but I was also fed up with hours of mediocre results with my mirror selfies and cropped group photos... I was intimidated going into it but that was immediately alleviated. They did a great job of making me relaxed, comfortable, and confident.  And the results... WOW! Way more matches and likes, but the increase in the follow-through rate was the noticeable difference. No more expired Bumble matches waiting for that first outreach!",
+    person: "Cameron T.",
+  },
+};
+
+const leftRightBlock = {
+  _bookshop_name: "LeftRightQuote",
+  background_color: "#090303",
+  text_color: "#FFFFFF",
+  location: { city, state },
+  image: {
+    src: "https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg",
+  },
+  image2: {
+    src: "https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-after.jpg",
+  },
+  title: "Transform Your Online Dating Profile",
+  quote: {
+    background_color: "#FFFFFF",
+    text_color: "#090303",
+    text: "Before getting pics taken by The Match Artist, I was getting 2-3 tinder matches a week. After getting new high value pictures from The Match Artist and tweaking my bio I was getting over 5 matches per day with really great girls. The results truly speak for themselves.",
+    person: "Cameron T",
+  },
+  cta: {
+    title: "Stand Out in the Digital Dating Scene",
+    button: {
+      text: "Book a Call",
+      background_color: "#990800",
+    },
+    stats: [
+      {
+        number: 1000,
+        text: "Successful Clients",
+      },
+      {
+        number: 20,
+        text: "Marriages",
+      },
+      {
+        number: 250,
+        text: "Relationships",
+      },
+    ],
+  },
+  button: {
+    path: "#contact",
+    text: "Book a Call",
+  },
+};
+
+const phoneMockupBlock = {
+  _bookshop_name: "LeftRightPhoneMockup",
+  background_color: "#FFFFFF",
+  location: { city, state },
+
+  text_color: "#090303",
+  image: {
+    src: "/images/mockups/tindermock.webp",
+    height: 812,
+    width: 375,
+  },
+  title: "Elevate Your Dating Profile with Professional Dating Photography",
+  description:
+    "In a picture-first dating world, make sure your profile photo entices prospects to explore further and discover your true potential.",
+  list: [
+    {
+      icon: "/icons/camera.svg",
+      text: "Make a great first impression",
+    },
+    {
+      icon: "/icons/heart.svg",
+      text: "Get more matches",
+    },
+    {
+      icon: "/icons/magnifying-glass.svg",
+      text: "Go on better dates",
+    },
+    {
+      icon: "/icons/gold-star.svg",
+      text: "Feel more confident",
+    },
+  ],
+  button: {
+    path: "#contact",
+    text: "Book a Call",
+  },
+};
+
+const leftRightlistBlock = {
+  _bookshop_name: "LeftRightList",
+  title: "Expert guidance in every step of your photoshoot",
+  description:
+    "Our professional photographers strike the perfect balance between showcasing your best features and maintaining an honest representation of yourself, avoiding the pitfalls of overediting and appearing inauthentic.",
+  list: [
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Facial expression & body language coaching",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "4-5 hour shoot demonstrating your lifestyle and hobbies",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Advice on your best photos and dating app optimizations",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "200-300 edited photos",
+    },
+  ],
+  button: {
+    path: "#contact",
+    text: "Book a Call",
+  },
+  image: {
+    src: "https://photostma.blob.core.windows.net/web/justen collage (1).png",
+    alt: null,
+    max_width: 766,
+    height: 766,
+  },
+};
+
+const faqBlock = {
+  _bookshop_name: "Faq",
+  title: "FAQS",
+  description:
+    "Have more questions than what you see here? Reach out to our team—we'd love to chat and help however we can.",
+  faqs: [
+    {
+      question: "What services does a dating app photographer offer?",
+      answer:
+        "A dating app photographer offers professional photography services designed to enhance your profile on dating apps by providing high-quality, attractive photographs that capture your personality and style.",
+    },
+    {
+      question:
+        "How can a dating profile photographer improve my online dating success?",
+      answer:
+        "A dating app photographer can improve your online dating success by capturing visually appealing photos that stand out on dating platforms, thus increasing your visibility and attractiveness to potential matches.",
+    },
+    {
+      question:
+        "What should I expect during a session with a dating app photographer?",
+      answer:
+        "During a session with a dating app photographer, you should expect a professional photoshoot that focuses on bringing out your best features, with advice on poses, backgrounds, and outfits that compliment your individuality.",
+    },
+  ],
+};
+
+const leftRightForm = {
+  _bookshop_name: "LeftRightForm",
+  background_color: "#090303",
+  text_color: "#000000",
+  title: "Professional Dating Photography in Austin, Texas",
+  description:
+    "We tailor your photo experience with us to highlight things you enjoy doing most. Whether it's kayaking, rock climbing, reading, or drinking coffee, you'll get more matches with a varied profile filled with your talents.",
+  list: [
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Better dating profile",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Go on better dates",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Improved social media presence",
+    },
+  ],
+  form: {
+    title: "Inquire Now",
+    city_input: false,
+    city: "Austin",
+    state: "Texas",
+  },
+};
 </script>
 
 <template>
   <NuxtLayout>
-    <Header />
-    <div
-      class="py-[50px] lg:py-[150px] relative flex flex-col items-center"
-      :style="{
-        backgroundImage: 'url(/images/assets/ray.jpg)',
-        backgroundPosition: 'center',
-        backgroundSize: 'cover',
-        backgroundRepeat: 'no-repeat',
-      }"
-    >
-      <p
-        class="text-[24px] lg:text-[26px] z-10 relative text-center tracking-[1px] leading-[44px] text-white"
-      >
-        Online Dating Photos
-      </p>
-      <h1
-        class="font-light z-10 relative text-[32px] lg:text-[96px] lg:leading-[96px] text-white max-w-[200px] lg:max-w-none text-center"
-      >
-        {{ headerString }}
-      </h1>
-
-      <div
-        class="absolute top-0 left-0 bg-black w-full h-full bg-opacity-50 z-0"
-      />
-    </div>
-
-    <LargeQuote v-bind="largeQuote1" />
-
-    <!-- RESULT -->
-    <div
-      class="grid grid-cols-1 lg:grid-cols-2 items-center bg-[#171717] text-white"
-    >
-      <div class="h-[300px] lg:h-[896px] w-full relative">
-        <tma-image
-          src="https://cdn.buttercms.com/5qBc3FSbuOUGnsrjmOwY"
-          class="object-cover w-full h-full"
-        />
-      </div>
-      <article class="p-[70px] flex flex-col items-start">
-        <h2
-          class="font-bold text-[39px] tracking-[0.252px] leading-[40px] mx-auto border-b-[3px] pb-1 mb-[2.2rem]"
-        >
-          Results
-        </h2>
-
-        <ul class="list-disc">
-          <li class="text-[20px] leading-[34px]">Better Dating Profile.</li>
-          <li class="text-[20px]">Go on Better Dates.</li>
-          <li class="text-[20px]">Improved Social Media Presence.</li>
-        </ul>
-      </article>
-    </div>
-
-    <!-- TESTIMONIALS -->
-    <div
-      class="flex justify-center flex-col lg:flex-row py-[50px] px-5 gap-8 container mx-auto"
-    >
-      <div class="testimonial w-full lg:max-h-[184px] lg:max-w-[350px]">
-        <tma-image
-          src="https://cdn.buttercms.com/quality=v:80/compress/resize=width:625,height:329,fit:crop/21HHK9WrQoacYZBJRc2A"
-          class="testimonial__img v-lazy-image v-lazy-image-loaded"
-          width="625"
-          height="329"
-          alt="Screenshot of a text message: I finally understand why people say it's overwhelming once you update yhour pics. Literally too many convos to keep track of lol."
-          sizes="(min-width: 900px) 350px, 100vw"
-        />
-        <p class="testimonial__author text-center">- Ray C.</p>
-      </div>
-
-      <div class="testimonial w-full lg:max-h-[184px] lg:max-w-[350px]">
-        <tma-image
-          src="https://cdn.buttercms.com/quality=v:80/compress/resize=width:625,height:329,fit:crop/QRK0AHz8QhaP4hK3KudF"
-          class="testimonial__img v-lazy-image v-lazy-image-loaded"
-          width="625"
-          height="329"
-          alt="Screenshot of a text message: Definitely gotten more matches in the past 24 hours on hinge than I've gotten in the past 2 months. I'm very appreciative of the work."
-        />
-        <p class="testimonial__author text-center">- Ryan K.</p>
-      </div>
-    </div>
-
-    <!-- INCLUDED -->
-    <div
-      class="grid grid-cols-1 lg:grid-cols-2 items-center bg-[#171717] text-white"
-    >
-      <article class="p-[70px] flex flex-col items-start">
-        <h2
-          class="font-bold text-[39px] tracking-[0.252px] leading-[40px] mx-auto border-b-[3px] pb-1 mb-[2.2rem]"
-        >
-          Every Photoshoot Includes
-        </h2>
-
-        <ul class="list-disc">
-          <li class="text-[20px] leading-[34px]">
-            Facial expression & body language coaching.
-          </li>
-          <li class="text-[20px]">10-15 outfit changes.</li>
-          <li class="text-[20px]">
-            4-5 hour shoot demonstrating your lifestyle and hobbies.
-          </li>
-          <li class="text-[20px]">200-300 edited photos.</li>
-          <li class="text-[20px]">
-            Advice on your best photos and Instagram optimization.
-          </li>
-          <li class="text-[20px]">
-            Help with apps and which premium features work well.
-          </li>
-        </ul>
-      </article>
-      <div class="h-[300px] lg:h-[896px] w-full relative">
-        <tma-image
-          src="https://cdn.buttercms.com/9XdIv9saQQCOtNAoV2D9"
-          class="object-cover w-full h-full"
-        />
-      </div>
-    </div>
-
-    <LargeQuote v-bind="largeQuote2" />
-
-    <!-- INQUIRE -->
-    <div
-      class="p-6 bg-white max-w-[800px] mx-auto flex-shrink-0 w-full flex flex-col items-center gap-8"
-    >
-      <p class="font-bold font-accent text-[50px]">Inquire Now</p>
-      <ContactForm
-        v-if="city"
-        :has-city-input="false"
-        :city="city"
-        :state="state"
-        :country="'USA'"
-      />
-      <ContactForm v-else :has-city-input="false" />
-    </div>
-
-    <div class="max-w-[900px] mx-auto text-center mt-4 mb-32">
-      <p>
-        Each session includes coaching on posing and facial expressions to help
-        you look better in both photos and real life. You’ll receive a booklet
-        with advice about how to use your photos online, how to open women
-        online, and other tips for your adventures online.
-      </p>
-    </div>
-
-    <ConnectWithUs />
+    <HeroLeftRightLocation :block="heroBlock" />
+    <ImageSlider :block="imageBlock" />
+    <LeftRightQuote :block="leftRightBlock" />
+    <LeftRightPhoneMockup :block="phoneMockupBlock" />
+    <LeftRightList :block="leftRightlistBlock" />
+    <FAQ :block="faqBlock" />
+    <LeftRightForm :block="leftRightForm" />
   </NuxtLayout>
 </template>

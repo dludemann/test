@@ -3,8 +3,8 @@ import { defineProps } from "vue";
 const { block, dataBinding } = defineProps(["block", "dataBinding"]);
 const { page } = useContent();
 
-const city = page.value.location.city;
-const state = page.value.location.state;
+const city = page?.value?.location?.city || block.location.city;
+const state = page?.value?.location?.state || block.location.state;
 </script>
 
 <template>

@@ -1,6 +1,9 @@
 <script>
 export default {
   props: ["block", "dataBinding"],
+  mounted() {
+    console.log("block", this.block);
+  },
 };
 </script>
 

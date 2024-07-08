@@ -3,6 +3,52 @@
 // EDIT BELOW HERE
 // ==========================================================
 
+const faqs = reactive([
+  {
+    question: "Where is The Match Artist located?",
+    answer:
+      "The Match Artist is headquartered in Texas but we provide services in all cities in the US",
+    open: true,
+  },
+  {
+    question: "How many photos do I need for my dating profile?",
+    answer:
+      "For platforms like Tinder, Bumble, Hinge, Dil Mil, and Match.com, a diverse set of 5-6 photos is recommended. This allows potential matches to see various aspects of your personality and interests. High-quality photos from a professional shoot can also be repurposed for other online profiles or CVs. Most people opt for around 16 quality photos to use across different platforms.",
+    open: false,
+  },
+  {
+    question:
+      "What's the best online dating tip from a photographer's perspective?",
+    answer:
+      "Always be genuine! Whether you're on Tinder, Bumble, Hinge, Dil Mil, or Match.com, it's essential to portray your true self. Authenticity helps you attract more meaningful connections.",
+    open: false,
+  },
+  {
+    question: "What makes a bad profile picture?",
+    answer:
+      "Using the same photo across Tinder, Bumble, Hinge, Dil Mil, and Match.com can be repetitive. Avoid staged environments, excessive filters, and inauthentic portrayals. Each platform has its vibe, so tailor your photos to fit the app's audience while staying true to yourself.",
+    open: false,
+  },
+  {
+    question: "Are selfies good for online dating photos?",
+    answer:
+      "In general, no – but there are exceptions! A quick selfie can add fun and personality to your Tinder or Bumble profile but is less suited for more serious platforms like Match.com or Hinge. It’s best to invest in professional dating photos if your goal is to attract more serious relationships.",
+    open: false,
+  },
+  {
+    question: "What should I wear for my dating profile photoshoot?",
+    answer:
+      "When deciding what to wear to your dating photoshoot, it’s important to consider the platform(s). Casual attire might be more fitting for Tinder or Bumble, while you might opt for a slightly more polished look for Match.com or Dil Mil. Regardless of the platform, be it Hinge or any other, always wear what makes you feel confident and represents your personal style.",
+    open: false,
+  },
+]);
+
+const toggleFAQ = (index) => {
+  faqs.forEach((faq, i) => {
+    faq.open = i === index ? !faq.open : false;
+  });
+};
+
 // HERO IMAGE
 const heroImage = "/images/brian.webp";
 
@@ -19,22 +65,27 @@ const imageGallery = [
 ];
 
 // GO ON BETTER DATES
-const captureSparkImage = "https://images.thematchartist.com/images/team/marcos.jpeg";
+const captureSparkImage =
+  "https://images.thematchartist.com/images/team/marcos.jpeg";
 const bestAngleImage = "/images/home/best-angle.jpg";
 const personalizedImage = "/images/home/photoshoot.jpg";
 
 // TESTIMONIAL IMAGE
-const testimonialImage = "https://tma.imgix.net/images/Missed%20Images/iMDvC2IaQHaryK9.jpg";
+const testimonialImage =
+  "https://tma.imgix.net/images/Missed%20Images/iMDvC2IaQHaryK9.jpg";
 
 // LOOK CONFIDENT
 const confidentBefore = "/images/home/before.jpg";
 const confidentAfter = "/images/home/after.jpg";
 
 // IMPORTANCE OF DATING PHOTOGRAPHY
-const youngMenImage = "https://tma.imgix.net/images/Missed%20Images/embeddable_746d.jpg";
-const belowAverageMen = "https://www.ecomone.com/wp-content/uploads/2024/04/steve-toth-black-and-white-headshot.jpg";
+const youngMenImage =
+  "https://tma.imgix.net/images/Missed%20Images/embeddable_746d.jpg";
+const belowAverageMen =
+  "https://www.ecomone.com/wp-content/uploads/2024/04/steve-toth-black-and-white-headshot.jpg";
 const olderWomen = "https://tma.imgix.net/images/focused-woman.JPG";
-const anyoneResults = "https://tma.imgix.net/images/Missed%20Images/embeddable_9571.jpg";
+const anyoneResults =
+  "https://tma.imgix.net/images/Missed%20Images/embeddable_9571.jpg";
 
 // FIVE ESSENTIAL DATING PHOTOS
 const essentialDatingPhotos = [
@@ -138,10 +189,15 @@ const essentialDatingPhotos = [
         <p
           class="text-[#D9D9D9] mx-auto max-w-[620px] text-[22px] leading-[30px] mt-4"
         >
-        You’re looking for a meaningful relationship. But your dating profile doesn’t seem to put your best foot forward. How do you show up as your authentic self AND attract high-quality matches?
-      </p>
-      <p>
-At The Match Artist, we help men and women date online with confidence with eye-catching dating profile photography, and body language and facial expression coaching. It’s time to stand out on the apps with a profile that is uniquely you.
+          You’re looking for a meaningful relationship. But your dating profile
+          doesn’t seem to put your best foot forward. How do you show up as your
+          authentic self AND attract high-quality matches?
+        </p>
+        <p>
+          At The Match Artist, we help men and women date online with confidence
+          with eye-catching dating profile photography, and body language and
+          facial expression coaching. It’s time to stand out on the apps with a
+          profile that is uniquely you.
         </p>
       </article>
 
@@ -396,9 +452,12 @@ At The Match Artist, we help men and women date online with confidence with eye-
             Confidence-Boosting Online Dating Photography
           </h2>
           <p
-            class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
+            class="text-[#D9D9D9] mx-auto max-w-[920px] text-[22px] leading-[30px] mt-4"
           >
-          When your photos highlight your personality, potential dates are more likely to explore your profile. We work with you to capture photos that emphasize your passions and personality to help you swipe with confidence and attract people who share your interests. 
+            When your photos highlight your personality, potential dates are
+            more likely to explore your profile. We work with you to capture
+            photos that emphasize your passions and personality to help you
+            swipe with confidence and attract people who share your interests.
           </p>
         </article>
 
@@ -496,7 +555,10 @@ At The Match Artist, we help men and women date online with confidence with eye-
 
           <div class="flex flex-col justify-center">
             <p class="text-white text-heading-h5 lg:text-heading-h3 mb-8">
-              “It's night and day difference. Before The Match Artist hardly anyone swiped right. Afterwards I had more matches than I knew what to do with. I eventually found my partner with these new photos and we are getting married in October.”
+              “It's night and day difference. Before The Match Artist hardly
+              anyone swiped right. Afterwards I had more matches than I knew
+              what to do with. I eventually found my partner with these new
+              photos and we are getting married in October.”
             </p>
 
             <div class="w-14 h-14 rounded-full bg-slate-700"></div>
@@ -532,7 +594,7 @@ At The Match Artist, we help men and women date online with confidence with eye-
     </section>
 
     <!-- LOOK CONFIDENT -->
-    <section class="bg-black overflow-hidden">
+    <section class="bg-black overflow-hidden py-40">
       <section
         class="container mx-auto py-[110px] relative flex gap-20 flex-col lg:flex-row p-6 lg:p-0"
       >
@@ -666,12 +728,18 @@ At The Match Artist, we help men and women date online with confidence with eye-
             <p
               class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
             >
-            No matter the app, you deserve a stand-out profile that draws in high-quality matches. Whether you’re casually dating or looking for something more long-term, a well-crafted dating profile holds the key to attracting potential dates. We offer photography for dating apps like Tinder, Dil Mil, Bumble, and Hinge. 
-          </p>
-          <p class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"> 
-            Ready to meet your match? Get started with dating profile photography today!
-          </p>
-          
+              No matter the app, you deserve a stand-out profile that draws in
+              high-quality matches. Whether you’re casually dating or looking
+              for something more long-term, a well-crafted dating profile holds
+              the key to attracting potential dates. We offer photography for
+              dating apps like Tinder, Dil Mil, Bumble, and Hinge.
+            </p>
+            <p
+              class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
+            >
+              Ready to meet your match? Get started with dating profile
+              photography today!
+            </p>
 
             <button
               class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3 mt-8"
@@ -704,19 +772,25 @@ At The Match Artist, we help men and women date online with confidence with eye-
           <h2
             class="font-bold text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
           >
-          Why Hire a Professional Dating Photographer?
+            Why Hire a Professional Dating Photographer?
           </h2>
           <div class="bg-primary-500 w-[120px] h-[10px] my-8" />
           <p class="text-20px">
-            We get it - Online dating can sometimes feel like a losing game. 
+            We get it - Online dating can sometimes feel like a losing game.
           </p>
-          <br/>
+          <br />
           <p class="text-20px">
-            You have a matter of seconds to make a first impression, and you feel like you are missing out on matches because they don’t give your profile a fair shot. That’s why your photos are so important – they are the first thing a potential date sees before they decide to swipe right or left.
+            You have a matter of seconds to make a first impression, and you
+            feel like you are missing out on matches because they don’t give
+            your profile a fair shot. That’s why your photos are so important –
+            they are the first thing a potential date sees before they decide to
+            swipe right or left.
           </p>
-          <br/>
+          <br />
           <p class="text-20px">
-            At The Match Artist, we help you get more matches by leveling up your dating profile with authentic, confidence-boosting photography. It’s time to attract people who are excited to get to know YOU!
+            At The Match Artist, we help you get more matches by leveling up
+            your dating profile with authentic, confidence-boosting photography.
+            It’s time to attract people who are excited to get to know YOU!
           </p>
           <button
             class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
@@ -752,7 +826,7 @@ At The Match Artist, we help men and women date online with confidence with eye-
       <h2
         class="font-bold text-center max-w-[800px] mx-auto text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
       >
-      You Might Need Online Dating Photography If You are…
+        You Might Need Online Dating Photography If You are…
       </h2>
 
       <ul class="mt-[56px] flex flex-col gap-8">
@@ -768,10 +842,15 @@ At The Match Artist, we help men and women date online with confidence with eye-
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Ready to Look More Mature & Confident</h3>
+            <h3 class="text-heading-h2">
+              Ready to Look More Mature & Confident
+            </h3>
             <p>
-              Even the smallest changes to body language can lead to more online dating success. If you are interested in attracting more women your age, it’s time to step up your profile with more mature, professional-looking photos. 
-              </p>
+              Even the smallest changes to body language can lead to more online
+              dating success. If you are interested in attracting more women
+              your age, it’s time to step up your profile with more mature,
+              professional-looking photos.
+            </p>
           </div>
         </li>
         <li class="flex flex-col lg:flex-row gap-10">
@@ -786,10 +865,15 @@ At The Match Artist, we help men and women date online with confidence with eye-
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Insecure About Your Looks But Want to Attract Women</h3>
-          <p>
-            Every man can meet their match with the right photo cues. At The Match Artist, we coach you on body language and facial expressions to capture your very best angles and attract women who are interested in you. We help you put your best foot forward!
-          </p>
+            <h3 class="text-heading-h2">
+              Insecure About Your Looks But Want to Attract Women
+            </h3>
+            <p>
+              Every man can meet their match with the right photo cues. At The
+              Match Artist, we coach you on body language and facial expressions
+              to capture your very best angles and attract women who are
+              interested in you. We help you put your best foot forward!
+            </p>
           </div>
         </li>
         <li class="flex flex-col lg:flex-row gap-10">
@@ -806,8 +890,9 @@ At The Match Artist, we help men and women date online with confidence with eye-
           <div class="flex flex-col justify-center">
             <h3 class="text-heading-h2">A Career Oriented Woman</h3>
             <p>
-              Career women in 30s-50s often overlooked by peers. Success hinges on presenting the right cues in photos. Our photography is tailored to the type of man they aim to attract.
-
+              Career women in 30s-50s often overlooked by peers. Success hinges
+              on presenting the right cues in photos. Our photography is
+              tailored to the type of man they aim to attract.
             </p>
           </div>
         </li>
@@ -823,9 +908,15 @@ At The Match Artist, we help men and women date online with confidence with eye-
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Aren’t Getting Matches from Your Online Profile</h3>
+            <h3 class="text-heading-h2">
+              Aren’t Getting Matches from Your Online Profile
+            </h3>
             <p>
-              Maybe you have interesting photos and a descriptive bio, but still aren’t seeing the results you would like. If you want to get more matches, it may be time to give your profile a fresh look. Professional photography can enhance your profile to better showcase your features, hobbies, and personality.
+              Maybe you have interesting photos and a descriptive bio, but still
+              aren’t seeing the results you would like. If you want to get more
+              matches, it may be time to give your profile a fresh look.
+              Professional photography can enhance your profile to better
+              showcase your features, hobbies, and personality.
             </p>
           </div>
         </li>
@@ -864,7 +955,8 @@ At The Match Artist, we help men and women date online with confidence with eye-
               A Headshot with a Smile
             </h3>
             <p class="text-gray-400">
-              Your primary profile picture should be a headshot that captures attention and conveys openness to potential matches.
+              Your primary profile picture should be a headshot that captures
+              attention and conveys openness to potential matches.
             </p>
           </div>
 
@@ -882,7 +974,7 @@ At The Match Artist, we help men and women date online with confidence with eye-
 
             <h3 class="text-white mb-2 text-heading-h3">The Candid Portrait</h3>
             <p class="text-gray-400">
-              Candid shots showcase your personality in a natural setting. 
+              Candid shots showcase your personality in a natural setting.
             </p>
           </div>
 
@@ -898,10 +990,11 @@ At The Match Artist, we help men and women date online with confidence with eye-
               />
             </div>
 
-            <h3 class="text-white mb-2 text-heading-h3">
-              The Hobby Shot
-            </h3>
-            <p class="text-gray-400">These photos display your passions, helping to attract matches who share your interests.</p>
+            <h3 class="text-white mb-2 text-heading-h3">The Hobby Shot</h3>
+            <p class="text-gray-400">
+              These photos display your passions, helping to attract matches who
+              share your interests.
+            </p>
           </div>
 
           <div>
@@ -917,7 +1010,10 @@ At The Match Artist, we help men and women date online with confidence with eye-
             </div>
 
             <h3 class="text-white mb-2 text-heading-h3">The Full Body Shot</h3>
-            <p class="text-gray-400">No matter your physique, it’s important to have a full body shot to attract people who are interested in you. </p>
+            <p class="text-gray-400">
+              No matter your physique, it’s important to have a full body shot
+              to attract people who are interested in you.
+            </p>
           </div>
 
           <div>
@@ -933,7 +1029,10 @@ At The Match Artist, we help men and women date online with confidence with eye-
             </div>
 
             <h3 class="text-white mb-2 text-heading-h3">The Selfie</h3>
-            <p class="text-gray-400">Trust us, it’s less cringe than you think! Add a selfie to your dating profile for a fun and personal touch.</p>
+            <p class="text-gray-400">
+              Trust us, it’s less cringe than you think! Add a selfie to your
+              dating profile for a fun and personal touch.
+            </p>
           </div>
         </div>
       </section>
@@ -949,7 +1048,7 @@ At The Match Artist, we help men and women date online with confidence with eye-
       >
         <div class="max-w-[500px] w-full flex-shrink-0">
           <h2 class="font-accent text-white font-bold text-[54px] mb-8">
-            Frequently Ask Questions
+            Frequently asked questions.
           </h2>
           <button class="btn btn-black w-full lg:w-auto items-center gap-3">
             SEE ALL FAQ'S
@@ -957,13 +1056,14 @@ At The Match Artist, we help men and women date online with confidence with eye-
         </div>
 
         <div class="w-full divide-y">
-          <div class="py-10">
+          <div v-for="(faq, index) in faqs" :key="index" class="py-4">
             <div class="flex justify-between items-start">
-              <p class="font-bold font-accent text-white text-[16px] mb-8">
-                Where is The Match Artist located?
-              </p>
+              <h3 class="font-bold font-accent text-white text-[16px]">
+                {{ faq.question }}
+              </h3>
               <div
                 class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
+                @click="toggleFAQ(index)"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -973,7 +1073,16 @@ At The Match Artist, we help men and women date online with confidence with eye-
                   fill="none"
                 >
                   <path
+                    v-if="faq.open"
                     d="M3 10L8 5L13 10"
+                    stroke="white"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    v-else
+                    d="M5 3L10 8L5 13"
                     stroke="white"
                     stroke-width="1.5"
                     stroke-linecap="round"
@@ -982,113 +1091,12 @@ At The Match Artist, we help men and women date online with confidence with eye-
                 </svg>
               </div>
             </div>
-            <p class="text-gray-400 text-[16px] leading-[24px] font-body">
-              The Match Artist is headquartered in Texas but we provide services in all cities in the US.
+            <p
+              v-if="faq.open"
+              class="text-gray-400 text-[16px] leading-[24px] font-body py-8"
+            >
+              {{ faq.answer }}
             </p>
-          </div>
-          <div class="py-10">
-            <div class="flex justify-between items-start">
-              <p class="font-bold font-accent text-white text-[16px]">
-                How many photos do I need for my dating profile?
-              </p>
-              <div
-                class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                >
-                  <path
-                    d="M3 10L8 5L13 10"
-                    stroke="white"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-            </div>
-          </div>
-          <div class="py-10">
-            <div class="flex justify-between items-start">
-              <p class="font-bold font-accent text-white text-[16px]">
-                How many photos do I need for my dating profile?
-              </p>
-              <div
-                class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                >
-                  <path
-                    d="M3 10L8 5L13 10"
-                    stroke="white"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-            </div>
-          </div>
-          <div class="py-10">
-            <div class="flex justify-between items-start">
-              <p class="font-bold font-accent text-white text-[16px]">
-                For platforms like Tinder, Bumble, Hinge, Dil Mil, and Match.com, a diverse set of 5-6 photos is recommended. This allows potential matches to see various aspects of your personality and interests. High-quality photos from a professional shoot can also be repurposed for other online profiles or CVs. Most people opt for around 16 quality photos to use across different platforms.
-              </p>
-              <div
-                class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                >
-                  <path
-                    d="M3 10L8 5L13 10"
-                    stroke="white"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-            </div>
-          </div>
-          <div class="py-10">
-            <div class="flex justify-between items-start">
-              <p class="font-bold font-accent text-white text-[16px]">
-                How many photos do I need for my dating profile?
-              </p>
-              <div
-                class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                >
-                  <path
-                    d="M3 10L8 5L13 10"
-                    stroke="white"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-            </div>
           </div>
         </div>
       </div>
