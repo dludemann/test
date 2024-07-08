@@ -134,14 +134,15 @@ const essentialDatingPhotos = [
     >
       <article class="container mx-auto text-center max-w-[800px] mb-16">
         <h2 class="text-white font-bold text-heading-h1 font-accent">
-          Full Photoshoot In Different Settings To Capture The Best You
+          Attract Matches Who Are Interested in YOU
         </h2>
         <p
           class="text-[#D9D9D9] mx-auto max-w-[620px] text-[22px] leading-[30px] mt-4"
         >
-          Our approach involves capturing a multitude of photos to ensure we
-          curate a selection that shows your personality, helping you stand out
-          on dating platforms.
+        You’re looking for a meaningful relationship. But your dating profile doesn’t seem to put your best foot forward. How do you show up as your authentic self AND attract high-quality matches?
+      </p>
+      <p>
+At The Match Artist, we help men and women date online with confidence with eye-catching dating profile photography, and body language and facial expression coaching. It’s time to stand out on the apps with a profile that is uniquely you.
         </p>
       </article>
 
@@ -393,15 +394,12 @@ const essentialDatingPhotos = [
       <section class="container mx-auto py-[110px]">
         <article class="container mx-auto text-center max-w-[800px] mb-16">
           <h2 class="text-white font-bold text-heading-h1 font-accent">
-            Go on Better Dates
+            Confidence-Boosting Online Dating Photography
           </h2>
           <p
             class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
           >
-            Our photographers excel in body language and facial expressions,
-            creating photos that captivate. Your revamped photos will showcase
-            your personality and interests, ensuring they aren't just scrolled
-            past.
+          When your photos highlight your personality, potential dates are more likely to explore your profile. We work with you to capture photos that emphasize your passions and personality to help you swipe with confidence and attract people who share your interests. 
           </p>
         </article>
 
@@ -667,14 +665,17 @@ const essentialDatingPhotos = [
             class="container mx-auto text-center lg:text-left max-w-[800px] mb-16"
           >
             <h2 class="text-white font-bold text-heading-h1 font-accent">
-              Optimize your dating app profiles
+              Perfect for Tinder, Bumble, Hinge, Match.com & More
             </h2>
             <p
               class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
             >
-              Optimize your profile with us for the dating applications you use
-              such as Tinder, Bumble, Hinge, Dil Mil and Match.com.
-            </p>
+            No matter the app, you deserve a stand-out profile that draws in high-quality matches. Whether you’re casually dating or looking for something more long-term, a well-crafted dating profile holds the key to attracting potential dates. We offer photography for dating apps like Tinder, Dil Mil, Bumble, and Hinge. 
+          </p>
+          <p class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"> 
+            Ready to meet your match? Get started with dating profile photography today!
+          </p>
+          
 
             <button
               class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3 mt-8"
@@ -707,17 +708,20 @@ const essentialDatingPhotos = [
           <h2
             class="font-bold text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
           >
-            The Importance of Professional Dating Photography
+          Why Hire a Professional Dating Photographer?
           </h2>
           <div class="bg-primary-500 w-[120px] h-[10px] my-8" />
           <p class="text-20px">
-            Dating photography is essential for those serious about online
-            dating. With platforms like Tinder prioritizing photos, your first
-            impression is crucial. A well-crafted photo can entice viewers to
-            explore your profile further, while a poor one can deter potential
-            matches. Our expertise ensures your photos send the right message.
+            We get it - Online dating can sometimes feel like a losing game. 
           </p>
-
+          <br/>
+          <p class="text-20px">
+            You have a matter of seconds to make a first impression, and you feel like you are missing out on matches because they don’t give your profile a fair shot. That’s why your photos are so important – they are the first thing a potential date sees before they decide to swipe right or left.
+          </p>
+          <br/>
+          <p class="text-20px">
+            At The Match Artist, we help you get more matches by leveling up your dating profile with authentic, confidence-boosting photography. It’s time to attract people who are excited to get to know YOU!
+          </p>
           <button
             class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
           >
@@ -752,7 +756,7 @@ const essentialDatingPhotos = [
       <h2
         class="font-bold text-center max-w-[800px] mx-auto text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
       >
-        The Importance of Professional Dating Photography
+      You Might Need Online Dating Photography If You are…
       </h2>
 
       <ul class="mt-[56px] flex flex-col gap-8">
@@ -768,15 +772,10 @@ const essentialDatingPhotos = [
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Young Men Seeking Women Their Age</h3>
-            <ul class="mt-8 list-disc px-6 text-gray-700">
-              <li>Signal maturity to appeal to women their age.</li>
-              <li>
-                Right poses, expressions, and attire can make men in their 20s
-                appear more mature.
-              </li>
-              <li>Subtle changes can increase dating success.</li>
-            </ul>
+            <h3 class="text-heading-h2">Ready to Look More Mature & Confident</h3>
+            <p>
+              Even the smallest changes to body language can lead to more online dating success. If you are interested in attracting more women your age, it’s time to step up your profile with more mature, professional-looking photos. 
+              </p>
           </div>
         </li>
         <li class="flex flex-col lg:flex-row gap-10">
@@ -791,17 +790,10 @@ const essentialDatingPhotos = [
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">"Below Average" Looking Men</h3>
-            <ul class="mt-8 list-disc px-6 text-gray-700">
-              <li>
-                Every man can appeal to someone with the correct photo cues.
-              </li>
-              <li>
-                Expertise can present men in the best light to their target
-                audience.
-              </li>
-              <li>Several pictures can be taken to find the perfect one.</li>
-            </ul>
+            <h3 class="text-heading-h2">Insecure About Your Looks But Want to Attract Women</h3>
+          <p>
+            Every man can meet their match with the right photo cues. At The Match Artist, we coach you on body language and facial expressions to capture your very best angles and attract women who are interested in you. We help you put your best foot forward!
+          </p>
           </div>
         </li>
         <li class="flex flex-col lg:flex-row gap-10">
@@ -816,14 +808,11 @@ const essentialDatingPhotos = [
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Older Women Seeking Men</h3>
-            <ul class="mt-8 list-disc px-6 text-gray-700">
-              <li>Career women in 30s-50s often overlooked by peers.</li>
-              <li>Success hinges on presenting the right cues in photos.</li>
-              <li>
-                Photography is tailored to the type of man they aim to attract.
-              </li>
-            </ul>
+            <h3 class="text-heading-h2">A Career Oriented Woman</h3>
+            <p>
+              Career women in 30s-50s often overlooked by peers. Success hinges on presenting the right cues in photos. Our photography is tailored to the type of man they aim to attract.
+
+            </p>
           </div>
         </li>
         <li class="flex flex-col lg:flex-row gap-10">
@@ -838,17 +827,10 @@ const essentialDatingPhotos = [
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">Anyone Not Seeing Results</h3>
-            <ul class="mt-8 list-disc px-6 text-gray-700">
-              <li>
-                Every man can appeal to someone with the correct photo cues.
-              </li>
-              <li>
-                Expertise can present men in the best light to their target
-                audience.
-              </li>
-              <li>Several pictures can be taken to find the perfect one.</li>
-            </ul>
+            <h3 class="text-heading-h2">Aren’t Getting Matches from Your Online Profile</h3>
+            <p>
+              Maybe you have interesting photos and a descriptive bio, but still aren’t seeing the results you would like. If you want to get more matches, it may be time to give your profile a fresh look. Professional photography can enhance your profile to better showcase your features, hobbies, and personality.
+            </p>
           </div>
         </li>
       </ul>
@@ -886,7 +868,7 @@ const essentialDatingPhotos = [
               A Headshot with a Smile
             </h3>
             <p class="text-gray-400">
-              Your primary photo that captures attention
+              Your primary profile picture should be a headshot that captures attention and conveys openness to potential matches.
             </p>
           </div>
 
@@ -902,9 +884,9 @@ const essentialDatingPhotos = [
               />
             </div>
 
-            <h3 class="text-white mb-2 text-heading-h3">A Candid Portrait</h3>
+            <h3 class="text-white mb-2 text-heading-h3">The Candid Portrait</h3>
             <p class="text-gray-400">
-              Showcases your personality in a natural setting.
+              Candid shots showcase your personality in a natural setting. 
             </p>
           </div>
 
@@ -921,9 +903,9 @@ const essentialDatingPhotos = [
             </div>
 
             <h3 class="text-white mb-2 text-heading-h3">
-              Shots of Your Hobbies
+              The Hobby Shot
             </h3>
-            <p class="text-gray-400">Displays your interests and passions.</p>
+            <p class="text-gray-400">These photos display your passions, helping to attract matches who share your interests.</p>
           </div>
 
           <div>
@@ -938,8 +920,8 @@ const essentialDatingPhotos = [
               />
             </div>
 
-            <h3 class="text-white mb-2 text-heading-h3">A Full Body Shot</h3>
-            <p class="text-gray-400">Gives a complete view of your physique.</p>
+            <h3 class="text-white mb-2 text-heading-h3">The Full Body Shot</h3>
+            <p class="text-gray-400">No matter your physique, it’s important to have a full body shot to attract people who are interested in you. </p>
           </div>
 
           <div>
@@ -954,8 +936,8 @@ const essentialDatingPhotos = [
               />
             </div>
 
-            <h3 class="text-white mb-2 text-heading-h3">A Selfie Photo</h3>
-            <p class="text-gray-400">A fun, personal touch to your profile.</p>
+            <h3 class="text-white mb-2 text-heading-h3">The Selfie</h3>
+            <p class="text-gray-400">Trust us, it’s less cringe than you think! Add a selfie to your dating profile for a fun and personal touch.</p>
           </div>
         </div>
       </section>
@@ -971,7 +953,7 @@ const essentialDatingPhotos = [
       >
         <div class="max-w-[500px] w-full flex-shrink-0">
           <h2 class="font-accent text-white font-bold text-[54px] mb-8">
-            Frequently asked questions.
+            Frequently Ask Questions
           </h2>
           <button class="btn btn-black w-full lg:w-auto items-center gap-3">
             SEE ALL FAQ'S
@@ -982,7 +964,7 @@ const essentialDatingPhotos = [
           <div class="py-10">
             <div class="flex justify-between items-start">
               <p class="font-bold font-accent text-white text-[16px] mb-8">
-                How many photos do I need for my dating profile?
+                Where is The Match Artist located?
               </p>
               <div
                 class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
@@ -1005,12 +987,7 @@ const essentialDatingPhotos = [
               </div>
             </div>
             <p class="text-gray-400 text-[16px] leading-[24px] font-body">
-              For platforms like Tinder, Bumble, Hinge, Dil Mil, and Match.com,
-              a diverse set of 5-6 photos is recommended. This allows potential
-              matches to see various aspects of your personality and interests.
-              Quality photos from a professional shoot can also be repurposed
-              for other online profiles or CVs. Most people opt for around 16
-              quality photos to rotate across different platforms.
+              The Match Artist is headquartered in Texas but we provide services in all cities in the US.
             </p>
           </div>
           <div class="py-10">
@@ -1068,7 +1045,7 @@ const essentialDatingPhotos = [
           <div class="py-10">
             <div class="flex justify-between items-start">
               <p class="font-bold font-accent text-white text-[16px]">
-                How many photos do I need for my dating profile?
+                For platforms like Tinder, Bumble, Hinge, Dil Mil, and Match.com, a diverse set of 5-6 photos is recommended. This allows potential matches to see various aspects of your personality and interests. High-quality photos from a professional shoot can also be repurposed for other online profiles or CVs. Most people opt for around 16 quality photos to use across different platforms.
               </p>
               <div
                 class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
