@@ -121,24 +121,26 @@ const essentialDatingPhotos = [
           </p>
 
           <div class="flex flex-col lg:flex-row gap-6 mt-8">
-            <button
-              class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="18"
-                height="20"
-                viewBox="0 0 18 20"
-                fill="none"
+            <nuxt-link href="/online-dating-photographer-near-me">
+              <button
+                class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
               >
-                <path
-                  d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
-                  fill="white"
-                />
-              </svg>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="18"
+                  height="20"
+                  viewBox="0 0 18 20"
+                  fill="none"
+                >
+                  <path
+                    d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
+                    fill="white"
+                  />
+                </svg>
 
-              BOOK A SPOT
-            </button>
+                BOOK A SPOT
+              </button>
+            </nuxt-link>
 
             <button
               class="flex bg-[#171717] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
@@ -650,24 +652,26 @@ const essentialDatingPhotos = [
             </li>
           </ul>
 
-          <button
-            class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="18"
-              height="20"
-              viewBox="0 0 18 20"
-              fill="none"
+          <nuxt-link href="/online-dating-photographer-near-me">
+            <button
+              class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
             >
-              <path
-                d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
-                fill="white"
-              />
-            </svg>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="18"
+                height="20"
+                viewBox="0 0 18 20"
+                fill="none"
+              >
+                <path
+                  d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
+                  fill="white"
+                />
+              </svg>
 
-            BOOK A SPOT
-          </button>
+              BOOK A SPOT
+            </button>
+          </nuxt-link>
         </div>
 
         <div class="w-full lg:w-[475px] flex-shrink-0 flex flex-col gap-8">
@@ -741,24 +745,26 @@ const essentialDatingPhotos = [
               photography today!
             </p>
 
-            <button
-              class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3 mt-8"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="18"
-                height="20"
-                viewBox="0 0 18 20"
-                fill="none"
+            <nuxt-link href="/online-dating-photographer-near-me">
+              <button
+                class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3 mt-8"
               >
-                <path
-                  d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
-                  fill="white"
-                />
-              </svg>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="18"
+                  height="20"
+                  viewBox="0 0 18 20"
+                  fill="none"
+                >
+                  <path
+                    d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
+                    fill="white"
+                  />
+                </svg>
 
-              BOOK A SPOT
-            </button>
+                BOOK A SPOT
+              </button>
+            </nuxt-link>
           </article>
         </div>
       </section>
@@ -792,24 +798,27 @@ const essentialDatingPhotos = [
             your dating profile with authentic, confidence-boosting photography.
             It’s time to attract people who are excited to get to know YOU!
           </p>
-          <button
-            class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="18"
-              height="20"
-              viewBox="0 0 18 20"
-              fill="none"
-            >
-              <path
-                d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
-                fill="white"
-              />
-            </svg>
 
-            BOOK A SPOT
-          </button>
+          <nuxt-link href="/online-dating-photographer-near-me">
+            <button
+              class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="18"
+                height="20"
+                viewBox="0 0 18 20"
+                fill="none"
+              >
+                <path
+                  d="M3 0V2H2C0.9 2 0 2.9 0 4V18C0 19.1 0.9 20 2 20H16C17.1 20 18 19.1 18 18V4C18 2.9 17.1 2 16 2H15V0H13V2H5V0H3ZM2 7H16V18H2V7Z"
+                  fill="white"
+                />
+              </svg>
+
+              BOOK A SPOT
+            </button>
+          </nuxt-link>
         </article>
 
         <div class="h-[350px] lg:h-auto w-full relative mb-8">
