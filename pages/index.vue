@@ -19,31 +19,30 @@ const imageGallery = [
 ];
 
 // GO ON BETTER DATES
-const captureSparkImage = "/images/home/capture-spark.jpg";
+const captureSparkImage = "https://images.thematchartist.com/images/team/marcos.jpeg";
 const bestAngleImage = "/images/home/best-angle.jpg";
 const personalizedImage = "/images/home/photoshoot.jpg";
 
 // TESTIMONIAL IMAGE
-const testimonialImage = "/images/home/testimonial-image.jpeg";
+const testimonialImage = "https://tma.imgix.net/images/Missed%20Images/iMDvC2IaQHaryK9.jpg";
 
 // LOOK CONFIDENT
 const confidentBefore = "/images/home/before.jpg";
 const confidentAfter = "/images/home/after.jpg";
 
 // IMPORTANCE OF DATING PHOTOGRAPHY
-const youngMenImage = "/images/home/their-age.jpg";
-const belowAverageMen = "/images/home/below-average.png";
-const olderWomen = "/images/home/older-women.jpg";
-const anyoneResults = "/images/home/no-results.jpg";
+const youngMenImage = "https://tma.imgix.net/images/Missed%20Images/embeddable_746d.jpg";
+const belowAverageMen = "https://www.ecomone.com/wp-content/uploads/2024/04/steve-toth-black-and-white-headshot.jpg";
+const olderWomen = "https://tma.imgix.net/images/focused-woman.JPG";
+const anyoneResults = "https://tma.imgix.net/images/Missed%20Images/embeddable_9571.jpg";
 
 // FIVE ESSENTIAL DATING PHOTOS
 const essentialDatingPhotos = [
-  "/images/home/their-age.jpg",
-  "/images/home/their-age.jpg",
-  "/images/home/their-age.jpg",
-  "/images/home/their-age.jpg",
-  "/images/home/their-age.jpg",
-  "/images/home/their-age.jpg",
+  "https://tma.imgix.net/images/Missed%20Images/smirk-1343.jpg",
+  "https://tma.imgix.net/images/portfolio/WtfkLBeSRWp9oOyJ1STg.jpg",
+  "https://tma.imgix.net/images/work/flying-hero.webp",
+  "https://tma.imgix.net/images/portfolio/qya7eF3TziIJyxKzNwGR.jpg",
+  "https://tma.imgix.net/images/selfie.jpg",
 ];
 
 // ==========================================================
@@ -497,17 +496,14 @@ At The Match Artist, we help men and women date online with confidence with eye-
 
           <div class="flex flex-col justify-center">
             <p class="text-white text-heading-h5 lg:text-heading-h3 mb-8">
-              “He knows how to bring out your best. [...] Finding the right
-              partner is one of the most important and exciting challenges
-              you'll ever face - so investing a bit of time and money in
-              professional photos should be a no-brainer.”
+              “It's night and day difference. Before The Match Artist hardly anyone swiped right. Afterwards I had more matches than I knew what to do with. I eventually found my partner with these new photos and we are getting married in October.”
             </p>
 
             <div class="w-14 h-14 rounded-full bg-slate-700"></div>
 
             <div class="mt-4">
-              <p class="text-white font-medium text-[20px]">Jacob Jones</p>
-              <p class="text-gray-200">Web Designer</p>
+              <p class="text-white font-medium text-[20px]">Karthik J.</p>
+              <p class="text-gray-200">San Francisco</p>
             </div>
           </div>
         </div>
