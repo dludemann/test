@@ -21,13 +21,11 @@ const allPosts = await queryContent("blog")
 const numberOfPosts = allPosts.length;
 const numberOfPages = Math.ceil(numberOfPosts / pageSize);
 
-console.log("hello");
-
 const pagedPosts = await queryContent("blog")
   .where({
     _path: { $ne: "/blog" },
   })
   .sort({ published: -1 })
-  .limit(pageData.pagination.size)
+  .limit(pageSize)
   .find();
 </script>
