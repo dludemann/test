@@ -72,7 +72,7 @@ const personalizedImage = "/images/home/photoshoot.jpg";
 
 // TESTIMONIAL IMAGE
 const testimonialImage =
-  "https://tma.imgix.net/images/Missed%20Images/iMDvC2IaQHaryK9.jpg";
+  "https://images.thematchartist.com/images/reviews/Karthik.jpg";
 
 // LOOK CONFIDENT
 const confidentBefore = "/images/home/before.jpg";
@@ -99,6 +99,42 @@ const essentialDatingPhotos = [
 // ==========================================================
 // STOP EDITING HERE
 // ==========================================================
+
+useHead({
+  title: "Online Dating Photographer | The Match Artist",
+  meta: [
+    {
+      name: "description",
+      content:
+        "Swipe with confidence with professional, eye-catching dating profile photos. The Match Artist specializes in online dating photography for Tinder, Bumble, Hinge and more",
+    },
+    {
+      name: "og:description",
+      content:
+        "Swipe with confidence with professional, eye-catching dating profile photos. The Match Artist specializes in online dating photography for Tinder, Bumble, Hinge and more",
+    },
+    {
+      name: "og:title",
+      content: "Online Dating Photographer | The Match Artist",
+    },
+    {
+      name: "og:url",
+      content: "https://thematchartist.com",
+    },
+    {
+      name: "og:image",
+      content: "/images/camera-in-a-mirror.jpg",
+    },
+    {
+      name: "og:site_name",
+      content: "https://thematchartist.com",
+    },
+    {
+      name: "og:type",
+      content: "website",
+    },
+  ],
+});
 </script>
 <template>
   <NuxtLayout>
@@ -138,29 +174,30 @@ const essentialDatingPhotos = [
                   />
                 </svg>
 
-                BOOK A SPOT
+                BOOK A CALL
               </button>
             </nuxt-link>
-
-            <button
-              class="flex bg-[#171717] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
+            <nuxt-link href="/how-it-works">
+              <button
+                class="flex bg-[#171717] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
               >
-                <path
-                  d="M9 2L7 4H4C2.89844 4 2 4.89844 2 6V18C2 19.1016 2.89844 20 4 20H20C21.1016 20 22 19.1016 22 18V6C22 4.89844 21.1016 4 20 4H17L15 2H9ZM12 7C14.8008 7 17 9.19922 17 12C17 14.8008 14.8008 17 12 17C9.19922 17 7 14.8008 7 12C7 9.19922 9.19922 7 12 7ZM12 8.5C10.0664 8.5 8.5 10.0664 8.5 12C8.5 13.9336 10.0664 15.5 12 15.5C13.9336 15.5 15.5 13.9336 15.5 12C15.5 10.0664 13.9336 8.5 12 8.5Z"
-                  fill="white"
-                  fill-opacity="0.8"
-                />
-              </svg>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                >
+                  <path
+                    d="M9 2L7 4H4C2.89844 4 2 4.89844 2 6V18C2 19.1016 2.89844 20 4 20H20C21.1016 20 22 19.1016 22 18V6C22 4.89844 21.1016 4 20 4H17L15 2H9ZM12 7C14.8008 7 17 9.19922 17 12C17 14.8008 14.8008 17 12 17C9.19922 17 7 14.8008 7 12C7 9.19922 9.19922 7 12 7ZM12 8.5C10.0664 8.5 8.5 10.0664 8.5 12C8.5 13.9336 10.0664 15.5 12 15.5C13.9336 15.5 15.5 13.9336 15.5 12C15.5 10.0664 13.9336 8.5 12 8.5Z"
+                    fill="white"
+                    fill-opacity="0.8"
+                  />
+                </svg>
 
-              HOW IT WORKS
-            </button>
+                HOW IT WORKS
+              </button>
+            </nuxt-link>
           </div>
         </div>
 
@@ -669,7 +706,7 @@ const essentialDatingPhotos = [
                 />
               </svg>
 
-              BOOK A SPOT
+              BOOK A CALL
             </button>
           </nuxt-link>
         </div>
@@ -762,7 +799,7 @@ const essentialDatingPhotos = [
                   />
                 </svg>
 
-                BOOK A SPOT
+                BOOK A CALL
               </button>
             </nuxt-link>
           </article>
@@ -816,7 +853,7 @@ const essentialDatingPhotos = [
                 />
               </svg>
 
-              BOOK A SPOT
+              BOOK A CALL
             </button>
           </nuxt-link>
         </article>

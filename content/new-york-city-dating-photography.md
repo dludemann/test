@@ -2,7 +2,7 @@
 name: New York City Dating Photography
 location:
   city: New York City
-  state:
+  state: New York
 seo:
   title: NYC Online Dating Profile Photographer
   page_description: >-
@@ -21,7 +21,7 @@ content_blocks:
     text_color: "#ffffff"
     location:
       city: New York City
-      state:
+      state: New York
     image:
       src: /images/rohit5.jpg
       alt: Photo of Brian on a black background
@@ -45,8 +45,8 @@ content_blocks:
     background_color: "#090303"
     text_color: "#ffffff"
     location:
-      city: New York
-      state: City
+      city: New York City
+      state: New York
     title: Full Photoshoot In Different Settings To Capture The Best You
     description: >-
       Our approach involves capturing a multitude of photos to ensure we curate
@@ -77,7 +77,7 @@ content_blocks:
     text_color: "#FFFFFF"
     location:
       city: New York City
-      state:
+      state: New York
 
     image:
       src: https://images.thematchartist.com/images/portfolio/BeforeAfter/richard-before.jpg
@@ -209,6 +209,6 @@ content_blocks:
     form:
       title: Inquire Now
       city_input: false
-      city: New York
+      city: New York City
       state: New York
 ---
