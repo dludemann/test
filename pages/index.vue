@@ -72,6 +72,8 @@ const personalizedImage = "/images/home/photoshoot.jpg";
 
 // TESTIMONIAL IMAGE
 const testimonialImage =
+  "https://tma.imgix.net/images/Missed%20Images/iMDvC2IaQHaryK9.jpg";
+const testimonialImageHeadshot =
   "https://images.thematchartist.com/images/reviews/Karthik.jpg";
 
 // LOOK CONFIDENT
@@ -135,6 +137,33 @@ useHead({
     },
   ],
 });
+
+const imageBlock = {
+  _bookshop_name: "ImageSlider",
+  background_color: "#090303",
+  text_color: "#FFFFFF",
+  title: "Full Photoshoot In Different Settings To Capture The Best You",
+  description:
+    "Our approach involves capturing a multitude of photos to ensure we curate a selection that shows your personality, helping you stand out on dating platforms.",
+  background_image: "/images/backgrounds/city-background-detailed.jpeg",
+  images: [
+    "https://photostma.blob.core.windows.net/marketing/tejesh-tma-0033.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/jeff.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/justen-tma-9079.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF7389222.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/rohith-tma-2-191.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/connor-tma-210.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF5511.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/DSCF4069.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/ian-tma-0396.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/shakked-tma-06.jpeg",
+    "https://photostma.blob.core.windows.net/marketing/juan-1172.jpeg",
+  ],
+  testimonial: {
+    text: "I was hesitant to invest in what I thought were glorified glamour shots, and worried that the results would be a little cheesy... but I was also fed up with hours of mediocre results with my mirror selfies and cropped group photos... I was intimidated going into it but that was immediately alleviated. They did a great job of making me relaxed, comfortable, and confident.  And the results... WOW! Way more matches and likes, but the increase in the follow-through rate was the noticeable difference. No more expired Bumble matches waiting for that first outreach!",
+    person: "Cameron T.",
+  },
+};
 </script>
 <template>
   <NuxtLayout>
@@ -210,278 +239,7 @@ useHead({
     </section>
 
     <!--  PHOTO SECTION -->
-    <section
-      class="py-[110px]"
-      v-bind:style="{
-        background:
-          'linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(' +
-          '/images/background.jpeg' +
-          ')',
-        backgroundRepeat: 'no-repeat',
-        backgroundSize: 'cover',
-      }"
-    >
-      <article class="container mx-auto text-center max-w-[800px] mb-16">
-        <h2 class="text-white font-bold text-heading-h1 font-accent">
-          Attract Matches Who Are Interested in YOU
-        </h2>
-        <p
-          class="text-[#D9D9D9] mx-auto max-w-[620px] text-[22px] leading-[30px] mt-4"
-        >
-          You’re looking for a meaningful relationship. But your dating profile
-          doesn’t seem to put your best foot forward. How do you show up as your
-          authentic self AND attract high-quality matches?
-        </p>
-        <p>
-          At The Match Artist, we help men and women date online with confidence
-          with eye-catching dating profile photography, and body language and
-          facial expression coaching. It’s time to stand out on the apps with a
-          profile that is uniquely you.
-        </p>
-      </article>
-
-      <section class="container mx-auto">
-        <div>
-          <Swiper
-            :space-between="40"
-            :slides-per-view="1"
-            :loop="true"
-            :breakpoints="{
-              1024: {
-                slidesPerView: 4,
-              },
-            }"
-          >
-            <SwiperSlide
-              v-for="slide in imageGallery"
-              :key="slide"
-              class="h-[500px] lg:w-[350px] !max-w-[350px] relative"
-            >
-              <div class="h-[500px] lg:w-[350px] !max-w-[350px] relative">
-                <img
-                  :src="slide"
-                  alt="Portfolio Image"
-                  class="h-full w-full object-cover"
-                />
-              </div>
-            </SwiperSlide>
-
-            <SwiperControls />
-          </Swiper>
-        </div>
-      </section>
-
-      <div
-        class="container mx-auto flex flex-col justify-center items-center mt-[72px]"
-      >
-        <div class="flex gap-1">
-          <svg
-            width="21"
-            height="20"
-            viewBox="0 0 21 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g clip-path="url(#clip0_1560_17599)">
-              <path
-                d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                fill="#F2F4F7"
-              />
-              <g clip-path="url(#clip1_1560_17599)">
-                <path
-                  d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                  fill="#FEC84B"
-                />
-              </g>
-            </g>
-            <defs>
-              <clipPath id="clip0_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-              <clipPath id="clip1_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-            </defs>
-          </svg>
-
-          <svg
-            width="21"
-            height="20"
-            viewBox="0 0 21 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g clip-path="url(#clip0_1560_17599)">
-              <path
-                d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                fill="#F2F4F7"
-              />
-              <g clip-path="url(#clip1_1560_17599)">
-                <path
-                  d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                  fill="#FEC84B"
-                />
-              </g>
-            </g>
-            <defs>
-              <clipPath id="clip0_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-              <clipPath id="clip1_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-            </defs>
-          </svg>
-
-          <svg
-            width="21"
-            height="20"
-            viewBox="0 0 21 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g clip-path="url(#clip0_1560_17599)">
-              <path
-                d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                fill="#F2F4F7"
-              />
-              <g clip-path="url(#clip1_1560_17599)">
-                <path
-                  d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                  fill="#FEC84B"
-                />
-              </g>
-            </g>
-            <defs>
-              <clipPath id="clip0_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-              <clipPath id="clip1_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-            </defs>
-          </svg>
-
-          <svg
-            width="21"
-            height="20"
-            viewBox="0 0 21 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g clip-path="url(#clip0_1560_17599)">
-              <path
-                d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                fill="#F2F4F7"
-              />
-              <g clip-path="url(#clip1_1560_17599)">
-                <path
-                  d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                  fill="#FEC84B"
-                />
-              </g>
-            </g>
-            <defs>
-              <clipPath id="clip0_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-              <clipPath id="clip1_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-            </defs>
-          </svg>
-
-          <svg
-            width="21"
-            height="20"
-            viewBox="0 0 21 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g clip-path="url(#clip0_1560_17599)">
-              <path
-                d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                fill="#F2F4F7"
-              />
-              <g clip-path="url(#clip1_1560_17599)">
-                <path
-                  d="M9.5442 1.60996C9.715 1.19932 10.2967 1.19932 10.4675 1.60996L12.5336 6.57744C12.6056 6.75056 12.7684 6.86885 12.9553 6.88383L18.3181 7.31376C18.7615 7.3493 18.9412 7.90256 18.6034 8.19189L14.5176 11.6919C14.3752 11.8139 14.313 12.0053 14.3565 12.1876L15.6048 17.4208C15.708 17.8534 15.2374 18.1954 14.8578 17.9635L10.2665 15.1592C10.1065 15.0615 9.90524 15.0615 9.74523 15.1592L5.15392 17.9635C4.77437 18.1954 4.30374 17.8534 4.40694 17.4208L5.65524 12.1876C5.69875 12.0053 5.63656 11.8139 5.49417 11.6919L1.40827 8.19189C1.0705 7.90256 1.25027 7.3493 1.69359 7.31376L7.0564 6.88383C7.2433 6.86885 7.4061 6.75056 7.47811 6.57744L9.5442 1.60996Z"
-                  fill="#FEC84B"
-                />
-              </g>
-            </g>
-            <defs>
-              <clipPath id="clip0_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-              <clipPath id="clip1_1560_17599">
-                <rect
-                  width="20"
-                  height="20"
-                  fill="white"
-                  transform="translate(0.00585938)"
-                />
-              </clipPath>
-            </defs>
-          </svg>
-        </div>
-
-        <p
-          class="text-center max-w-[950px] text-white mt-4 text-[22px] font-accent leading-[33px]"
-        >
-          Before getting pics taken by The Match Artist, I was getting 2-3
-          tinder matches a week. After getting new high value pictures from The
-          Match Artist and tweaking my bio I was getting over 5 matches per day
-          with really great girls. The results truly speak for themselves.
-        </p>
-        <p class="text-white font-bold mt-4">- Cameron T</p>
-      </div>
-    </section>
+    <ImageSlider :block="imageBlock" />
 
     <!-- GO ON BETTER DATES -->
     <section class="bg-black overflow-hidden">
@@ -600,7 +358,14 @@ useHead({
               photos and we are getting married in October.”
             </p>
 
-            <div class="w-14 h-14 rounded-full bg-slate-700"></div>
+            <div class="w-14 h-14 rounded-full bg-slate-700 overflow-hidden">
+              <img
+                :src="testimonialImageHeadshot"
+                format="png"
+                alt="Man holding camera facing forward"
+                class="object-cover h-full w-full"
+              />
+            </div>
 
             <div class="mt-4">
               <p class="text-white font-medium text-[20px]">Karthik J.</p>

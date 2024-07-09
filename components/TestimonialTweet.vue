@@ -14,7 +14,7 @@ const props = defineProps<Props>();
     <div class="flex items-center gap-2">
       <div class="rounded-full h-[48px] w-[48px] overflow-hidden">
         <nuxt-img
-          src="/images/home/after.jpg"
+          :src="props.profilePicture"
           :alt="props.name"
           class="w-full h-full object-cover"
         />

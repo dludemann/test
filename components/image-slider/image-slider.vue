@@ -25,9 +25,9 @@ export default {
     }"
   >
     <article class="container mx-auto text-center max-w-[800px] mb-16">
-      <p class="text-[#A6A6A6] font-bold mb-4" v-if="block.location.city">
-        DATING PHOTOGRAPHY IN {{ block.location.city.toUpperCase() }},
-        {{ block.location.state.toUpperCase() }}
+      <p class="text-[#A6A6A6] font-bold mb-4" v-if="block?.location?.city">
+        DATING PHOTOGRAPHY IN {{ block?.location?.city?.toUpperCase() }},
+        {{ block?.location?.state?.toUpperCase() }}
       </p>
       <h2
         class="text-white font-bold text-[2.2rem] lg:text-[3.125rem] text-heading-h1"

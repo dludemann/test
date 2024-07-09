@@ -15,7 +15,7 @@ export default {
   >
     <div class="w-full mx-auto bg-black justify-center font-body relative">
       <div
-        class="container mx-auto flex flex-col lg:flex-row items-center justify-center pb-[60px] relative p-6"
+        class="container overflow-hidden mx-auto flex flex-col lg:flex-row items-center justify-center pb-[60px] relative p-6"
       >
         <div class="max-w-[600px] flex flex-col lg:pt-[96px] relative z-10">
           <h1
