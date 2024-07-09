@@ -677,7 +677,7 @@ const imageBlock = {
           </div>
           <div class="flex flex-col justify-center">
             <h3 class="text-heading-h2">
-              Insecure About Your Looks But Want to Attract Women
+              "Below Average" looking man
             </h3>
             <p>
               Every man can meet their match with the right photo cues. At The
