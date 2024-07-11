@@ -223,7 +223,7 @@ const leftRightForm = {
           </p>
 
           <div class="flex flex-col lg:flex-row gap-6 mt-8">
-            <nuxt-link href="/online-dating-photographer-near-me">
+            <a href="#contact">
               <button
                 class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
               >
@@ -242,7 +242,7 @@ const leftRightForm = {
 
                 BOOK A CALL
               </button>
-            </nuxt-link>
+            </a>
             <nuxt-link href="/how-it-works">
               <button
                 class="flex bg-[#171717] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3"
@@ -283,7 +283,7 @@ const leftRightForm = {
 
     <!-- GO ON BETTER DATES -->
     <section class="bg-black overflow-hidden">
-      <section class="container mx-auto py-[110px]">
+      <section class="container mx-auto lg:py-[110px]">
         <article class="container mx-auto text-center max-w-[800px] mb-16">
           <h2 class="text-white font-bold text-heading-h1 font-accent">
             Confidence-Boosting Online Dating Photography
@@ -375,7 +375,7 @@ const leftRightForm = {
 
     <!-- TESTIMONIAL -->
     <section class="bg-black overflow-hidden">
-      <section class="container mx-auto py-[110px] relative p-6 lg:p-0">
+      <section class="container mx-auto lg:py-[110px] relative p-6 lg:p-0">
         <div
           class="bg-[#222326] p-4 lg:p-10 rounded-xl flex flex-col lg:flex-row gap-8"
         >
@@ -438,9 +438,9 @@ const leftRightForm = {
     </section>
 
     <!-- LOOK CONFIDENT -->
-    <section class="bg-black overflow-hidden py-40">
+    <section class="bg-black overflow-hidden lg:py-40">
       <section
-        class="container mx-auto py-[110px] relative flex gap-20 flex-col lg:flex-row p-6 lg:p-0"
+        class="container mx-auto lg:py-[110px] relative flex gap-20 flex-col lg:flex-row p-6 lg:p-0"
       >
         <div>
           <article
@@ -494,7 +494,7 @@ const leftRightForm = {
             </li>
           </ul>
 
-          <nuxt-link href="/online-dating-photographer-near-me">
+          <a href="#contact">
             <button
               class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
             >
@@ -513,7 +513,7 @@ const leftRightForm = {
 
               BOOK A CALL
             </button>
-          </nuxt-link>
+          </a>
         </div>
 
         <div class="w-full lg:w-[475px] flex-shrink-0 flex flex-col gap-8">
@@ -587,7 +587,7 @@ const leftRightForm = {
               photography today!
             </p>
 
-            <nuxt-link href="/online-dating-photographer-near-me">
+            <a href="#contact">
               <button
                 class="flex bg-[#990800] justify-center py-[12px] px-[24px] text-white font-bold w-full lg:w-auto items-center gap-3 mt-8"
               >
@@ -606,7 +606,7 @@ const leftRightForm = {
 
                 BOOK A CALL
               </button>
-            </nuxt-link>
+            </a>
           </article>
         </div>
       </section>
@@ -641,7 +641,7 @@ const leftRightForm = {
             It’s time to attract people who are excited to get to know YOU!
           </p>
 
-          <nuxt-link href="/online-dating-photographer-near-me">
+          <a href="#contact">
             <button
               class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold lg:w-auto items-center gap-3 mt-8"
             >
@@ -660,7 +660,7 @@ const leftRightForm = {
 
               BOOK A CALL
             </button>
-          </nuxt-link>
+          </a>
         </article>
 
         <div class="h-[350px] lg:h-auto w-full relative mb-8">
@@ -681,7 +681,7 @@ const leftRightForm = {
       </h2>
 
       <ul class="mt-[56px] flex flex-col gap-8">
-        <li class="flex flex-col lg:flex-row gap-10">
+        <li class="flex flex-col-reverse lg:flex-row gap-10">
           <div
             class="w-full lg:w-[280px] h-[300px] bg-gray-800 flex-shrink-0 overflow-hidden relative"
           >
@@ -704,7 +704,8 @@ const leftRightForm = {
             </p>
           </div>
         </li>
-        <li class="flex flex-col lg:flex-row gap-10">
+        <div class="block lg:hidden h-px w-full bg-gray-300 my-4" />
+        <li class="flex flex-col-reverse lg:flex-row gap-10">
           <div
             class="w-full lg:w-[280px] h-[300px] bg-gray-800 flex-shrink-0 overflow-hidden relative"
           >
@@ -715,8 +716,10 @@ const leftRightForm = {
               class="object-cover h-full w-full"
             />
           </div>
-          <div class="flex flex-col justify-center">
-            <div class="text-heading-h2">Insecure About Your Looks But Want to Attract Women</div>
+          <div class="flex flex-col-reverse justify-center">
+            <div class="text-heading-h2">
+              Insecure About Your Looks But Want to Attract Women
+            </div>
             <p>
               Every man can meet their match with the right photo cues. At The
               Match Artist, we coach you on body language and facial expressions
@@ -725,7 +728,9 @@ const leftRightForm = {
             </p>
           </div>
         </li>
-        <li class="flex flex-col lg:flex-row gap-10">
+        <div class="block lg:hidden h-px w-full bg-gray-300 my-4" />
+
+        <li class="flex flex-col-reverse lg:flex-row gap-10">
           <div
             class="w-full lg:w-[280px] h-[300px] bg-gray-800 flex-shrink-0 overflow-hidden relative"
           >
@@ -745,7 +750,9 @@ const leftRightForm = {
             </p>
           </div>
         </li>
-        <li class="flex flex-col lg:flex-row gap-10">
+        <div class="block lg:hidden h-px w-full bg-gray-300 my-4" />
+
+        <li class="flex flex-col-reverse lg:flex-row gap-10">
           <div
             class="w-full lg:w-[280px] h-[300px] bg-gray-800 flex-shrink-0 overflow-hidden relative"
           >
@@ -775,7 +782,7 @@ const leftRightForm = {
     <!-- 5 Essential Dating Photos for Success -->
     <section class="bg-black overflow-hidden">
       <section
-        class="container mx-auto py-[110px] relative flex gap-20 px-6 lg:px-0"
+        class="container mx-auto pt-[110px] lg:py-[110px] relative flex gap-20 px-6 lg:px-0"
       >
         <div
           class="grid grid-cols-1 lg:grid-cols-3 gap-8 w-full max-w-[1100px] mx-auto"
@@ -893,7 +900,7 @@ const leftRightForm = {
     <!-- FAQ -->
     <section class="bg-black">
       <div
-        class="container mx-auto py-20 px-10 flex justify-between gap-20 flex-col lg:flex-row"
+        class="container mx-auto py-20 px-10 flex justify-between lg:gap-20 flex-col lg:flex-row"
       >
         <div class="max-w-[500px] w-full flex-shrink-0">
           <h2 class="font-accent text-white font-bold text-[54px] mb-8">
@@ -952,8 +959,5 @@ const leftRightForm = {
     </section>
 
     <WeAreExperts />
-
-    <!-- FORM -->
-    <LeftRightForm :block="leftRightForm" />
   </NuxtLayout>
 </template>
