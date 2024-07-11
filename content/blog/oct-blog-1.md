@@ -4,7 +4,9 @@ published: 2024-07-10T12:32:42Z
 name: Oct Blog - 1
 seo:
   title: What Are 21 Questions to Ask a Girl You Like?
-  page_description: Questions to ask a girl you like
+  page_description: >
+    Looking for the best questions to ask a girl? Here are 21 perfect questions
+    that will entertain and amuse both of you. Find out what makes her happiest.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,8 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/james-joci-favorites-0640.jpg
-  image_alt: man and woman
+  image:
+  image_alt:
 ---
 # What Are 21 Questions to Ask a Girl You Like?
 

@@ -4,7 +4,10 @@ published: 2024-07-10T12:54:54Z
 name: Oct Blog - 3
 seo:
   title: How to Spot a Catfish — Top Signs to Look Out For
-  page_description: Signs to spot a catfish
+  page_description: >-
+    Learn how to spot a catfish by examining their profile and looking for red
+    flags. Ask questions and verify their online presence to avoid being
+    scammed.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,9 +17,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/shanefromfargo_A_computer_programmer_in_his_mid_30s_with_brown__bfff5df0-f977-4327-8b06-4922f650fe8f-4.png
-  image_alt: guy on computer
+  image:
+  image_alt:
 ---
 # How to Spot a Catfish — Top Signs to Look Out For
 
@@ -194,5 +196,6 @@ The best way to end a catfish relationship is to cut it off as soon as you ident
 While a catfish can fall in love with the person they were initially deceiving, it is difficult to determine whether their feelings are genuine or fabricated. This lack of trust can make it challenging to form candid relationships.<br>Sources:
 
 [thematchartist.com/tinder/is-tinder-full-of-fake-profiles](https://thematchartist.com/tinder/is-tinder-full-of-fake-profiles) [thematchartist.com/blog/how-do-i-meet-singles-in-my-area](https://thematchartist.com/blog/how-do-i-meet-singles-in-my-area) [thematchartist.com/blog/can-online-dating-lead-to-marriage](https://thematchartist.com/blog/can-online-dating-lead-to-marriage)
+
 
 <br>

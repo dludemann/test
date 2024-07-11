@@ -4,7 +4,10 @@ published: 2024-07-10T12:42:02Z
 name: Oct Blog - 2
 seo:
   title: Should I Get Professional Photos for an Online Dating Profile
-  page_description: Getting professional photos for an online dating profile
+  page_description: >-
+    Should you get professional photos for online dating? They can make you look
+    your best and convey authenticity. Discover why hiring a photographer is
+    worth it.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,8 +17,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/MichaelKourakos-01558.JPG
-  image_alt: guy smiling
+  image:
+  image_alt:
 ---
 # Should I Get Professional Photos for an Online Dating Profile
 
@@ -198,5 +201,6 @@ You can definitely include a professional headshot on a dating app. This is a gr
 Sources:
 
 [thematchartist.com/blog/how-to-be-photogenic](https://thematchartist.com/blog/how-to-be-photogenic) [thematchartist.com/blog/why-am-i-not-photogenic](https://thematchartist.com/blog/why-am-i-not-photogenic) [thematchartist.com/tinder/how-to-get-more-matches-on-tinder](https://thematchartist.com/tinder/how-to-get-more-matches-on-tinder)
+
 
 <br>
