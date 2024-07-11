@@ -2,13 +2,11 @@
 const swiper = useSwiper();
 
 const handlePrev = () => {
-  const active = swiper.value.activeIndex;
-  swiper.value.slideTo(active - 1);
+  swiper.value?.slidePrev();
 };
 
 const handleNext = () => {
-  const active = swiper.value.activeIndex;
-  swiper.value.slideTo(active + 1);
+  swiper.value?.slideNext();
 };
 </script>
 <template>

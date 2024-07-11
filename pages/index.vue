@@ -1,5 +1,15 @@
 <script setup>
 // ==========================================================
+// CITY
+// ==========================================================
+const data = await $fetch(
+  "https://thematchartist.com/.netlify/functions/findUserLocation"
+);
+
+const location = data ? JSON.parse(data).message : null;
+const city = location ? location.city : null;
+const state = location ? location.state : null;
+// ==========================================================
 // EDIT BELOW HERE
 // ==========================================================
 
@@ -44,9 +54,7 @@ const faqs = reactive([
 ]);
 
 const toggleFAQ = (index) => {
-  faqs.forEach((faq, i) => {
-    faq.open = i === index ? !faq.open : false;
-  });
+  faqs[index].open = !faqs[index].open;
 };
 
 // HERO IMAGE
@@ -103,7 +111,7 @@ const essentialDatingPhotos = [
 // ==========================================================
 
 useHead({
-  title: "Online Dating Photographer | The Match Artist",
+  title: "Dating App Profile Photographer | The Match Artist",
   meta: [
     {
       name: "description",
@@ -164,6 +172,35 @@ const imageBlock = {
     person: "Cameron T.",
   },
 };
+
+const leftRightForm = {
+  _bookshop_name: "LeftRightForm",
+  background_color: "#090303",
+  text_color: "#000000",
+  title: `Professional Dating Photography in ${city}, ${state}`,
+  description:
+    "We tailor your photo experience with us to highlight things you enjoy doing most. Whether it's kayaking, rock climbing, reading, or drinking coffee, you'll get more matches with a varied profile filled with your talents.",
+  list: [
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Better dating profile",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Go on better dates",
+    },
+    {
+      icon: "/icons/green-tick.svg",
+      text: "Improved social media presence",
+    },
+  ],
+  form: {
+    title: "Inquire Now",
+    city_input: false,
+    city,
+    state,
+  },
+};
 </script>
 <template>
   <NuxtLayout>
@@ -176,12 +213,12 @@ const imageBlock = {
           <h1
             class="text-[56px] leading-[50px] lg:text-[90px] lg:leading-[100.6px] font-bold text-white mb-8"
           >
-            Online Dating Photography
+            Online Dating Profile Photographer
           </h1>
           <p class="text-white text-[22.5px] font-body leadig-[36px]">
             We transform online dating profiles on dating apps like Tinder,
             Bumble, and Hinge through intriguing photography, facial expression
-            coaching, and showing you off in your element. Based in Texas we we
+            coaching, and showing you off in your element. Based in Texas we
             shoot all over the US.
           </p>
 
@@ -240,6 +277,9 @@ const imageBlock = {
 
     <!--  PHOTO SECTION -->
     <ImageSlider :block="imageBlock" />
+
+    <!-- FORM -->
+    <LeftRightForm :block="leftRightForm" />
 
     <!-- GO ON BETTER DATES -->
     <section class="bg-black overflow-hidden">
@@ -407,7 +447,7 @@ const imageBlock = {
             class="container mx-auto text-center lg:text-left max-w-[800px] mb-16"
           >
             <h2 class="text-white font-bold text-heading-h1 font-accent">
-              Look Confident
+              Look Confident With Your Dating Profile
             </h2>
             <p
               class="text-[#D9D9D9] mx-auto max-w-[820px] text-[22px] leading-[30px] mt-4"
@@ -580,7 +620,7 @@ const imageBlock = {
           <h2
             class="font-bold text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
           >
-            Why Hire a Professional Dating Photographer?
+            Why Hire a Photographer for Dating Profile Pictures
           </h2>
           <div class="bg-primary-500 w-[120px] h-[10px] my-8" />
           <p class="text-20px">
@@ -637,7 +677,7 @@ const imageBlock = {
       <h2
         class="font-bold text-center max-w-[800px] mx-auto text-[28px] leading-[33.6px] tracking-[-0.56px] lg:text-heading-h2 font-display"
       >
-        You Might Need Online Dating Photography If You are…
+        You Might Need a Dating App Photographer if You are…
       </h2>
 
       <ul class="mt-[56px] flex flex-col gap-8">
@@ -653,9 +693,9 @@ const imageBlock = {
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">
+            <div class="text-heading-h2">
               Ready to Look More Mature & Confident
-            </h3>
+            </div>
             <p>
               Even the smallest changes to body language can lead to more online
               dating success. If you are interested in attracting more women
@@ -676,9 +716,7 @@ const imageBlock = {
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">
-              "Below Average" looking man
-            </h3>
+            <div class="text-heading-h2">"Below Average" looking man</div>
             <p>
               Every man can meet their match with the right photo cues. At The
               Match Artist, we coach you on body language and facial expressions
@@ -699,7 +737,7 @@ const imageBlock = {
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">A Career Oriented Woman</h3>
+            <div class="text-heading-h2">A Career Oriented Woman</div>
             <p>
               Career women in 30s-50s often overlooked by peers. Success hinges
               on presenting the right cues in photos. Our photography is
@@ -719,9 +757,9 @@ const imageBlock = {
             />
           </div>
           <div class="flex flex-col justify-center">
-            <h3 class="text-heading-h2">
+            <div class="text-heading-h2">
               Aren’t Getting Matches from Your Online Profile
-            </h3>
+            </div>
             <p>
               Maybe you have interesting photos and a descriptive bio, but still
               aren’t seeing the results you would like. If you want to get more
@@ -914,5 +952,8 @@ const imageBlock = {
     </section>
 
     <WeAreExperts />
+
+    <!-- FORM -->
+    <LeftRightForm :block="leftRightForm" />
   </NuxtLayout>
 </template>

@@ -202,7 +202,7 @@ content_blocks:
       - icon: /icons/green-tick.svg
         text: Go on better dates
       - icon: /icons/green-tick.svg
-        text: Improved social media presence
+        text: Find your partner faster
     form:
       title: Inquire Now
       city_input: false
