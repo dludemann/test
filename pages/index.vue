@@ -92,7 +92,7 @@ const confidentAfter = "/images/home/after.jpg";
 const youngMenImage =
   "https://tma.imgix.net/images/Missed%20Images/embeddable_746d.jpg";
 const belowAverageMen =
-  "https://www.ecomone.com/wp-content/uploads/2024/04/steve-toth-black-and-white-headshot.jpg";
+  "https://tma.imgix.net/images/Missed%20Images/embeddable_b49f.jpg";
 const olderWomen = "https://tma.imgix.net/images/focused-woman.JPG";
 const anyoneResults =
   "https://tma.imgix.net/images/Missed%20Images/embeddable_9571.jpg";
@@ -716,7 +716,7 @@ const leftRightForm = {
             />
           </div>
           <div class="flex flex-col justify-center">
-            <div class="text-heading-h2">"Below Average" looking man</div>
+            <div class="text-heading-h2">Insecure About Your Looks But Want to Attract Women</div>
             <p>
               Every man can meet their match with the right photo cues. At The
               Match Artist, we coach you on body language and facial expressions
