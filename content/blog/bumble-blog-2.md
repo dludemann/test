@@ -4,8 +4,9 @@ published: 2024-07-10T08:12:38Z
 name: Bumble Blog 2
 seo:
   title: How to Go Back on Bumble
-  page_description: |
-    How to Go Back on Bumble
+  page_description: >-
+    Learn how to use Bumble's Backtrack feature effectively. Our guide helps you
+    undo accidental swipes and make the most of your dating experience.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -15,8 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/DSCF4069.jpeg
-  image_alt: man poring a drink
+  image:
+  image_alt:
 ---
 # How to Go Back on Bumble
 

@@ -4,8 +4,9 @@ published: 2024-07-10T08:50:53Z
 name: Bumble Blog 3
 seo:
   title: What Does Moderated Mean on Bumble?
-  page_description: |
-    What Does Moderated Mean on Bumble?
+  page_description: >-
+    Discover what 'moderated' means on Bumble, why it happens, and how to
+    navigate these situations for a seamless dating experience.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -15,9 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_in_a_big_city_4b0a58b8-4619-49be-b129-d8b788733b5c.png
-  image_alt: girl on phone
+  image:
+  image_alt:
 ---
 # What Does Moderated Mean on Bumble?
 

@@ -4,8 +4,9 @@ published: 2024-07-10T07:49:28Z
 name: Bumble Blog 1
 seo:
   title: How to Change Age Preference on Bumble
-  page_description: |
-    How to Change Age Preference on Bumble
+  page_description: >-
+    Learn how to change the age range on Bumble easily with our step-by-step
+    guide. Customize your dating preferences to find the perfect match.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -15,8 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/Stephen-7405120.JPG
-  image_alt: man drinking coffee
+  image:
+  image_alt:
 ---
 # How to Change Age Preference on Bumble
 
