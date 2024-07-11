@@ -4,7 +4,9 @@ published: 2024-07-11T06:02:27Z
 name: Oct Blog - 16
 seo:
   title: Can Online Dating Lead to Marriage?
-  page_description:
+  page_description: >-
+    Can online dating truly lead to marriage? Find out how relationships that
+    start on apps are turning into successful marriages.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article

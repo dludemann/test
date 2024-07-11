@@ -4,7 +4,9 @@ published: 2024-07-11T08:06:14Z
 name: Oct Blog - 20
 seo:
   title: No Matches on Tinder? Here’s How to Get More Matches
-  page_description:
+  page_description: >-
+    Not getting matches on Tinder? Explore the reasons behind this and discover
+    the best ways to fix your dating app results.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -40,6 +42,8 @@ Let’s go ahead and jump right into it!
 Getting a match on Tinder is when you have expressed interest in someone on the app, and they have responded in kind. That is, both people swipe right on each other’s profiles to indicate they’re interested!
 
 Once both parties have swiped right, a match is made, and you can send one another messages. It is important to note that swiping right, or ‘liking’ someone's profile, [does not immediately guarantee a match](https://thematchartist.com/tinder/tinder-likes-but-no-matches).
+
+![teo people having a nice time](https://photostma.blob.core.windows.net/web/two%20people%20having%20a%20nice%20time.jpg)
 
 ## Is It Normal to Not Get Matches on Tinder?
 

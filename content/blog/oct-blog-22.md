@@ -4,7 +4,9 @@ published: 2024-07-11T12:43:58Z
 name: Oct Blog - 22
 seo:
   title: How to Fix the "Tinder No Matches Bug" Issue
-  page_description:
+  page_description: >-
+    Tinder matches not showing up? Discover how to fix the 'no matches' bug on
+    your app and start getting matches again!
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -174,6 +176,7 @@ No, Tinder matches do not expire. You will only lose a Tinder match by blocking 
 
 Sadly, once you delete your Tinder account, you will lose all likes, matches, and messages connected to your profile. As such, it’s crucial to be 100% sure before you delete your Tinder account. You don’t want to delete all those successful swipe rights!
 
+
 <br>
 
 Sources:
@@ -183,5 +186,6 @@ Sources:
 [https://thematchartist.com/tinder/tinder-android-no-matches](https://thematchartist.com/tinder/tinder-android-no-matches)
 
 [https://thematchartist.com/tinder/tinder-likes-but-no-matches](https://thematchartist.com/tinder/tinder-likes-but-no-matches)
+
 
 <br>

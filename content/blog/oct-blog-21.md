@@ -4,7 +4,9 @@ published: 2024-07-11T08:26:18Z
 name: Oct Blog - 21
 seo:
   title: Why am I Getting Tinder Likes But No Matches? All You Need to Know
-  page_description:
+  page_description: >-
+    Not getting matches despite Tinder likes? Discover the best solutions to fix
+    this issue and enhance your experience on dating apps.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
