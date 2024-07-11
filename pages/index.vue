@@ -58,7 +58,7 @@ const toggleFAQ = (index) => {
 };
 
 // HERO IMAGE
-const heroImage = "/images/brian.webp";
+const heroImage = "https://tma.imgix.net/images/IMG_7532.jpg";
 
 // PHOTOSHOOT GALLERY
 const imageGallery = [
