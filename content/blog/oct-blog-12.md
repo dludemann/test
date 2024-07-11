@@ -4,7 +4,9 @@ published: 2024-07-10T16:10:58Z
 name: Oct Blog - 12
 seo:
   title: How to Spot Fake Profiles on Tinder
-  page_description:
+  page_description: >-
+    Stay safe on Tinder by learning how to spot fake profiles. Protect yourself
+    from scams with our dating app tips.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,7 +16,7 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/DSCF7389222.jpeg
+  image:
   image_alt:
 ---
 # How to Spot Fake Profiles on Tinder
@@ -173,5 +175,6 @@ Fake profiles can [damage user trust](https://techcrunch.com/2021/12/23/social-m
 [policies.tinder.com](https://policies.tinder.com/web/safety-center/tools/how-to-report/intl/en/)
 
 [social.techjunkie.com](https://social.techjunkie.com/tinder-profile-fake-bot/)
+
 
 <br>

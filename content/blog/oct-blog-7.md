@@ -4,7 +4,9 @@ published: 2024-07-10T13:37:51Z
 name: Oct Blog - 7
 seo:
   title: What is a Good First Date? Fun First Date Ideas
-  page_description: First date ideas
+  page_description: >-
+    Get the best tips for a fun first date. Discover ideas, conversation
+    starters, and questions to make your date great and memorable.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,9 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/images/blog/RB1Bxv70QZy3GjyHBnaZ.jpg
-  image_alt: man and woman on the street
+  image:
+  image_alt:
 ---
 # What is a Good First Date? Fun First Date Ideas
 
@@ -215,6 +216,7 @@ You generally want to keep things light-hearted and fun on a first date. Avoidin
 
 Whether or not you kiss on the first date is entirely up to you and your date. Sometimes the mood is appropriate, and sometimes it isn’t. There is no shame in asking your date if you can kiss them – consideration and consent is always crucial.
 
+
 <br>
 
 ### Sources:
@@ -222,5 +224,6 @@ Whether or not you kiss on the first date is entirely up to you and your date. S
 [thematchartist.com/blog/how-do-i-start-dating](https://thematchartist.com/blog/how-do-i-start-dating)
 
 [thematchartist.com/blog/how-do-i-meet-singles-in-my-area](https://thematchartist.com/blog/how-do-i-meet-singles-in-my-area) [thematchartist.com/blog/can-online-dating-lead-to-marriage](https://thematchartist.com/blog/can-online-dating-lead-to-marriage)
+
 
 <br>

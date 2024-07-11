@@ -4,7 +4,9 @@ published: 2024-07-10T15:11:54Z
 name: Oct Blog - 9
 seo:
   title: Can You Send Photos on Tinder? Easy Workaround Tips
-  page_description:
+  page_description: >-
+    Can you send photos on Tinder? Understand the app's policies on sending
+    pictures and keeping your dating life secure.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,8 +16,7 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/thematchartist_online_dating_in_a_big_city_4b0a58b8-4619-49be-b129-d8b788733b5c.png
+  image:
   image_alt:
 ---
 # Can You Send Photos on Tinder? Easy Workaround Tips
@@ -166,5 +167,6 @@ The respond feature lets you reply to messages sent by your match. It’s how yo
 [policies.tinder.com](https://policies.tinder.com/security/intl/en/)
 
 [help.tinder.com](https://www.help.tinder.com/hc/en-us/articles/115003359426-Reporting-someone-on-Tinder#:~:text=If%20you%20encounter%20someone%20who's,more%20respectful%20community%20for%20everyone)
+
 
 <br>

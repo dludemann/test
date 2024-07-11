@@ -4,7 +4,9 @@ published: 2024-07-10T15:42:31Z
 name: Oct Blog - 10
 seo:
   title: Can You Send Photos on Bumble?
-  page_description:
+  page_description: >-
+    Find out how to send photos on Bumble with our expert guide. Learn the best
+    photo-sharing techniques for dating apps.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,8 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/typing on computer.jpg
-  image_alt: typing on computer
+  image:
+  image_alt:
 ---
 # Can You Send Photos on Bumble?
 

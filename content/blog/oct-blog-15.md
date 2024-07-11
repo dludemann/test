@@ -4,7 +4,9 @@ published: 2024-07-11T05:55:03Z
 name: Oct Blog - 15
 seo:
   title: How to Be More Photogenic - 9 Secret Tips for Everyone
-  page_description:
+  page_description: >-
+    Find out how to be photogenic with our expert tips. Look better in photos
+    and impress people with your pictures.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article

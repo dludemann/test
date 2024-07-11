@@ -4,7 +4,9 @@ published: 2024-07-10T15:57:14Z
 name: Oct Blog - 11
 seo:
   title: Can You Send Pictures on Hinge?
-  page_description:
+  page_description: >-
+    Learn how to send pictures on Hinge. Find out the best tips for sharing
+    photos on this popular dating app.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,10 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/looking at a photo on the
-    phone.jpg
-  image_alt: looking at a photo on the phone
+  image:
+  image_alt:
 ---
 # Can You Send Pictures on Hinge?
 

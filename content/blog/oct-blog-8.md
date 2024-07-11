@@ -4,7 +4,9 @@ published: 2024-07-10T13:47:26Z
 name: Oct Blog - 8
 seo:
   title: Why Am I Not Photogenic? Tips to Pose Better for Pictures
-  page_description:
+  page_description: >-
+    Learn why some people feel they’re not photogenic and how small changes can
+    make you shine in every photo.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,10 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/images/Missed
-    Images/embeddable_59aa.jpg
-  image_alt: profile photo
+  image:
+  image_alt:
 ---
 # Why Am I Not Photogenic? Tips to Pose Better for Pictures
 
