@@ -6,9 +6,9 @@ seo:
   title: >-
     What Is the Blue Star Next to the Name on Tinder? Understanding Tinder Super
     Like
-  page_description: >
-    What Is the Blue Star Next to the Name on Tinder? Understanding Tinder Super
-    Like
+  page_description: >-
+    Discover what Tinder's Super Like feature means with the blue star icon
+    explained. Boost your dating success by understanding its impact!
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -18,9 +18,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/paul-hanaoka-HbyYFFokvm0-unsplash.jpg
-  image_alt: girl using phone
+  image:
+  image_alt:
 ---
 # What Is the Blue Star Next to the Name on Tinder? Understanding Tinder Super Like
 
@@ -58,6 +57,8 @@ Tinder’s [Super Like feature](https://www.theverge.com/2015/10/1/9431383/tinde
 If you wish to send a Super Like, you can either tap the blue star icon in the bottom section of another user’s profile, or Swipe Up.
 
 Super Likes are a bold move, signifying that the other user has caught your attention beyond the average profile.
+
+![blue star on phone](https://photostma.blob.core.windows.net/web/blue%20star%20on%20phone.jpg)
 
 ### What does the Blue Star Mean on Tinder?
 

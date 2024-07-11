@@ -4,7 +4,9 @@ published: 2024-07-10T07:06:06Z
 name: Tinder Blog
 seo:
   title: 'Gold Heart on Tinder: Find Out What It Is'
-  page_description: 'Gold Heart on Tinder: Find Out What It Is'
+  page_description: >-
+    Explore the meaning of Tinder's Gold Heart with our in-depth analysis.
+    Discover how this feature can boost your matchmaking potential!
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,10 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: >-
-    https://photostma.blob.core.windows.net/web/images/Missed
-    Images/R9AiOlqnSbOIh4V.jpg
-  image_alt: gold heart balloons
+  image:
+  image_alt:
 ---
 # Gold Heart on Tinder: Find Out What It Is
 
@@ -68,6 +68,8 @@ Icons and symbols you may see while using Tinder include:
 * The red dot (new notifications)
 
 You’ll see most of these when you’re in the Discovery screen, but you may also see them in other places in your Tinder feed, eg, the Likes You feed.
+
+![gold heart](https://photostma.blob.core.windows.net/web/gold%20heart.jpg)
 
 ## Unveiling the Tinder Gold Heart
 

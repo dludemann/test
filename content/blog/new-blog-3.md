@@ -4,7 +4,9 @@ published: 2024-07-10T07:20:48Z
 name: Tinder Blog
 seo:
   title: Can You Send Pictures on Tinder? A Comprehensive Guide for 2023
-  page_description: Can You Send Pictures on Tinder? A Comprehensive Guide for 2023
+  page_description: >-
+    Explore our comprehensive guide on sending pictures on Tinder. Learn the
+    dos, don'ts, and safety tips for sharing images effectively.
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -44,6 +46,8 @@ In addition to the basic free version of the app, users also have the option to 
 The Tinder algorithm shows you a number of profiles per day within your location (you can set your location radius in your settings) which it thinks you may be interested in, and can choose to Swipe on. It puts this together based on your “desirability”, activity on the app, and information that you provide when signing up.
 
 You will need a mobile number to sign up for Tinder. This information is held by Tinder to prevent you from signing up for an additional account (which is against their terms of use).
+
+![girl doing selfie](https://photostma.blob.core.windows.net/web/girl%20doing%20selfie.jpg)
 
 ### Workarounds for Sending Pictures on Tinder
 

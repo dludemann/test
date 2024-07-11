@@ -4,7 +4,9 @@ published: 2024-07-10T06:15:24Z
 name: 'Tinder Blog '
 seo:
   title: What You Should 100% NOT Do on Tinder  (16 Tips)
-  page_description: What You Should 100% NOT Do on Tinder (16 Tips)
+  page_description: >-
+    Know the top Tinder mistakes to avoid with The Match Artist's guide. Ensure
+    your dating success by knowing what NOT to do!
   canonical_url:
   author_twitter_handle:
   open_graph_type: article
@@ -14,8 +16,8 @@ tags:
 author:
 summary:
 featuredImg:
-  image: https://photostma.blob.core.windows.net/web/girl using mobile phone.jpg
-  image_alt: girl using mobile phone
+  image:
+  image_alt:
 ---
 # What You Should 100% NOT Do on Tinder (16 Tips)
 
