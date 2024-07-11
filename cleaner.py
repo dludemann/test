@@ -2,8 +2,8 @@ import glob
 import re
 
 # Define the text to be replaced and the replacement text
-old_text = """src: /images/dan-collage.png"""
-new_text = """src: https://photostma.blob.core.windows.net/web/justen collage (1).png"""
+old_text = """text: Improved social media presence"""
+new_text = """text: Find your partner faster"""
 
 # Get all .md files in the directory
 files = glob.glob('./content/*.md')

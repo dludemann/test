@@ -27,7 +27,7 @@ _snippets:
               default: "Get dating profile tips & strategy straight to your inbox."
             - editor_key: cta_text
               type: string
-              default: "Sign-up"
+              default: "Get Online Dating Tools"
             - editor_key: img
               type: string
               default: "https://images.thematchartist.com/images/portfolio/2vwYVfAwRVaRiAn1ksd4.jpg"
@@ -125,7 +125,7 @@ collections_config:
     preview:
       text:
         - key: name
-        - 'Blog Post'
+        - "Blog Post"
       icon:
         - "rss_feed"
       subtext:
