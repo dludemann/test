@@ -191,7 +191,7 @@ const leftRightForm = {
     },
     {
       icon: "/icons/green-tick.svg",
-      text: "Improved social media presence",
+      text: "Find your partner faster",
     },
   ],
   form: {
