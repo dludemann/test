@@ -1,5 +1,37 @@
 <script setup lang="ts">
-import navData from "../data/nav.json";
+import menu from "../data/nav.json";
+
+// @ts-ignore
+const data = await $fetch(
+  "https://thematchartist.com/.netlify/functions/findUserLocation"
+);
+
+const location = data ? JSON.parse(data).message : null;
+const city = location ? location.city : null;
+const currentCities = menu[6].children;
+let navData = menu;
+
+// Check if the current city is in the list of cities
+if (city) {
+  const cityIndex = currentCities.findIndex((c) => c.label === city);
+  console.log("cityIndex", cityIndex);
+  if (cityIndex !== -1) {
+    currentCities?.unshift(currentCities.splice(cityIndex, 1)[0]);
+    currentCities?.push({
+      label: city,
+      link: `/${city.toLowerCase().replace(" ", "-")}-dating-photography`,
+    });
+  } else {
+    currentCities?.push({
+      label: city,
+      link: `/${city.toLowerCase().replace(" ", "-")}-dating-photography`,
+    });
+  }
+}
+
+navData[6].children = currentCities;
+
+console.log(currentCities);
 
 const mobileMenuOpen = ref(false);
 const mobileMenuCategoryOpen = ref<string | null>(null);
@@ -21,8 +53,13 @@ const toggleMobileCategory = (category: string) => {
 </script>
 
 <template>
-  <header class="h-[60px] bg-black flex"
-        :class="mobileMenuOpen ? 'fixed top-0 left-0 right-0 z-50 h-[60px] bg-black' : 'relative' "
+  <header
+    class="h-[60px] bg-black flex"
+    :class="
+      mobileMenuOpen
+        ? 'fixed top-0 left-0 right-0 z-50 h-[60px] bg-black'
+        : 'relative'
+    "
   >
     <div
       class="mx-auto container flex justify-between items-center px-4 font-display left-0 right-0"
@@ -163,9 +200,7 @@ const toggleMobileCategory = (category: string) => {
       </div>
     </div>
   </header>
-  <div class="spacer w-full"
-          :class="mobileMenuOpen ? 'h-[60px]' : 'h-0'"
-  ></div>
+  <div class="spacer w-full" :class="mobileMenuOpen ? 'h-[60px]' : 'h-0'"></div>
 </template>
 
 <style scoped>
