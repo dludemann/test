@@ -2,7 +2,7 @@
 name: Our Team
 seo:
   title: Our Team
-  page_description: Meat the team behind the camera
+  page_description: Meet the team behind the camera
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -24,7 +24,7 @@ content_blocks:
           Match Artist, Shane is also the founder of a software company and a
           popular wedding DJ company. He enjoys piloting his plane and spending
           time with his wife.
-        image: 
+        image:
           src: /images/team/shane-2.jpeg
       - title: Nick Friesen
         subtitle: Founder / Photographer
@@ -34,8 +34,8 @@ content_blocks:
           performance in college and fell in love with portraits and facial
           expression coaching. Outside of coaching guys to look their best in
           photos, he enjoys cooking, playing piano, and spending time with his
-          wife and two dogs. 
-        image: 
+          wife and two dogs.
+        image:
           src: /images/nick-friesen-2.jpeg
       - title: Nate
         subtitle: Photographer
@@ -46,7 +46,7 @@ content_blocks:
           Having explored a widely diverse aspect of the field, he has gained a
           vast understanding of creative dynamics and vision and directing
           fundamentals.
-        image: 
+        image:
           src: /images/nate.jpeg
       - title: Shiloh
         subtitle: Photographer
@@ -55,7 +55,7 @@ content_blocks:
           captured some top celebrities including Christopher Nolan, Seth Rogen,
           Jessica Chastain, and many more. He is based in LA, and in addition to
           photography he also enjoys writing, directing, and acting in films.
-        image: 
+        image:
           src: /images/shiloh-1.jpeg
       - title: Jason
         subtitle: Photographer
@@ -63,7 +63,7 @@ content_blocks:
           Jason has been shooting photos for 20+ years. He has fine-tuned the
           art of natural looking portraits. Originally from California, he
           enjoys yoga, natural health, and playing guitar.
-        image: 
+        image:
           src: /images/jason.jpeg
       - title: Mike
         subtitle: Photographer
@@ -71,8 +71,8 @@ content_blocks:
           Mike is based in NY and has been shooting for 17+ years. He was named
           Time Magazine's community Artist of the Year in 2022 and is an art
           educator in the Web3 space. Outside of shooting street and portrait
-          photos, he's big into hiking, camping, and skating. 
-        image: 
+          photos, he's big into hiking, camping, and skating.
+        image:
           src: /images/team/mike-1.webp
       - title: Mike
         subtitle: Photographer
@@ -81,7 +81,7 @@ content_blocks:
           portraits. In his spare time, he takes killer astrophotography photos,
           travels frequently, and is pretty nerdy about his tech. He also enjoys
           podcasting with his wife, who he met on Tinder.
-        image: 
+        image:
           src: /images/mike-copeland.jpeg
       - title: Marcos
         subtitle: Photographer
@@ -90,8 +90,8 @@ content_blocks:
           photography started as a young child living in the rural Andes of
           Venezuela documenting the world around him. He has since gained 10+
           years of professional experience working as a portrait and fashion
-          photographer. In his spare time, he is a chef for private parties. 
-        image: 
+          photographer. In his spare time, he is a chef for private parties.
+        image:
           src: /images/team/marcos.jpeg
       - title: Robby
         subtitle: Dating Coach
@@ -102,7 +102,7 @@ content_blocks:
           relationships isn't just a profession—it’s a passion. When he’s not
           coaching, you’ll find Robby cooking, spending time at the gym, and
           traveling as much as possible.
-        image: 
+        image:
           src: /images/robby-2-1.jpeg
       - title: Allie
         subtitle: Editor
@@ -111,7 +111,7 @@ content_blocks:
           for maximum matches. She also enjoys helping create new content for
           Match Artist clients. Outside of The Match Artist, she enjoys improv,
           crossword puzzles, and hanging out with her husband and two dogs.
-        image: 
+        image:
           src: /images/team/allie.jpeg
   - _bookshop_name: markdown-block
     pre_title:
