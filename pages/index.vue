@@ -58,7 +58,7 @@ const toggleFAQ = (index) => {
 };
 
 // HERO IMAGE
-const heroImage = "https://tma.imgix.net/images/IMG_7532.jpg";
+const heroImage = "https://images.thematchartist.com/images/tinder-dating-profile.jpg";
 
 // PHOTOSHOOT GALLERY
 const imageGallery = [
@@ -74,7 +74,7 @@ const imageGallery = [
 
 // GO ON BETTER DATES
 const captureSparkImage =
-  "https://images.thematchartist.com/images/team/marcos.jpeg";
+  "https://images.thematchartist.com/images/match-artist-photographer.jpg";
 const bestAngleImage = "/images/home/best-angle.jpg";
 const personalizedImage = "/images/home/photoshoot.jpg";
 
