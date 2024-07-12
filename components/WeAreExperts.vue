@@ -20,7 +20,7 @@
         profile.
       </p>
 
-      <nuxt-link to="/online-dating-photographer-near-me">
+      <a href="#contact">
         <button
           class="flex bg-[#990800] w-full justify-center py-[12px] px-[24px] text-white font-bold mt-4 mx-auto max-w-[200px] items-center gap-4"
         >
@@ -39,7 +39,7 @@
 
           BOOK A CALL
         </button>
-      </nuxt-link>
+      </a>
     </section>
   </section>
 </template>

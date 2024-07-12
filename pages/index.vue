@@ -58,19 +58,8 @@ const toggleFAQ = (index) => {
 };
 
 // HERO IMAGE
-const heroImage = "https://images.thematchartist.com/images/tinder-dating-profile.jpg";
-
-// PHOTOSHOOT GALLERY
-const imageGallery = [
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/B1SA4NkdS0Cpy7IFiVDg",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/HhU2KMp1SCUqjVhNYJLh",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/nl8YryHR0i6jtCN30aXu",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/020He5ERtqeAbMYlBpQv",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/D4lEJp8YR42UuTukczZ7",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/7O3jGwHzSBagWDhfrsnT",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/kbYGMLBnRWmky45BrH7w",
-  "https://cdn.buttercms.com/resize=width:350,height:500/output=format:webp,quality:90/compress/CI7V5pHQoOkXjboOs6ze",
-];
+const heroImage =
+  "https://images.thematchartist.com/images/tinder-dating-profile.jpg";
 
 // GO ON BETTER DATES
 const captureSparkImage =
@@ -716,7 +705,7 @@ const leftRightForm = {
               class="object-cover h-full w-full"
             />
           </div>
-          <div class="flex flex-col-reverse justify-center">
+          <div class="flex flex-col justify-center">
             <div class="text-heading-h2">
               Insecure About Your Looks But Want to Attract Women
             </div>
