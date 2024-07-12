@@ -15,13 +15,7 @@ let navData = menu;
 if (city) {
   const cityIndex = currentCities.findIndex((c) => c.label === city);
   console.log("cityIndex", cityIndex);
-  if (cityIndex !== -1) {
-    currentCities?.unshift(currentCities.splice(cityIndex, 1)[0]);
-    currentCities?.push({
-      label: city,
-      link: `/${city.toLowerCase().replace(" ", "-")}-dating-photography`,
-    });
-  } else {
+  if (cityIndex === -1) {
     currentCities?.push({
       label: city,
       link: `/${city.toLowerCase().replace(" ", "-")}-dating-photography`,
