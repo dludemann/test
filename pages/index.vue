@@ -1,14 +1,25 @@
 <script setup>
+import { onMounted, reactive, ref } from "vue";
+
 // ==========================================================
 // CITY
 // ==========================================================
-const data = await $fetch(
-  "https://thematchartist.com/.netlify/functions/findUserLocation"
-);
+const city = ref("Austin");
+const state = ref("TX");
 
-const location = data ? JSON.parse(data).message : null;
-const city = location ? location.city : "Austin";
-const state = location ? location.state : "TX";
+onMounted(async () => {
+  try {
+    const data = await $fetch(
+      "https://thematchartist.com/.netlify/functions/findUserLocation"
+    );
+
+    const location = data ? JSON.parse(data).message : null;
+    city.value = location ? location.city : "Austin";
+    state.value = location ? location.state : "TX";
+  } catch (error) {
+    console.error("Failed to fetch location:", error);
+  }
+});
 // ==========================================================
 // EDIT BELOW HERE
 // ==========================================================
