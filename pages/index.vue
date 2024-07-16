@@ -14,6 +14,7 @@ onMounted(async () => {
     );
 
     const location = data ? JSON.parse(data).message : null;
+
     city.value = location ? location.city : "Austin";
     state.value = location ? location.state : "TX";
   } catch (error) {
@@ -173,7 +174,7 @@ const imageBlock = {
   },
 };
 
-const leftRightForm = {
+const leftRightForm = computed(() => ({
   _bookshop_name: "LeftRightForm",
   background_color: "#090303",
   text_color: "#000000",
@@ -200,7 +201,7 @@ const leftRightForm = {
     city: city.value,
     state,
   },
-};
+}));
 </script>
 <template>
   <NuxtLayout>
@@ -912,14 +913,18 @@ const leftRightForm = {
         </div>
 
         <div class="w-full divide-y">
-          <div v-for="(faq, index) in faqs" :key="index" class="py-4">
+          <div
+            v-for="(faq, index) in faqs"
+            :key="index"
+            class="py-4 cursor-pointer"
+            @click="toggleFAQ(index)"
+          >
             <div class="flex justify-between items-start">
               <h3 class="font-bold font-accent text-white text-[16px]">
                 {{ faq.question }}
               </h3>
               <div
                 class="border h-8 w-8 cursor-pointer border-white rounded-full flex items-center justify-center flex-shrink-0"
-                @click="toggleFAQ(index)"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
