@@ -119,6 +119,7 @@ export default defineNuxtConfig({
       failOnError: false,
     },
   },
+
   components: {
     global: true,
     dirs: ["~/components"],

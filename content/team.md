@@ -120,7 +120,7 @@ content_blocks:
       - text: |-
           &nbsp;
 
-          ![](https://images.thematchartist.com/web/team-photo.jpg)
+          ![](https://images.thematchartist.com/tma-team-in-miami.jpg?h=1600&fit=clip&fm=webp)
         inline_image:
         flipped: false
   - _bookshop_name: social-banner
