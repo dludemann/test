@@ -11,21 +11,23 @@ const route = useRoute();
 const router = useRouter();
 const config = useRuntimeConfig();
 
-// Check for Query Params source
-if (route.query.source) {
-  const source = route.query.source;
+console.log("route", route);
 
-  // Set cookie
-  const d = new Date();
-  d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
-  let expires = "expires=" + d.toUTCString();
-  const sourceCookie = useCookie("source-cookie");
-  sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
+if (route.name === "referral") {
+  // Check for Query Params source
+  if (route.query.source) {
+    const source = route.query.source;
 
-  console.log("source", source);
+    // Set cookie
+    const d = new Date();
+    d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
+    let expires = "expires=" + d.toUTCString();
+    const sourceCookie = useCookie("source-cookie");
+    sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
 
-  // Reset Query Params
-  router.replace({ query: null });
+    // Reset Query Params
+    router.replace({ path: "/" });
+  }
 }
 
 onMounted(() => {
