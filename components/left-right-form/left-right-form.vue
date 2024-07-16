@@ -8,7 +8,7 @@ export default {
       );
       return {
         main: "Professional Dating Photography",
-        cityState: cityState || "",
+        cityState: cityState || "Austin, TX",
       };
     },
   },
