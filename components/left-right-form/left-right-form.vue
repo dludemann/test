@@ -34,8 +34,8 @@ export default {
         <div class="font-bold text-[2.2rem] text-[3.125rem]">
           <h2>
             {{ titleParts.main }}
-            <span>{{ titleParts.cityState }}</span>
           </h2>
+          <span>in {{ titleParts.cityState }}</span>
         </div>
         <div class="bg-primary-500 w-[120px] h-[10px] my-4" />
         <p class="text-20px">
