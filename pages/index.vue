@@ -177,7 +177,7 @@ const leftRightForm = {
   _bookshop_name: "LeftRightForm",
   background_color: "#090303",
   text_color: "#000000",
-  title: `Professional Dating Photography in ${city}, ${state}`,
+  title: `Professional Dating Photography in ${city.value}, ${state.value}`,
   description:
     "We tailor your photo experience with us to highlight things you enjoy doing most. Whether it's kayaking, rock climbing, reading, or drinking coffee, you'll get more matches with a varied profile filled with your talents.",
   list: [
@@ -197,7 +197,7 @@ const leftRightForm = {
   form: {
     title: "Inquire Now",
     city_input: false,
-    city,
+    city: city.value,
     state,
   },
 };
