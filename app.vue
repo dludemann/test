@@ -11,21 +11,21 @@ const route = useRoute();
 const router = useRouter();
 const config = useRuntimeConfig();
 
-// if (route.query.source) {
-//   console.log("redirecting", route);
-//   // const source = route.query.source;
+if (route.query.source) {
+  console.log("redirecting", route);
+  const source = route.query.source;
 
-//   // // Set cookie
-//   // const d = new Date();
-//   // d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
-//   // let expires = "expires=" + d.toUTCString();
-//   // const sourceCookie = useCookie("source-cookie");
-//   // sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
+  // Set cookie
+  const d = new Date();
+  d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
+  let expires = "expires=" + d.toUTCString();
+  const sourceCookie = useCookie("source-cookie");
+  sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
 
-//   // console.log("route", route);
-//   // Reset Query Params
-//   router.push({ path: route.path });
-// }
+  console.log("route", route);
+  // Reset Query Params
+  router.push({ path: route.path });
+}
 onMounted(() => {
   let plausible = document.createElement("script");
   plausible.setAttribute("src", "https://plausible.io/js/script.js");
