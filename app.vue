@@ -21,8 +21,9 @@ if (route.query.source) {
   const sourceCookie = useCookie("source-cookie");
   sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
 
+  console.log("route", route);
   // Reset Query Params
-  router.replace({ path: route.path });
+  router.push({ path: route.path });
 }
 onMounted(() => {
   let plausible = document.createElement("script");
