@@ -22,7 +22,6 @@ export default defineNuxtRouteMiddleware((to, from) => {
     const nextPath = path.replace(/\/+$/, "") || "/";
     const nextRoute = { path: nextPath, query, hash };
     return navigateTo(nextRoute, { redirectCode: 301 });
-    return;
   }
 
   //   if (to.path === "/") {

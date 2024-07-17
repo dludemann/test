@@ -136,4 +136,5 @@ export default defineNuxtConfig({
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ["@/assets/style/main.scss", "@/assets/css/editor.css"],
   telemetry: false,
+  mode: "universal",
 });
