@@ -57,8 +57,6 @@ export default {
     },
   },
   mounted() {
-    console.log("this.formData", this.props);
-
     // Lee: add captcha script tag
     let captcha = document.createElement("script");
     captcha.setAttribute(

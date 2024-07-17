@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { ref } from "vue";
 import menu from "../data/nav.json";
 
 // @ts-ignore
@@ -14,7 +15,6 @@ let navData = menu;
 // Check if the current city is in the list of cities
 if (city) {
   const cityIndex = currentCities.findIndex((c) => c.label === city);
-  console.log("cityIndex", cityIndex);
   if (cityIndex === -1) {
     currentCities?.push({
       label: city,
@@ -24,8 +24,6 @@ if (city) {
 }
 
 navData[6].children = currentCities;
-
-console.log(currentCities);
 
 const mobileMenuOpen = ref(false);
 const mobileMenuCategoryOpen = ref<string | null>(null);

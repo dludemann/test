@@ -77,7 +77,10 @@ const handleSubmit = async () => {
   });
 };
 
-const nav_links = (hover) => `text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left ${hover ? 'hover:text-primary-700' : ''}`;
+const nav_links = (hover) =>
+  `text-white text-[16px] leading-[120%] font-medium tracking-[-0.32px] font-display py-1 flex gap-2 items-center justify-center lg:justify-start text-center lg:text-left ${
+    hover ? "hover:text-primary-700" : ""
+  }`;
 </script>
 
 <template>
@@ -147,10 +150,16 @@ const nav_links = (hover) => `text-white text-[16px] leading-[120%] font-medium 
               title="Locations"
               >Locations</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/how-it-works" :class="nav_links(true)"
+            <nuxt-link
+              rel="canonical"
+              to="/how-it-works"
+              :class="nav_links(true)"
               >How it Works</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/photos-for-women" :class="nav_links(true)"
+            <nuxt-link
+              rel="canonical"
+              to="/photos-for-women"
+              :class="nav_links(true)"
               >For Women</nuxt-link
             >
             <nuxt-link
@@ -159,7 +168,10 @@ const nav_links = (hover) => `text-white text-[16px] leading-[120%] font-medium 
               :class="nav_links(true)"
               >Book a Spot</nuxt-link
             >
-            <nuxt-link rel="canonical" to="/case-studies" :class="nav_links(true)"
+            <nuxt-link
+              rel="canonical"
+              to="/case-studies"
+              :class="nav_links(true)"
               >Case Studies</nuxt-link
             >
             <nuxt-link rel="canonical" to="/press" :class="nav_links(true)"
@@ -264,7 +276,6 @@ const nav_links = (hover) => `text-white text-[16px] leading-[120%] font-medium 
           <div v-if="!subscribed">
             <form
               class="drip-form flex flex-col gap-4"
-              :class="`plausible-event-name=${newsletterPlausible}`"
               id="dating-tool-capture"
               @submit.prevent="handleSubmit"
               ref="newsletterForm"

@@ -11,7 +11,6 @@
           ref="newsletterForm"
           @submit.prevent="handleSubmit"
           class="newsletter-signup"
-          :class="`plausible-event-name=${newsletterPlausible}`"
           id="dating-tool-capture"
         >
           <input

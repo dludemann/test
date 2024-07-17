@@ -11,25 +11,19 @@ const route = useRoute();
 const router = useRouter();
 const config = useRuntimeConfig();
 
-console.log("route", route);
+if (route.query.source) {
+  const source = route.query.source;
 
-if (route.name === "referral") {
-  // Check for Query Params source
-  if (route.query.source) {
-    const source = route.query.source;
+  // Set cookie
+  const d = new Date();
+  d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
+  let expires = "expires=" + d.toUTCString();
+  const sourceCookie = useCookie("source-cookie");
+  sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
 
-    // Set cookie
-    const d = new Date();
-    d.setTime(d.getTime() + 30 * 24 * 60 * 60 * 1000);
-    let expires = "expires=" + d.toUTCString();
-    const sourceCookie = useCookie("source-cookie");
-    sourceCookie.value = "source=" + source + ";" + expires + ";path=/";
-
-    // Reset Query Params
-    router.replace({ path: "/" });
-  }
+  // Reset Query Params
+  router.replace({ path: route.path });
 }
-
 onMounted(() => {
   let plausible = document.createElement("script");
   plausible.setAttribute("src", "https://plausible.io/js/script.js");
